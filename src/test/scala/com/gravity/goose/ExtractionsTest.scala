@@ -22,6 +22,28 @@ class ExtractionsTest {
   }
 
   @Test
+  def fortune1(): Unit ={
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("fortune1.txt")
+    val url = "http://fortune.com/2016/04/14/gamestop-ceo-ransformation-games/"
+    val article = TestUtils.getArticle(url = url, rawHTML = html)
+    val title = "GameStop CEO Paul Raines Talks Gaming Retail Transformation"
+    val content = "By 2019, half of GameStop’s revenues will come from businesses beyond physical games."
+    TestUtils.runArticleAssertions(article = article, expectedTitle = title, expectedStart = content)
+  }
+
+  @Test
+  def bloomberg1(): Unit ={
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("bloomberg1.txt")
+    val url = "http://www.bloomberg.com/news/articles/2016-05-10/bearish-grantham-admits-major-error-being-bullish-on-metals"
+    val article = TestUtils.getArticle(url = url, rawHTML = html)
+    val title = "Bearish Grantham Admits `Major Error' Being Bullish on Metals"
+    val content = "Jeremy Grantham, best known for spotting bubbles in equity markets, said he missed the one in metals."
+    TestUtils.runArticleAssertions(article = article, expectedTitle = title, expectedStart = content)
+  }
+
+  @Test
   def cnn1() {
     implicit val config = TestUtils.NO_IMAGE_CONFIG
     val html = getHtml("cnn1.txt")
