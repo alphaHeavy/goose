@@ -21,6 +21,7 @@ import java.util.Date
 import javax.xml.datatype.DatatypeFactory
 
 import com.gravity.goose.utils.Logging
+import org.joda.time.format.{DateTimeFormat, DateTimeFormatterBuilder, DateTimeParser, ISODateTimeFormat}
 import org.jsoup.nodes.Element
 
 /**
@@ -66,7 +67,13 @@ object PublishDateExtractor extends Logging {
       return None
 
     try {
-      Option(datatypeFactory.newXMLGregorianCalendar(txt).toGregorianCalendar.getTime)
+      val iso8601format1 = ISODateTimeFormat.basicDateTime()
+      val iso8601format2 = ISODateTimeFormat.basicDateTimeNoMillis()
+      val iso8601format3 = ISODateTimeFormat.dateTimeNoMillis()
+      val date1 = DateTimeFormat.forPattern("yyyy-MM-dd'T'HH:mm:ssZ")
+      val parser = new DateTimeFormatterBuilder().append(null, Array(iso8601format1.getParser,
+        iso8601format2.getParser,iso8601format3.getParser, date1.getParser)).toFormatter
+      Option(parser.parseDateTime(txt)).map(x=>x.toDate)
     } catch {
       case ex: Exception =>
         info(s"`$txt` could not be parsed to date as it did not meet the ISO 8601 spec")
