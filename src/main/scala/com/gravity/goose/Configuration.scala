@@ -92,7 +92,9 @@ class Configuration {
     }
 
     final val pubSelectors = Seq(
-      "meta[property~=article:published_time]"
+      "meta[property~=article:published_time]",
+      "meta[name=date]",
+      "meta[name=parsely-pub-date]"
     )
 
     final val modSelectors = Seq(
