@@ -129,42 +129,49 @@ trait DocumentCleaner {
   }
 
   private def cleanBadTags(doc: Document): Document = {
-    val children: Elements = doc.body.children
-    val naughtyList: Elements = children.select(queryNaughtyIDs)
-    trace(naughtyList.size + " naughty ID elements found")
+    val body = doc.body
+    if(body eq null)
+      {
+        doc
+      }
+    else {
+      val children: Elements = doc.body.children
+      val naughtyList: Elements = children.select(queryNaughtyIDs)
+      trace(naughtyList.size + " naughty ID elements found")
 
-    import scala.collection.JavaConversions._
-    for (node <- naughtyList) {
-      trace("Removing node with id: " + node.id)
-      removeNode(node)
+      import scala.collection.JavaConversions._
+      for (node <- naughtyList) {
+        trace("Removing node with id: " + node.id)
+        removeNode(node)
+      }
+
+      val naughtyList2: Elements = children.select(queryNaughtyIDs)
+      trace(naughtyList2.size + " naughty ID elements found after removal")
+
+      val naughtyClasses: Elements = children.select(queryNaughtyClasses)
+
+      trace(naughtyClasses.size + " naughty CLASS elements found")
+
+      for (node <- naughtyClasses) {
+        trace("Removing node with class: " + node.className)
+        removeNode(node)
+      }
+
+      val naughtyClasses2: Elements = children.select(queryNaughtyClasses)
+      trace(naughtyClasses2.size + " naughty CLASS elements found after removal")
+
+      val naughtyList5: Elements = children.select(queryNaughtyNames)
+
+      trace(naughtyList5.size + " naughty Name elements found")
+
+      for (node <- naughtyList5) {
+
+        trace("Removing node with class: " + node.attr("class") + " id: " + node.id + " name: " + node.attr("name"))
+
+        removeNode(node)
+      }
+      doc
     }
-
-    val naughtyList2: Elements = children.select(queryNaughtyIDs)
-    trace(naughtyList2.size + " naughty ID elements found after removal")
-
-    val naughtyClasses: Elements = children.select(queryNaughtyClasses)
-
-    trace(naughtyClasses.size + " naughty CLASS elements found")
-
-    for (node <- naughtyClasses) {
-      trace("Removing node with class: " + node.className)
-      removeNode(node)
-    }
-
-    val naughtyClasses2: Elements = children.select(queryNaughtyClasses)
-    trace(naughtyClasses2.size + " naughty CLASS elements found after removal")
-
-    val naughtyList5: Elements = children.select(queryNaughtyNames)
-
-    trace(naughtyList5.size + " naughty Name elements found")
-
-    for (node <- naughtyList5) {
-
-      trace("Removing node with class: " + node.attr("class") + " id: " + node.id + " name: " + node.attr("name"))
-
-      removeNode(node)
-    }
-    doc
   }
 
 

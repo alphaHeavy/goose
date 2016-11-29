@@ -393,5 +393,15 @@ class ExtractionsTest {
       expectedImage = null)
   }
 
-
+  @Test
+  def nyt1(): Unit ={
+    // No Body
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("nyt1.txt")
+    val url: String = "http://www.nytimes.com/packages/khtml/2004/03/04/washington/20040304_BLACKMUN_FEATURE.html"
+    val article = TestUtils.getArticle(url, html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = null,
+      expectedImage = null)
+  }
 }
