@@ -28,7 +28,7 @@ class ExtractionsTest {
     val url = "http://fortune.com/2016/04/14/gamestop-ceo-ransformation-games/"
     val article = TestUtils.getArticle(url = url, rawHTML = html)
     val title = "GameStop CEO Paul Raines Talks Gaming Retail Transformation"
-    val content = "By 2019, half of GameStop’s revenues will come from businesses beyond physical games."
+    val content = "GameStop gme has built a $1 billion digital business, and its"
     TestUtils.runArticleAssertions(article = article, expectedTitle = title, expectedStart = content)
   }
 
