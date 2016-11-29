@@ -74,7 +74,7 @@ class Article {
 
 
   /**
-  * holds a set of tags that may have been in the artcle, these are not meta keywords
+  * holds a set of tags that may have been in the article, these are not meta keywords
   */
   var tags: Set[String] = null
 
