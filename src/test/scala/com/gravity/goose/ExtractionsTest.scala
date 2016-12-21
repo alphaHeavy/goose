@@ -367,6 +367,28 @@ class ExtractionsTest {
 
   }
 
+  @Test
+  def stocksdaily() {
+    val url = "http://www.stocksdaily.net/lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash/136092/"
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("stocksdaily.txt")
+    val article = TestUtils.getArticle(url, html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Lam Research Corporation (NASDAQ:LRCX) had beginning cash of $1501.539 ")
+    assert(article.publishDate != null)
+  }
+
+ /* @Test
+  def theatlantic1() {
+    val url = "http://www.theatlantic.com/entertainment/archive/2014/12/how-a-rap-god-lost-his-powers/383571/"
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("theatlantic1.txt")
+    val article = TestUtils.getArticle(url, html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Did you hear that")
+    assert(article.publishDate != null)
+  }*/
+
   /*
   * --------------------------------------------------------
   * Test Fixes for GitHub Issues Submitted
@@ -426,4 +448,30 @@ class ExtractionsTest {
       expectedStart = null,
       expectedImage = null)
   }
+
+  @Test
+  def cleveland1(): Unit ={
+    // ld script
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("cleveland1.txt")
+    val url: String = "http://www.cleveland.com/parma/index.ssf/2016/11/residents_will_vote_on_a_numbe.html"
+    val article = TestUtils.getArticle(url, html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = null,
+      expectedImage = null)
+    assertNotNull(article.publishDate)
+  }
+
+  /*@Test
+  def blogger1(): Unit ={
+    // ld script
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("blogger1.txt")
+    val url: String = "http://fat-pitch.blogspot.com/2013/09/what-does-small-cap-outperformance-tell.html"
+    val article = TestUtils.getArticle(url, html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "For good reason, investors are looking at the performance of the Russell 2000 (RUT).",
+      expectedImage = null)
+    assertNotNull(article.publishDate)
+  }*/
 }

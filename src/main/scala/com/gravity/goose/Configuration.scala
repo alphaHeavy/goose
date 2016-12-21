@@ -21,6 +21,8 @@ package com.gravity.goose
 import network.{HtmlFetcher, AbstractHtmlFetcher}
 import org.jsoup.nodes.Element
 import java.util.Date
+import org.json4s._
+import org.json4s.native.JsonMethods._
 import scala.beans.BeanProperty
 import com.gravity.goose.extractors.{StandardContentExtractor, ContentExtractor, AdditionalDataExtractor, PublishDateExtractor}
 
@@ -83,7 +85,25 @@ class Configuration {
       import scala.collection.JavaConversions._
 
       try {
-        rootElement.select(selector).flatMap(item => safeParseISO8601Date(item.attr("content")))
+        rootElement.select(selector).flatMap(item => {
+          if (item.nodeName() == "time") {
+            safeParseISO8601Date(item.attr("datetime"))
+          }
+          else if(item.nodeName() == "abbr")
+          {
+            safeParseISO8601Date(item.attr("title"))
+          }
+          else if(item.nodeName() == "script")
+          {
+            val json = parse(item.html,false)
+            val dateCreated = json \ "dateCreated"
+            safeParseISO8601Date(dateCreated.asInstanceOf[JString].s)
+          }
+          else {
+            safeParseISO8601Date(item.attr("content"))
+          }
+        }
+        )
       }
       catch {
         case e: Exception =>
@@ -94,11 +114,19 @@ class Configuration {
     final val pubSelectors = Seq(
       "meta[property~=article:published_time]",
       "meta[name=date]",
-      "meta[name=parsely-pub-date]"
+      "meta[name=parsely-pub-date]",
+      "time",
+      "meta[itemprop=datePublished]",
+      "meta[name=dcterms.date]",
+      "meta[property=tout:article:pubdate]",
+      "meta[name=sailthru.date]",
+      "script[type=application/ld+json]",
+      "abbr[itemprop=datePublished]"
     )
 
     final val modSelectors = Seq(
       "meta[property~=article:modified_time]",
+      "meta[itemprop=dateModified]",
       "meta[property~=og:updated_time]"
     )
 

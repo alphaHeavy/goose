@@ -74,9 +74,10 @@ object PublishDateExtractor extends Logging {
       val date2 = DateTimeFormat.forPattern("yyyy-MM-dd HH:mm:ss Z")
       val date3 = DateTimeFormat.forPattern("yyyy-MM-dd'T'HH:mmZ")
       val date4 = DateTimeFormat.forPattern("yyyy-MM-dd'T'HH:mm:ss.SSSZ")
+      val date5 = DateTimeFormat.forPattern("yyyy-MM-dd HH:mm:ss:Z")
       val parser = new DateTimeFormatterBuilder().append(null, Array(iso8601format1.getParser,
         iso8601format2.getParser,iso8601format3.getParser, date1.getParser, date2.getParser, date3.getParser,
-        date4.getParser)).toFormatter
+        date4.getParser,date5.getParser)).toFormatter
       Option(parser.parseDateTime(txt)).map(x=>x.toDate)
     } catch {
       case ex: Exception =>
