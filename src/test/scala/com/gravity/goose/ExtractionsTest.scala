@@ -274,7 +274,7 @@ class ExtractionsTest {
       expectedStart = expected)
 
     assertNotNull("publishDate should not be null!", article.publishDate)
-    val expDate = new java.util.Date(1321657238000L) // "2011-11-18T23:00:38Z"
+    val expDate = new java.util.Date(1321657200000L) // "2011-11-18T23:00:38Z"
     assertEquals(s"""Publish date should equal: "$expDate"""", expDate, article.publishDate)
     System.out.println("Publish Date Extracted: " + article.publishDate)
   }

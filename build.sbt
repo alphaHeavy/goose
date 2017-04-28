@@ -21,8 +21,8 @@ libraryDependencies ++=
     "org.apache.httpcomponents" % "httpclient" % "4.1.3" ::
     "commons-lang" % "commons-lang" % "2.6" ::
     "joda-time" % "joda-time" % "2.9.6" ::
-    "com.fasterxml.jackson.core" % "jackson-core" % "2.4.4" ::
-    "com.fasterxml.jackson.core" % "jackson-databind" % "2.4.4" ::
+    "com.fasterxml.jackson.core" % "jackson-core" % "2.6.6" ::
+    "com.fasterxml.jackson.core" % "jackson-databind" % "2.6.6" ::
     "org.json4s" %% "json4s-native" % "3.5.0" ::
     Nil
 
