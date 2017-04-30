@@ -66,7 +66,7 @@ trait ContentExtractor {
       var titleText: String = titleElem.first.text
       if (string.isNullOrEmpty(titleText)) return string.empty
       var usedDelimeter: Boolean = false
-      if (titleText.contains("|")) {
+      if (titleText.contains("|") && titleText.length > 1) {
         titleText = doTitleSplits(titleText, PIPE_SPLITTER)
         usedDelimeter = true
       }

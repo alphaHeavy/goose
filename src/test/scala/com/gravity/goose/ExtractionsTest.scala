@@ -462,6 +462,14 @@ class ExtractionsTest {
     assertNotNull(article.publishDate)
   }
 
+  @Test
+  def titleArrayOutOfBounds(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("titleArrayOutOfBounds.txt")
+    val url: String = "http://mightycleanhome.com/173/"
+    val article = TestUtils.getArticle(url, html)
+  }
+
   /*@Test
   def blogger1(): Unit ={
     // ld script
