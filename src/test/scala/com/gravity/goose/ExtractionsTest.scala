@@ -468,6 +468,10 @@ class ExtractionsTest {
     val html = getHtml("titleArrayOutOfBounds.txt")
     val url: String = "http://mightycleanhome.com/173/"
     val article = TestUtils.getArticle(url, html)
+
+    val html2 = getHtml("titleArrayOutOfBounds2.txt")
+    val url2: String = "http://www.aseguratuventa.com/index.php?a=2&b=17624&utm_source=twitterfeed&utm_medium=twitter"
+    val article2 = TestUtils.getArticle(url2, html2)
   }
 
   /*@Test
