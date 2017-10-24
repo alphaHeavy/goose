@@ -28,7 +28,7 @@ class ExtractionsTest {
     val url = "http://fortune.com/2016/04/14/gamestop-ceo-ransformation-games/"
     val article = TestUtils.getArticle(url = url, rawHTML = html)
     val title = "GameStop CEO Paul Raines Talks Gaming Retail Transformation"
-    val content = "By 2019, half of GameStop’s revenues will come from businesses beyond physical games."
+    val content = "GameStop gme has built a $1 billion digital business, and its"
     TestUtils.runArticleAssertions(article = article, expectedTitle = title, expectedStart = content)
   }
 
@@ -274,7 +274,7 @@ class ExtractionsTest {
       expectedStart = expected)
 
     assertNotNull("publishDate should not be null!", article.publishDate)
-    val expDate = new java.util.Date(1321657238000L) // "2011-11-18T23:00:38Z"
+    val expDate = new java.util.Date(1321657200000L) // "2011-11-18T23:00:38Z"
     assertEquals(s"""Publish date should equal: "$expDate"""", expDate, article.publishDate)
     System.out.println("Publish Date Extracted: " + article.publishDate)
   }
@@ -367,6 +367,28 @@ class ExtractionsTest {
 
   }
 
+  @Test
+  def stocksdaily() {
+    val url = "http://www.stocksdaily.net/lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash/136092/"
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("stocksdaily.txt")
+    val article = TestUtils.getArticle(url, html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Lam Research Corporation (NASDAQ:LRCX) had beginning cash of $1501.539 ")
+    assert(article.publishDate != null)
+  }
+
+ /* @Test
+  def theatlantic1() {
+    val url = "http://www.theatlantic.com/entertainment/archive/2014/12/how-a-rap-god-lost-his-powers/383571/"
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("theatlantic1.txt")
+    val article = TestUtils.getArticle(url, html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Did you hear that")
+    assert(article.publishDate != null)
+  }*/
+
   /*
   * --------------------------------------------------------
   * Test Fixes for GitHub Issues Submitted
@@ -415,5 +437,53 @@ class ExtractionsTest {
       expectedImage = null)
   }
 
+  @Test
+  def nyt1(): Unit ={
+    // No Body
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("nyt1.txt")
+    val url: String = "http://www.nytimes.com/packages/khtml/2004/03/04/washington/20040304_BLACKMUN_FEATURE.html"
+    val article = TestUtils.getArticle(url, html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = null,
+      expectedImage = null)
+  }
 
+  @Test
+  def cleveland1(): Unit ={
+    // ld script
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("cleveland1.txt")
+    val url: String = "http://www.cleveland.com/parma/index.ssf/2016/11/residents_will_vote_on_a_numbe.html"
+    val article = TestUtils.getArticle(url, html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = null,
+      expectedImage = null)
+    assertNotNull(article.publishDate)
+  }
+
+  @Test
+  def titleArrayOutOfBounds(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("titleArrayOutOfBounds.txt")
+    val url: String = "http://mightycleanhome.com/173/"
+    val article = TestUtils.getArticle(url, html)
+
+    val html2 = getHtml("titleArrayOutOfBounds2.txt")
+    val url2: String = "http://www.aseguratuventa.com/index.php?a=2&b=17624&utm_source=twitterfeed&utm_medium=twitter"
+    val article2 = TestUtils.getArticle(url2, html2)
+  }
+
+  /*@Test
+  def blogger1(): Unit ={
+    // ld script
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("blogger1.txt")
+    val url: String = "http://fat-pitch.blogspot.com/2013/09/what-does-small-cap-outperformance-tell.html"
+    val article = TestUtils.getArticle(url, html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "For good reason, investors are looking at the performance of the Russell 2000 (RUT).",
+      expectedImage = null)
+    assertNotNull(article.publishDate)
+  }*/
 }

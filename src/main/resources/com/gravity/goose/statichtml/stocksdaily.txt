@@ -1,0 +1,1066 @@
+
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+    <title>Lam Research Corporation (NASDAQ:LRCX) Held $6827.934 In Short-Term Investments/Cash | Stocks Daily</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="http://www.stocksdaily.net/xmlrpc.php" />
+
+<!-- Start PushCrew Asynchronous Code -->
+<script type='text/javascript'>
+(function(p,u,s,h) {
+    p._pcq = p._pcq || [];
+    p._pcq.push(['_currentTime', Date.now()]);
+    s = u.createElement('script'); s.type = 'text/javascript'; s.async = true;
+    s.src = 'https://cdn.pushcrew.com/js/85c890a6817dc678b6210b4053b0b8dd.js';
+    h = u.getElementsByTagName('script')[0]; h.parentNode.insertBefore(s, h);
+})(window,document);
+</script>
+<!-- End PushCrew Asynchronous Code -->
+<meta name="author" content="Stocks Daily Staff">
+
+<!-- All in One SEO Pack 2.2.7.1 by Michael Torbert of Semper Fi Web Design[213,319] -->
+<meta name="description" itemprop="description" content="Lam Research Corporation (NASDAQ:LRCX) had beginning cash of $1501.539 millions for the year ended 2016-06-30. For the quarter ended 2016-06-30, beginning cash" />
+
+<link rel="canonical" href="http://www.stocksdaily.net/lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash/136092/" />
+<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Stocks Daily &raquo; Feed" href="http://www.stocksdaily.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Stocks Daily &raquo; Comments Feed" href="http://www.stocksdaily.net/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Stocks Daily &raquo; Lam Research Corporation (NASDAQ:LRCX) Held $6827.934 In Short-Term Investments/Cash Comments Feed" href="http://www.stocksdaily.net/lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash/136092/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.stocksdaily.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.10"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.stocksdaily.net/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=4.6.93' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='google_font_open_sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&#038;ver=4.2.10' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_roboto_cond-css'  href='http://fonts.googleapis.com/css?family=Roboto+Condensed%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700&#038;ver=4.2.10' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://www.stocksdaily.net/wp-content/plugins/js_composer/assets/css/js_composer.css?ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='http://www.stocksdaily.net/wp-content/themes/Newsmag/style.css?ver=2.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.stocksdaily.net/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.stocksdaily.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.stocksdaily.net/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.93'></script>
+<script type='text/javascript' src='http://www.stocksdaily.net/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.6.93'></script>
+<script type='text/javascript' id="omapi-script" src='//a.optnmnstr.com/app/js/api.min.js?ver=1.1.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.stocksdaily.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.stocksdaily.net/wp-includes/wlwmanifest.xml" />
+<link rel='prev' title='WesBanco, Inc. (NASDAQ:WSBC) Held $86.685 In Short-Term Investments/Cash' href='http://www.stocksdaily.net/wesbanco-inc-nasdaqwsbc-held-86-685-in-short-term-investmentscash/136091/' />
+<link rel='next' title='United Online, Inc. (NASDAQ:UNTD) Held $104.832 In Short-Term Investments/Cash' href='http://www.stocksdaily.net/united-online-inc-nasdaquntd-held-104-832-in-short-term-investmentscash/136093/' />
+<meta name="generator" content="WordPress 4.2.10" />
+<link rel='shortlink' href='http://www.stocksdaily.net/?p=136092' />
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+
+					var content = "";
+
+					data = {};
+
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = 'd254b48eac';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://www.stocksdaily.net/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;
+				};
+
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.stocksdaily.net/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><meta name="ca_title" content="Lam Research Corporation (NASDAQ:LRCX) Held $6827.934 In Short-Term Investments/Cash" />
+<!-- JS generated by theme -->
+
+<script>
+
+
+var td_blocks = []; //here we store all the items for the current page
+
+//td_block class - each ajax block uses a object of this class for requests
+function td_block() {
+    this.id = '';
+    this.block_type = 1; //block type id (1-234 etc)
+    this.atts = '';
+    this.td_column_number = '';
+    this.td_current_page = 1; //
+    this.post_count = 0; //from wp
+    this.found_posts = 0; //from wp
+    this.max_num_pages = 0; //from wp
+    this.td_filter_value = ''; //current live filter value
+    this.td_filter_ui_uid = ''; //used to select a item from the drop down filter
+    this.is_ajax_running = false;
+    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+    this.header_color = '';
+    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+}
+
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var html_tag = document.getElementsByTagName("html")[0];
+
+            if(navigator.userAgent.indexOf("MSIE 10.0") > -1) {
+                html_tag.className+=' ie10';
+            }
+
+            if(!!navigator.userAgent.match(/Trident.*rv\:11\./)) {
+                html_tag.className+=' ie11';
+            }
+
+            if (/(iPad|iPhone|iPod)/g.test( navigator.userAgent )) {
+                html_tag.className+=' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if(user_agent.indexOf("android") > -1) {
+                html_tag.className+=' td-md-is-android';
+            }
+
+            if (navigator.userAgent.indexOf('Mac OS X') != -1) {
+                html_tag.className+=' td-md-is-os-x';
+            }
+
+            if(/chrom(e|ium)/.test(navigator.userAgent.toLowerCase())) {
+               html_tag.className+=' td-md-is-chrome';
+            }
+
+            if (navigator.userAgent.indexOf('Firefox') != -1) {
+                html_tag.className+=' td-md-is-firefox';
+            }
+
+            if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+                html_tag.className+=' td-md-is-safari';
+            }
+
+        })();
+
+
+var td_viewport_interval_list=[{"limit_bottom":767,"sidebar_width":251},{"limit_bottom":1023,"sidebar_width":339}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .post img";
+var td_ajax_url="http:\/\/www.stocksdaily.net\/wp-admin\/admin-ajax.php?td_theme_name=Newsmag&v=2.1.1";
+var td_get_template_directory_uri="http:\/\/www.stocksdaily.net\/wp-content\/themes\/Newsmag";
+var tds_snap_menu="";
+var tds_logo_on_sticky="";
+var tds_header_style="";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#2c3459";
+var tds_smart_sidebar="";
+var td_theme_v="Mi4xLjE=";
+var td_theme_n="TmV3c21hZw==";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+
+<!-- Header style compiled by theme -->
+
+<style>
+
+.td-header-border:before,
+    .td-trending-now-title,
+    .td_block_mega_menu .td_mega_menu_sub_cats .cur-sub-cat,
+    .td-post-category:hover,
+    .td-header-style-2 .td-header-sp-logo,
+    .sf-menu ul .td-menu-item > a:hover,
+    .sf-menu ul .sfHover > a,
+    .sf-menu ul .current-menu-ancestor > a,
+    .sf-menu ul .current-category-ancestor > a,
+    .sf-menu ul .current-menu-item > a,
+    .td-next-prev-wrap a:hover i,
+    .page-nav .current,
+    .widget_calendar tfoot a:hover,
+    .td-footer-container .widget_search .wpb_button:hover,
+    .td-scroll-up-visible,
+    .dropcap,
+    .td-category a,
+    input[type="submit"]:hover,
+    .td-post-small-box a:hover,
+    .td-404-sub-sub-title a:hover,
+    .td-rating-bar-wrap div,
+    .td_top_authors .td-active .td-author-post-count,
+    .td_top_authors .td-active .td-author-comments-count,
+    .td_smart_list_3 .td-sml3-top-controls i:hover,
+    .td_smart_list_3 .td-sml3-bottom-controls i:hover,
+    .td-mobile-close a,
+    .td_wrapper_video_playlist .td_video_controls_playlist_wrapper,
+    .td-read-more a:hover,
+    .td-login-wrap .btn,
+    .td_display_err,
+    .td-header-style-6 .td-top-menu-full,
+    #bbpress-forums button:hover,
+    #bbpress-forums .bbp-pagination .current,
+    .bbp_widget_login .button:hover,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    .td-post-text-content .more-link-wrap:hover a,
+    #buddypress div.item-list-tabs ul li > a span,
+    #buddypress div.item-list-tabs ul li > a:hover span,
+    #buddypress input[type=submit]:hover,
+    #buddypress a.button:hover span,
+    #buddypress div.item-list-tabs ul li.selected a span,
+    #buddypress div.item-list-tabs ul li.current a span,
+    #buddypress input[type=submit]:focus,
+    .td-grid-style-3 .td-big-grid-post .td-module-thumb a:last-child:before,
+    .td-grid-style-4 .td-big-grid-post .td-module-thumb a:last-child:before,
+    .td-grid-style-5 .td-big-grid-post .td-module-thumb:after {
+        background-color: #2c3459;
+    }
+
+    @media (max-width: 767px) {
+        .category .td-category a.td-current-sub-category {
+            background-color: #2c3459 !important;
+        }
+    }
+
+    .woocommerce .onsale,
+    .woocommerce .woocommerce a.button:hover,
+    .woocommerce-page .woocommerce .button:hover,
+    .single-product .product .summary .cart .button:hover,
+    .woocommerce .woocommerce .product a.button:hover,
+    .woocommerce .product a.button:hover,
+    .woocommerce .product #respond input#submit:hover,
+    .woocommerce .checkout input#place_order:hover,
+    .woocommerce .woocommerce.widget .button:hover,
+    .woocommerce .woocommerce-message .button:hover,
+    .woocommerce .woocommerce-error .button:hover,
+    .woocommerce .woocommerce-info .button:hover,
+    .woocommerce.widget .ui-slider .ui-slider-handle,
+    .vc_btn-black:hover,
+	.wpb_btn-black:hover,
+	.item-list-tabs .feed:hover a {
+    	background-color: #2c3459 !important;
+    }
+
+    .top-header-menu a:hover,
+    .top-header-menu .menu-item-has-children li a:hover,
+    .td_module_wrap:hover .entry-title a,
+    .td_mod_mega_menu:hover .entry-title a,
+    .footer-email-wrap a,
+    .widget a:hover,
+    .td-footer-container .widget_calendar #today,
+    .td-category-pulldown-filter a.td-pulldown-category-filter-link:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-next-prev-content a:hover,
+    .td-author-name a:hover,
+    .td-author-url a:hover,
+    .td_mod_related_posts:hover .entry-title a,
+    .td-search-query,
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .header-search-wrap .td-drop-down-search .result-msg a:hover,
+    .td_top_authors .td-active .td-authors-name a,
+    .td-mobile-content li a:hover,
+    .post blockquote p,
+    .td-post-content blockquote p,
+    .page blockquote p,
+    .comment-list cite a:hover,
+    .comment-list cite:hover,
+    .comment-list .comment-reply-link:hover,
+    a,
+    .white-menu #td-header-menu .sf-menu > li > a:hover,
+    .white-menu #td-header-menu .sf-menu > .current-menu-ancestor > a,
+    .white-menu #td-header-menu .sf-menu > .current-menu-item > a,
+    .td-stack-classic-blog .td-post-text-content .more-link-wrap:hover a,
+    .td_quote_on_blocks,
+    #bbpress-forums .bbp-forum-freshness a:hover,
+    #bbpress-forums .bbp-topic-freshness a:hover,
+    #bbpress-forums .bbp-forums-list li a:hover,
+    #bbpress-forums .bbp-forum-title:hover,
+    #bbpress-forums .bbp-topic-permalink:hover,
+    #bbpress-forums .bbp-topic-started-by a:hover,
+    #bbpress-forums .bbp-topic-started-in a:hover,
+    #bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,
+    #bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,
+    #bbpress-forums #subscription-toggle a:hover,
+    #bbpress-forums #favorite-toggle a:hover,
+    .widget_display_replies .bbp-author-name,
+    .widget_display_topics .bbp-author-name,
+    .td-category-siblings .td-subcat-dropdown a.td-current-sub-category,
+    .td-category-siblings .td-subcat-dropdown a:hover,
+    .td-pulldown-filter-display-option:hover,
+    .td-pulldown-filter-display-option .td-pulldown-filter-link:hover,
+    .td_normal_slide .td-wrapper-pulldown-filter .td-pulldown-filter-list a:hover,
+    #buddypress ul.item-list li div.item-title a:hover,
+    .td_block_13 .td-pulldown-filter-list a:hover {
+        color: #2c3459;
+    }
+
+    .td-stack-classic-blog .td-post-text-content .more-link-wrap:hover a {
+        outline-color: #2c3459;
+    }
+
+    .td-mega-menu .wpb_content_element li a:hover,
+    .td_login_tab_focus {
+        color: #2c3459 !important;
+    }
+
+    .td-next-prev-wrap a:hover i,
+    .page-nav .current,
+    .widget_tag_cloud a:hover,
+    .post .td_quote_box,
+    .page .td_quote_box,
+    .td-login-panel-title,
+    #bbpress-forums .bbp-pagination .current {
+        border-color: #2c3459;
+    }
+
+    .td_wrapper_video_playlist .td_video_currently_playing:after,
+    .item-list-tabs .feed:hover {
+        border-color: #2c3459 !important;
+    }
+</style>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-67316220-1', 'auto');
+  ga('send', 'pageview');
+
+</script><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><meta name="google-site-verification" content="fhAVH8HnmQ_zTUtifcayY61cbCrt9en7lC4lpT0ODe0" />
+
+<script>
+  <!-- Start Rooster Code -->
+  var _gtq = (typeof _gtq !== 'undefined' ? _gtq : []);
+  _gtq.push(['_setAccount', '9_96swl1imn5u_gc7xg07g']);
+  _gtq.push(['visit']);
+
+  _GT_config = {
+    gt_account: '9_96swl1imn5u_gc7xg07g',
+    gt_host: '//app.getrooster.com/'
+  };
+
+  _GT = (typeof _GT !== 'undefined' ? _GT : (function(){var s={on:[]};var m='unloaded';function r(t,c){s.on.push({type:t,callback:c});}return{state:m,properties:{}, _s:s,on:r}; })());
+
+  (function() {
+    var gt = document.createElement('script'); gt.type = 'text/javascript'; gt.async = true;
+    gt.src = "//app.getrooster.com/assets/gt-loader.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gt, s);
+  })();
+  <!-- End Rooster Code -->
+</script>
+
+<!-- This site is converting visitors into subscribers and customers with OptinMonster - http://optinmonster.com --><div id="om-iefbzgj1cspewrza-holder"></div><script>var iefbzgj1cspewrza,iefbzgj1cspewrza_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){iefbzgj1cspewrza_poll(function(){if(window['om_loaded']){if(!iefbzgj1cspewrza){iefbzgj1cspewrza=new OptinMonsterApp();return iefbzgj1cspewrza.init({u:"12237.253616",staging:0,dev:0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmnstr.com/app/js/api.min.js",o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;iefbzgj1cspewrza=new OptinMonsterApp();iefbzgj1cspewrza.init({u:"12237.253616",staging:0,dev:0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster -->
+</head>
+
+
+<body class="single single-post postid-136092 single-format-standard lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash wpb-js-composer js-comp-ver-4.5.1 vc_responsive td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+<div id="td-outer-wrap">
+
+        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+
+    <div class="td-transition-content-and-menu td-mobile-nav-wrap">
+        <div id="td-mobile-nav">
+    <!-- mobile menu close -->
+    <div class="td-mobile-close">
+        <a href="#">CLOSE</a>
+        <div class="td-nav-triangle"></div>
+    </div>
+
+    <div class="td-mobile-content">
+        <div class="menu-main-container"><ul id="menu-main" class=""><li id="menu-item-5599" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first menu-item-5599"><a href="http://www.stocksdaily.net/category/stock-news/">Stock News</a></li>
+<li id="menu-item-5600" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5600"><a href="http://www.stocksdaily.net/category/momentum/">Momentum Equities</a></li>
+<li id="menu-item-130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-130"><a href="http://www.stocksdaily.net/category/research/">Research</a></li>
+<li id="menu-item-4803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4803"><a href="http://www.stocksdaily.net/about/">About Stocks Daily</a>
+<ul class="sub-menu">
+	<li id="menu-item-4802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4802"><a href="http://www.stocksdaily.net/contacts/">Contacts</a></li>
+	<li id="menu-item-4801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4801"><a href="http://www.stocksdaily.net/advertising/">Advertising</a></li>
+	<li id="menu-item-4798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4798"><a href="http://www.stocksdaily.net/feedback/">Feedback</a></li>
+	<li id="menu-item-4806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4806"><a href="http://www.stocksdaily.net/privacy-policy/">Privacy Policy</a></li>
+</ul>
+</li>
+</ul></div>    </div>
+</div>    </div>
+
+        <div class="td-transition-content-and-menu td-content-wrap">
+
+
+
+<!--
+Header style 1
+-->
+
+<div class="td-header-container td-header-wrap td-header-style-1">
+    <div class="td-header-row td-header-top-menu">
+
+<div class="td-header-sp-top-menu">
+
+    </div>
+            </div>
+
+
+    <div class="td-header-row td-header-header">
+        <div class="td-header-sp-logo">
+                    <a itemprop="url" href="http://www.stocksdaily.net/"><img src="http://www.stocksdaily.net/wp-content/uploads/2015/09/Stocks-Daily.png" alt="Stocks Daily" title="Stocks Daily"/></a>
+        <meta itemprop="name" content="Stocks Daily">
+            </div>
+        <div class="td-header-sp-ads">
+
+<div class="td-header-ad-wrap  td-ad-m td-ad-tp td-ad-p">
+
+ <!-- A generated by theme -->
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-header">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1024 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-6595175843546205" data-ad-slot="1487932771"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+
+                    if ( td_screen_width >= 768  && td_screen_width < 1024 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-6595175843546205" data-ad-slot="1487932771"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:320px;height:50px" data-ad-client="ca-pub-6595175843546205" data-ad-slot="1487932771"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A -->
+
+
+
+</div>        </div>
+    </div>
+    <div class="td-header-menu-wrap">
+        <div class="td-header-row td-header-border td-header-main-menu">
+            <div id="td-header-menu" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo">
+                <a itemprop="url" href="http://www.stocksdaily.net/"><img src="http://www.stocksdaily.net/wp-content/uploads/2015/09/Stocks-Daily.png" alt="Stocks Daily" title="Stocks Daily"/></a>
+        <meta itemprop="name" content="Stocks Daily">
+        </div>
+    <div class="menu-main-container"><ul id="menu-main-1" class="sf-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-normal-menu menu-item-5599"><a href="http://www.stocksdaily.net/category/stock-news/">Stock News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-5600"><a href="http://www.stocksdaily.net/category/momentum/">Momentum Equities</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-130"><a href="http://www.stocksdaily.net/category/research/">Research</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children td-menu-item td-normal-menu menu-item-4803"><a href="http://www.stocksdaily.net/about/">About Stocks Daily</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-4802"><a href="http://www.stocksdaily.net/contacts/">Contacts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-4801"><a href="http://www.stocksdaily.net/advertising/">Advertising</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-4798"><a href="http://www.stocksdaily.net/feedback/">Feedback</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-4806"><a href="http://www.stocksdaily.net/privacy-policy/">Privacy Policy</a></li>
+</ul>
+</li>
+</ul></div></div>
+
+<div class="td-search-wrapper">
+    <div id="td-top-search">
+        <!-- Search -->
+        <div class="header-search-wrap">
+            <div class="dropdown header-search">
+                <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="header-search-wrap">
+	<div class="dropdown header-search">
+		<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+			<form role="search" method="get" class="td-search-form" action="http://www.stocksdaily.net/">
+				<div class="td-head-form-search-wrap">
+					<input class="needsclick" id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+				</div>
+			</form>
+			<div id="td-aj-search"></div>
+		</div>
+	</div>
+</div>        </div>
+    </div>
+</div>
+    <div class="td-container td-post-template-default">
+        <div class="td-container-border">
+            <div class="td-pb-row">
+                                            <div class="td-pb-span8 td-main-content" role="main">
+                                <div class="td-ss-main-content">
+
+
+    <article id="post-136092" class="post-136092 post type-post status-publish format-standard hentry category-analyst-views" itemscope itemtype="http://schema.org/Article">
+        <div class="td-post-header td-pb-padding-side">
+            <div class="entry-crumbs"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="" class="entry-crumb" itemprop="url" href="http://www.stocksdaily.net/"><span itemprop="title">Home</span></a></span> <i class="td-icon-right td-bread-sep"></i> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="View all posts in Analyst Views" class="entry-crumb" itemprop="url" href="http://www.stocksdaily.net/category/analyst-views/"><span itemprop="title">Analyst Views</span></a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><meta itemprop="title" content = "Lam Research Corporation (NASDAQ:LRCX) Held $6827.934 In Short-Term Investments/Cash"><meta itemprop="url" content = "http://www.stocksdaily.net/lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash/136092/">Lam Research Corporation (NASDAQ:LRCX) Held $6827.934 In Short-Term Investments/Cash</span></div>
+
+            <header>
+                <h1 class="entry-title">Lam Research Corporation (NASDAQ:LRCX) Held $6827.934 In Short-Term Investments/Cash</h1>
+
+
+
+                <div class="meta-info">
+
+                    <div class="td-post-author-name">By <a itemprop="author" href="http://www.stocksdaily.net/author/admin/">Stocks Daily Staff</a> - </div>                    <div class="td-post-date"><time  itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2016-10-31T13:11:13+00:00" >October 31, 2016</time><meta itemprop="interactionCount" content="UserComments:0"/></div>                                                        </div>
+            </header>
+
+
+        </div>
+
+        <div class="td-post-sharing td-post-sharing-top td-pb-padding-side"><span class="td-post-share-title">SHARE</span>
+				<div class="td-default-sharing ">
+		            <a class="td-social-sharing-buttons td-social-facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.stocksdaily.net%2Flam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash%2F136092%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-facebook"></div><div class="td-social-but-text">Facebook</div></a>
+		            <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Lam+Research+Corporation+%28NASDAQ%3ALRCX%29+Held+%246827.934+In+Short-Term+Investments%2FCash&url=http%3A%2F%2Fwww.stocksdaily.net%2Flam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash%2F136092%2F&via=Stocks+Daily"  ><div class="td-sp td-sp-twitter"></div><div class="td-social-but-text">Twitter</div></a>
+		            <a class="td-social-sharing-buttons td-social-google" href="http://plus.google.com/share?url=http://www.stocksdaily.net/lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash/136092/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-googleplus"></div></a>
+		            <a class="td-social-sharing-buttons td-social-pinterest" href="http://pinterest.com/pin/create/button/?url=http://www.stocksdaily.net/lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash/136092/&amp;media=" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-pinterest"></div></a>
+	            </div></div>
+
+        <div class="td-post-content td-pb-padding-side">
+
+
+        <p><b>Lam Research Corporation (NASDAQ:LRCX)</b> had beginning cash of $1501.539 millions for the year ended 2016-06-30. For the quarter ended 2016-06-30, beginning cash was $1501.539 millions. However, cash &amp; short-term investments for the fiscal closed 2016-06-30 was $6827.934 millions. For the quarter ended 2016-06-30, it was $6827.934 millions.</p>
+<p><b>Cash flow</b></p>
+<p><b>Lam Research Corporation (NASDAQ:LRCX)</b> cash flow from financial initiatives was $1595.745 millions for the year ended 2016-06-30. For the quarter ended 2016-06-30, it was $1595.745 millions.</p>
+<p>Funds flow coming from investing measures for the fiscal concluded 2016-06-30 was $592.483 millions. For the quarter ended 2016-06-30 it was $592.483 millions.</p>
+<p>Though for the fiscal ended 2016-06-30, $1350.277 millions, was cash from operating activities.  In the quarter ended 2016-06-30, it was $1350.277 millions.</p>
+<p>Cash from operating activities was $1350.277 millions for the quarter ended 2016-06-30,</p>
+<p><b>Expenses</b></p>
+<p>For the fiscal closed 2016-06-30 accrued expenses was $772.91 millions. While it was $772.91 millions for the quarter ended 2016-06-30.</p>
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:left;margin:10px 10px 10px 0;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336x280 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-6595175843546205"
+     data-ad-slot="4441399179"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<p><b>Debt metrics</b></p>
+<p>Debt issuance/retirement was $1886.647 millions for the year closed 2016-06-30. That compared with $1886.647 millions in the quarter ended 2016-06-30.</p>
+<p><b>Dividend</b></p>
+<p>For the year ended 2016-06-30 dividend paid was $-190.402 millions. While it was $-190.402 millions for the quarter ended 2016-06-30.</p>
+<p>There were a total of 160.201 common shares for year ended 2016-06-30. While it was 160.201 for the quarter ended 2016-06-30.</p>
+<p><b>Compensation</b></p>
+<p>Deferred compensation totaled $-1.225 millions for the year concluded 2016-06-30 and it was $-1.225 millions for the quarter ended 2016-06-30.</p>
+<p>Deferred compensation is a plan in which a part of an employee&#8217;s income is given at a future date after which the revenue was really earned. Instances of deferred compensation comprise pensions, employee stock options and retirement plans. The primary benefit of deferred payment is the tax deferral to the date at which the employee really gets the income.</p>
+<p>Deferred compensation is accessible to employees of senior management, public entities and other highly paid employees of firms.</p>
+
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:left;margin:10px 10px 10px 0;">
+<p style="font-family:times; color:#000000;font-weight:bold;">1 Chart Pattern Every Investor Should Know</p>
+<p style="font-family:times; color:#000000;font-weight:bold;">This little-known pattern preceded moves of 578% in ARWR, 562% in LCI, 513% in ICPT, 439% in EGRX, 408% in ADDUS and more... </p>
+<p style="font-family:times; color:#000000;font-weight:bold;"><a href="http://www.wealthpire.com/go.html?w=ppksale&p=buttonwood&a=MS-SD" target="_blank">Click Here to See This Now</a>.</p>
+</div>
+
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><script type="text/javascript"> jQuery.ajax({
+							url: "http://www.stocksdaily.net/wp-content/plugins/top-10/includes/top-10-addcount.js.php",
+							data: {
+								top_ten_id: 136092,
+								top_ten_blog_id: 1,
+								activate_counter: 11,
+								top10_rnd: (new Date()).getTime() + "-" + Math.floor(Math.random() * 100000)
+							}
+						}); </script><div class="tptn_counter" id="tptn_counter_136092">(Visited 30 times, 1 visits today)</div>        </div>
+
+
+        <footer>
+
+            <div class="td-post-source-tags td-pb-padding-side">
+                                            </div>
+
+            <div class="td-post-sharing td-post-sharing-bottom td-pb-padding-side"><span class="td-post-share-title">SHARE</span>
+            <div class="td-default-sharing td-with-like">
+	            <a class="td-social-sharing-buttons td-social-facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.stocksdaily.net%2Flam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash%2F136092%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-facebook"></div><div class="td-social-but-text">Facebook</div></a>
+	            <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Lam+Research+Corporation+%28NASDAQ%3ALRCX%29+Held+%246827.934+In+Short-Term+Investments%2FCash&url=http%3A%2F%2Fwww.stocksdaily.net%2Flam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash%2F136092%2F&via=Stocks+Daily"><div class="td-sp td-sp-twitter"></div><div class="td-social-but-text">Twitter</div></a>
+	            <a class="td-social-sharing-buttons td-social-google" href="http://plus.google.com/share?url=http://www.stocksdaily.net/lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash/136092/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-googleplus"></div></a>
+	            <a class="td-social-sharing-buttons td-social-pinterest" href="http://pinterest.com/pin/create/button/?url=http://www.stocksdaily.net/lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash/136092/&amp;media=" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-pinterest"></div></a>
+            </div><div class="td-classic-sharing"><ul><li class="td-classic-facebook"><iframe frameBorder="0" src="http://www.facebook.com/plugins/like.php?href=http://www.stocksdaily.net/lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash/136092/&amp;layout=button_count&amp;show_faces=false&amp;width=105&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:105px; height:21px; background-color:transparent;"></iframe></li><li class="td-classic-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.stocksdaily.net/lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash/136092/" data-text="Lam Research Corporation (NASDAQ:LRCX) Held $6827.934 In Short-Term Investments/Cash" data-via="" data-lang="en">tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li></ul></div></div>                        <div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="http://www.stocksdaily.net/author/">Stocks Daily Staff</a></span></div>	        <meta itemprop="author" content = "Stocks Daily Staff"><meta itemprop="datePublished" content="2016-10-31T13:11:13+00:00"><meta itemprop="headline " content="Lam Research Corporation (NASDAQ:LRCX) Held $6827.934 In Short-Term Investments/Cash"><meta itemprop="interactionCount" content="UserComments:0"/>        </footer>
+
+    </article> <!-- /.post -->
+
+
+
+<div id="disqus_thread">
+    </div>
+
+                                </div>
+                            </div>
+                            <div class="td-pb-span4 td-main-sidebar" role="complementary">
+                                <div class="td-ss-main-sidebar">
+                                    <aside class="widget widget_text">			<div class="textwidget"><p><br>Enter your email address below to receive ButtonwoodResearch.com's daily market update.  You will receive FREE daily commentary, Top Gainer and Biggest Loser, and Market Analysis for Equity Investors, Swing Traders, and Day Traders.</p>
+<form action="http://bm5150.com/public/webform/process/" method="post">
+<input type="hidden" name="fid" value="f253oxsaw3sop0ku6x3l9vdaz2si9" />
+<input type="hidden" name="sid" value="273c267e480daddc2aa4d6a84dbe8f7d" />
+<input type="hidden" name="delid" value="" />
+<input type="hidden" name="subid" value="" />
+<input type="hidden" name="td" value="" />
+<input type="hidden" name="formtype" value="addcontact" />
+<script type="text/javascript">
+var fieldMaps = {};
+</script>
+<div class="section" id="row_16365">
+<div class="container" id="column_20621" style="text-align: center; width: 300px;">
+<div class="email field_block">
+<div class="caption">Email Address <span class="required">*</span></div>
+<div class="field"><br>
+<span>
+<input type="text" class="text field fb-email" size="35" name="45904" value="" autofocus/>
+</span>
+<div class="field_error">
+</div>
+</div>
+</div>
+<div class="field_block" field_id="85292">
+<div class="field">
+<span>
+<input type="hidden" id="field_85292" class="hidden field" name="45905[85292]" value="SD_MainPage" />
+</span>
+</div>
+</div>
+<input type="hidden" name="45906[310293]" value="true" />
+<input type="hidden" name="45907[353805]" value="true" />
+
+<div class="field_block">
+<div class="field"><br>
+<span>
+<input type="submit" class="submit" value="Click Here" onclick="dataLayer.push({'event':'email'})"/>
+</span>
+<br>
+<a href="http://buttonwoodresearch.com/privacy.html">Privacy Policy</a>
+</div>
+</div>
+</div>
+<div class="container" id="column_20622" style="text-align: center; width: 300px;">
+</div>
+<div style="clear: both;">&nbsp;</div>
+</div>
+</form></div>
+		</aside>
+ <!-- A generated by theme -->
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-sidebar">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1024 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-6595175843546205" data-ad-slot="2964665976"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+
+                    if ( td_screen_width >= 768  && td_screen_width < 1024 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:200px;height:200px" data-ad-client="ca-pub-6595175843546205" data-ad-slot="2964665976"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-6595175843546205" data-ad-slot="2964665976"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A -->
+
+<aside class="widget widget_text"><div class="block-title"><span>Market Snapshot</span></div>			<div class="textwidget"><!-- TradingView Widget BEGIN -->
+<div id="tv-miniwidget-6e892"></div>
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.MiniWidget({
+  "container_id": "tv-miniwidget-6e892",
+  "tabs": [
+    "Equities",
+    "Commodities",
+    "Bonds",
+    "Forex"
+  ],
+  "symbols": {
+    "Equities": [
+      [
+        "S&P500",
+        "SPX500"
+      ],
+      [
+        "NQ100",
+        "NAS100"
+      ],
+      [
+        "Dow30",
+        "DOWI"
+      ],
+      [
+        "Nikkei225",
+        "JPN225"
+      ]
+    ],
+    "Commodities": [
+      [
+        "Emini",
+        "ES1!"
+      ],
+      [
+        "Euro",
+        "E61!"
+      ],
+      [
+        "Gold",
+        "GC1!"
+      ],
+      [
+        "Oil",
+        "CL1!"
+      ],
+      [
+        "Gas",
+        "NG1!"
+      ],
+      [
+        "Corn",
+        "ZC1!"
+      ]
+    ],
+    "Bonds": [
+      [
+        "US 2YR",
+        "TUZ2013"
+      ],
+      [
+        "US 10YR",
+        "TYZ2013"
+      ],
+      [
+        "US 30YR",
+        "USZ2013"
+      ],
+      [
+        "Euro Bund",
+        "FX:BUND"
+      ],
+      [
+        "Euro BTP",
+        "EUREX:II1!"
+      ],
+      [
+        "Euro BOBL",
+        "EUREX:HR1!"
+      ]
+    ],
+    "Forex": [
+      "FX:EURUSD",
+      "FX:GBPUSD",
+      "FX:USDJPY",
+      "FX:USDCHF",
+      "FX:AUDUSD",
+      "FX:USDCAD"
+    ]
+  },
+  "gridLineColor": "#E9E9EA",
+  "fontColor": "#83888D",
+  "underLineColor": "#F0F0F0",
+  "timeAxisBackgroundColor": "#F3F2F3",
+  "trendLineColor": "#FF7965",
+  "activeTickerBackgroundColor": "#EDF0F3",
+  "large_chart_url": "https://www.tradingview.com/e/",
+  "noGraph": false,
+  "width": "300px",
+  "height": "400px"
+});
+</script>
+<!-- TradingView Widget END -->
+</div>
+		</aside><div class="td-a-rec td-a-rec-id-custom_ad_1 "><!-- TradingView Widget BEGIN -->
+<div id="tv-miniwidget-6e892"></div>
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.MiniWidget({
+  "container_id": "tv-miniwidget-6e892",
+  "tabs": [
+    "Equities",
+    "Commodities",
+    "Bonds",
+    "Forex"
+  ],
+  "symbols": {
+    "Equities": [
+      [
+        "S&P500",
+        "SPX500"
+      ],
+      [
+        "NQ100",
+        "NAS100"
+      ],
+      [
+        "Dow30",
+        "DOWI"
+      ],
+      [
+        "Nikkei225",
+        "JPN225"
+      ]
+    ],
+    "Commodities": [
+      [
+        "Emini",
+        "ES1!"
+      ],
+      [
+        "Euro",
+        "E61!"
+      ],
+      [
+        "Gold",
+        "GC1!"
+      ],
+      [
+        "Oil",
+        "CL1!"
+      ],
+      [
+        "Gas",
+        "NG1!"
+      ],
+      [
+        "Corn",
+        "ZC1!"
+      ]
+    ],
+    "Bonds": [
+      [
+        "US 2YR",
+        "TUZ2013"
+      ],
+      [
+        "US 10YR",
+        "TYZ2013"
+      ],
+      [
+        "US 30YR",
+        "USZ2013"
+      ],
+      [
+        "Euro Bund",
+        "FX:BUND"
+      ],
+      [
+        "Euro BTP",
+        "EUREX:II1!"
+      ],
+      [
+        "Euro BOBL",
+        "EUREX:HR1!"
+      ]
+    ],
+    "Forex": [
+      "FX:EURUSD",
+      "FX:GBPUSD",
+      "FX:USDJPY",
+      "FX:USDCHF",
+      "FX:AUDUSD",
+      "FX:USDCAD"
+    ]
+  },
+  "gridLineColor": "#E9E9EA",
+  "fontColor": "#83888D",
+  "underLineColor": "#F0F0F0",
+  "timeAxisBackgroundColor": "#F3F2F3",
+  "trendLineColor": "#FF7965",
+  "activeTickerBackgroundColor": "#EDF0F3",
+  "large_chart_url": "https://www.tradingview.com/e/",
+  "noGraph": false,
+  "width": "300px",
+  "height": "400px"
+});
+</script>
+<!-- TradingView Widget END -->
+</div>                                </div>
+                            </div>
+                                    </div> <!-- /.td-pb-row -->
+        </div>
+    </div> <!-- /.td-container -->
+
+<!-- Footer -->
+
+
+
+
+
+<!-- Sub Footer -->
+    <div class="td-sub-footer-container td-container td-container-border td-add-border">
+        <div class="td-pb-row">
+            <div class="td-pb-span4 td-sub-footer-copy">
+                <div class="td-pb-padding-side">
+                    &copy;                 </div>
+            </div>
+
+            <div class="td-pb-span8 td-sub-footer-menu">
+                <div class="td-pb-padding-side">
+                                    </div>
+            </div>
+        </div>
+    </div>
+    </div><!--close content div-->
+</div><!--close td-outer-wrap-->
+
+
+
+
+
+    <!--
+
+        Theme: Newsmag by tagDiv 2015
+        Version: 2.1.1 (rara)
+        Deploy mode: deploy
+
+        uid: 583d09df812a2
+    -->
+
+    <!-- This site is converting visitors into subscribers and customers with OptinMonster - http://optinmonster.com --><div id="om-msf5dabi8u4wyihd-holder"></div><script>var msf5dabi8u4wyihd,msf5dabi8u4wyihd_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){msf5dabi8u4wyihd_poll(function(){if(window['om_loaded']){if(!msf5dabi8u4wyihd){msf5dabi8u4wyihd=new OptinMonsterApp();return msf5dabi8u4wyihd.init({u:"12237.325163",staging:0,dev:0,beta:0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmnstr.com/app/js/api.min.js",o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;msf5dabi8u4wyihd=new OptinMonsterApp();msf5dabi8u4wyihd.init({u:"12237.325163",staging:0,dev:0,beta:0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster --><script type='text/javascript' src='http://www.stocksdaily.net/wp-content/themes/Newsmag/js/tagdiv_theme.js?ver=2.1.1'></script>
+<script type='text/javascript' src='http://www.stocksdaily.net/wp-includes/js/comment-reply.min.js?ver=4.2.10'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@4.2.10","language":""},"disqusIdentifier":"136092 http:\/\/www.stocksdaily.net\/lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash\/136092\/","disqusShortname":"stocksdaily","disqusTitle":"Lam Research Corporation (NASDAQ:LRCX) Held $6827.934 In Short-Term Investments\/Cash","disqusUrl":"http:\/\/www.stocksdaily.net\/lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash\/136092\/","options":{"manualSync":false},"postId":"136092"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.stocksdaily.net/wp-content/plugins/disqus-comment-system/media/js/disqus.js?ver=4.2.10'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"stocksdaily"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.stocksdaily.net/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.2.10'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+
+
+
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'http://www.stocksdaily.net/wp-content/themes/Newsmag/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'http://www.stocksdaily.net/wp-content/themes/Newsmag';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+
+
+</script>
+
+	    <script type="text/javascript">var omapi_localized = { ajax: 'http://www.stocksdaily.net/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '63936f028d' };</script>
+	    </body>
+</html>

@@ -4,6 +4,9 @@ import java.net.{MalformedURLException, URL}
 import java.util.ArrayList
 import java.util.regex.{Matcher, Pattern}
 
+import com.fasterxml.jackson.core.{JsonFactory, TreeNode}
+import com.fasterxml.jackson.databind.ObjectMapper
+import com.fasterxml.jackson.databind.node.ObjectNode
 import com.gravity.goose.text.string
 import com.gravity.goose.{Article, Configuration}
 import org.apache.http.client.HttpClient
@@ -13,7 +16,7 @@ import org.jsoup.select.Elements
 import scala.collection.JavaConversions._
 import scala.collection.mutable.ListBuffer
 import scala.io.Source
-import scala.util.parsing.json.{JSON, JSONObject}
+import scala.util.{Failure, Success, Try}
 
 /**
 * Created by Jim Plush
@@ -84,18 +87,12 @@ class UpgradedImageIExtractor(httpClient: HttpClient, article: Article, config: 
     val dataConfig: String  =
       article.rawDoc.select("div#maincontent div#main div.primary-playback-region div.wcvideoplayer[data-metadata]").attr("data-metadata")
 
-    JSON.parseRaw(dataConfig) match {
-      case Some(JSONObject(metadataMap)) =>
-        metadataMap.get("headlineImage") match {
-          case Some(JSONObject(headlineImageMap)) =>
-            val imgOpt = headlineImageMap.get("url").map(_.toString)
-            imgOpt.foreach(imgUrl => trace("Got Known MSN Video Headline Image: " + imgUrl))
-            imgOpt
+    val objectMapper = new ObjectMapper()
+    Try(objectMapper.readValue(dataConfig, classOf[TreeNode])) match {
+      case Success(value) =>
+        Option(value.path("headlineImage").get("url")).map(_.toString)
 
-          case _ => None
-        }
-
-      case _ => None
+      case Failure(_) => None
     }
   }
 

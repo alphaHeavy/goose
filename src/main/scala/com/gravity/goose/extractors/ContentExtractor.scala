@@ -66,7 +66,7 @@ trait ContentExtractor {
       var titleText: String = titleElem.first.text
       if (string.isNullOrEmpty(titleText)) return string.empty
       var usedDelimeter: Boolean = false
-      if (titleText.contains("|")) {
+      if (titleText.contains("|") && titleText.trim.length > 1) {
         titleText = doTitleSplits(titleText, PIPE_SPLITTER)
         usedDelimeter = true
       }
@@ -78,7 +78,7 @@ trait ContentExtractor {
         titleText = doTitleSplits(titleText, ARROWS_SPLITTER)
         usedDelimeter = true
       }
-      if (!usedDelimeter && titleText.contains(":")) {
+      if (!usedDelimeter && titleText.contains(":") && titleText.trim.length > 1) {
         titleText = doTitleSplits(titleText, COLON_SPLITTER)
       }
       // todo do we still need this? thinking not, make it an output formatter config
