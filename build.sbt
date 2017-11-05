@@ -19,7 +19,7 @@ libraryDependencies ++=
     "org.jsoup" % "jsoup" % "1.7.3" ::
     "commons-io" % "commons-io" % "2.0.1" ::
     "org.apache.httpcomponents" % "httpclient" % "4.1.3" ::
-    "commons-lang" % "commons-lang" % "2.6" ::
+    "org.apache.commons" % "commons-lang3" % "3.3.1" ::
     "joda-time" % "joda-time" % "2.9.6" ::
     "com.fasterxml.jackson.core" % "jackson-core" % "2.6.6" ::
     "com.fasterxml.jackson.core" % "jackson-databind" % "2.6.6" ::
