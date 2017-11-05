@@ -21,7 +21,7 @@ import java.util.Date
 import javax.xml.datatype.DatatypeFactory
 
 import com.gravity.goose.utils.Logging
-import org.joda.time.format.{DateTimeFormat, DateTimeFormatterBuilder, DateTimeParser, ISODateTimeFormat}
+import org.joda.time.format.{DateTimeFormat, DateTimeFormatterBuilder, ISODateTimeFormat}
 import org.jsoup.nodes.Element
 
 /**
@@ -66,6 +66,10 @@ object PublishDateExtractor extends Logging {
     if (txt == null || txt.isEmpty)
       return None
 
+    var txt2 = txt
+    if(txt.endsWith("-500"))
+      txt2 = txt.replace("-500", "-0500")
+
     try {
       val iso8601format1 = ISODateTimeFormat.basicDateTime()
       val iso8601format2 = ISODateTimeFormat.basicDateTimeNoMillis()
@@ -82,7 +86,7 @@ object PublishDateExtractor extends Logging {
       val parser = new DateTimeFormatterBuilder().append(null, Array(iso8601format1.getParser,
         iso8601format2.getParser,iso8601format3.getParser, date1.getParser, date2.getParser, date3.getParser,
         date4.getParser,date5.getParser,date6.getParser,date7.getParser,date8.getParser, date9.getParser)).toFormatter
-      Option(parser.parseDateTime(txt)).map(x=>x.toDate)
+      Option(parser.parseDateTime(txt2)).map(x=>x.toDate)
     } catch {
       case ex: Exception =>
         info(s"`$txt` could not be parsed to date as it did not meet the ISO 8601 spec")

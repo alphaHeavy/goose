@@ -372,7 +372,6 @@ trait DocumentCleaner {
       replacementText.clear()
     }
 
-
     nodesToRemove.foreach(_.remove())
     nodesToReturn
 

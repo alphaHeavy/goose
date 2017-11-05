@@ -183,6 +183,16 @@ class ExtractionsTest {
   }
 
   @Test
+  def wsj2(): Unit ={
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("wsj2.txt")
+    val url: String = "https://www.wsj.com/articles/uniteds-strategy-to-reduce-overbookings-1502676300"
+    val article = TestUtils.getArticle(url = url, rawHTML = html)
+    val content = "United Continental Holdings Inc. UAL 1.28% has been in the news a lot"
+    TestUtils.runArticleAssertions(article = article, expectedStart = content, expectedAuthor = "Steven Norton")
+  }
+
+  @Test
   def usaToday() {
     implicit val config = TestUtils.NO_IMAGE_CONFIG
     val html = getHtml("usatoday1.txt")
@@ -472,6 +482,30 @@ class ExtractionsTest {
     val html2 = getHtml("titleArrayOutOfBounds2.txt")
     val url2: String = "http://www.aseguratuventa.com/index.php?a=2&b=17624&utm_source=twitterfeed&utm_medium=twitter"
     val article2 = TestUtils.getArticle(url2, html2)
+  }
+
+  @Test
+  def reuters1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("reuters1.txt")
+    val url = "http://www.reuters.com/article/us-mideast-crisis-iraq-mosul-idUSKBN19Q1HG?il=0"
+    val article = TestUtils.getArticle(url, html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "A tank of the Emergency Response Division fires at Islamic State mili",
+      expectedImage = null)
+    assertNotNull(article.publishDate)
+  }
+
+  @Test
+  def wapo1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("wapo1.txt")
+    val url = "https://www.washingtonpost.com/local/winning-numbers-drawn-in-dc-3-evening-game/2017/08/22/b19ad646-8799-11e7-96a7-d178cf3524eb_story.html"
+    val article = TestUtils.getArticle(url, html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "WASHINGTON _ The winning numbers in Tuesday evening’s",
+      expectedImage = null)
+    assertNotNull(article.publishDate)
   }
 
   /*@Test

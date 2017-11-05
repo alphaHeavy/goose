@@ -115,6 +115,8 @@ class Article {
   */
   var publishDate: Date = null
 
+  var author: Option[String] = Option.empty
+
   /**
    * A property bucket for consumers of goose to store custom data extractions.
    * This is populated by an implementation of {@link com.gravity.goose.extractors.AdditionalDataExtractor}

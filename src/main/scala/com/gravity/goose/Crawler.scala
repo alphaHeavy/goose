@@ -18,15 +18,16 @@
 
 package com.gravity.goose
 
-import cleaners.{StandardDocumentCleaner, DocumentCleaner}
-import extractors.ContentExtractor
-import images.{Image, UpgradedImageIExtractor, ImageExtractor}
+import cleaners.{DocumentCleaner, StandardDocumentCleaner}
+import extractors.{AuthorExtractor, ContentExtractor}
+import images.{Image, ImageExtractor, UpgradedImageIExtractor}
 import org.apache.http.client.HttpClient
 import org.jsoup.nodes.{Document, Element}
 import org.jsoup.Jsoup
 import java.io.File
-import utils.{ParsingCandidate, URLHelper, Logging}
-import com.gravity.goose.outputformatters.{StandardOutputFormatter, OutputFormatter}
+
+import utils.{Logging, ParsingCandidate, URLHelper}
+import com.gravity.goose.outputformatters.{OutputFormatter, StandardOutputFormatter}
 
 /**
  * Created by Jim Plush
@@ -61,6 +62,7 @@ class Crawler(config: Configuration) {
       article.rawDoc = doc.clone()
 
       article.title = extractor.getTitle(article)
+      article.author = AuthorExtractor.extractAuthor(doc)
       article.publishDate = config.publishDateExtractor.extract(doc)
       article.additionalData = config.getAdditionalDataExtractor.extract(doc)
       article.metaDescription = extractor.getMetaDescription(article)

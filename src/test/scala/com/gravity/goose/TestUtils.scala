@@ -44,7 +44,7 @@ object TestUtils {
     article
   }
 
-  def runArticleAssertions(article: Article, expectedTitle: String = null, expectedStart: String = null, expectedImage: String = null, expectedDescription: String = null, expectedKeywords: String = null): Unit = {
+  def runArticleAssertions(article: Article, expectedTitle: String = null, expectedStart: String = null, expectedImage: String = null, expectedDescription: String = null, expectedKeywords: String = null, expectedAuthor: String = null): Unit = {
     articleReport.append("URL:      ").append(TAB).append(article.finalUrl).append(NL)
     articleReport.append("TITLE:    ").append(TAB).append(article.title).append(NL)
     articleReport.append("IMAGE:    ").append(TAB).append(article.topImage.getImageSrc).append(NL)
@@ -88,6 +88,12 @@ object TestUtils {
       val keywords: String = article.metaDescription
       assertNotNull("Meta Keywords was NULL!", keywords)
       assertEquals("Meta Keywords was not as expected!", expectedKeywords, keywords)
+    }
+
+    if(expectedAuthor != null){
+      val author = article.author
+      assert(author.isDefined, "Author was not found")
+      assertEquals(expectedAuthor, author.get)
     }
   }
 

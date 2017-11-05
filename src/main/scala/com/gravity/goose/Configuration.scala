@@ -121,7 +121,8 @@ class Configuration {
       "meta[property=tout:article:pubdate]",
       "meta[name=sailthru.date]",
       "script[type=application/ld+json]",
-      "abbr[itemprop=datePublished]"
+      "abbr[itemprop=datePublished]",
+      "span[itemprop=datePublished]"
     )
 
     final val modSelectors = Seq(
