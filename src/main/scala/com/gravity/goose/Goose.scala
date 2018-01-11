@@ -18,79 +18,38 @@
 
 package com.gravity.goose
 
-import network.HtmlFetcher
-import java.io.File
+import com.gravity.goose.cleaners.StandardDocumentCleaner
+import com.gravity.goose.extractors.AuthorExtractor
+import com.netaporter.uri.Uri
+import org.jsoup.Jsoup
 
 /**
  * Created by Jim Plush - Gravity.com
  * Date: 8/14/11
  */
 class Goose(config: Configuration = new Configuration) {
+  def extractArticle(html: String, url: Uri): Article ={
+    val article = new Article()
 
+    val extractor = config.contentExtractor
+    val docCleaner = new StandardDocumentCleaner
+    val doc = Jsoup.parse(html)
 
-  initializeEnvironment()
+    article.finalUrl = url.toString
+    article.domain = url.host.getOrElse("")
+    article.rawHtml = html
+    article.doc = doc
 
-  /**
-  * Main method to extract an article object from a URL, pass in a url and get back a Article
-  * @url The url that you want to extract
-  */
-  def extractContent(url: String, rawHTML: String): Article = {
-    try {
-      val cc = new CrawlCandidate(config, url, rawHTML)
-      sendToActor(cc)
-    }
-    catch {
-      case ex: Exception =>
-        println(url + " " + ex.toString)
-        throw ex
-    }
-  }
-
-  def extractContent(url: String): Article = {
-    val cc = new CrawlCandidate(config, url, null)
-    sendToActor(cc)
-  }
-
-  def shutdownNetwork() {
-    HtmlFetcher.getHttpClient.getConnectionManager.shutdown()
-  }
-
-  def sendToActor(crawlCandidate: CrawlCandidate) = {
-    val crawler = new Crawler(config)
-    val article = crawler.crawl(crawlCandidate)
+    article.title = extractor.getTitle(article)
+    article.author = AuthorExtractor.extractAuthor(doc)
+    article.publishDate = config.publishDateExtractor.extract(doc, url)
+    article.additionalData = config.getAdditionalDataExtractor.extract(doc)
+    article.metaDescription = extractor.getMetaDescription(article)
+    article.metaKeywords = extractor.getMetaKeywords(article)
+    article.canonicalLink = extractor.getCanonicalLink(article)
+    article.tags = extractor.extractTags(article)
+    article.doc = docCleaner.clean(article)
+    article.cleanedArticleText = extractor.extractArticle(article)
     article
   }
-
-  def initializeEnvironment() {
-
-    val f = new File(config.localStoragePath)
-    try {
-      if (!f.isDirectory) {
-        f.mkdirs()
-      }
-    } catch {
-      case e: Exception =>
-    }
-    if (!f.isDirectory) {
-      throw new Exception(config.localStoragePath + " directory does not seem to exist, you need to set this for image processing downloads")
-    }
-    if (!f.canWrite) {
-      throw new Exception(config.localStoragePath + " directory is not writeble, you need to set this for image processing downloads")
-    }
-
-    // todo cleanup any jank that may be in the tmp folder currently
-  }
-
-}
-
-object Goose {
-
-  implicit val config = new Configuration
-
-  val logPrefix = "goose: "
-
-  // create the crawling actor that will accept bulk crawls
-//  val crawlingActor = Actor.actorOf[CrawlingActor]
-//  crawlingActor.start()
-
 }

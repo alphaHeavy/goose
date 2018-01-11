@@ -18,9 +18,10 @@
 
 package com.gravity.goose
 
-import images.Image
-import org.jsoup.nodes.{Element, Document}
-import java.util.Date
+import java.time.ZonedDateTime
+
+import org.jsoup.nodes.{Document, Element}
+
 import scala.collection._
 
 /**
@@ -67,11 +68,6 @@ class Article {
   */
   var topNode: Element = null
 
-  /**
-  * holds the top Image object that we think represents this article
-  */
-  var topImage: Image = new Image
-
 
   /**
   * holds a set of tags that may have been in the article, these are not meta keywords
@@ -113,7 +109,7 @@ class Article {
   /**
   * Sometimes useful to try and know when the publish date of an article was
   */
-  var publishDate: Date = null
+  var publishDate: Option[ZonedDateTime] = None
 
   var author: Option[String] = Option.empty
 

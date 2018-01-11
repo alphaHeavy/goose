@@ -1,8 +1,10 @@
 package com.gravity.goose
 
-import images.Image
+import java.time.ZonedDateTime
+
 import junit.framework.Assert._
 import com.gravity.goose.extractors.AdditionalDataExtractor
+import com.netaporter.uri.Uri
 import org.jsoup.nodes.Element
 
 /**
@@ -31,24 +33,22 @@ object TestUtils {
     }
   }
 
-  val ADDITIONAL_DATA_CONFIG = new Configuration
-  ADDITIONAL_DATA_CONFIG.setAdditionalDataExtractor(additionalExt)
-
-  /**
-  * returns an article object from a crawl
-  */
-  def getArticle(url: String, rawHTML: String = null)(implicit config: Configuration): Article = {
+  def getArticle(url: Uri, rawHTML: String = null)(implicit config: Configuration): Article = {
     val goose = new Goose(config)
-    val article = goose.extractContent(url, rawHTML)
-//    goose.shutdownNetwork()
+    val article = goose.extractArticle(rawHTML, url)
+    //    goose.shutdownNetwork()
     article
   }
 
-  def runArticleAssertions(article: Article, expectedTitle: String = null, expectedStart: String = null, expectedImage: String = null, expectedDescription: String = null, expectedKeywords: String = null, expectedAuthor: String = null): Unit = {
+  val ADDITIONAL_DATA_CONFIG = new Configuration
+  ADDITIONAL_DATA_CONFIG.setAdditionalDataExtractor(additionalExt)
+
+  def runArticleAssertions(article: Article, expectedTitle: String = null, expectedStart: String = null,
+                           expectedDescription: String = null,
+                           expectedKeywords: String = null, expectedAuthor: String = null,
+                           expectedPublishDate: Option[ZonedDateTime] = None): Unit = {
     articleReport.append("URL:      ").append(TAB).append(article.finalUrl).append(NL)
     articleReport.append("TITLE:    ").append(TAB).append(article.title).append(NL)
-    articleReport.append("IMAGE:    ").append(TAB).append(article.topImage.getImageSrc).append(NL)
-    articleReport.append("IMGKIND:  ").append(TAB).append(article.topImage.imageExtractionType).append(NL)
     articleReport.append("CONTENT:  ").append(TAB).append(article.cleanedArticleText.replace("\n", "    ")).append(NL)
     articleReport.append("METAKW:   ").append(TAB).append(article.metaKeywords).append(NL)
     articleReport.append("METADESC: ").append(TAB).append(article.metaDescription).append(NL)
@@ -72,13 +72,6 @@ object TestUtils {
       val actual: String = articleText.substring(0, expectedStart.length)
       assertEquals("The beginning of the article text was not as expected!", expectedStart, actual)
     }
-    if (expectedImage != null) {
-      val image: Image = article.topImage
-      assertNotNull("Top image was NULL!", image)
-      val src: String = image.getImageSrc
-      assertNotNull("Image src was NULL!", src)
-      assertEquals("Image src was not as expected!", expectedImage, src)
-    }
     if (expectedDescription != null) {
       val description: String = article.metaDescription
       assertNotNull("Meta Description was NULL!", description)
@@ -94,6 +87,10 @@ object TestUtils {
       val author = article.author
       assert(author.isDefined, "Author was not found")
       assertEquals(expectedAuthor, author.get)
+    }
+
+    if(expectedPublishDate.isDefined) {
+      assertEquals(article.publishDate, expectedPublishDate)
     }
   }
 

@@ -1,0 +1,818 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+.ntv-mw .socialContainer.twoCol {
+  position:relative !important;
+}
+</style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<link rel="icon" type="image/png" href="../../dist/assets/icons/favicon.ico">
+<link href="../../dist/assets/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="../../dist/assets/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="../../dist/assets/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="../../dist/assets/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="../../dist/assets/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="../../dist/assets/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="../../dist/assets/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<link rel="stylesheet" type="text/css" href="/dist/css_1510928056979/main.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<script type="text/javascript" src="/dist/bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular/angular.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-animate/angular-animate.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-touch/angular-touch.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-ui/build/angular-ui.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/toastr/toastr.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/shortcuts/sticky.min.js"></script>
+<script type="text/javascript"
+        src="/dist/bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/moment/min/moment.min.js"></script>
+<script type='text/javascript' src='../../dist/assets/js/ng-infinite-scroll.js'></script>
+<meta property="al:ios:app_name" content="ap-news-app">
+<meta property="al:ios:app_store_id" content="364677107">
+
+<meta name="ap-news-app" content="app-id=364677107, app-argument=https://apnews.com/f4f6e2d57e514e2da055d3d335285f26?utm_campaign=SocialFlow&amp;utm_source=Twitter&amp;utm_medium=AP">
+<meta property="fb:pages" content="249655421622"/>
+
+<meta name="referrer" content="origin">
+<meta name="google-site-verification" content="LJ7vk4czBDDGQtqBLAiY_a9dcLP5v9X-sLlrYaW5kbM" />
+
+<script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 11689; // ACCOUNT NUMBER
+    _sf_async_config.domain = 'apnews.com'; // DOMAIN
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    /** CONFIGURATION END **/
+    var _sf_startpt = (new Date()).getTime();
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<script type='text/javascript'>
+    var environment_type = 'PRODUCTION';
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<!-- Branch WEB SDK
+    TODO: Implement deeplinks and Journeys
+-->
+<script type="text/javascript">
+  (function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode".split(" "), 0);
+
+    branch.init('key_live_ndufC8VAc2V3dnaX3lenvdhkvAc3rs4S', function(err, data) {
+    });
+</script>
+
+    <script type="text/javascript" src="../../dist/assets/js/jquery.mobile.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/smartquotes.js"></script>
+    <script>smartquotes()</script>
+
+    <!-- APNews app tags -->
+    <meta property="al:ios:url" content="apnews://f4f6e2d57e514e2da055d3d335285f26">
+    <!-- video js -->
+    <link href="//vjs.zencdn.net/5.3/video-js.min.css" rel="stylesheet">
+    <!--<link rel="stylesheet" href="../../dist/assets/js/videojs.ads.css"/>
+    <link rel="stylesheet" href="../../dist/assets/js/videojs.ima.css"/>-->
+    <title>Swedish journalist&#39;s torso found in submarine death mystery</title>
+    <meta id="adMetaTags" name="keywords" content="Denmark,Copenhagen,Europe,Journalists"/>
+    <meta name="description" content="
+              COPENHAGEN, Denmark (AP) — Journalist Kim Wall had reported on conflicts, crises and natural disasters around the world. Earlier this month, she set out to sea from laid-back Cope"/>
+    <link rel="canonical" href="https://apnews.com/f4f6e2d57e514e2da055d3d335285f26"/>
+    <link rel="amphtml" href="https://apnews.com/amp/f4f6e2d57e514e2da055d3d335285f26">
+
+    <!-- OG Tags -->
+    <meta property="og:url" content="https://apnews.com/f4f6e2d57e514e2da055d3d335285f26?utm_campaign=SocialFlow&amp;utm_source=Twitter&amp;utm_medium=AP"/>
+    <meta property="og:image" content="https://storage.googleapis.com/afs-prod/media/media:0ee5484b40ec44e1aee1f086a3bce09b/800.jpeg"/>
+    <meta property="og:image:width" content="800"/>
+    <meta property="og:image:height" content="600"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Swedish journalist&#39;s torso found in submarine death mystery"/>
+    <meta property="og:site_name" content="AP News"/>
+    <meta property="fb:app_id" content="870613919693099"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:description" content="
+              COPENHAGEN, Denmark (AP) — Journalist Kim Wall had reported on conflicts, crises and natural disasters around the world. Earlier this month, she set out to sea from laid-back Cope"/>
+    <meta property="article:publisher" content="https://www.facebook.com/APNews"/>
+
+    <!-- Twitter Card tags -->
+    <meta property="twitter:card" content="summary_large_image"/>
+    <meta property="twitter:site" content="@ap"/>
+    <meta property="twitter:title" content="Swedish journalist&#39;s torso found in submarine death mystery"/>
+    <meta property="twitter:description" content="
+              COPENHAGEN, Denmark (AP) — Journalist Kim Wall had reported on conflicts, crises and natural disasters around the world. Earlier this month, she set out to sea from laid-back Cope"/>
+    <meta property="twitter:image" content="https://storage.googleapis.com/afs-prod/media/media:0ee5484b40ec44e1aee1f086a3bce09b/800.jpeg"/>
+    <meta property="twitter:url" content=" https://apnews.com/f4f6e2d57e514e2da055d3d335285f26"/>
+    <meta name="twitter:image:alt" content="https://storage.googleapis.com/afs-prod/media/media:0ee5484b40ec44e1aee1f086a3bce09b/800.jpeg"/>
+
+    <!-- AppNexus -->
+    <script src="https://acdn.adnxs.com/prebid/c/7403/pb.js" async=true></script>
+    <script>
+        var googletag = googletag || {};
+
+        googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function () {
+          googletag.pubads().disableInitialLoad();
+        });
+    </script>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {article: 'auto'}
+        );
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'),
+                document.getElementsByTagName('script')[0],
+                '//cdn.taboola.com/libtrc/associatedpress-apnews/loader.js');
+    </script>
+    <script type='text/javascript'>
+      googletag.cmd.push(function(){
+        var isSticked = false;
+        var bottomAdPos;
+        googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+            if (event.slot.getSlotElementId() === "div-gpt-ad-1461247613791-1") {
+              var bottomAd = $("#bottomAd");
+              bottomAdPos = bottomAd.position().top;
+              var articleContent = $("#articleContent");
+              var rightRail = $(".rightRail");
+              $(window).scroll(function() {
+                  var windowPos = $(window).scrollTop();
+                  if (windowPos >=  bottomAd.position().top + bottomAd.height()){
+                      if(!isSticked){
+                        bottomAdPos = bottomAd.position().top;
+                        isSticked = true;
+                      }
+                      bottomAd.addClass("stickBottomAd");
+                  }
+                  if(windowPos < bottomAdPos){
+                      bottomAd.removeClass("stickBottomAd");
+                  }
+              });
+             }
+         });
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle1', [[300, 250], [300, 600]], 'div-gpt-ad-1461247613791-1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle2', [300, 250], 'div-gpt-ad-1461247613791-2').addService(googletag.pubads());
+      });
+    </script>
+
+    <base href="/">
+    <script type="text/javascript">
+      $(document).ready(function(){
+        var imageClassList = $('.articleImage').prop('classList');
+        if(jQuery.inArray('tallImage',imageClassList) != -1){
+          $('.articleBody .ad-placeholder:nth(0)').remove();
+        }
+        $('a').on('click', function(){
+            ga('send',{
+                hitType: 'event',
+                eventCategory: 'StoryLink',
+                eventAction: 'LinkOpened',
+                eventLabel: $(this).href
+            });
+        });
+      });
+    </script>
+    <script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-19104461-33', 'auto');
+        ga('set', {
+            'dimension1': 'f4f6e2d57e514e2da055d3d335285f26',
+            'dimension4': "Swedish journalist's torso found in submarine death mystery",
+            'dimension8': '',
+            'dimension11'   : 'NO'
+        });
+        ga('send', 'pageview');
+
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://apnews.com/f4f6e2d57e514e2da055d3d335285f26"
+        },
+        "headline": "Swedish journalist&#39;s torso found in submarine death mystery",
+        "image":{
+            "@type": "ImageObject",
+            "url": "https://storage.googleapis.com/afs-prod/media/media:0ee5484b40ec44e1aee1f086a3bce09b/800.jpeg",
+            "height": "512",
+            "width": "800"
+        },
+        "datePublished": "2017-08-23 19:42:06",
+        "dateModified": "2017-08-23 19:42:06",
+        "author": {
+            "@type": "Person",
+            "name": "By JAN M. OLSEN"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Associated Press",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "http://apcontextual.appspot.com/Support/AMPLogo.png",
+              "width": 600,
+              "height": 60
+            }
+        },
+        "description": ""
+      }
+
+
+    </script>
+
+</head>
+<body ng-app="articleContent" style="background-color: white">
+<script type="text/javascript" src="../../dist/assets/js/socialMedia.js"></script>
+
+<!-- Modal -->
+<div id="imageModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="closeContentModalButton">
+                    <a type="button" data-dismiss="modal">&times;</a>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div id="imageCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+
+                        <div class="item  active ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:0ee5484b40ec44e1aee1f086a3bce09b/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+
+              <p>
+              In this image taken from video on Monday Aug. 21, 2017, shows police forensic investigators as they prepare to move a  headless body of a woman that was found near Amager Denmark in the Baltic Sea  where a missing Swedish journalist is believed to have died on a privately built submarine earlier this month .  The headless torso found on a beach near Amager has been identified as that of missing Swedish journalist Kim Wall, Danish police said Wednesday Aug. 23, 2017. (TV2 via AP)
+            </p>
+
+                            </div>
+                        </div>
+
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:f2208dc64a22455cb2eb45179a3f9cac/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+
+              <p>
+              FILE - This is a Dec. 28, 2015 file handout photo portrait of the Swedish journalist Kim Wall taken in Trelleborg, Sweeden. Danish police said Wednesday, Aug. 23, 2017,  that DNA tests from a headless torso found in the Baltic Sea matches with missing Swedish journalist Kim Wall, who is believed to have died on an amateur-built submarine that sank earlier this month. Wall, 30, was last seen alive on Aug. 10 on Danish inventor Peter Madsen's submarine, which sank off Denmark's eastern coast the day after. Madsen, who was arrested on preliminary manslaughter charges, denies having anything to do with Wall's disappearance.(Tom Wall via AP, File)
+            </p>
+
+                            </div>
+                        </div>
+
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:4736259293574d7aa729964878650101/800.jpeg" alt="Denmark OUT">
+                            <div class="carousel-caption">
+
+              <p>
+              Police search a waterway for body remains related to the ongoing Kim Wall murder investigation at the west coast of Amager close to Copenhagen, Denmark, Wednesday, Aug. 23, 2017.  The investigation continues after the headless torso identified as that of missing Swedish journalist Kim Wall, was found on a beach off Copenhagen. (Jens Dresling/Ritzau via AP)
+            </p>
+
+                            </div>
+                        </div>
+
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:7a6ce8a048c94d4aadb70ae03de6b380/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+
+              <p>
+              FILE -  This April 30, 2008 file photo, shows a submarine and its owner Peter Madsen. Danish police confirmed Wednesday Aug. 23, 2017, a headless torso found on a beach off Copenhagen has been identified as that of missing Swedish journalist Kim Wall. She is believed to have died on an amateur-built submarine earlier this month. Madsen has been arrested on suspicion of killing her. (Niels Hougaard /Ritzau via AP, File)
+            </p>
+
+                            </div>
+                        </div>
+
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:89239da7b05140c98025cded66b74b06/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+
+              <p>
+              FILE -  In this April 30, 2008 file photo, submarine owner Peter Madsen stands inside the vessel. Danish police confirmed Wednesday Aug. 23, 2017, a headless torso found on a beach off Copenhagen has been identified as that of missing Swedish journalist Kim Wall. She is believed to have died on an amateur-built submarine earlier this month. Madsen has been arrested on suspicion of killing her. (Niels Hougaard /Ritzau via AP, File)
+            </p>
+
+                            </div>
+                        </div>
+
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:b4e699864be24f29a95be8a6eaeb018c/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+
+              <p>
+              Copenhagen police homicide chief Jens Moeller speaks in a press conference in Copenhagen Wednesday, Aug. 23, 2017.  Danish police said Wednesday that a DNA test from a headless torso found in the Baltic Sea matches with missing Swedish journalist Kim Wall, who is believed to have died on an amateur-built submarine that sank. (Jens Dresling/Ritzau Foto via AP)
+            </p>
+
+                            </div>
+                        </div>
+
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:e78e83230087439d9ecef25fe9eebfda/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+
+              <p>
+              Copenhagen police homicide chief Jens Moeller speaks in a press conference in Copenhagen Wednesday, Aug. 23, 2017.  Danish police said Wednesday that a DNA test from a headless torso found in the Baltic Sea matches with missing Swedish journalist Kim Wall, who is believed to have died on an amateur-built submarine that sank. (Jens Dresling/Ritzau Foto via AP)
+            </p>
+
+                            </div>
+                        </div>
+
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:d33adafd97bd4d6d8e3556646b1c78c8/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+
+              <p>
+              Police officers attend the south coast of the isle of Amager, near Copenhagen, Denmark, Monday Aug. 21, 2017. The body of a woman has been found in the Baltic Sea near where a missing Swedish journalist is believed to have died on a privately built submarine, police in Denmark said late Monday. (Kenneth Meyer/Ritzau Foto via AP)
+            </p>
+
+                            </div>
+                        </div>
+
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:ee80d643a4e640debf6f650fb084c705/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+
+              <p>
+              Copenhagen police homicide chief Jens Moeller speaks in a press conference in Copenhagen Wednesday, Aug. 23, 2017.  Danish police said Wednesday that a DNA test from a headless torso found in the Baltic Sea matches with missing Swedish journalist Kim Wall, who is believed to have died on an amateur-built submarine that sank. (Jens Dresling/Ritzau Foto via AP)
+            </p>
+
+                            </div>
+                        </div>
+
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:98dac76405d84588abb4b34193b188d8/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+
+              <p>
+              In this Tuesday, Aug. 22, 2017 photo, a private submarine sits on a pier in Copenhagen harbor, Denmark. Danish police say a DNA test from a headless torso found in the Baltic Sea matches with missing Swedish journalist Kim Wall, who is believed to have died on the private submarine. (Jens Dresling/Ritzau Foto via AP)
+            </p>
+
+                            </div>
+                        </div>
+
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:aa5c9105a4b946d2a5cea9728de70bea/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+
+              <p>
+              A police officer attends the south coast of the isle of Amager, near Copenhagen, Denmark, Monday Aug. 21, 2017. The body of a woman has been found in the Baltic Sea near where a missing Swedish journalist is believed to have died on a privately built submarine, police in Denmark said late Monday. (Kenneth Meyer/Ritzau Foto via AP)
+            </p>
+
+                            </div>
+                        </div>
+
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:3552240310ad4850ac7016526f546deb/800.jpeg" alt="Denmark OUT">
+                            <div class="carousel-caption">
+
+              <p>
+              Police and other authorities search a waterway for body remains related to the ongoing Kim Wall murder investigation at the west coast of Amager close to Copenhagen, Denmark, Wednesday, Aug. 23, 2017.  The investigation continues after the headless torso identified as that of missing Swedish journalist Kim Wall, was found on a beach off Copenhagen. (Jens Dresling/Ritzau via AP)
+            </p>
+
+                            </div>
+                        </div>
+
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:9acb58fb66604417a6716c600a20f838/800.jpeg" alt="Denmark OUT">
+                            <div class="carousel-caption">
+
+              <p>
+              Police search a waterway for body remains related to the ongoing Kim Wall murder investigation at the west coast of Amager close to Copenhagen, Denmark, Wednesday, Aug. 23, 2017.  The investigation continues after a headless torso identified as that of missing Swedish journalist Kim Wall, was found Monday on a beach off Copenhagen.(Jens Dresling / ritzau via AP)
+            </p>
+
+                            </div>
+                        </div>
+
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:6fa0979620b14d55a3151fd5bc73d00f/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+
+              <p>
+              Police search a waterway for body remains related to the ongoing Kim Wall murder investigation at the west coast of Amager close to Copenhagen, Denmark, Wednesday, Aug. 23, 2017.  The investigation continues after the headless torso identified as that of missing Swedish journalist Kim Wall, was found on a beach off Copenhagen.(Jens Dresling / ritzau via AP)
+            </p>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Left and right controls -->
+
+                    <a class="left carousel-control" href="#imageCarousel" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><div class="sr-only carousel-round"> <svg class="carousel-arrow" viewBox="0 0 100 100"><path d="M 25,50 L 60,85 L 65,80 L 35,50  L 65,20 L 60,15 Z" class="arrow"></path></svg> </div></span>
+                    </a>
+                    <a class="right carousel-control" href="#imageCarousel" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"><div class="sr-only carousel-round"> <svg class="carousel-arrow" viewBox="0 0 100 100"><path d="M 25,50 L 60,85 L 65,80 L 35,50  L 65,20 L 60,15 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg> </div></span>
+                    </a>
+
+                    <ol class="carousel-indicators">
+
+                        <li data-target="#imageCarousel" data-slide-to="0"
+                            class="active" ></li>
+
+                        <li data-target="#imageCarousel" data-slide-to="1" ></li>
+
+                        <li data-target="#imageCarousel" data-slide-to="2" ></li>
+
+                        <li data-target="#imageCarousel" data-slide-to="3" ></li>
+
+                        <li data-target="#imageCarousel" data-slide-to="4" ></li>
+
+                        <li data-target="#imageCarousel" data-slide-to="5" ></li>
+
+                        <li data-target="#imageCarousel" data-slide-to="6" ></li>
+
+                        <li data-target="#imageCarousel" data-slide-to="7" ></li>
+
+                        <li data-target="#imageCarousel" data-slide-to="8" ></li>
+
+                        <li data-target="#imageCarousel" data-slide-to="9" ></li>
+
+                        <li data-target="#imageCarousel" data-slide-to="10" ></li>
+
+                        <li data-target="#imageCarousel" data-slide-to="11" ></li>
+
+                        <li data-target="#imageCarousel" data-slide-to="12" ></li>
+
+                        <li data-target="#imageCarousel" data-slide-to="13" ></li>
+
+                    </ol>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div page-header></div>
+
+
+<div class="articleView" >
+    <div class="articleContentContainer">
+        <div class="sideRail leftRail" >
+            <div class="fullscreen">
+                <div>
+                    <h4>By JAN M. OLSEN</h4>
+                </div>
+                <div>
+                    <h4 class="updatedString">Aug. 23, 2017</h4>
+                </div>
+            </div>
+            <div class="outerShareContainer">
+                <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://apnews.com/f4f6e2d57e514e2da055d3d335285f26?utm_campaign=SocialFlow&amp;utm_source=Twitter&amp;utm_medium=AP" data-title="Swedish journalist&#39;s torso found in submarine death mystery" data-image="https://storage.googleapis.com/afs-prod/media/media:0ee5484b40ec44e1aee1f086a3bce09b/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:f4f6e2d57e514e2da055d3d335285f26" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="Swedish journalist&#39;s torso found in submarine death mystery" data-url="https://apnews.com/f4f6e2d57e514e2da055d3d335285f26"
+     data-member="" data-id="urn:publicid:ap.org:f4f6e2d57e514e2da055d3d335285f26" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://apnews.com/f4f6e2d57e514e2da055d3d335285f26" data-member=""
+     data-id="urn:publicid:ap.org:f4f6e2d57e514e2da055d3d335285f26" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://apnews.com/f4f6e2d57e514e2da055d3d335285f26">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://apnews.com/f4f6e2d57e514e2da055d3d335285f26</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="Swedish journalist&#39;s torso found in submarine death mystery" is-share="false" url="https://apnews.com/f4f6e2d57e514e2da055d3d335285f26" id="urn:publicid:ap.org:f4f6e2d57e514e2da055d3d335285f26" short-id="f4f6e2d57e514e2da055d3d335285f26" type="content" page="card"
+     card-type="" card-title="Swedish journalist&#39;s torso found in submarine death mystery" member-name=""></div>
+            </div>
+
+            <div class="leftRailTags leftRailTitle">
+                <h4>RELATED TOPICS</h4>
+                <ul>
+
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Denmark">Denmark</a>
+                    </li>
+
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Copenhagen">Copenhagen</a>
+                    </li>
+
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Journalists">Journalists</a>
+                    </li>
+
+                </ul>
+            </div>
+            <div>
+                <span class="leftRailTitle">More from</span><br/>
+                <a href="/tag/apf-europe"><span class="moreFrom">Europe</span></a>
+            </div>
+        </div>
+
+
+        <div class="articleContent" id="articleContent">
+            <div class="dtTitle">
+                <ul class="topTags">
+
+                    <li class="tagsList">
+                        <a href="/tag/Denmark">Denmark</a>
+                    </li>
+
+                    <li class="tagsList">
+                        <a href="/tag/Copenhagen">Copenhagen</a>
+                    </li>
+
+                    <li class="tagsList">
+                        <a href="/tag/Journalists">Journalists</a>
+                    </li>
+
+                    <li class="tagsList">
+                        <a href="/tag/apf-europe">Europe</a>
+                    </li>
+                </ul>
+                <div class="dtTitleContainer">
+                    <h1 class="topTitle">Swedish journalist&#39;s torso found in submarine death mystery</h1>
+                </div>
+            </div>
+
+            <div class=" articleImage modalImageButton  ">
+                <div class="articleIcons">
+
+                    <button data-toggle="modal" class="modalImageButton"><img
+                            src="../../dist/assets/icons/slideshow-story-view.png" class="articleIcon"></button>
+
+
+                </div>
+                <img class="afkl-lazy-image primaryImage" src="https://storage.googleapis.com/afs-prod/media/media:0ee5484b40ec44e1aee1f086a3bce09b/800.jpeg"><!--src="https://storage.googleapis.com/afs-prod/media/media:0ee5484b40ec44e1aee1f086a3bce09b/800.jpeg"-->
+            </div>
+
+            <script>
+            </script>
+            <article id="contentArea"
+                     class="    ">
+
+                <div class="mobileTitle">
+                    <ul style="padding: 0">
+
+                        <li class="tagsList">
+                            <a href="/tag/Denmark">Denmark</a>
+                        </li>
+
+                        <li class="tagsList">
+                            <a href="/tag/Copenhagen">Copenhagen</a>
+                        </li>
+
+                        <li class="tagsList">
+                            <a href="/tag/Journalists">Journalists</a>
+                        </li>
+
+                        <li class="tagsList">
+                            <a href="/tag/apf-europe">Europe</a>
+                        </li>
+                    </ul>
+                    <h3>Swedish journalist&#39;s torso found in submarine death mystery</h3>
+                </div>
+
+                <div class="tabletTitle">
+                    <ul style="padding: 0">
+
+                        <li class="tagsList">
+                            <a href="/tag/Denmark">Denmark</a>
+                        </li>
+
+                        <li class="tagsList">
+                            <a href="/tag/Copenhagen">Copenhagen</a>
+                        </li>
+
+                        <li class="tagsList">
+                            <a href="/tag/Journalists">Journalists</a>
+                        </li>
+
+                        <li class="tagsList">
+                            <a href="/tag/apf-europe">Europe</a>
+                        </li>
+                    </ul>
+                    <h3>Swedish journalist&#39;s torso found in submarine death mystery</h3>
+                </div>
+                <div class="mobile">
+                    <div>
+                        <h6>By JAN M. OLSEN</h6>
+                    </div>
+                    <div>
+                        <h6>Aug. 23, 2017</h6>
+                    </div>
+
+                </div>
+                <div class="mobile mobileShareTemplate">
+                    <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://apnews.com/f4f6e2d57e514e2da055d3d335285f26?utm_campaign=SocialFlow&amp;utm_source=Twitter&amp;utm_medium=AP" data-title="Swedish journalist&#39;s torso found in submarine death mystery" data-image="https://storage.googleapis.com/afs-prod/media/media:0ee5484b40ec44e1aee1f086a3bce09b/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:f4f6e2d57e514e2da055d3d335285f26" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="Swedish journalist&#39;s torso found in submarine death mystery" data-url="https://apnews.com/f4f6e2d57e514e2da055d3d335285f26"
+     data-member="" data-id="urn:publicid:ap.org:f4f6e2d57e514e2da055d3d335285f26" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://apnews.com/f4f6e2d57e514e2da055d3d335285f26" data-member=""
+     data-id="urn:publicid:ap.org:f4f6e2d57e514e2da055d3d335285f26" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://apnews.com/f4f6e2d57e514e2da055d3d335285f26">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://apnews.com/f4f6e2d57e514e2da055d3d335285f26</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="Swedish journalist&#39;s torso found in submarine death mystery" is-share="false" url="https://apnews.com/f4f6e2d57e514e2da055d3d335285f26" id="urn:publicid:ap.org:f4f6e2d57e514e2da055d3d335285f26" short-id="f4f6e2d57e514e2da055d3d335285f26" type="content" page="card"
+     card-type="" card-title="Swedish journalist&#39;s torso found in submarine death mystery" member-name=""></div>
+                </div>
+                <div class="articleBody" mark-urls>
+
+<p>COPENHAGEN, Denmark (AP) &#8212; Journalist Kim Wall had reported on conflicts, crises and natural disasters around the world. Earlier this month, she set out to sea from laid-back Copenhagen for a story about an eccentric Danish inventor and his home-made submarine.</p>
+<p>She never returned. On Wednesday, police confirmed that Wall's headless torso had been found on a beach near the Danish capital. The inventor, Peter Madsen, has been arrested on suspicion of killing her.Wall, 30, was last seen alive on the evening of Aug. 10 on Madsen's submarine, named UC3 Nautilus. The freelance journalist's family says she was working on a story about Madsen, 46, a celebrity entrepreneur and engineer who dreamed of launching a manned space mission.</p><div class="ad-placeholder"></div>
+<p>Early the next day, Wall's boyfriend reported her missing. Madsen was rescued from his sinking vessel south of Copenhagen hours later. Wall was nowhere to be found.</p>
+<p>Madsen, who remains in police custody on suspicion of manslaughter, initially told police he had let Wall off on an island several hours into the trip. Later, he said she had died accidentally and he had "buried" her at sea.</p>
+<p>On Monday, a cyclist discovered a torso on a beach on Copenhagen's southern Amager island, near where Wall was believed to have died. Copenhagen police said Tuesday that the body's head, arms and legs had "deliberately been cut off."</p>
+<p>Copenhagen police investigator Jens Moeller Jensen told reporters Wednesday that DNA tests had confirmed the torso was Wall's.</p>
+<p>Dried blood found inside the submarine was also a match to DNA obtained from Wall's toothbrush and hairbrush, he said.</p>
+<p>Moeller Jensen said the torso "washed ashore after having been at sea for a while," and was attached to a piece of metal "likely with the purpose to make it sink."</p>
+<p>The investigator said marks on the torso indicated that someone had tried to press air out of the body so that it wouldn't float.</p>
+<p>The cause of the journalist's death is not yet known, police said. They are still looking for the rest of her body.</p>
+<p>Madsen's defense lawyer said her client still maintains that Wall died accidentally, and that the discovery of her torso doesn't mean he's guilty of killing her.</p>
+<p>"It doesn't change my client's explanation that an accident happened," Betina Hald Engmark told Danish tabloid BT.</p>
+<p>"No matter what, we find it very positive that she has been found now," she added.</p><div class="ad-placeholder"></div>
+<p>Wall's boyfriend alerted authorities early on Aug. 11 that the 40-ton, nearly 18-meter-long (60-foot-long) sub hadn't returned from a test run.</p>
+<p>The Danish navy launched a rescue operation, scrambling two helicopters and three ships for the search.</p>
+<p>The navy said the sub had been seen sailing, but sank shortly afterward. Madsen was picked up by a private boat.</p>
+<p>Police say they believe Madsen deliberately scuttled the submarine. Authorities later found it and brought it onto land for investigation.</p>
+<p>A self-taught aerospace engineer, Madsen was one of a group of entrepreneurs who founded Copenhagen Suborbitals, a private consortium to develop and construct submarines and manned spacecraft.</p>
+<p>Madsen made headlines when he launched the Nautilus &#8212; billed as the world's largest privately built sub &#8212; on May 3, 2008.</p>
+<p>In 2011, Copenhagen Suborbitals launched a homemade 30-foot (nine-meter) rocket five miles (eight kilometers) into the sky over the Baltic Sea, a step toward its unrealized goal of launching a person into space.</p>
+<p>The group split in 2014, and Nautilus is currently owned by Madsen's company Rocket Madsen Space Lab, billed on its website as "a place where nothing is impossible and where science and innovation meet practical engineering."</p>
+<p>Wall grew up in southern Sweden, just across a strait from Copenhagen. She studied at the Sorbonne university in Paris, the London School of Economics and at Columbia University in New York, graduating with a master's degree in journalism in 2013.</p>
+<p>She lived in New York and Beijing, her family said, and had written for The New York Times, The Guardian, the South China Morning Post and Vice Magazine, among other publications. She had reported from Cuba, Sri Lanka, Uganda, China and the Marshall Islands.</p>
+<p>Her family said that she had worked in many dangerous places as a journalist, and it was unimaginable "something could happen ... just a few miles from the childhood home."</p>
+<p>In an email to The Associated Press, the family said it received the confirmation of her death "with boundless sadness and dismay," adding "the tragedy has hit not only us and other families, but friends and colleagues all over the world."</p>
+<p>The Committee to Protect Journalists said it was "shocked and saddened" by Wall's death.</p>
+<p>"Wall's death on a seemingly low-risk assignment underscores the dangers that journalists face around the world every day," said the group's Europe and Central Asia Program Coordinator, Nina Ognianova.</p>
+<p>___</p>
+<p>Jill Lawless in London contributed to this report.</p>
+
+                </div>
+            </article>
+
+            <div class="taboolaContainer" id="taboolaContainer">
+                <div id="taboola-below-article-text-links"></div>
+                <div id="taboola-below-article-thumbnails-2nd"></div>
+                <div id="taboola-below-article-thumbnails"></div>
+            </div>
+        </div>
+
+        <div class="sideRail rightRail">
+            <div class="adUnit" id="div-gpt-ad-1461247613791-2">
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-2');
+                });
+            </script>
+            <div class="rightRailContent" side-feed tag-id="apf-europe" content-id="f4f6e2d57e514e2da055d3d335285f26">
+            </div>
+            <div class="bottomAd" id="bottomAd">
+                <div class="feedAd" id="div-gpt-ad-1461247613791-1">
+                </div>
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-1');
+                });
+            </script>
+        </div>
+
+
+
+    </div>
+    <div page-footer></div>
+</div>
+<script type="application/javascript" src="/dist/articleContent_1510928066470.js"></script>
+<script type="application/javascript" src="/dist/contentTemplates_1510928083140/templates.js"></script>
+<script src="//vjs.zencdn.net/5.3/video.min.js"></script>
+<script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+<script src="../../dist/assets/js/videojs.ads.js"></script>
+<script src="../../dist/assets/js/videojs.ima.js"></script>
+<script type="application/javascript" src="/dist/articleManager_1510928066470.js"></script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push(
+            {flush: true}
+    );
+</script>
+
+<script type="text/javascript">
+    $(function () {
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {
+                    mode: 'thumbnails-a',
+                    container: 'taboola-below-article-thumbnails',
+                    placement: 'Below Article Thumbnails',
+                    target_type: 'mix'
+                }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-thumbnails-a',
+                container: 'taboola-below-article-thumbnails-2nd',
+                placement: 'Below Article Thumbnails 2nd',
+                target_type: 'mix'
+            }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-text-links-a',
+                container: 'taboola-below-article-text-links',
+                placement: 'Below Article Text Links',
+                target_type: 'mix'
+            }
+        );
+    });
+</script>
+<!-- Twitter universal website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nv0fp',
+        {tw_sale_amount: 0, tw_order_quantity: 0}
+);</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://analytics.twitter.com/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="//t.co/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+</noscript>
+<!-- End Twitter universal website tag code -->
+<input id="hiddenTitle" type="hidden" value="Swedish journalist&#39;s torso found in submarine death mystery">
+<input type="hidden" value="None" id="userAccount">
+<input type="hidden" value="None" id="userToken">
+<input type="hidden" value="https://afs-prod.appspot.com" id="baseAFS">
+<input type="hidden" value="https://storage.googleapis.com/afs-prod/" id="baseGCS">
+<input type="hidden" value="37.485215,-122.236355" id="latLong">
+<input type="hidden" value="ca" id="region">
+<input type="hidden" value="redwood city" id="city">
+<input type="hidden" value="US" id="country">
+
+<script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.sections = 'Europe';
+    _sf_async_config.authors = 'By JAN M. OLSEN';
+    _sf_async_config.alias = window.location.href;
+
+    /** CONFIGURATION END **/
+    (function() {
+      function loadChartbeat() {
+          window._sf_endpt = (new Date()).getTime();
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+          document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function() {
+              oldonload();
+              loadChartbeat();
+          };
+
+      })();
+  </script>
+</body>
+</html>

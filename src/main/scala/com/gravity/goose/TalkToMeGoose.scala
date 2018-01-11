@@ -28,8 +28,6 @@ object TalkToMeGoose {
       val config: Configuration = new Configuration
       config.enableImageFetching = false
       val goose = new Goose(config)
-      val article = goose.extractContent(url)
-      println(article.cleanedArticleText)
     }
     catch {
       case e: Exception => {

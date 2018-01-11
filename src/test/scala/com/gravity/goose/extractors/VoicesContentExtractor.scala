@@ -2,6 +2,7 @@ package com.gravity.goose.extractors
 
 import com.gravity.goose.Article
 import com.gravity.goose.text.string
+import com.gravity.goose.utils.Logging
 
 /**
  * Created by IntelliJ IDEA.
@@ -10,7 +11,7 @@ import com.gravity.goose.text.string
  * Time: 11:31 AM
  */
 
-class VoicesContentExtractor extends ContentExtractor {
+class VoicesContentExtractor extends StandardContentExtractor {
   override def getTitle(article: Article): String = {
     try {
       val titleElem = article.doc.getElementsByTag("title")
@@ -32,4 +33,6 @@ class VoicesContentExtractor extends ContentExtractor {
       }
     }
   }
+
+
 }

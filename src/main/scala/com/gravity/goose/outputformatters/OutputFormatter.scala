@@ -167,7 +167,7 @@ trait OutputFormatter {
     }
 
     val text = tagReplace replaceAllIn(sb.toString(), "")
-    text
+    text + " "
   }
 
   /**

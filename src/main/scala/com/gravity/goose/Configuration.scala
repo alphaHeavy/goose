@@ -18,13 +18,8 @@
 
 package com.gravity.goose
 
-import network.{HtmlFetcher, AbstractHtmlFetcher}
-import org.jsoup.nodes.Element
-import java.util.Date
-import org.json4s._
-import org.json4s.native.JsonMethods._
 import scala.beans.BeanProperty
-import com.gravity.goose.extractors.{StandardContentExtractor, ContentExtractor, AdditionalDataExtractor, PublishDateExtractor}
+import com.gravity.goose.extractors._
 
 
 /**
@@ -76,70 +71,9 @@ class Configuration {
   @BeanProperty
   var browserUserAgent: String = "Mozilla/5.0 (X11; U; Linux x86_64; de; rv:1.9.2.8) Gecko/20100723 Ubuntu/10.04 (lucid) Firefox/3.6.8"
 
-  var contentExtractor: ContentExtractor = StandardContentExtractor
+  var contentExtractor: ContentExtractor = new MultiPartStoryExtractor
 
-  var publishDateExtractor: PublishDateExtractor = new PublishDateExtractor {
-    import PublishDateExtractor._
-
-    def extractCandidate(rootElement: Element, selector: String): Seq[java.util.Date] = {
-      import scala.collection.JavaConversions._
-
-      try {
-        rootElement.select(selector).flatMap(item => {
-          if (item.nodeName() == "time") {
-            safeParseISO8601Date(item.attr("datetime"))
-          }
-          else if(item.nodeName() == "abbr")
-          {
-            safeParseISO8601Date(item.attr("title"))
-          }
-          else if(item.nodeName() == "script")
-          {
-            val json = parse(item.html,false)
-            val dateCreated = json \ "dateCreated"
-            safeParseISO8601Date(dateCreated.asInstanceOf[JString].s)
-          }
-          else {
-            safeParseISO8601Date(item.attr("content"))
-          }
-        }
-        )
-      }
-      catch {
-        case e: Exception =>
-          Nil
-      }
-    }
-
-    final val pubSelectors = Seq(
-      "meta[property~=article:published_time]",
-      "meta[name=date]",
-      "meta[name=parsely-pub-date]",
-      "time",
-      "meta[itemprop=datePublished]",
-      "meta[name=dcterms.date]",
-      "meta[property=tout:article:pubdate]",
-      "meta[name=sailthru.date]",
-      "script[type=application/ld+json]",
-      "abbr[itemprop=datePublished]",
-      "span[itemprop=datePublished]"
-    )
-
-    final val modSelectors = Seq(
-      "meta[property~=article:modified_time]",
-      "meta[itemprop=dateModified]",
-      "meta[property~=og:updated_time]"
-    )
-
-    def extract(rootElement: Element): java.util.Date = {
-      // A few different ways to get a date.
-      def bestPubDate = pubSelectors.flatMap(extractCandidate(rootElement, _)).reduceOption(minDate)
-      def bestModDate = modSelectors.flatMap(extractCandidate(rootElement, _)).reduceOption(minDate)
-
-      // Return the oldest 'published' date, or else the oldest 'modified' date, or null if none.
-      bestPubDate.orElse(bestModDate).getOrElse(null)
-    }
-  }
+  var publishDateExtractor: PublishDateExtractor = new PublishDateExtractor(PublishDateExtractor.timezones)
 
   var additionalDataExtractor: AdditionalDataExtractor = new AdditionalDataExtractor
 
@@ -174,14 +108,4 @@ class Configuration {
   def setAdditionalDataExtractor(extractor: AdditionalDataExtractor) {
     this.additionalDataExtractor = extractor
   }
-
-  var htmlFetcher: AbstractHtmlFetcher = HtmlFetcher
-
-  def setHtmlFetcher(fetcher: AbstractHtmlFetcher) {
-    require(fetcher != null, "fetcher MUST NOT be null!")
-    this.htmlFetcher = fetcher
-  }
-
-  def getHtmlFetcher: AbstractHtmlFetcher = htmlFetcher
-
 }
