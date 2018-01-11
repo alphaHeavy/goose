@@ -10,7 +10,7 @@ class DallasNewsExtractor extends StandardContentExtractor {
     import scala.collection.JavaConverters._
     val foo = article.doc.select("div[class=art-story__text]")
 
-    val newElement = new Element("div")
+    val newElement = article.doc.createElement("div")
 
     foo.iterator().asScala.foreach(newElement.appendChild(_))
     article.topNode = postExtractionCleanup(newElement)

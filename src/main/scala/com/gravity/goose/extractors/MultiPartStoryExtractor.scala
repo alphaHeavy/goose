@@ -12,7 +12,7 @@ class MultiPartStoryExtractor extends StandardContentExtractor {
     val candidates = selectors.map(selector => article.doc.select(selector)).filter(_.size > 0)
     if(candidates.size == 1)
       {
-        val newElement = new Element("div")
+        val newElement = article.doc.createElement("div")
         candidates(0).iterator().asScala.foreach(newElement.appendChild(_))
         article.topNode = postExtractionCleanup(newElement)
         StandardOutputFormatter.getFormattedText(article.topNode)
