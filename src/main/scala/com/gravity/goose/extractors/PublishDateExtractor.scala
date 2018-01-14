@@ -39,28 +39,28 @@ import org.jsoup.nodes.Element
 
 class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
 
-  def extractCandidate(rootElement: Element, selector: String): Seq[ZonedDateTime] = {
+  def extractCandidate(rootElement: Element, selector: String, url: Uri): Seq[ZonedDateTime] = {
     import scala.collection.JavaConversions._
 
     try {
       rootElement.select(selector).flatMap(item => {
       if (item.nodeName() == "time") {
-        PublishDateExtractor.safeParseISO8601Date(item.attr("datetime"))
+        PublishDateExtractor.safeParseISO8601Date(item.attr("datetime"), url)
       }
       else if(item.nodeName() == "abbr")
       {
-        PublishDateExtractor.safeParseISO8601Date(item.attr("title"))
+        PublishDateExtractor.safeParseISO8601Date(item.attr("title"), url)
       }
       else if(item.nodeName() == "script")
       {
         val json = parse(item.html,false)
 
         val dateCreated = json \\ "dateCreated" match {
-          case JString(x) => Some(PublishDateExtractor.safeParseISO8601Date(x))
+          case JString(x) => Some(PublishDateExtractor.safeParseISO8601Date(x, url))
           case _ => None
         }
         val datePublished = json \\ "datePublished" match {
-          case JString(x) => Some(PublishDateExtractor.safeParseISO8601Date(x))
+          case JString(x) => Some(PublishDateExtractor.safeParseISO8601Date(x, url))
           case _ => None
         }
 
@@ -79,7 +79,7 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
         PublishDateExtractor.parseBusinessInsiderDate(item.attr("rel"))
       }
       else {
-        PublishDateExtractor.safeParseISO8601Date(item.attr("content"))
+        PublishDateExtractor.safeParseISO8601Date(item.attr("content"), url)
       }})
     }
     catch {
@@ -89,7 +89,7 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
     }
   }
 
-  def extractCandidateNoTimeZone(rootElement: Element, selector: String, zoneId: ZoneId): Seq[ZonedDateTime] = {
+  def extractCandidateNoTimeZone(rootElement: Element, selector: String, zoneId: ZoneId, url: Uri): Seq[ZonedDateTime] = {
     try {
       import scala.collection.JavaConverters._
       rootElement.select(selector).asScala.flatMap(item => {
@@ -135,7 +135,7 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
     }
     catch {
       case e: Exception =>
-        println(e)
+        println(e + " " + url.toString)
         Nil
     }
   }
@@ -180,7 +180,8 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
     "span[property=article:published_time]",
     "meta[name=Search.Updated]",
     "meta[property=article:published_time]",
-    "span[id=pubilsh_date]" // Miami Herald
+    "span[id=pubilsh_date]", // Miami Herald
+    "meta[name=publish_date]"
   )
 
   final val modSelectors = Seq(
@@ -191,14 +192,14 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
   def extract(rootElement: Element, url: Uri): Option[ZonedDateTime] = {
     val hostname = url.host.get
     // A few different ways to get a date.
-    def bestPubDate = pubSelectors.flatMap(extractCandidate(rootElement, _)).reduceOption(PublishDateExtractor.minDate)
-    def bestModDate = modSelectors.flatMap(extractCandidate(rootElement, _)).reduceOption(PublishDateExtractor.minDate)
+    def bestPubDate = pubSelectors.flatMap(extractCandidate(rootElement, _, url)).reduceOption(PublishDateExtractor.minDate)
+    def bestModDate = modSelectors.flatMap(extractCandidate(rootElement, _, url)).reduceOption(PublishDateExtractor.minDate)
 
     hostnameTZ.get(hostname) match {
       case Some(x) =>
-        def bestPubDateNoTimeZone = pubSelectors.flatMap(extractCandidateNoTimeZone(rootElement, _, x))
+        def bestPubDateNoTimeZone = pubSelectors.flatMap(extractCandidateNoTimeZone(rootElement, _, x, url))
           .reduceOption(PublishDateExtractor.minDate)
-        def bestModDateNoTimeZone = modSelectors.flatMap(extractCandidateNoTimeZone(rootElement, _, x))
+        def bestModDateNoTimeZone = modSelectors.flatMap(extractCandidateNoTimeZone(rootElement, _, x, url))
           .reduceOption(PublishDateExtractor.minDate)
 
         bestPubDate.orElse(bestModDate).orElse(bestPubDateNoTimeZone).orElse(bestModDateNoTimeZone)
@@ -252,7 +253,7 @@ object PublishDateExtractor extends Logging {
   /**
     * Helper function to parse ISO 8601 date/time strings safely.
     */
-  def safeParseISO8601Date(txt: String): Option[ZonedDateTime] = {
+  def safeParseISO8601Date(txt: String, url: Uri): Option[ZonedDateTime] = {
     if (txt == null || txt.isEmpty)
       return None
 
@@ -294,7 +295,7 @@ object PublishDateExtractor extends Logging {
     } catch {
       case ex: Exception =>
         println(ex)
-        info(s"`$txt` could not be parsed to date as it did not meet the ISO 8601 spec")
+        info(s"`$txt` could not be parsed to date as it did not meet the ISO 8601 spec" + " " + url.toString)
         None
     }
   }
