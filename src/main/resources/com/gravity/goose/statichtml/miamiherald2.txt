@@ -1,0 +1,3382 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+    <meta charset="utf-8">
+
+
+
+
+<script>
+    var gomez={
+    gs: new Date().getTime(),
+    acctId:"D3FD89",
+    grpId:"Escenic",
+    grpId1:"MIA",
+    grpId2:window.location.hostname,
+    grpId3:"unknown",
+    pgId:"story-detail",
+    wrate:1
+};
+</script>
+
+<script type='text/javascript'>
+    var a=window;a.dT_?a.console&&a.console.log("Duplicate agent injection detected, turning off redundant initConfig."):navigator.userAgent&&0<=navigator.userAgent.indexOf("RuxitSynthetic")||window.dT_||(window.dT_={cfg:"async=1|cors=1|doNotDetect=scr|md=acctId=bgomez.acctId,grpId=bgomez.grpId,grpId1=bgomez.grpId1,grpId2=bgomez.grpId2,grpId3=bgomez.grpId3,pgId=bgomez.pgId|lastModification=1501178412042|tp=500,50,5,1,10|reportUrl=http://mcclatchy.dynatracesaas.com/dynaTraceMonitor|agentUri=http://mcclatchy.dynatracesaas.com/dtagent_A23STVhjpqrstx_7000000031020.js|auto=#AUTO#|domain=#DOMAIN#|rid=RID_#REQUEST_ID#|rpid=#RESPONSE_ID#|app=Default Application"});(function(){function y(){var a=0;try{a=I.performance.timing.navigationStart+Math.floor(I.performance.now())}catch(b){}return 0>=a||isNaN(a)?(new Date).getTime():a}function n(a,b){for(var e=1;e<arguments.length;e++)a.push(arguments[e])}function m(a,b){return parseInt(a,b||10)}function g(a,b){var e=-1;b&&a&&a.indexOf&&(e=a.indexOf(b));return e}function J(a){document.cookie=a+'="";path=/'+(d.domain?";domain="+d.domain:"")+"; expires=Thu, 01 Jan 1970 00:00:01 GMT;"}function K(a){a=encodeURIComponent(a);
+    var b=[];if(a)for(var e=0;e<a.length;e++){var c=a.charAt(e);n(b,ia[c]||c)}return b.join("")}function z(a,b,e,c){b||0==b?(b=(""+b).replace(/[;\n\r]/g,"_"),b="DTSA"===a.toUpperCase()?K(b):b,a=a+"="+b+";path=/"+(d.domain?";domain="+d.domain:""),e&&(a+=";expires="+e.toUTCString()),c&&(a+=";Secure"),document.cookie=a):J(a)}function r(a){var b,e,c,d=document.cookie.split(";");for(b=0;b<d.length;b++)if(e=g(d[b],"="),c=d[b].substring(0,e),e=d[b].substring(e+1),c=c.replace(/^\s+|\s+$/g,""),c===a)return"DTSA"===
+    a.toUpperCase()?decodeURIComponent(e):e;return""}function M(a){return/^[0-9A-Za-z_\$\+\/\.\-\*%\|]*$/.test(a)}function A(){var a=r(t);return a&&M(a)?a:""}function N(a){z(t,a,void 0,c.bcv("ssc"))}function O(a){a=a||A();var b={sessionId:null,c:null};if(a){var e=g(a,"|"),c=a;-1!==e&&(c=a.substring(0,e));e=g(c,"$");-1!==e?(b.sessionId=c.substring(e+1),b.c=c.substring(0,e)):b.sessionId=c}return b}function P(a){return O(a).c}function Q(a){if(a)return O(a).sessionId;if(a=A()){var b=g(a,"|");-1!=b&&(a=a.substring(0,
+    b))}return a}function B(a,b){return Math.floor(Math.random()*(b-a+1))+a}function R(a){var b=window.crypto||window.msCrypto,e;if(b)e=new Int8Array(a),b.getRandomValues(e);else for(e=[],b=0;b<a;b++)e.push(B(0,32));a=[];for(b=0;b<e.length;b++){var c=Math.abs(e[b]%32);a.push(String.fromCharCode(c+(9>=c?48:55)))}return a.join("")}function S(a){return document.getElementsByTagName(a)}function T(a){var b=a.length;if("number"===typeof b)a=b;else{for(var b=0,e=2048;a[e-1];)b=e,e+=e;for(var c=7;1<e-b;)c=(e+
+    b)/2,a[c-1]?b=c:e=c;a=a[c]?e:b}return a}function U(a){var b={};a=a.split("|");for(var e=0;e<a.length;e++){var c=a[e].split("=");2==c.length&&(b[c[0]]=decodeURIComponent(c[1].replace(/\+/g," ")))}return b}function p(a,b,e){b=b||{};a=a.split("|");for(var c=0;c<a.length;c++){var d=g(a[c],"="),f;-1===d?(f=a[c],b[f]="1"):(f=a[c].substring(0,d),b[f]=a[c].substring(d+1,a[c].length))}e||V(b);return b}function C(a){return a in d?d[a]:W[a]}function X(a){var b=location.hostname;return b&&a?b==a||-1!==b.indexOf("."+
+    a,b.length-("."+a).length):!0}function D(a){d[a]=0>g(d[a],"#"+a.toUpperCase())?d[a]:""}function ja(a,b){var e={};d.legacy="1";if(a){var f=/([a-zA-Z]*)[0-9]{0,4}_([a-zA-Z_0-9]*)_[0-9]+/g.exec(a);f&&f.length&&(e.csu=f[1],e.featureHash=f[2],e.dtVersion=c.version[0]+""+c.version[1])}b&&p(b,e,!0);X(e.domain)||(delete e.domain,e.domainOverride=location.hostname+","+e.domain);return e}function V(a){var b=a.spc;if(b){var c=document.createElement("textarea");c.innerHTML=b;a.spc=c.value}}function Y(a){var b=
+    a.agentUri;b&&-1<g(b,"_")&&(b=/([a-zA-Z]*)[0-9]{0,4}_([a-zA-Z_0-9]*)_[0-9]+/g.exec(b),a.csu=b[1],a.featureHash=b[2])}function Z(a){a.bp1||(a.bp2="1");X(d.domain)||(d.domainOverride=location.hostname+","+d.domain,delete d.domain)}function u(a){var b=document.cookie?document.cookie.split(a).length-1:0;if(1<b){var c=d.domain||window.location.hostname,f=window.location.hostname,L=window.location.pathname,h=0,k=0;q.push(a);do{var v=f.substr(h);if(v!=c||"/"!==L){var g=a,l=v==c?null:v,n=L,m=1,p=0;do document.cookie=
+    g+'=""'+(l?";domain="+l:"")+";path="+n.substr(0,m)+"; expires=Thu, 01 Jan 1970 00:00:01 GMT;",m=n.indexOf("/",m),p++;while(-1!=m&&5>p);g=document.cookie?document.cookie.split(a).length-1:0;g<b&&(q.push(v),b=g)}h=f.indexOf(".",h)+1;k++}while(0!=h&&10>k&&1<b)}}function aa(a,b){for(var c=ba(b),d=!1,f=0;f<c.length;f++)c[f].frameId===w&&(c[f].b=a,d=!0);d||n(c,{frameId:w,b:a});ca(c)}function ca(a){var b="";if(a){for(var b=[],c=0;c<a.length;c++)"-"!=a[c].b&&(0<c&&0<b.length&&n(b,"p"),n(b,a[c].frameId),n(b,
+    "h"),n(b,a[c].b));b=b.join("")}b||(b="-");z("dtPC",b)}function ba(a){var b=r("dtPC"),c=[];if(b&&"-"!==b)for(var b=b.split("p"),d=0;d<b.length;d++){var f=b[d].split("h");if(2===f.length&&f[0]&&f[1]){var h=f[0],g;if(!(g=a)){g=m(h.split("_")[0]);var k=y()%6E8;k<g&&(k+=6E8);g=g+9E5>k}g&&n(c,{frameId:h,b:f[1]})}}return c}var l=window;if(!l.dT_||!l.dT_.cfg||"string"!=typeof l.dT_.cfg||l.dT_.initialized)l.console&&l.console.log("Initconfig not found or agent already initialized! This is an injection issue.");
+    else if(!(navigator.userAgent&&0<=navigator.userAgent.indexOf("RuxitSynthetic"))){var ka=window.setTimeout,E=window.sessionStorage,c={version:"10123170720155615",cfg:window.dT_&&window.dT_.cfg,ica:1};window.dT_=c;var I=window;c.agentStartTime=y();c.nw=y;c.apush=n;c.st=function(a,b){return ka(a,b)};c.buildType="appmon";var ia={"!":"%21","~":"%7E","*":"%2A","(":"%28",")":"%29","'":"%27",$:"%24",";":"%3B",",":"%2C"};c.gSSV=function(a){try{if(E)return E[a]}catch(b){}return null};c.sSSV=function(a,b){try{window.sessionStorage.setItem(a,
+    b)}catch(e){}};c.pn=m;c.iVSC=M;c.io=g;c.dC=J;c.sC=z;c.esc=K;c.gSId=P;c.gDtc=Q;c.gSC=A;c.sSC=N;c.gC=r;c.cRN=B;c.cRS=R;c.gEL=T;c.gEBTN=S;var d={reportUrl:"dynaTraceMonitor",initializedModules:"",csu:"dtagent",dataDtConfig:c.cfg},F;try{F=window.localStorage}catch(a){}(function(){var a=d.dataDtConfig;"string"==typeof a&&-1==g(a,"#CONFIGSTRING")&&(p(a,d),D("domain"),D("auto"),D("app"),Y(d))})();var l=S("script"),da=T(l),f,h;if(0<da)for(var k,ea=d.csu+"_bootstrap.js",G=0;G<da;G++)if(k=l[G],k.attributes){var fa=
+    k.attributes.getNamedItem("data-dtconfig"),x=k.src;if(fa)if(h=ja(k.src,fa.value),!f)f=h;else if("1"!=h.syntheticConfig){f=h;break}(k=x&&x.indexOf(ea))&&0<=k&&(k=k+ea.length+5,h||(h=d),h.app=x.length>k?x.substr(k):"Default%20Application")}if(f)for(var H in f)f.hasOwnProperty(H)&&(d[H]=f[H]);d.rx_visitID&&(c.rx_visitID=d.rx_visitID);(function(){var a=d.csu,a=(a.indexOf("dbg")==a.length-3?a.substr(0,a.length-3):a)+"_"+d.app+"_Store";try{var b=F&&F.getItem(a);if(b){var c=U(b),f=p(c.config,c).lastModification||
+    "",g=d.lastModification||"",h=m(f.substr(0,13)),k=m(g.substr(0,13));if(!g||h>=k)for(var l in c)c.hasOwnProperty(l)&&("config"==l?p(c[l],d):d[l]=c[l])}}catch(ma){}})();Z(d);try{var ga=d.ign;if(ga&&(new RegExp(ga)).test(window.location.href)){document.dT_=window.dT_=null;return}}catch(a){}var t="dtCookie";c.gSCN=function(){return t};c.gPCHN=function(){return"x-dtpc"};c.gRHN=function(){return"x-dtreferer"};c.pageContextCookieName="dtPC";c.latencyCookieName="dtLatC";c.mobileSessionIDCookieName="dtAdk";
+    c.cfg=d;c.pCfg=U;c.pCSAA=p;c.cFHFAU=Y;c.sCD=Z;c.hDSC=V;c.bcv=function(a){a=C(a);return"false"===a||"0"===a?!1:!!a};c.ncv=function(a){var b=m(C(a));isNaN(b)&&(b=m(W[a]));return b};c.scv=function(a){return String(C(a))};c.stcv=function(a,b){d[a]=b};c.rplC=function(a){return d=a};var q=[];u("dtPC");u(t);u("dtLatC");u("rxvt");c.aDCI=function(a){0<q.length&&(a.a("dCN",q.join(","),!1),q=[])};var W={ade:"",app:"",bandwidth:"300",bp1:!1,bp2:!1,bs:!1,cors:!1,csu:"",cux:!1,disableCookieManager:!1,disableLogging:!1,
+    disableXhrFailures:!1,domain:"",domainOverride:"",doNotDetect:"",dsndb:!1,dsss:!1,euf:!1,evl:"",extblacklist:"",exteventsoff:!1,fa:!1,featureHash:"",ffi:!1,hvt:216E5,ign:"",instr:"",lab:!1,legacy:!1,lmut:!0,lzwd:!1,md:"",mdn:5E3,mepp:10,moa:30,mrt:3,msl:3E4,ncw:!1,ntd:!1,oat:180,pui:!1,reportUrl:"",rid:"",ridPath:"",rpid:"",rt:0,rtl:100,rtp:1,rtt:1E3,rtu:200,sl:100,sosi:!1,spc:"",spl:!1,ssc:!1,st:3E3,svNB:!1,tp:"500,50,3",tvc:3E3,uam:!1,WST:!1,xb:"",xbp:null,xmut:!0,xt:0},w=c.agentStartTime%6E8+"_"+
+    m(B(0,1E3));c.gFId=function(){return w};c.frameId=w;aa(1);c.gPC=ba;c.cPC=aa;c.sPC=ca;var ha;try{ha=E.getItem("dtDisabled")}catch(a){}d.auto||d.legacy||ha||(f=d.agentname||d.csu||"dtagent",f=r("dtUseDebugAgent")?d.debugName||f+"dbg":d.name||f,h=d.agentUri||d.agentLocation+"/"+f+"_"+d.featureHash+"_"+d.buildNumber,d.async?(f=document.createElement("script"),f.setAttribute("src",h),d.async&&f.setAttribute("defer","true"),f.setAttribute("crossorigin","anonymous"),h=document.getElementsByTagName("script")[0],
+    h.parentElement.insertBefore(f,h)):document.write('<script type="text/javascript" src="'+h+'">\x3c/script>'));Q()||N(""+R(32));var la=P();c.gcSId=function(){return la}}})();
+</script>
+
+
+
+
+
+        <meta name="msapplication-TileColor" content="#FFFFFF"/>
+
+
+
+        <meta name="msapplication-TileImage" content="http://www.miamiherald.com/static/theme/miamiherald/base/ico/windowsmetro-144.png"/>
+
+
+
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.miamiherald.com/static/theme/miamiherald/base/ico/apple-touch-icon-144-precomposed.png"/>
+
+
+
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.miamiherald.com/static/theme/miamiherald/base/ico/apple-touch-icon-114-precomposed.png"/>
+
+
+
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.miamiherald.com/static/theme/miamiherald/base/ico/apple-touch-icon-72-precomposed.png"/>
+
+
+
+        <link rel="apple-touch-icon-precomposed" href="http://www.miamiherald.com/static/theme/miamiherald/base/ico/apple-touch-icon-57-precomposed.png"/>
+
+
+
+        <link rel="shortcut icon" href="http://www.miamiherald.com/static/theme/miamiherald/base/ico/favicon.png"/>
+
+
+
+        <meta name="twitter:card" content="summary_large_image"/>
+
+
+
+        <meta name="twitter:site" content="miamiherald"/>
+
+
+
+        <meta name="twitter:title" content="With Venezuela in chaos, asylum petitions have tripled. Most seek refuge in U.S."/>
+
+
+
+        <meta property="og:site_name" content="miamiherald"/>
+
+
+
+        <meta property="og:type" content="article"/>
+
+
+
+        <meta property="og:title" content="With Venezuela in chaos, asylum petitions have tripled. Most seek refuge in U.S."/>
+
+
+
+        <meta property="og:url" content="http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article156672104.html"/>
+
+
+
+        <meta property="og:image" content="http://www.miamiherald.com/news/nation-world/world/americas/uzdw8g-CubanMigrants0030JAI.JPG/alternates/LANDSCAPE_1140/Cuban+Migrants0030+JAI.JPG"/>
+
+
+
+        <meta name="twitter:image" content="http://www.miamiherald.com/news/nation-world/world/americas/uzdw8g-CubanMigrants0030JAI.JPG/alternates/LANDSCAPE_1140/Cuban+Migrants0030+JAI.JPG"/>
+
+
+
+        <meta property="og:description" content="The number of Venezuelans seeking asylum tripled from 2015 to 2016, as the once-wealthy nation continues to be trapped in a punishing economic, social and political crisis. Most sought refuge in the United States, according to an annual UN report."/>
+
+
+
+        <meta name="twitter:description" content="The number of Venezuelans seeking asylum tripled from 2015 to 2016, as the once-wealthy nation continues to be trapped in a punishing economic, social and political crisis. Most sought refuge in the United States, according to an annual UN report."/>
+
+
+
+        <meta property="fb:app_id" content="133847067760"/>
+
+
+
+
+
+        <meta name="title" content="Venezuela asylum petitions tripled, mostly to U.S. | Miami Herald"/>
+
+
+
+        <meta name="allow-comments" content="true"/>
+
+
+
+        <meta name="description" content="The number of Venezuelans seeking asylum tripled from 2015 to 2016, as the once-wealthy nation continues to be trapped in a punishing economic, social and political crisis. Most sought refuge in the United States, according to an annual UN report."/>
+
+
+
+        <meta name="keywords" content="Venezuela, South America, Nicolas Maduro, asylum seekers, refugees, UNHCR, PSUV, Chavez"/>
+
+
+
+        <meta name="news_keywords" content="Venezuela, South America, Nicolas Maduro, asylum seekers, refugees, UNHCR, PSUV, Chavez"/>
+
+
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+
+
+        <meta name="googlebot" content="noodp, noarchive"/>
+
+
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+
+
+        <link rel="canonical" href=""/>
+
+
+
+        <meta name="original-source" content=""/>
+
+
+
+        <meta name="google-site-verification" content="CGBP3Njv1HyxLF1VInLHOprjcfJXffMVe5Udr0HQf-U"/>
+
+
+<title>Venezuela asylum petitions tripled, mostly to U.S. | Miami Herald</title>
+
+
+<link rel="amphtml" href="http://amp.miamiherald.com/news/nation-world/world/americas/venezuela/article156672104.html">
+
+<meta name="msapplication-TileImage" content="/wps/build/images/miamiherald/windowsmetro-144.png"/>
+
+
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/wps/build/images/miamiherald/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/wps/build/images/miamiherald/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/wps/build/images/miamiherald/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="/wps/build/images/miamiherald/apple-touch-icon-57-precomposed.png">
+<link rel="shortcut icon" href="/wps/build/images/miamiherald/favicon.png">
+
+
+
+
+
+
+
+
+
+<script type="text/javascript"
+            src="/wps/source/scripts/libs/require.js"></script>
+
+<script type="text/javascript">
+    var wpsConfig = {
+        baseUrl: '/wps/source/scripts/src',
+        urlArgs: 'misv=54aaadf',
+        paths: {
+            'fastdom': '../libs/fastdom.min',
+            'moment': '../libs/moment.min',
+            'jwplayer': '../libs/jwplayer',
+            'flickity': '../libs/flickity.pkgd.min',
+            'identity': '../libs/identityModulev3.min'
+        },
+        waitSeconds: 0
+    };
+
+    var wpsRequire = requirejs.config(wpsConfig);
+</script>
+
+<script>
+    var mi = (function(mod) {
+        mod.lazyloaders = mod.lazyloaders || [];
+        return mod;
+    })(mi || {});
+
+</script>
+
+
+    <script>mi.inMarket=false</script>
+
+
+
+<link href="/wps/build/css/theme.markets/miamiherald-d565d228a0.css" rel="stylesheet" type="text/css"/>
+
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script type="text/javascript" src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.9/es5-shim.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src=" /wps/source/scripts/libs/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/wps/build/js/mi-header-a4d4db125e.js"></script>
+
+
+
+    <script type="text/javascript" src="/wps/source/scripts/libs/guid.js"></script>
+    <script>
+        wpsRequire(['identity'], function(IdentityModule) {
+            $(window).load(function() {
+                var identityCookieName = 'AccessToken';
+                var accessTokenCookie = mi.getCookie(identityCookieName);
+
+                if (!accessTokenCookie) {
+                    var identityModule = new IdentityModule();
+                    var identityPrefix = 'mcv4';
+
+                    $.getJSON('https://api.ipify.org?format=jsonp&callback=?')
+                    .done(function(json) {
+                        identityModule.GenerateIdentity(identityCookieName, identityPrefix, [json.ip]);
+                    })
+                    .fail(function() {
+                        identityModule.GenerateIdentity(identityCookieName, identityPrefix, [getGuid()]);
+                    });
+                }
+            });
+        });
+    </script>
+
+
+
+
+        <!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 -->
+
+
+
+
+
+
+<script type="text/javascript">
+mi.pageInfo.setConf({
+'marketInfo.viewsizes':[{"Extra-Small":[0,0]},{"Large":[1200,600]},{"Medium":[992,300]},{"Small":[768,300]}],
+'marketInfo.adsizes':{"outofpage":{},"wallpaper":{'1600x600':[1600,600],'None':[]},"floorboard":{'285x70':[285,70],'None':[]},"default":{'120x20':[120,20],'120x240':[120,240],'120x600':[120,600],'146x60':[146,60],'160x600':[160,600],'160x90':[160,90],'168x28':[168,28],'180x150':[180,150],'216x36':[216,36],'234x60':[234,60],'240x400':[240,400],'300x100':[300,100],'300x250':[300,250],'300x50':[300,50],'300x600':[300,600],'300x75':[300,75],'320x450':[320,450],'320x50':[320,50],'336x280':[336,280],'468x60':[468,60],'500x300':[500,300],'600x250':[600,250],'728x90':[728,90],'960x30':[960,30],'970x90':[970,90],'Billboard Flex':[[960,30],[970,30],[970,90],[970,250]],'Flex Ad':[[300,250],[300,600]],'None':[],'Rising Star':[500,300],'Welcome Ad':[[300,250],[300,600],[550,480],[600,500]]} },'accuweather.apiKey':'2ce96fe9da724185a27db1e6a3ecf580',
+'accuweather.dev':'false',
+'accuweather.locationKey':'347936',
+'accuweather.locationString':'Miami',
+'accuweather.partnerCode':'MCCLATCHY',
+'classads.apartmentsUrl':'http://www.apartments.com/Florida/Miami',
+'classads.carsUrl':'http://www.cars.com/?aff=miami',
+'classads.homefinderUrl':'http://www.homefinder.com/FL/Miami',
+'facebook.app.id':'133847067760',
+'financialContent.account':'miamiherald',
+'findnsave.tracking':'findnsave',
+'legacy.affiliateId':'mi000150',
+'legacy.siteName':'herald',
+'marketInfo.CarsAFF':'herald',
+'marketInfo.CarsSEO':'',
+'marketInfo.JobsQSCTY':'Miami',
+'marketInfo.JobsQSSTS':'FL,US',
+'marketInfo.JobsSEO':'',
+'marketInfo.JobsSiteID':'cbcb_mh',
+'marketInfo.Jobslr':'CBCB_MH',
+'marketInfo.addcities':'Hollywood, Fort Lauderdale, West Palm Beach',
+'marketInfo.adretargeting.kill_list':'[&quot;simpli.fi&quot;]',
+'marketInfo.allow_ads':'true',
+'marketInfo.allow_nativo':'true',
+'marketInfo.careerbuilder.dmc_code':'mia',
+'marketInfo.careerbuilder.dmc_id':'1048',
+'marketInfo.careerbuilder.lr':'CBCB_MH',
+'marketInfo.careerbuilder.mxjobsrchcriteria_rawwords':'outside+sales',
+'marketInfo.careerbuilder.s_freshness':'30',
+'marketInfo.careerbuilder.s_rawwords':'CustomField3:MIAMITJ',
+'marketInfo.city':'Miami',
+'marketInfo.classads.apartmentsUrl':'http://www.apartments.com/Florida/Miami',
+'marketInfo.clipped_taxonomy':'News/World',
+'marketInfo.code':'MIA',
+'marketInfo.county':'Miami-Dade County',
+'marketInfo.domain':'miamiherald',
+'marketInfo.followLinks':'0',
+'marketInfo.location':'Miami',
+'marketInfo.logoAltText':'Miami Herald',
+'marketInfo.market_identifier':'MIA.site_miamiherald',
+'marketInfo.name':'Miami Herald',
+'marketInfo.networkid':'7675',
+'marketInfo.phone':'1 (800) THE HERALD (1-800-843-4372)',
+'marketInfo.product':'site',
+'marketInfo.region':'South Florida',
+'marketInfo.shortURL':'front',
+'marketInfo.siteId':'56',
+'marketInfo.sourcelevel':'venezuela',
+'marketInfo.state':'Florida',
+'marketInfo.state_abbreviation':'FL',
+'marketInfo.staticDirectory':'miamiherald',
+'marketInfo.street_address':'3511 NW 91 Ave., Miami, FL 33172',
+'marketInfo.taxonomy':'News/World///',
+'marketInfo.webmaster_email':'webmaster@miamiherald.com',
+'nativo.story.placements':'840170,776813,844318',
+'nativo.video.placements':'869316,869315',
+'olive.localBrand':'',
+'publication.domain':'MiamiHerald.com',
+'publication.mediadomain':'media.miamiherald.com',
+'wishabi.bodyId':'861',
+'wishabi.navId':'1058',
+'wufoo.formID':'',
+'marketInfo.pagelevel':'story',
+});
+</script>
+
+<script type="text/javascript">
+    var mistats = mistats || {};
+    mistats.pagelevel="Story";
+    mistats.cmsid="Story:156672104";
+    mistats.pagename="Story:156672104|With Venezuela in chaos, asylum petitions have tripled. Most seek refuge in U.S.";
+    mistats.taxonomy="News|World|||";
+    mistats.channel="Venezuela";
+    mistats.contentsource="Miami|By Jim Wyssjwyss@miamiherald.com";
+    mistats.pubdate="2017/06/19";
+    mistats.moddate="2017/06/19 H07";
+    mistats.keywords="Venezuela South America Nicolas Maduro asylum seekers refugees UNHCR PSUV Chavez";
+</script>
+
+
+<script src="//media.miamiherald.com/misites/mia/miamiherald.js"></script>
+
+
+    <script type="text/javascript">
+        var imgLazyLoadThreshold = 500;
+    </script>
+
+
+
+    <script type="text/javascript">
+        mi_Ads.env.create();
+    </script>
+
+
+        <!-- as we will be patching MI_Ads.js we need to be injected here instead of required -->
+<script type="text/javascript" src="/wps/source/scripts/src/amazon-patch.js?misv=54aaadf"></script>
+<script>!function(n,t,e,a,s,i,c){function o(e,a){t[n]._Q.push([e,a])}t[n]||(t[n]={init:function(){o("i",arguments)},fetchBids:function(){o("f",arguments)},setDisplayBids:function(){},_Q:[]},i=e.createElement(a),i.async=!0,i.src=s,c=e.getElementsByTagName(a)[0],c.parentNode.insertBefore(i,c))}("apstag",window,document,"script","https://c.amazon-adsystem.com/aax2/apstag.js");
+    var patches = [AmazonPatch.patches.preRoll];
+    $.when(
+        AmazonPatch.amazon.init({
+            pubID: '3108',
+            adServer: 'googletag',
+            videoAdServer: 'DFP',
+            bidTimeout: 5 * 1000 // setting the timeout to 5 seconds
+        })
+    ).then(function(patch) {
+        patch.apply(patches);
+    });
+</script>
+
+
+
+
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [],
+        googletag.cmd.push(function(){
+            googletag.pubads().disableInitialLoad();
+        });
+        var getPreBidVarValue = function() {
+            var constructedVar;
+            var urlPathReg = /([^\/]*)\/*$/;
+            var classifiedSearchReg = /homes|cars|jobs|search/;
+            var urlPath = window.location.pathname;
+            var lastUrlComponent = urlPath.match(urlPathReg)[1];
+            var marketIdentifier = mi.pageInfo.getConf('marketInfo.market_identifier');
+            var pageLevel = mi.pageInfo.getConf('marketInfo.pagelevel');
+            var sourceLevel = mi.pageInfo.getConf('marketInfo.sourcelevel');
+            var isArticle = new RegExp(/.html$/).test(urlPath);
+            if ( lastUrlComponent === 'video' ) {
+                pageLevel = 'videofront';
+            } else if ( lastUrlComponent === 'galleries' ) {
+                pageLevel = 'galleryfront';
+            } else if ( lastUrlComponent.match(classifiedSearchReg) ) {
+                pageLevel = pageLevel + '.' + sourceLevel;
+            } else if (urlPath.search("/weather/") !== -1  && !isArticle) {
+                pageLevel = 'sectfront.weather';
+            } else if (urlPath.search("/latest-news/") !== -1 && !isArticle) {
+                pageLevel = 'sectfront.latestnews';
+            } else if (urlPath.search("-columns-blogs/") !== -1 && !isArticle) {
+                pageLevel = 'blogfront';
+            }
+
+            if ( mi_Ads.env.outOfMarket.pageLevelOOM === true && mi_Ads.env.outOfMarket.serverOOMHeader === true ) {
+                pageLevel = pageLevel + '-oom';
+            }
+
+            constructedVar = marketIdentifier + '.' + pageLevel;
+
+            return constructedVar;
+        };
+        var preBidMarketPage = getPreBidVarValue();
+    </script>
+    <script src="//acdn.adnxs.com/prebid/c/7543/pb.js" async="true"></script>
+
+
+
+
+    <script type="text/javascript" src="//ad.crwdcntrl.net/5/c=7436/pe=y/callback=extractPid"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+    var getSubscribedFlag = false;
+</script>
+
+
+
+
+
+    <script type="text/javascript">
+        getSubscribedFlag = checkUserSubscribed('MPPSessionId');
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "//www.miamiherald.com/news/nation-world/world/americas/venezuela/article156672104.html"
+  },
+
+  "headline": "With Venezuela in chaos, asylum petitions have tripled. Most seek refuge in U.S.",
+  "image": "http://www.miamiherald.com/news/nation-world/world/americas/uzdw8g-CubanMigrants0030JAI.JPG/alternates/FREE_1140/Cuban+Migrants0030+JAI.JPG",
+  "datePublished": "2017/06/19",
+  "dateModified": "2017/06/19 H07",
+
+
+
+        "author": {
+          "@type": "Person",
+          "name": "By Jim Wyss  &lt;a href=&quot;mailto:jwyss@miamiherald.com&quot; title=&quot;&quot;&gt;jwyss@miamiherald.com   "
+        },
+
+
+  "publisher": {
+     "name": "Miami Herald",
+     "@type": "Organization",
+     "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.miamiherald.com/wps/build/images/miamiherald/logo-lg.png"
+     }
+  },
+  "description": "The number of Venezuelans seeking asylum tripled from 2015 to 2016, as the once-wealthy nation continues to be trapped in a punishing economic, social and political crisis. Most sought refuge in the United States, according to an annual UN report.",
+  "isAccessibleForFree": "False",
+  "hasPart":
+    {
+      "@type": "WebPageElement",
+      "isAccessibleForFree": "False",
+      "cssSelector" : ".paywalled"
+    }
+}
+</script>
+
+
+
+
+
+<script>
+    var _prx = window._prx || [];
+    _prx.push(['cfg.SetNoAutoStart']);
+</script>
+<script src="https://s.ntv.io/serve/load.js" async></script>
+
+
+
+
+    <script src="http://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5" async></script>
+
+
+
+    <script>bazadebezolkohpepadr="1419962784"</script><script type="text/javascript" src="http://www.miamiherald.com/akam/10/54a2e8b0" defer></script></head>
+
+
+
+
+
+
+
+    <body class="story wps-body-main paywalled">
+
+
+    <header>
+
+    <div class="hide">
+        <div class="ad-widget" id="mn-gpt-1" adtype="outofpage" pkg="None" data-ad-policy="onPageLoad" audience="all" articleId="156672104"></div>
+    </div>
+
+     <div id="masthead-container">
+        <div class="container">
+            <div class="masthead-row">
+                <div id="masthead-main">
+                    <div id="masthead-logo">
+                        <a href="/" target="_top">
+                            <img src="/wps/build/images/miamiherald/logo-lg.png" alt="Miami Herald | MiamiHerald.com" class="img-responsive center-block" />
+
+                                <h1>Venezuela asylum petitions tripled, mostly to U.S. | Miami Herald</h1>
+
+                        </a>
+                    </div>
+
+<div id="quick-nav" class="hidden-xs">
+    <ul class="nav navbar-nav">
+
+            <li><a href="/news/#navlink=navbar">News</a></li>
+
+            <li><a href="/sports/#navlink=navbar">Sports</a></li>
+
+            <li><a href="/news/business/#navlink=navbar">Business</a></li>
+
+            <li><a href="/news/business/real-estate-news/#navlink=navbar">Real Estate</a></li>
+
+    </ul>
+
+    <div id="site-search-lg" class="visible-lg">
+
+
+    <form action="/search/" id="cse-search-box" class="form-inline google-searchform" role="search">
+        <input type="hidden" name="cx" value="partner-pub-7642884967523832:9709061890" />
+        <input type="hidden" name="cof" value="FORID:10" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input type="hidden" name="sa" value="Search" />
+
+        <input type="text" name="q" class="form-control"/>
+        <button class="input-group-addon" type="submit">
+          <span class="glyphicon glyphicon-search"></span>
+        </button>
+    </form>
+
+    </div>
+    <div id="search-icon-sm-md" class="site-search dropdown visible-md visible-sm">
+        <a href="#" class="btn btn-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-search"></span></a>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+            <li class="input-group">
+
+
+    <form action="/search/" id="cse-search-box" class="form-inline google-searchform" role="search">
+        <input type="hidden" name="cx" value="partner-pub-7642884967523832:9709061890" />
+        <input type="hidden" name="cof" value="FORID:10" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input type="hidden" name="sa" value="Search" />
+
+        <input type="text" name="q" class="form-control" placeholder="Search the site"/>
+        <button class="input-group-addon" type="submit">
+          <span class="glyphicon glyphicon-search"></span>
+        </button>
+    </form>
+
+            </li>
+        </ul>
+    </div>
+</div>
+
+                </div>
+                <div id="masthead-ad" class="visible-md visible-lg"><div class="ad-widget" id="mn-gpt-2" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Large" Large="234x60" Medium="234x60" Small="None" Extra-Small="None" articleId="156672104"></div></div>
+            </div>
+            <div id="main-nav-container">
+                <div class="weather-container hidden-xs">
+                    <div class="miWeather">
+    <div class="miWeatherCurrent">
+
+        <div class="mi-weather-conditions"><a href="/weather" title="Clear">
+                    <img src="/wps/source/images/widgets/weather/small/33.png" alt="Clear"/>
+                    <div class="mi-weather-conditions-temp">
+                        57°
+                    </div>
+                </a>
+            </div>
+    </div>
+</div>
+
+                </div>
+                <div id="login-subscribe" class="hidden-xs">
+
+<ul class="paywall-links">
+
+
+
+
+
+
+
+
+
+        <script type="text/javascript">
+            var userName = checkUserSubscribed('MPPUser');
+            var signInOrAccountLink = '<li class="mpp-usericon"><a href="https://account.miamiherald.com/static/signin"> Sign In</a> </li>';
+            var subscribeOrSignOutLink = '<li><a href="https://account.miamiherald.com/static/subscribe">Subscribe</a></li>';
+            if ( getSubscribedFlag ) {
+                if(userName) {
+                    userName = JSON.parse(userName);
+                }
+                subscribeOrSignOutLink = '<li><a href="https://account.miamiherald.com/sign-out">Sign Out</a> </li>';
+                if( userName && userName.firstName) {
+                    signInOrAccountLink = '<li class="mpp-username mpp-usericon"><a href="https://account.miamiherald.com/my-account"> '+userName.firstName+'</a></li>';
+                }else{
+                    signInOrAccountLink = '<li class="mpp-usericon"><a href="https://account.miamiherald.com/my-account"> My Account</a></li>';
+                }
+            }
+            if ( 1 ==1 ) {
+                $(".hidden-xs ul.paywall-links").prepend(signInOrAccountLink," ",subscribeOrSignOutLink);
+            }
+            else {
+                $("#navbar-collapse-1 ul.paywall-links").prepend(signInOrAccountLink," ",subscribeOrSignOutLink);
+            }
+        </script>
+
+</ul>
+                </div>
+
+<div id="main-nav">
+    <nav class="navbar navbar-default " role="navigation">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+                <span class="nav-label hidden-xs">Full Menu</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div id="navbar-collapse-1" class="navbar-collapse collapse">
+            <div id="search-icon-xs" class="site-search dropdown visible-xs">
+                <a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-search"></span></a>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+                    <li class="input-group">
+
+
+    <form action="/search/" id="cse-search-box" class="form-inline google-searchform" role="search">
+        <input type="hidden" name="cx" value="partner-pub-7642884967523832:9709061890" />
+        <input type="hidden" name="cof" value="FORID:10" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input type="hidden" name="sa" value="Search" />
+
+        <input type="text" name="q" class="form-control" placeholder="Search the site"/>
+        <button class="input-group-addon" type="submit">
+          <span class="glyphicon glyphicon-search"></span>
+        </button>
+    </form>
+
+                    </li>
+                </ul>
+            </div>
+            <div class="weather-container visible-xs">
+                <div class="miWeather">
+    <div class="miWeatherCurrent">
+
+        <div class="mi-weather-conditions"><a href="/weather" title="Clear">
+                    <img src="/wps/source/images/widgets/weather/small/33.png" alt="Clear"/>
+                    <div class="mi-weather-conditions-temp">
+                        57°
+                    </div>
+                </a>
+            </div>
+    </div>
+</div>
+
+            </div>
+
+<ul class="paywall-links">
+
+
+
+
+
+
+
+
+
+        <script type="text/javascript">
+            var userName = checkUserSubscribed('MPPUser');
+            var signInOrAccountLink = '<li class="mpp-usericon"><a href="https://account.miamiherald.com/static/signin"> Sign In</a> </li>';
+            var subscribeOrSignOutLink = '<li><a href="https://account.miamiherald.com/static/subscribe">Subscribe</a></li>';
+            if ( getSubscribedFlag ) {
+                if(userName) {
+                    userName = JSON.parse(userName);
+                }
+                subscribeOrSignOutLink = '<li><a href="https://account.miamiherald.com/sign-out">Sign Out</a> </li>';
+                if( userName && userName.firstName) {
+                    signInOrAccountLink = '<li class="mpp-username mpp-usericon"><a href="https://account.miamiherald.com/my-account"> '+userName.firstName+'</a></li>';
+                }else{
+                    signInOrAccountLink = '<li class="mpp-usericon"><a href="https://account.miamiherald.com/my-account"> My Account</a></li>';
+                }
+            }
+            if ( 2 ==1 ) {
+                $(".hidden-xs ul.paywall-links").prepend(signInOrAccountLink," ",subscribeOrSignOutLink);
+            }
+            else {
+                $("#navbar-collapse-1 ul.paywall-links").prepend(signInOrAccountLink," ",subscribeOrSignOutLink);
+            }
+        </script>
+
+</ul>
+            <ul class="nav navbar-nav">
+
+
+                        <li><a href="/#navlink=subnav">Home</a><li>
+
+
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Customer Service
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+
+    <ul class="dropdown-menu">
+
+
+                <li class="dropdown-header">Site Information</li>
+
+
+
+                <li><a href="/customer-service/#navlink=subnav">Contact Us</a></li>
+
+
+
+                <li><a href="/customer-service/about-us/#navlink=subnav">About Us</a></li>
+
+
+
+                <li><a href="/site-services/store/#navlink=subnav">Herald Store</a></li>
+
+
+
+                <li><a href="/rss/#navlink=subnav">RSS Feeds</a></li>
+
+
+
+                <li><a href="http://digital.olivesoftware.com/Olive/ODN/MiamiHeraldSS/default.aspx">Special Sections</a></li>
+
+
+
+                <li class="dropdown-header">Advertise</li>
+
+
+
+                <li><a href="/advertise/#navlink=subnav">Advertise with Us</a></li>
+
+
+
+                <li><a href="http://www.miamiheraldmedia.com/#navlink=subnav">Media Kit</a></li>
+
+
+
+                <li class="dropdown-header">Mobile</li>
+
+
+
+                <li><a href="/mobile/#navlink=subnav">Mobile Apps &amp; eReaders</a></li>
+
+
+
+                <li><a href="http://x.email.miamiherald.com/ats/url.aspx?cr=663&amp;wu=36#navlink=subnav">Newsletters</a></li>
+
+
+
+                <li class="dropdown-header">Social</li>
+
+
+
+                <li><a href="https://www.facebook.com/pages/Miami-Herald/38925837299#navlink=subnav">Facebook</a></li>
+
+
+
+                <li><a href="https://twitter.com/miamiherald/#navlink=subnav">Twitter</a></li>
+
+
+
+                <li><a href="https://plus.google.com/109936907321316291240#navlink=subnav">Google+</a></li>
+
+
+
+                <li><a href="https://instagram.com/miamiherald/#navlink=subnav">Instagram</a></li>
+
+
+
+                <li><a href="https://www.youtube.com/user/miamiherald#navlink=subnav">YouTube</a></li>
+
+
+    </ul>
+
+                        </li>
+
+
+
+                        <li><a href="/site-services/e-edition/#navlink=subnav">Digital Edition</a><li>
+
+
+
+                        <li class="nav-divider"></li>
+
+
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                News
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+
+    <ul class="dropdown-menu">
+
+
+                <li class="dropdown-header">Sections</li>
+
+
+
+                <li><a href="/news/#navlink=subnav">News</a></li>
+
+
+
+                <li><a href="/news/local/#navlink=subnav">South Florida</a></li>
+
+
+
+                <li><a href="/news/local/community/miami-dade/#navlink=subnav">Miami-Dade</a></li>
+
+
+
+                <li><a href="/news/local/community/broward/#navlink=subnav">Broward</a></li>
+
+
+
+                <li><a href="/news/local/community/florida-keys/#navlink=subnav">Florida Keys</a></li>
+
+
+
+                <li><a href="/news/state/florida/#navlink=subnav">Florida</a></li>
+
+
+
+                <li><a href="/news/politics-government/#navlink=subnav">Politics</a></li>
+
+
+
+                <li><a href="/news/weird/#navlink=subnav">Weird News</a></li>
+
+
+
+                <li><a href="http://www.miamiherald.com/news/weather/#navlink=subnav">Weather</a></li>
+
+
+
+                <li class="dropdown-header">National &amp; World</li>
+
+
+
+                <li><a href="/news/nation-world/national/#navlink=subnav">National</a></li>
+
+
+
+                <li><a href="/news/nation-world/world/#navlink=subnav">World</a></li>
+
+
+
+                <li><a href="/news/nation-world/world/americas/#navlink=subnav">Americas</a></li>
+
+
+
+                <li><a href="/news/nation-world/world/americas/cuba/#navlink=subnav">Cuba</a></li>
+
+
+
+                <li><a href="/news/nation-world/world/americas/guantanamo/#navlink=subnav">Guantánamo</a></li>
+
+
+
+                <li><a href="/news/nation-world/world/americas/haiti/#navlink=subnav">Haiti</a></li>
+
+
+
+                <li><a href="/news/nation-world/world/americas/venezuela/#navlink=subnav">Venezuela</a></li>
+
+
+
+                <li class="dropdown-header">Local Issues</li>
+
+
+
+                <li><a href="/news/local/crime/#navlink=subnav">Crime</a></li>
+
+
+
+                <li><a href="/news/local/education/#navlink=subnav">Education</a></li>
+
+
+
+                <li><a href="/news/local/environment/#navlink=subnav">Environment</a></li>
+
+
+
+                <li><a href="/health-care/#navlink=subnav">Health Care</a></li>
+
+
+
+                <li><a href="/news/local/in-depth/#navlink=subnav">In Depth</a></li>
+
+
+
+                <li><a href="/opinion/issues-ideas/#navlink=subnav">Issues &amp; Ideas</a></li>
+
+
+
+                <li><a href="/news/traffic/#navlink=subnav">Traffic</a></li>
+
+
+    </ul>
+
+                        </li>
+
+
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Sports
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+
+    <ul class="dropdown-menu">
+
+
+                <li class="dropdown-header">Sections</li>
+
+
+
+                <li><a href="/sports/#navlink=subnav">Sports</a></li>
+
+
+
+                <li><a href="/sports/spt-columns-blogs/#navlink=subnav">Blogs &amp; Columnists</a></li>
+
+
+
+                <li class="dropdown-header">Pro &amp; College</li>
+
+
+
+                <li><a href="/sports/nfl/miami-dolphins/#navlink=subnav">Miami Dolphins</a></li>
+
+
+
+                <li><a href="/sports/nba/miami-heat/#navlink=subnav">Miami Heat</a></li>
+
+
+
+                <li><a href="/sports/mlb/miami-marlins/#navlink=subnav">Miami Marlins</a></li>
+
+
+
+                <li><a href="/sports/nhl/florida-panthers/#navlink=subnav">Florida Panthers</a></li>
+
+
+
+                <li><a href="/sports/college/#navlink=subnav">College Sports</a></li>
+
+
+
+                <li><a href="/sports/college/acc/university-of-miami/#navlink=subnav">University of Miami</a></li>
+
+
+
+                <li><a href="/sports/college/conference-usa/florida-international-univeristy/#navlink=subnav">Florida International</a></li>
+
+
+
+                <li><a href="/sports/college/sec/university-of-florida/#navlink=subnav">University of Florida</a></li>
+
+
+
+                <li><a href="/sports/college/acc/florida-state-university/#navlink=subnav">Florida State University</a></li>
+
+
+
+                <li class="dropdown-header">More Sports</li>
+
+
+
+                <li><a href="/sports/high-school/#navlink=subnav">High School Sports</a></li>
+
+
+
+                <li><a href="/sports/nascar-auto-racing/#navlink=subnav">Auto Racing</a></li>
+
+
+
+                <li><a href="/sports/fighting/#navlink=subnav">Fighting</a></li>
+
+
+
+                <li><a href="/sports/golf/#navlink=subnav">Golf</a></li>
+
+
+
+                <li><a href="/sports/horse-racing/#navlink=subnav">Horse Racing</a></li>
+
+
+
+                <li><a href="/sports/outdoors/#navlink=subnav">Outdoors</a></li>
+
+
+
+                <li><a href="/sports/mls/#navlink=subnav">Soccer</a></li>
+
+
+
+                <li><a href="/sports/tennis/#navlink=subnav">Tennis</a></li>
+
+
+
+                <li><a href="/sports/youth-sports/#navlink=subnav">Youth Sports</a></li>
+
+
+
+                <li><a href="/sports/other-sports/#navlink=subnav">Other Sports</a></li>
+
+
+    </ul>
+
+                        </li>
+
+
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Politics
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+
+    <ul class="dropdown-menu">
+
+
+                <li><a href="/news/politics-government/#navlink=subnav">Politics</a></li>
+
+
+
+                <li><a href="/news/politics-government/election/#navlink=subnav">Elections 2016</a></li>
+
+
+    </ul>
+
+                        </li>
+
+
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Business
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+
+    <ul class="dropdown-menu">
+
+
+                <li class="dropdown-header">Sections</li>
+
+
+
+                <li><a href="/news/business/#navlink=subnav">Business</a></li>
+
+
+
+                <li><a href="/news/business/biz-monday/#navlink=subnav">Business Monday</a></li>
+
+
+
+                <li><a href="/news/business/banking/#navlink=subnav">Banking</a></li>
+
+
+
+                <li><a href="/news/business/international-business/#navlink=subnav">International Business</a></li>
+
+
+
+                <li><a href="/news/business/national-business/#navlink=subnav">National Business</a></li>
+
+
+
+                <li><a href="/news/business/personal-finance/#navlink=subnav">Personal Finance</a></li>
+
+
+
+                <li><a href="/news/business/real-estate/#navlink=subnav">Real Estate News</a></li>
+
+
+
+                <li><a href="/news/business/small-business/#navlink=subnav">Small Business</a></li>
+
+
+
+                <li><a href="/news/business/technology/#navlink=subnav">Technology</a></li>
+
+
+
+                <li><a href="/news/business/tourism-cruises/#navlink=subnav">Tourism &amp; Cruises</a></li>
+
+
+
+                <li><a href="/news/business/workplace/#navlink=subnav">Workplace</a></li>
+
+
+
+                <li><a href="http://www.miamiherald.com/news/business/business-plan-challenge/#navlink=subnav">Business Plan Challenge</a></li>
+
+
+
+                <li class="dropdown-header">Blogs &amp; Columnists</li>
+
+
+
+                <li><a href="/news/business/biz-columns-blogs/cindy-krischer-goodman/#navlink=subnav">Cindy Krischer Goodman</a></li>
+
+
+
+                <li><a href="http://miamiherald.typepad.com/the-starting-gate/#navlink=subnav">The Starting Gate</a></li>
+
+
+
+                <li><a href="http://miamiherald.typepad.com/worklifebalancingact/#navlink=subnav">Work/Life Balancing Act</a></li>
+
+
+
+                <li><a href="/news/business/biz-columns-blogs/movers/#navlink=subnav">Movers</a></li>
+
+
+    </ul>
+
+                        </li>
+
+
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Living
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+
+    <ul class="dropdown-menu">
+
+
+                <li class="dropdown-header">Sections</li>
+
+
+
+                <li><a href="/living/#navlink=subnav">Living</a></li>
+
+
+
+                <li><a href="/living/advice/#navlink=subnav">Advice</a></li>
+
+
+
+                <li><a href="/living/fashion/#navlink=subnav">Fashion</a></li>
+
+
+
+                <li><a href="/living/food-drink/#navlink=subnav">Food &amp; Drink</a></li>
+
+
+
+                <li><a href="/living/health-fitness/#navlink=subnav">Health &amp; Fitness</a></li>
+
+
+
+                <li><a href="/living/home-garden/#navlink=subnav">Home &amp; Garden</a></li>
+
+
+
+                <li><a href="/living/pets/#navlink=subnav">Pets</a></li>
+
+
+
+                <li><a href="/living/food-drink/recipes/#navlink=subnav">Recipes</a></li>
+
+
+
+                <li><a href="/living/travel/#navlink=subnav">Travel</a></li>
+
+
+
+                <li><a href="/living/food-drink/wine/#navlink=subnav">Wine</a></li>
+
+
+
+                <li class="dropdown-header">Blogs &amp; Columnists</li>
+
+
+
+                <li><a href="/living/liv-columns-blogs/dave-barry/#navlink=subnav">Dave Barry</a></li>
+
+
+
+                <li><a href="/living/liv-columns-blogs/ana-veciana-suarez/#navlink=subnav">Ana Veciana-Suarez</a></li>
+
+
+
+                <li><a href="http://www.flashbackmiami.com/#navlink=subnav">Flashback Miami</a></li>
+
+
+
+                <li class="dropdown-header">More Living</li>
+
+
+
+                <li><a href="/news/local/community/gay-south-florida/#navlink=subnav">LGBTQ South Florida</a></li>
+
+
+
+                <li><a href="/news/local/community/gay-south-florida/palette-magazine/#navlink=subnav">Palette Magazine</a></li>
+
+
+
+                <li><a href="http://www.miamiindulge.com/#navlink=subnav">Indulge Magazine</a></li>
+
+
+
+                <li><a href="http://newspaperads.miami.com/SS/Tiles.aspx?ptype=SS_TILE&amp;type=south#navlink=subnav">South Florida Album</a></li>
+
+
+
+                <li><a href="http://newspaperads.miami.com/SS/Tiles.aspx?ptype=SS_TILE&amp;type=broward#navlink=subnav">Broward Album</a></li>
+
+
+    </ul>
+
+                        </li>
+
+
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Entertainment
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+
+    <ul class="dropdown-menu">
+
+
+                <li class="dropdown-header">Sections</li>
+
+
+
+                <li><a href="/entertainment/#navlink=subnav">Entertainment</a></li>
+
+
+
+                <li><a href="/entertainment/books/#navlink=subnav">Books</a></li>
+
+
+
+                <li><a href="/entertainment/comics/#navlink=subnav">Comics</a></li>
+
+
+
+                <li><a href="http://games.miamiherald.com/#navlink=subnav">Games &amp; Puzzles</a></li>
+
+
+
+                <li><a href="/entertainment/horoscopes/#navlink=subnav">Horoscopes</a></li>
+
+
+
+                <li><a href="/entertainment/movies-news-reviews/#navlink=subnav">Movies</a></li>
+
+
+
+                <li><a href="/entertainment/music-news-reviews/#navlink=subnav">Music &amp; Nightlife</a></li>
+
+
+
+                <li><a href="/entertainment/celebrities/#navlink=subnav">People</a></li>
+
+
+
+                <li><a href="/entertainment/performing-arts/#navlink=subnav">Performing Arts</a></li>
+
+
+
+                <li><a href="/entertainment/restaurants/#navlink=subnav">Restaurants</a></li>
+
+
+
+                <li><a href="/entertainment/tv/#navlink=subnav">TV</a></li>
+
+
+
+                <li><a href="/entertainment/visual-arts/#navlink=subnav">Visual Arts</a></li>
+
+
+
+                <li class="dropdown-header">Blogs &amp; Columnists</li>
+
+
+
+                <li><a href="/entertainment/ent-columns-blogs/jose-lambiet/#navlink=subnav">Jose Lambiet</a></li>
+
+
+
+                <li><a href="/entertainment/ent-columns-blogs/scene-in-the-tropics/#navlink=subnav">Lesley Abravanel</a></li>
+
+
+
+                <li class="dropdown-header">More Entertainment</li>
+
+
+
+                <li><a href="http://events.miami.com/#navlink=subnav">Events Calendar</a></li>
+
+
+
+                <li><a href="http://www.miami.com/#navlink=subnav">Miami.com</a></li>
+
+
+
+                <li><a href="/contests/#navlink=subnav">Contests &amp; Promotions</a></li>
+
+
+    </ul>
+
+                        </li>
+
+
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Opinion
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+
+    <ul class="dropdown-menu">
+
+
+                <li class="dropdown-header">Sections</li>
+
+
+
+                <li><a href="/opinion/#navlink=subnav">All Opinion</a></li>
+
+
+
+                <li><a href="/opinion/editorials/#navlink=subnav">Editorials</a></li>
+
+
+
+                <li><a href="/opinion/op-ed/#navlink=subnav">Op-Ed</a></li>
+
+
+
+                <li><a href="/opinion/editorial-cartoons/#navlink=subnav">Editorial Cartoons</a></li>
+
+
+
+                <li><a href="/opinion/editorial-cartoons/jim-morin/#navlink=subnav">Jim Morin</a></li>
+
+
+
+                <li><a href="/opinion/letters-to-the-editor/#navlink=subnav">Letters to the Editor</a></li>
+
+
+
+                <li><a href="/opinion/op-ed/from-our-inbox/#navlink=subnav">From Our Inbox</a></li>
+
+
+
+                <li><a href="/opinion/op-ed/speak-up/#navlink=subnav">Speak Up</a></li>
+
+
+
+                <li><a href="/opinion/letters-to-the-editor/submit-letter/#navlink=subnav">Submit a Letter</a></li>
+
+
+
+                <li><a href="/opinion/editorial-board/#navlink=subnav">Meet the Editorial Board</a></li>
+
+
+
+                <li class="dropdown-header">Blogs &amp; Columnists</li>
+
+
+
+                <li><a href="/site-services/blog-directory/#navlink=subnav">Blog Directory</a></li>
+
+
+
+                <li><a href="/site-services/columnist-directory/#navlink=subnav">Columnist Directory</a></li>
+
+
+
+                <li><a href="/news/local/news-columns-blogs/andres-oppenheimer/#navlink=subnav">Andres Oppenheimer</a></li>
+
+
+
+                <li><a href="/opinion/opn-columns-blogs/carl-hiaasen/#navlink=subnav">Carl Hiaasen</a></li>
+
+
+
+                <li><a href="/opinion/opn-columns-blogs/glenn-garvin/#navlink=subnav">Glenn Garvin</a></li>
+
+
+
+                <li><a href="/opinion/opn-columns-blogs/leonard-pitts-jr/#navlink=subnav">Leonard Pitts Jr.</a></li>
+
+
+
+                <li><a href="/news/local/news-columns-blogs/fred-grimm/#navlink=subnav">Fred Grimm</a></li>
+
+
+
+                <li><a href="/news/local/news-columns-blogs/fabiola-santiago/#navlink=subnav">Fabiola Santiago</a></li>
+
+
+    </ul>
+
+                        </li>
+
+
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Obituaries
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+
+    <ul class="dropdown-menu">
+
+
+                <li><a href="http://www.legacy.com/obituaries/herald/#navlink=subnav">Obituaries</a></li>
+
+
+
+                <li><a href="http://www.miamiherald.com/news/local/obituaries/#navlink=subnav">Obituaries in the News</a></li>
+
+
+
+                <li><a href="http://miamiherald.adperfect.com/default.html?pubid=C0A801CE0802819AAFprs2AF9E03&amp;catid=471">Place an Obituary</a></li>
+
+
+    </ul>
+
+                        </li>
+
+
+
+                        <li class="nav-divider"></li>
+
+
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Classifieds
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+
+    <ul class="dropdown-menu">
+
+
+                <li><a href="http://miamiherald.adperfect.com/#navlink=subnav">Place an ad</a></li>
+
+
+
+                <li><a href="/classified-ads/#navlink=subnav">All Classifieds</a></li>
+
+
+
+                <li><a href="http://classifieds.miamiherald.com/fl/announcements/search">Announcements</a></li>
+
+
+
+                <li><a href="http://classifieds.miamiherald.com/fl/rentals/search">Apartments</a></li>
+
+
+
+                <li><a href="http://classifieds.miamiherald.com/fl/auctions-sales/search#navlink=subnav">Auctions/Sales</a></li>
+
+
+
+                <li><a href="/cars/#navlink=subnav">Automotive</a></li>
+
+
+
+                <li><a href="http://classifieds.miamiherald.com/fl/commercial-real-estate-for-sale/search">Commercial Real Estate</a></li>
+
+
+
+                <li><a href="https://jobs.miamiherald.com#navlink=subnav">Employment</a></li>
+
+
+
+                <li><a href="http://classifieds.miamiherald.com/fl/garage-sales/search">Garage Sales</a></li>
+
+
+
+                <li><a href="http://classifieds.miamiherald.com/fl/legals/search">Legals</a></li>
+
+
+
+                <li><a href="http://classifieds.miamiherald.com/fl/merchandise/search">Merchandise</a></li>
+
+
+
+                <li><a href="http://www.legacy.com/obituaries/herald/#navlink=subnav">Obituaries</a></li>
+
+
+
+                <li><a href="http://classifieds.miamiherald.com/fl/pets-animals/search">Pets</a></li>
+
+
+
+                <li><a href="http://floridapublicnotices.com/#navlink=subnav">Public Notices</a></li>
+
+
+
+                <li><a href="/real-estate/#navlink=subnav">Real Estate</a></li>
+
+
+
+                <li><a href="http://classifieds.miamiherald.com/fl/business-services/search">Services</a></li>
+
+
+    </ul>
+
+                        </li>
+
+
+
+                        <li><a href="http://floridapublicnotices.com/#navlink=subnav">Public Notices</a><li>
+
+
+
+                        <li><a href="/cars/#navlink=subnav">Cars</a><li>
+
+
+
+                        <li><a href="https://jobs.miamiherald.com#navlink=subnav">Jobs</a><li>
+
+
+
+                        <li><a href="http://www.startmoonlighting.com/mni/Miami-Herald/?utm_source=Miami-Herald&amp;utm_medium=navweblink&amp;utm_campaign=MNI#navlink=subnav">Moonlighting</a><li>
+
+
+
+                        <li><a href="/real-estate/#navlink=subnav">Real Estate</a><li>
+
+
+
+                        <li><a href="http://findnsave.miamiherald.com/#navlink=subnav">Shopping</a><li>
+
+
+
+                        <li><a href="/mobile/#navlink=subnav">Mobile &amp; Apps</a><li>
+
+
+
+                        <li class="nav-divider"></li>
+
+
+
+                        <li><a href="http://www.elnuevoherald.com/#navlink=subnav">el Nuevo Herald</a><li>
+
+
+
+                        <li><a href="http://www.miami.com/#navlink=subnav">Miami.com</a><li>
+
+
+            </ul>
+        </div>
+    </nav>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        mi.mainNav.init();
+    });
+</script>
+
+            </div>
+        </div>
+    </div>
+
+</header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+    <div id="leaderboard-ad" class="ad border-bottom">
+      <!-- mobile-leaderboard class is integrated with sticky-leaderboard.js -->
+        <div class="visible-xs mobile-leaderboard">
+            <div class="ad-widget" id="mn-gpt-3" adtype="default" pkg="b" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="320x50" articleId="156672104"></div>
+        </div>
+        <div class="hidden-xs">
+            <div class="ad-widget" id="mn-gpt-4" adtype="default" pkg="d" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Large" Large="728x90" Medium="728x90" Small="728x90" Extra-Small="None" articleId="156672104"></div>
+        </div>
+    </div>
+</div>
+<section class="container story" role="main">
+    <div class="row story-rail-wrapper">
+
+        <div class="wide-rail">
+
+
+
+
+
+
+
+    <div class="lead-item">
+
+            <div class="video" >
+
+
+
+
+
+
+
+
+
+<div id="video-detail-156769689-1516251241639" class="media-wrap">
+    <div class="video-media" data-id="156769689" data-index>
+        <div id="player-156769689-1516251241639" class="player" data-id="156769689">
+            <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; background: url('//www.miamiherald.com/news/nation-world/world/americas/uzdw8g-CubanMigrants0030JAI.JPG/alternates/LANDSCAPE_560/Cuban+Migrants0030+JAI.JPG') no-repeat center center; background-size: cover;">
+        </div>
+    </div>
+
+    <div class="mi-video-utility-bar share-icons  hide">
+
+        <a class="mi-video-share-btn mi-video-utility-item" data-item="share-rail" >
+         <span class="glyphicon glyphicon-share" title="Share" ></span>
+        </a>
+        <a class="mi-video-embed-btn mi-video-utility-item" data-item="embed-rail" >
+            <span class="glyphicon glyphicon-code" title="Embed Links" ></span>
+        </a>
+        <a class="mi-video-info-btn mi-video-utility-item" data-item="info-rail" >
+            <span class="glyphicon glyphicon-info-circle" title="Info" ></span>
+        </a>
+    </div>
+        <div id="mi-video-overlay-156769689-1516251241639" class="mi-video-custom-overlay-wrap" >
+    <div class="mi-video-eos-wrap">
+    <h3 class="mi-video-overlay-title">More Videos</h3>
+
+    <div class="mi-video-eos">
+
+            <div class="mi-overlay-item" data-index="0">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/news/nation-world/world/americas/venezuela/7xqi8m-Year-in-Review-2017.00_05_56_21.Still004.jpg/alternates/LANDSCAPE_200/Year%20in%20Review%202017.00_05_56_21.Still004.jpg" alt="Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender"/>
+                    <span class="duration">0:14</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender</h4>
+                </div>
+
+                    <div class="svg-timer-wrap">
+                        <svg class="svg-timer" viewBox="0 0 34 34">
+                            <g>
+                                <circle class="svg-timer-circle" cx="15" cy="17" r="15.9" transform="rotate(-90 16 16)"></circle>
+                                <text class="svg-timer-text" x="17" y="24"></text>
+                            </g>
+                        </svg>
+                        <a class="svg-timer-pause" href="javascript:void(0)">
+                            <span class="glyphicon glyphicon-pause"></span> Pause
+                        </a>
+                    </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="1">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/news/nation-world/world/americas/venezuela/ia20f5-Oscar-Perez-1-MH.mp4/alternates/LANDSCAPE_200/Oscar%20Perez%201%20-%20MH.mp4" alt="Óscar Pérez posts video saying he is under attack by Venezuelan government forces "/>
+                    <span class="duration">0:42</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Óscar Pérez posts video saying he is under attack by Venezuelan government forces </h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="2">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/news/nation-world/world/americas/venezuela/n9pu8f-O-P-Keyframe-1.jpg/alternates/LANDSCAPE_200/O%20P%20Keyframe%201.jpg" alt="Óscar Pérez: 'We are going to surrender'"/>
+                    <span class="duration">0:10</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Óscar Pérez: "We are going to surrender"</h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="3">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/news/local/crime/f9b9h9-Sequence-04.00_22_44_24.Still004.jpg/alternates/LANDSCAPE_200/Sequence%2004.00_22_44_24.Still004.jpg" alt="Lauderhill shooting caught on video"/>
+                    <span class="duration">0:44</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Lauderhill shooting caught on video</h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="4">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/news/nation-world/world/americas/haiti/ioackb-Main-sequence.00_00_23_22134.Still001.jpg/alternates/LANDSCAPE_200/Main%20sequence.00_00_23_22134.Still001.jpg" alt="Years of unchecked corruption hamper Haiti's development "/>
+                    <span class="duration">2:51</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Years of unchecked corruption hamper Haiti's development </h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="5">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/latest-news/wzb3mr-History-Channel-announces-special-program-on-the-history-of-global-soccer/alternates/LANDSCAPE_200/History%20Channel%20announces%20special%20program%20on%20the%20history%20of%20global%20soccer" alt="History Channel announces special program on the history of global soccer"/>
+                    <span class="duration">1:28</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">History Channel announces special program on the history of global soccer</h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="6">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/news/nation-world/national/f5hi8v-5a5e600d92a59.imag_fitted-2.jpeg/alternates/LANDSCAPE_200/5a5e600d92a59.imag_fitted-2.jpeg" alt="Man charged with hiding girlfriend's dead body in his home for almost a month"/>
+                    <span class="duration">0:49</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Man charged with hiding girlfriend's dead body in his home for almost a month</h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="7">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/latest-news/vsiys1-FINS-BILLS-GASE-CTJ.mp4/alternates/LANDSCAPE_200/FINS%20BILLS%20GASE%20CTJ.mp4" alt="Coach Adam Gase talks about the Miami Dolphins' 2017 season."/>
+                    <span class="duration">1:15</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Coach Adam Gase talks about the Miami Dolphins' 2017 season.</h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="8">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/latest-news/510lb3-Part-2.jpg/alternates/LANDSCAPE_200/Part%202.jpg" alt="Colombian police battle illegal gold miners"/>
+                    <span class="duration">1:54</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Colombian police battle illegal gold miners</h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="9">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/latest-news/psikaw-112GoldCol00-NEW-PPP.JPG/alternates/LANDSCAPE_200/112GoldCol00%20NEW%20PPP.JPG" alt="In Colombia, criminal gangs threaten small gold miners"/>
+                    <span class="duration">1:49</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">In Colombia, criminal gangs threaten small gold miners</h4>
+                </div>
+
+            </div>
+
+    </div>
+</div>
+
+    <div class="mi-video-share-wrap">
+    <span class="mi-video-close-share glyphicon glyphicon-remove"></span>
+    <ul class="video-share-icons video">
+        <li class="embed">
+            <div class="form-group">
+                <label>Video Link</label>
+                <textarea class="mi-share-link" readonly="true" ></textarea>
+                <button class="btn btn-primary select-btn">copy</button>
+            </div>
+            <div class="form-group">
+                <label>Embed Code</label>
+                <textarea class="overlay-embed-share" readonly="true" ></textarea>
+                <button class="btn btn-primary select-btn">copy</button>
+            </div>
+        </li>
+        <li class="facebook">
+            <a class="facebook-share"
+               href=""
+               onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"
+               title="Share on Facebook">
+                <span class="glyphicon glyphicon-facebook"></span>
+                <span class="utility-text">Facebook</span>
+            </a>
+        </li>
+        <li class="twitter">
+            <a class="twitter-share"
+               href=""
+               onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"
+               title="Share on Twitter">
+                <span class="glyphicon glyphicon-twitter"></span>
+                <span class="utility-text">Twitter</span>
+            </a>
+        </li>
+        <li class="email">
+            <a class="email-share" href="">
+                <span class="glyphicon glyphicon-envelope"></span>
+                <span class="utility-text">Email</span>
+            </a>
+        </li>
+        <li class="media-det">
+
+                <h4 class="media-title">Panama offers proposal to group of stranded Cuban migrants</h4>
+                <p class="media-leadtext">The proposal would grant multiple entry visas to the 126 migrants in a temporary shelter in Gualaca in western Panama if they return to Cuba.</p>
+
+        </li>
+    </ul>
+</div>
+
+</div>
+
+
+
+    <script type="text/javascript">
+        if ( typeof allowAds === 'undefined' ) {
+            var allowAds = true;
+        }
+    </script>
+
+<script>
+    wpsRequire([ 'video' ], function ( video ) {
+        return video.play({"id":"156769689","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/cuba/article156769689.html","duration":"1:42","image":"//www.miamiherald.com/news/nation-world/world/americas/uzdw8g-CubanMigrants0030JAI.JPG/alternates/LANDSCAPE_768/Cuban+Migrants0030+JAI.JPG","title":"Panama offers proposal to group of stranded Cuban migrants","description":"Panama offers proposal to group of stranded Cuban migrants <span class=\"title-duration\">1:42</span>","displayDescription":"The proposal would grant multiple entry visas to the 126 migrants in a temporary shelter in Gualaca in western Panama if they return to Cuba.","videographer":"José A. Iglesias / The Miami Herald","credit":"Special thanks to the Pulitzer Center on Crisis Reporting for its support on this project.","published":1497732213,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2017/6/17/20/1437582013143-p5k4ma/Jonathan_del_Rosario_English_subtitles-1497732209636.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2017/6/17/20/1437580321678-6bjrso/Jonathan_del_Rosario_English_subtitles-1497732210675.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2017/6/17/20/art_156769689/Jonathan_del_Rosario_English_subtitles.m3u8"}],"mediaid":"","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcuba%26id%3D156769689%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=cuba&id=156769689&eid=156672104&vidlength=long&pl="}],"endscreen":[{"id":"194727034","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article194727034.html","duration":"0:14","image":"//www.miamiherald.com/news/nation-world/world/americas/venezuela/7xqi8m-Year-in-Review-2017.00_05_56_21.Still004.jpg/alternates/LANDSCAPE_768/Year%20in%20Review%202017.00_05_56_21.Still004.jpg","title":"Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender","description":"Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender <span class=\"title-duration\">0:14</span>","displayDescription":"Óscar Pérez posted a video saying that Venezuelan government forces won't accept his surrender. The bloody face reportedly came as a result of an assault.","videographer":"","credit":"","published":1516035516,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437582013143-p5k4ma/Oscar_Perez_2___MH-1516035515574.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437580321678-6bjrso/Oscar_Perez_2___MH-1516035516026.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/art_194727034/Oscar_Perez_2___MH.m3u8"}],"mediaid":"63KHBEgG","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dvenezuela%26id%3D194727034%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=venezuela&id=194727034&eid=156672104&vidlength=short&pl="}]},{"id":"194727014","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article194727014.html","duration":"0:42","image":"//www.miamiherald.com/news/nation-world/world/americas/venezuela/ia20f5-Oscar-Perez-1-MH.mp4/alternates/LANDSCAPE_768/Oscar%20Perez%201%20-%20MH.mp4","title":"Óscar Pérez posts video saying he is under attack by Venezuelan government forces ","description":"Óscar Pérez posts video saying he is under attack by Venezuelan government forces  <span class=\"title-duration\">0:42</span>","displayDescription":"Óscar Pérez, the Venezuelan policeman wanted after attacking the headquarters of the Supreme Court and the Ministry of the Interior from a helicopter, is surrounded by Venezuelan government forces.","videographer":"","credit":"","published":1516035484,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437582013143-p5k4ma/Oscar_Perez_1___MH-1516035482996.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437580321678-6bjrso/Oscar_Perez_1___MH-1516035483291.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/art_194727014/Oscar_Perez_1___MH.m3u8"}],"mediaid":"lNPh6FuZ","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dvenezuela%26id%3D194727014%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=venezuela&id=194727014&eid=156672104&vidlength=short&pl="}]},{"id":"194731434","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article194731434.html","duration":"0:10","image":"//www.miamiherald.com/news/nation-world/world/americas/venezuela/n9pu8f-O-P-Keyframe-1.jpg/alternates/LANDSCAPE_768/O%20P%20Keyframe%201.jpg","title":"Óscar Pérez: \"We are going to surrender\"","description":"Óscar Pérez: \"We are going to surrender\" <span class=\"title-duration\">0:10</span>","displayDescription":"Óscar Pérez, the Venezuelan policeman wanted after attacking the headquarters of the Supreme Court and the Ministry of the Interior from a helicopter, posted a video asking Venezuelan government forces to stop shooting at him. Perez says, \"we are going to surrender.\"","videographer":"","credit":"equilibriogv via Instagram","published":1516038636,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/17/1437582013143-p5k4ma/Oscar_Perez_4___MH-1516038635060.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/17/1437580321678-6bjrso/Oscar_Perez_4___MH-1516038635610.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/17/art_194731434/Oscar_Perez_4___MH.m3u8"}],"mediaid":"h9nKJySE","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dvenezuela%26id%3D194731434%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=venezuela&id=194731434&eid=156672104&vidlength=short&pl="}]},{"id":"195222369","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/local/crime/article195222369.html","duration":"0:44","image":"//www.miamiherald.com/news/local/crime/f9b9h9-Sequence-04.00_22_44_24.Still004.jpg/alternates/LANDSCAPE_768/Sequence%2004.00_22_44_24.Still004.jpg","title":"Lauderhill shooting caught on video","description":"Lauderhill shooting caught on video <span class=\"title-duration\">0:44</span>","displayDescription":"The Lauderhill Police Department is asking the public's help in identifying two men who are accused of shooting a man at his home on Jan. 14, 2018. ","videographer":"","credit":"","published":1516231718,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/23/1437582013143-p5k4ma/lauderhill_shooting_1-1516231716881.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/23/1437580321678-6bjrso/lauderhill_shooting_1-1516231717177.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/23/art_195222369/lauderhill_shooting_1.m3u8"}],"mediaid":"huDPkOOS","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcrime%26id%3D195222369%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=crime&id=195222369&eid=156672104&vidlength=short&pl="}]},{"id":"184642818","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/haiti/article184642818.html","duration":"2:51","image":"//www.miamiherald.com/news/nation-world/world/americas/haiti/ioackb-Main-sequence.00_00_23_22134.Still001.jpg/alternates/LANDSCAPE_768/Main%20sequence.00_00_23_22134.Still001.jpg","title":"Years of unchecked corruption hamper Haiti's development ","description":"Years of unchecked corruption hamper Haiti's development  <span class=\"title-duration\">2:51</span>","displayDescription":"Beauplan's commission recently released a 656-page report on the management of $2 billion in loans that Haiti received as part of Venezuela's PetroCaribe discounted oil program. The investigation accuses 15 former government officials, including two former prime ministers and current President Jovenel Moïse's chief of staff, of corruption and poor management.     ","videographer":"José A. Iglesias; edited by Justin Azpiazu","credit":"Miami Herald","published":1510704173,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2017/11/14/23/1437582013143-p5k4ma/haiti_corruption_v3-1510704170331.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2017/11/14/23/1437580321678-6bjrso/haiti_corruption_v3-1510704171038.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2017/11/14/23/art_184642818/haiti_corruption_v3.m3u8"}],"mediaid":"TLDR91lM","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dhaiti%26id%3D184642818%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=haiti&id=184642818&eid=156672104&vidlength=long&pl="}]},{"id":"194894159","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article194894159.html","duration":"1:28","image":"//www.miamiherald.com/latest-news/wzb3mr-History-Channel-announces-special-program-on-the-history-of-global-soccer/alternates/LANDSCAPE_768/History%20Channel%20announces%20special%20program%20on%20the%20history%20of%20global%20soccer","title":"History Channel announces special program on the history of global soccer","description":"History Channel announces special program on the history of global soccer <span class=\"title-duration\">1:28</span>","displayDescription":"International soccer star, David Villa, was in attendance of the History Channel’s 14-day program celebrating the global history of soccer during NATPE convention at the Fontaine Bleu in Miami Beach, Florida.","videographer":"Carl Juste","credit":"cjuste@miamiherald.com","published":1516126738,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/16/18/1437582013143-p5k4ma/0d6a2f04_0469_47fe_ab91_13482e13113f-1516126735944.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/16/18/1437580321678-6bjrso/0d6a2f04_0469_47fe_ab91_13482e13113f-1516126736300.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/16/18/art_194894159/0d6a2f04_0469_47fe_ab91_13482e13113f.m3u8"}],"mediaid":"6nMV2ZBo","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dmiami_beach%26id%3D194894159%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=miami_beach&id=194894159&eid=156672104&vidlength=long&pl="}]},{"id":"195203539","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/national/article195203539.html","duration":"0:49","image":"//www.miamiherald.com/news/nation-world/national/f5hi8v-5a5e600d92a59.imag_fitted-2.jpeg/alternates/LANDSCAPE_768/5a5e600d92a59.imag_fitted-2.jpeg","title":"Man charged with hiding girlfriend's dead body in his home for almost a month","description":"Man charged with hiding girlfriend's dead body in his home for almost a month <span class=\"title-duration\">0:49</span>","displayDescription":"Jeffrey Michael Thomas from Rockwood, Michigan, was caught concealing his girlfriend’s body in his home after he jumped out a window and neighbors called 911.","videographer":"Matias J. Ocner and David Santiago","credit":"Miami Herald Staff","published":1516228215,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/22/1437582013143-p5k4ma/Thomas___MH___EDIT-1516228214148.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/22/1437580321678-6bjrso/Thomas___MH___EDIT-1516228214435.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/22/art_195203539/Thomas___MH___EDIT.m3u8"}],"mediaid":"PkYXmRy2","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D195203539%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=national&id=195203539&eid=156672104&vidlength=short&pl="}]},{"id":"192416884","asset_type":"videoIngest","url":"https://www.miamiherald.com/sports/nfl/miami-dolphins/article192416884.html","duration":"1:15","image":"//www.miamiherald.com/latest-news/vsiys1-FINS-BILLS-GASE-CTJ.mp4/alternates/LANDSCAPE_768/FINS%20BILLS%20GASE%20CTJ.mp4","title":"Coach Adam Gase talks about the Miami Dolphins' 2017 season.","description":"Coach Adam Gase talks about the Miami Dolphins' 2017 season. <span class=\"title-duration\">1:15</span>","displayDescription":"Miami Dolphins coach Adam Gase talks about the Fins' bizarre season and Jarvis Landry's ejection after their final game of the season, a loss to the Buffalo Bills.","videographer":"Charles Trainor Jr.","credit":"ctrainor@miamiherald.com","published":1514771775,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/1/1/1437582013143-p5k4ma/FINS_BILLS_GASE_CTJ-1514771773130.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/1/1/1437580321678-6bjrso/FINS_BILLS_GASE_CTJ-1514771773833.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/1/1/art_192416884/FINS_BILLS_GASE_CTJ.m3u8"}],"mediaid":"EYTID7Db","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dmiami_dolphins%26id%3D192416884%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FSports%2FFootball%2FPro%2FNFL&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=miami_dolphins&id=192416884&eid=156672104&vidlength=long&pl="}]},{"id":"194023739","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/colombia/article194023739.html","duration":"1:54","image":"//www.miamiherald.com/latest-news/510lb3-Part-2.jpg/alternates/LANDSCAPE_768/Part%202.jpg","title":"Colombian police battle illegal gold miners","description":"Colombian police battle illegal gold miners <span class=\"title-duration\">1:54</span>","displayDescription":"In the Colombian rainforest, outlaw gold mines are poisoning workers and the environment. Police venture deep into the jungle to destroy them with explosives.","videographer":"Jim Wyss, Edited by Matias J. Ocner","credit":"jwyss@miamiherald.com","published":1515622820,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/12/16/1437582013143-p5k4ma/Gold_Explosions___MJO___MH___Final-1515775576779.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/12/16/1437580321678-6bjrso/Gold_Explosions___MJO___MH___Final-1515775579421.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/12/16/art_194023739/Gold_Explosions___MJO___MH___Final.m3u8"}],"mediaid":"Z4jDNVS6","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcolombia%26id%3D194023739%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=colombia&id=194023739&eid=156672104&vidlength=long&pl="}]},{"id":"194024339","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/colombia/article194024339.html","duration":"1:49","image":"//www.miamiherald.com/latest-news/psikaw-112GoldCol00-NEW-PPP.JPG/alternates/LANDSCAPE_768/112GoldCol00%20NEW%20PPP.JPG","title":"In Colombia, criminal gangs threaten small gold miners","description":"In Colombia, criminal gangs threaten small gold miners <span class=\"title-duration\">1:49</span>","displayDescription":"Subsistence gold miners in Colombia get hit from all sides. The criminal gangs who extort money from them. The multinational companies that dominate the industry. The government that they say wants to regulate them out of existence.","videographer":"Pedro Portal, Edited by Matias J. Ocner","credit":"pportal@miamiherald.com","published":1516053864,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/10/21/1437582013143-p5k4ma/Gold_Mines___MJO___MH___Final-1516053861877.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/10/21/1437580321678-6bjrso/Gold_Mines___MJO___MH___Final-1516053862998.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/10/21/art_194024339/Gold_Mines___MJO___MH___Final.m3u8"}],"mediaid":"E2Uc6uxi","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcolombia%26id%3D194024339%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=colombia&id=194024339&eid=156672104&vidlength=long&pl="}]}]}, {"wpsInclude":false,"wpsArea":null,"autoPlay":false,"pubName":"miamiherald","embed":false,"cacheBust":"54aaadf","iterator":5,"uniqueID":"156769689-1516251241639","paywallEnabled":true,"domainName":"www.miamiherald.com","pubId":"7","baseTemplate":"story"}, [{"id":"194727034","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article194727034.html","duration":"0:14","image":"//www.miamiherald.com/news/nation-world/world/americas/venezuela/7xqi8m-Year-in-Review-2017.00_05_56_21.Still004.jpg/alternates/LANDSCAPE_768/Year%20in%20Review%202017.00_05_56_21.Still004.jpg","title":"Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender","description":"Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender <span class=\"title-duration\">0:14</span>","displayDescription":"Óscar Pérez posted a video saying that Venezuelan government forces won't accept his surrender. The bloody face reportedly came as a result of an assault.","videographer":"","credit":"","published":1516035516,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437582013143-p5k4ma/Oscar_Perez_2___MH-1516035515574.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437580321678-6bjrso/Oscar_Perez_2___MH-1516035516026.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/art_194727034/Oscar_Perez_2___MH.m3u8"}],"mediaid":"63KHBEgG","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dvenezuela%26id%3D194727034%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=venezuela&id=194727034&eid=156672104&vidlength=short&pl="}]},{"id":"194727014","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article194727014.html","duration":"0:42","image":"//www.miamiherald.com/news/nation-world/world/americas/venezuela/ia20f5-Oscar-Perez-1-MH.mp4/alternates/LANDSCAPE_768/Oscar%20Perez%201%20-%20MH.mp4","title":"Óscar Pérez posts video saying he is under attack by Venezuelan government forces ","description":"Óscar Pérez posts video saying he is under attack by Venezuelan government forces  <span class=\"title-duration\">0:42</span>","displayDescription":"Óscar Pérez, the Venezuelan policeman wanted after attacking the headquarters of the Supreme Court and the Ministry of the Interior from a helicopter, is surrounded by Venezuelan government forces.","videographer":"","credit":"","published":1516035484,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437582013143-p5k4ma/Oscar_Perez_1___MH-1516035482996.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437580321678-6bjrso/Oscar_Perez_1___MH-1516035483291.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/art_194727014/Oscar_Perez_1___MH.m3u8"}],"mediaid":"lNPh6FuZ","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dvenezuela%26id%3D194727014%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=venezuela&id=194727014&eid=156672104&vidlength=short&pl="}]},{"id":"194731434","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article194731434.html","duration":"0:10","image":"//www.miamiherald.com/news/nation-world/world/americas/venezuela/n9pu8f-O-P-Keyframe-1.jpg/alternates/LANDSCAPE_768/O%20P%20Keyframe%201.jpg","title":"Óscar Pérez: \"We are going to surrender\"","description":"Óscar Pérez: \"We are going to surrender\" <span class=\"title-duration\">0:10</span>","displayDescription":"Óscar Pérez, the Venezuelan policeman wanted after attacking the headquarters of the Supreme Court and the Ministry of the Interior from a helicopter, posted a video asking Venezuelan government forces to stop shooting at him. Perez says, \"we are going to surrender.\"","videographer":"","credit":"equilibriogv via Instagram","published":1516038636,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/17/1437582013143-p5k4ma/Oscar_Perez_4___MH-1516038635060.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/17/1437580321678-6bjrso/Oscar_Perez_4___MH-1516038635610.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/17/art_194731434/Oscar_Perez_4___MH.m3u8"}],"mediaid":"h9nKJySE","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dvenezuela%26id%3D194731434%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=venezuela&id=194731434&eid=156672104&vidlength=short&pl="}]},{"id":"195222369","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/local/crime/article195222369.html","duration":"0:44","image":"//www.miamiherald.com/news/local/crime/f9b9h9-Sequence-04.00_22_44_24.Still004.jpg/alternates/LANDSCAPE_768/Sequence%2004.00_22_44_24.Still004.jpg","title":"Lauderhill shooting caught on video","description":"Lauderhill shooting caught on video <span class=\"title-duration\">0:44</span>","displayDescription":"The Lauderhill Police Department is asking the public's help in identifying two men who are accused of shooting a man at his home on Jan. 14, 2018. ","videographer":"","credit":"","published":1516231718,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/23/1437582013143-p5k4ma/lauderhill_shooting_1-1516231716881.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/23/1437580321678-6bjrso/lauderhill_shooting_1-1516231717177.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/23/art_195222369/lauderhill_shooting_1.m3u8"}],"mediaid":"huDPkOOS","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcrime%26id%3D195222369%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=crime&id=195222369&eid=156672104&vidlength=short&pl="}]},{"id":"184642818","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/haiti/article184642818.html","duration":"2:51","image":"//www.miamiherald.com/news/nation-world/world/americas/haiti/ioackb-Main-sequence.00_00_23_22134.Still001.jpg/alternates/LANDSCAPE_768/Main%20sequence.00_00_23_22134.Still001.jpg","title":"Years of unchecked corruption hamper Haiti's development ","description":"Years of unchecked corruption hamper Haiti's development  <span class=\"title-duration\">2:51</span>","displayDescription":"Beauplan's commission recently released a 656-page report on the management of $2 billion in loans that Haiti received as part of Venezuela's PetroCaribe discounted oil program. The investigation accuses 15 former government officials, including two former prime ministers and current President Jovenel Moïse's chief of staff, of corruption and poor management.     ","videographer":"José A. Iglesias; edited by Justin Azpiazu","credit":"Miami Herald","published":1510704173,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2017/11/14/23/1437582013143-p5k4ma/haiti_corruption_v3-1510704170331.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2017/11/14/23/1437580321678-6bjrso/haiti_corruption_v3-1510704171038.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2017/11/14/23/art_184642818/haiti_corruption_v3.m3u8"}],"mediaid":"TLDR91lM","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dhaiti%26id%3D184642818%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=haiti&id=184642818&eid=156672104&vidlength=long&pl="}]},{"id":"194894159","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article194894159.html","duration":"1:28","image":"//www.miamiherald.com/latest-news/wzb3mr-History-Channel-announces-special-program-on-the-history-of-global-soccer/alternates/LANDSCAPE_768/History%20Channel%20announces%20special%20program%20on%20the%20history%20of%20global%20soccer","title":"History Channel announces special program on the history of global soccer","description":"History Channel announces special program on the history of global soccer <span class=\"title-duration\">1:28</span>","displayDescription":"International soccer star, David Villa, was in attendance of the History Channel’s 14-day program celebrating the global history of soccer during NATPE convention at the Fontaine Bleu in Miami Beach, Florida.","videographer":"Carl Juste","credit":"cjuste@miamiherald.com","published":1516126738,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/16/18/1437582013143-p5k4ma/0d6a2f04_0469_47fe_ab91_13482e13113f-1516126735944.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/16/18/1437580321678-6bjrso/0d6a2f04_0469_47fe_ab91_13482e13113f-1516126736300.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/16/18/art_194894159/0d6a2f04_0469_47fe_ab91_13482e13113f.m3u8"}],"mediaid":"6nMV2ZBo","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dmiami_beach%26id%3D194894159%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=miami_beach&id=194894159&eid=156672104&vidlength=long&pl="}]},{"id":"195203539","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/national/article195203539.html","duration":"0:49","image":"//www.miamiherald.com/news/nation-world/national/f5hi8v-5a5e600d92a59.imag_fitted-2.jpeg/alternates/LANDSCAPE_768/5a5e600d92a59.imag_fitted-2.jpeg","title":"Man charged with hiding girlfriend's dead body in his home for almost a month","description":"Man charged with hiding girlfriend's dead body in his home for almost a month <span class=\"title-duration\">0:49</span>","displayDescription":"Jeffrey Michael Thomas from Rockwood, Michigan, was caught concealing his girlfriend’s body in his home after he jumped out a window and neighbors called 911.","videographer":"Matias J. Ocner and David Santiago","credit":"Miami Herald Staff","published":1516228215,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/22/1437582013143-p5k4ma/Thomas___MH___EDIT-1516228214148.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/22/1437580321678-6bjrso/Thomas___MH___EDIT-1516228214435.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/22/art_195203539/Thomas___MH___EDIT.m3u8"}],"mediaid":"PkYXmRy2","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D195203539%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=national&id=195203539&eid=156672104&vidlength=short&pl="}]},{"id":"192416884","asset_type":"videoIngest","url":"https://www.miamiherald.com/sports/nfl/miami-dolphins/article192416884.html","duration":"1:15","image":"//www.miamiherald.com/latest-news/vsiys1-FINS-BILLS-GASE-CTJ.mp4/alternates/LANDSCAPE_768/FINS%20BILLS%20GASE%20CTJ.mp4","title":"Coach Adam Gase talks about the Miami Dolphins' 2017 season.","description":"Coach Adam Gase talks about the Miami Dolphins' 2017 season. <span class=\"title-duration\">1:15</span>","displayDescription":"Miami Dolphins coach Adam Gase talks about the Fins' bizarre season and Jarvis Landry's ejection after their final game of the season, a loss to the Buffalo Bills.","videographer":"Charles Trainor Jr.","credit":"ctrainor@miamiherald.com","published":1514771775,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/1/1/1437582013143-p5k4ma/FINS_BILLS_GASE_CTJ-1514771773130.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/1/1/1437580321678-6bjrso/FINS_BILLS_GASE_CTJ-1514771773833.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/1/1/art_192416884/FINS_BILLS_GASE_CTJ.m3u8"}],"mediaid":"EYTID7Db","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dmiami_dolphins%26id%3D192416884%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FSports%2FFootball%2FPro%2FNFL&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=miami_dolphins&id=192416884&eid=156672104&vidlength=long&pl="}]},{"id":"194023739","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/colombia/article194023739.html","duration":"1:54","image":"//www.miamiherald.com/latest-news/510lb3-Part-2.jpg/alternates/LANDSCAPE_768/Part%202.jpg","title":"Colombian police battle illegal gold miners","description":"Colombian police battle illegal gold miners <span class=\"title-duration\">1:54</span>","displayDescription":"In the Colombian rainforest, outlaw gold mines are poisoning workers and the environment. Police venture deep into the jungle to destroy them with explosives.","videographer":"Jim Wyss, Edited by Matias J. Ocner","credit":"jwyss@miamiherald.com","published":1515622820,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/12/16/1437582013143-p5k4ma/Gold_Explosions___MJO___MH___Final-1515775576779.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/12/16/1437580321678-6bjrso/Gold_Explosions___MJO___MH___Final-1515775579421.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/12/16/art_194023739/Gold_Explosions___MJO___MH___Final.m3u8"}],"mediaid":"Z4jDNVS6","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcolombia%26id%3D194023739%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=colombia&id=194023739&eid=156672104&vidlength=long&pl="}]},{"id":"194024339","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/colombia/article194024339.html","duration":"1:49","image":"//www.miamiherald.com/latest-news/psikaw-112GoldCol00-NEW-PPP.JPG/alternates/LANDSCAPE_768/112GoldCol00%20NEW%20PPP.JPG","title":"In Colombia, criminal gangs threaten small gold miners","description":"In Colombia, criminal gangs threaten small gold miners <span class=\"title-duration\">1:49</span>","displayDescription":"Subsistence gold miners in Colombia get hit from all sides. The criminal gangs who extort money from them. The multinational companies that dominate the industry. The government that they say wants to regulate them out of existence.","videographer":"Pedro Portal, Edited by Matias J. Ocner","credit":"pportal@miamiherald.com","published":1516053864,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/10/21/1437582013143-p5k4ma/Gold_Mines___MJO___MH___Final-1516053861877.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/10/21/1437580321678-6bjrso/Gold_Mines___MJO___MH___Final-1516053862998.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/10/21/art_194024339/Gold_Mines___MJO___MH___Final.m3u8"}],"mediaid":"E2Uc6uxi","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcolombia%26id%3D194024339%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=colombia&id=194024339&eid=156672104&vidlength=long&pl="}]}], true );
+    });
+</script>
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+                    <div class="caption wps-video-caption">
+
+
+
+        <span class="caption-text">The proposal would grant multiple entry visas to the 126 migrants in a temporary shelter in Gualaca in western Panama if they return to Cuba. </span>
+
+
+        <span class="photographer">José A. Iglesias / The Miami Herald</span>
+
+
+        <span class="credits">Special thanks to the Pulitzer Center on Crisis Reporting for its support on this project.</span>
+
+
+
+                    </div>
+
+            </div>
+
+
+            <div class="lead-caption">
+
+
+
+
+
+        <span class="caption-text">The proposal would grant multiple entry visas to the 126 migrants in a temporary shelter in Gualaca in western Panama if they return to Cuba. </span>
+
+
+        <span class="photographer">José A. Iglesias / The Miami Herald</span>
+
+
+        <span class="credits">Special thanks to the Pulitzer Center on Crisis Reporting for its support on this project.</span>
+
+
+
+
+
+            </div>
+
+    </div>
+    <script>
+        jQuery(document).ready(function () {
+            mi.leadAssets.init();
+        });
+    </script>
+
+
+
+
+
+
+
+            <div id="story-header">
+                <h2 class="heading section-main-heading link">
+                    <a href="//www.miamiherald.com/news/nation-world/world/americas/venezuela/">Venezuela</a>
+                </h2>
+
+                <h3 class="title">With Venezuela in chaos, asylum petitions have tripled. Most seek refuge in U.S.</h3>
+            </div>
+            <div id="story-body-items"><div class="byline element-spacing-small"><p><span class="ng_byline_name">By Jim Wyss</span></p><p><span class="ng_byline_email"><a href="mailto:jwyss@miamiherald.com" title="">jwyss@miamiherald.com</a></span></p></div>
+
+                    <div class="share-tools-wrapper">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="share-icons">
+    <li class="facebook">
+
+
+                <a class="facebook-share" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article156672104.html" onclick="mi.articleShareTools.popupFunction(this.href, 8663);return false;"></a>
+
+
+        <div class="glyphicon glyphicon-facebook"></div>
+    </li>
+    <li class="twitter">
+
+            <a title="Share on Twitter" href="https://twitter.com/share?text=With+Venezuela+in+chaos,+asylum+petitions+have+tripled.+Most+seek+refuge+in+U.S.&amp;url=http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article156672104.html" onclick="mi.articleShareTools.popupFunction(this.href, 8651);return false;"></a>
+
+        <div class="glyphicon glyphicon-twitter"></div>
+    </li>
+
+    <li class="email">
+
+            <a title="Share by Email" href="mailto:?subject=With Venezuela in chaos, asylum petitions have tripled. Most seek refuge in U.S.&body=http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article156672104.html" onclick="nextbee.credit_share_articles(8578);"></a>
+
+        <div class="glyphicon glyphicon-envelope"></div>
+    </li>
+    <li class="more" onClick="return true">
+        <ul class="share-options">
+
+                <li class="linked-in"><a id="linkedInId" title="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article156672104.html&title=With Venezuela in chaos, asylum petitions have tripled. Most seek refuge in U.S."><span class="glyphicon glyphicon-linkedin"></span>LinkedIn</a></li>
+
+
+                <li class="google"><a title="Share on Google Plus" href="https://plus.google.com/share?url=http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article156672104.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"><span class="glyphicon glyphicon-google-plus"></span>Google+</a></li>
+
+
+                <li class="pinterest"><a id="pinterestId" title="Share on Pinterest" href="https://www.pinterest.com/pin/create/button/?url=http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article156672104.html&description=With Venezuela in chaos, asylum petitions have tripled. Most seek refuge in U.S.&media=http://www.miamiherald.com/news/nation-world/world/americas/uzdw8g-CubanMigrants0030JAI.JPG/alternates/LANDSCAPE_1140/Cuban+Migrants0030+JAI.JPG"><span class="glyphicon glyphicon-pinterest-p"></span>Pinterest</a></li>
+
+            <li class="reddit"><a title="Share on Reddit" href="https://www.reddit.com/submit?url=http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article156672104.html"><span class="glyphicon glyphicon-reddit"></span>Reddit</a></li>
+            <li class="print"><a title="Print" href="javascript:window.print();"><span class="glyphicon glyphicon-print"></span>Print</a></li>
+            <li class="reprints"><a title="Reprints" href="https://www.mcclatchyreprints.com">Order Reprint of this Story</a></li>
+        </ul>
+        <div class="glyphicon glyphicon-share"></div>
+    </li>
+</ul>
+<script type="text/javascript">
+    $(document).ready(function () {
+        mi.articleShareTools.init({
+            nextLinkedin: '8564',
+            nextPinterest: '8630'
+        });
+        mi.socialSharingScroll.init();
+    });
+</script>
+
+                    </div>
+
+
+                <div class="published-date-widget">
+                    <p class="published-date">
+                        <span id="publish_date">
+                            June 19, 2017 07:00 AM
+                        </span>
+                    </p>
+                    <p class="published-date">
+
+                            <span id="update_date">
+
+                            </span>
+
+                    </p>
+                </div>
+
+                <div class="dateline-storybody">
+
+                        <span class="dateline">
+                            BOGOTA, Colombia
+                        </span>
+
+                    <div id="story-target" class="clearfix">
+                        <div id="content-body-" class="content-body">
+
+
+
+
+
+                                    <p> The number of Venezuelans seeking asylum tripled from 2015 to 2016, as the once-wealthy nation continues to be trapped in a punishing economic, social and political crisis. </p>
+
+
+
+
+                                    <p>According to a United Nations report released Monday, some 34,200 Venezuelans sought asylum in 2016 — up from 10,200 claims the previous year.</p>
+
+
+
+
+                                    <p>Of those asylum applicants, 18,300 sought refuge in the United States.</p>
+
+
+
+
+                                    <p><a href="http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article95252157.html" target="_blank" title=""><strong>Read More: Seeking fresh start, Venezuelans flee by boat, plane and foot</strong></a></p>
+
+
+    <div id="newsletter-signUpWidget"></div>
+    <script>
+        jQuery(document).ready(function () {
+            mi.renderNewsletterIframe.init({
+                container: '#newsletter-signUpWidget',
+                url: 'http://x.email.miamiherald.com/ats/url.aspx?cr=663&wu=218'
+            });
+        });
+    </script>
+
+
+
+    <div id="story-cta-widget" class="subscription-cta-widget cta-fullwidth">
+        <h2 class="widget-title">Never miss a local story.</h2>
+        <p class="widget-subhead">Sign up today for a free 30 day free trial of unlimited digital access.</p>
+        <div class="btn btn-primary widget-button">
+            <a href="https://account.miamiherald.com/subscribe/create?param=fHVEAUQ=">SUBSCRIBE NOW</a>
+        </div>
+    </div>
+
+<script>
+    jQuery(document).ready(function () {
+        mi.calltoActionCtrl.init();
+    });
+</script>
+
+
+
+
+
+                                    <p>The Venezuelan exodus is notable because for decades the South American country had been a destination for refugees attracted by its thriving, oil-rich economy and welcoming immigration policies. </p>
+
+
+
+
+
+
+    <div class="ad visible-xs" >
+        <div class="ad-widget" id="mn-gpt-5" adtype="default" pkg="c" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="300x250" articleId="156672104"></div>
+    </div>
+
+
+
+
+                                    <p>In 2016, the nation was still home to more than 172,000 people (primarily Colombians fleeing decades of violence) who were living there under "refugee-like conditions," according to the report, called "Global Trends: Forced Displacement in 2016" and put out by the U.N. High Commissioner for Refugees.</p>
+
+
+
+
+                                    <p>Francesca Fontanini, a spokeswoman with UNHCR, said that in the last year there had been a "significant increase" in Venezuelan asylum seekers in Brazil, Colombia, Costa Rica, Panama and Mexico. </p>
+
+
+
+
+                                    <p><a href="http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article156298064.html" target="_blank" title=""><strong>Read More: Rights groups seek legal escape hatch for troubled Venezuela</strong></a></p>
+
+
+
+
+                                    <p>What the report doesn't reflect are the massive numbers of Venezuelans moving abroad for economic reasons who don’t apply for asylum.</p>
+
+
+
+
+                                    <p>According to a UN estimate from 2015, there were some 606,344 Venezuelans living abroad, more than half of them in the United States.</p>
+
+
+
+
+
+
+    <div class="ad visible-xs" >
+        <div class="ad-widget" id="mn-gpt-6" adtype="default" pkg="e" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="300x250" articleId="156672104"></div>
+    </div>
+
+
+
+
+                                    <h3>U.S. asylum seekers <span class="ng-command" data-value="252"> </span></h3>
+
+
+
+
+                                    <p>In total, the United States received 262,000 new asylum applications in 2016, up 52 percent from the previous year and double from 2014. That puts it second only to Germany (722,400) in terms of new claims. And it was followed by Italy (123,000) and Turkey (78,600).</p>
+
+
+
+
+                                    <p>Of those applying for asylum in the United States, 52 percent were from Mexico and Central America. The most common country of origin was El Salvador with 121,200 applications, followed by Mexico (27,900), Guatemala (25,700), China (19,900) and Honduras (19,500). </p>
+
+
+
+
+                                    <div class="ng_mm_link1"><div><style>.mcclatchy-embed{position:relative;padding:40px 0 56.25%;height:0;overflow:hidden;max-width:100%}.mcclatchy-embed iframe{position:absolute;top:0;left:0;width:100%;height:100%}</style><div class="mcclatchy-embed"><iframe allowfullscreen="true" frameborder="0" height="400" src="http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article156416034.html/video-embed" width="640"> </iframe></div></div></div>
+
+
+
+
+                                    <p>When it comes to refugees, however, Colombia continues to be the hemisphere's trouble spot. </p>
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="ad visible-xs" >
+        <div class="ad-widget" id="mn-gpt-7" adtype="default" pkg="f" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="300x250" articleId="156672104"></div>
+    </div>
+
+
+
+
+                                    <p>According to the report, as of 2016, there were some 7.7 million Colombians who were forcibly displaced. Those are cumulative numbers dating back to 1985, though, and don't fully capture the huge strides in security the country has made in the last decade.</p>
+
+
+
+
+                                    <p>Even so, that makes Colombia second only to Syria in the number of displaced people. </p>
+
+
+
+
+                                    <div class="ng_endnote_contact"><p>Follow Jim Wyss on Twitter @jimwyss</p><span class="ng-command" data-value="252"> </span></div>
+
+
+
+
+
+
+                        </div>
+                        <div class="hidden">
+                            <div class="ad-widget" id="mn-gpt-8" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="336x280" Medium="336x280" Small="336x280" Extra-Small="336x280" articleId="156672104"></div>
+                        </div>
+
+
+                                <!-- Nothing is configured -->
+
+
+
+                                <!-- Nothing is configured -->
+
+
+
+                                <!-- Nothing is configured -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script type='text/template' id='inlinegallery-template-156672099'>
+    <div class="story-gallery spillover-gallery">
+        <div id="slick-gallery-container-156672099" class="mi-slick-gallery-container clearfix" style="visibility: hidden;">
+            <div class="preroll-container" data-uniqueID="156672099">
+
+
+                <div class="slick-gallery">
+
+
+                            <div class="gallery-item image">
+                                <span data-src="//www.miamiherald.com/news/nation-world/world/americas/venezuela/prb9wl/picture156672099/alternates/FREE_160/Week%20That%20Was%20from%20Latin%20America%20Photo%20Gallery" data-width-160></span>
+                                <span data-src="//www.miamiherald.com/news/nation-world/world/americas/venezuela/prb9wl/picture156672099/alternates/FREE_320/Week%20That%20Was%20from%20Latin%20America%20Photo%20Gallery" data-width-320></span>
+                                <span data-src="//www.miamiherald.com/news/nation-world/world/americas/venezuela/prb9wl/picture156672099/alternates/FREE_480/Week%20That%20Was%20from%20Latin%20America%20Photo%20Gallery" data-width-480></span>
+                                <span data-src="//www.miamiherald.com/news/nation-world/world/americas/venezuela/prb9wl/picture156672099/alternates/FREE_640/Week%20That%20Was%20from%20Latin%20America%20Photo%20Gallery" data-width-640></span>
+                                <span data-src="//www.miamiherald.com/news/nation-world/world/americas/venezuela/prb9wl/picture156672099/alternates/FREE_768/Week%20That%20Was%20from%20Latin%20America%20Photo%20Gallery" data-width-768></span>
+                                <span data-src="//www.miamiherald.com/news/nation-world/world/americas/venezuela/prb9wl/picture156672099/alternates/FREE_960/Week%20That%20Was%20from%20Latin%20America%20Photo%20Gallery" data-width-960></span>
+                                <span data-src="//www.miamiherald.com/news/nation-world/world/americas/venezuela/prb9wl/picture156672099/alternates/FREE_1140/Week%20That%20Was%20from%20Latin%20America%20Photo%20Gallery" data-width-1140></span>
+                                <img alt="In this Thursday, June 8, 2017, photo, a woman sits under an image of the late protester Neomar Lander, near the site where he died, during a vigil in his honor in Caracas, Venezuela. Lander, 17, is one of the latest victims of Venezuela&#39;s unrest. He died during anti-government protests on Wednesday." title="In this Thursday, June 8, 2017, photo, a woman sits under an image of the late protester Neomar Lander, near the site where he died, during a vigil in his honor in Caracas, Venezuela. Lander, 17, is one of the latest victims of Venezuela&#39;s unrest. He died during anti-government protests on Wednesday." />
+                                <div class="caption">
+                                    <span class="caption-text">In this Thursday, June 8, 2017, photo, a woman sits under an image of the late protester Neomar Lander, near the site where he died, during a vigil in his honor in Caracas, Venezuela. Lander, 17, is one of the latest victims of Venezuela&#39;s unrest. He died during anti-government protests on Wednesday. </span>
+
+                                    <span class="photographer">Ariana Cubillos</span>
+
+
+                                    <span class="credits">AP</span>
+
+                                </div>
+                            </div>
+
+
+                </div>
+            </div>
+            <div class="spillover-caption-carousel">
+                <div class="current-caption  spillover-gallery"></div>
+
+            </div>
+
+        </div>
+    </div>
+     </script><div id='inlinegallery-target-156672099'></div><script> lazyLoadingModule("inlinegallery-template-156672099", "inlinegallery-target-156672099", "gallery",500,
+        undefined, undefined, undefined,  "undefined", 156672099 , 1 ); </script>
+
+
+
+                    </div>
+                </div>
+
+
+
+
+
+    <script class="tout-sdk tout-sdk-script-tag">
+    !function(){var TOUT=window.TOUT=window.TOUT||{},utils={getCanonicalLinkHref:function(){for(var links=document.getElementsByTagName("link"),i=0;i<links.length;i++)if("canonical"===links[i].getAttribute("rel"))return links[i].getAttribute("href");return""},getMetaTagContentByProperty:function(metaTagProperty){for(var metaTags=document.getElementsByTagName("meta"),i=0;i<metaTags.length;i++)if(metaTags[i].getAttribute("property")===metaTagProperty)return metaTags[i].getAttribute("content");return""},getWindowLocationOrigin:function(){return window.location.protocol+"//"+window.location.host},getCanonicalUrl:function(){var canonicalUrl=utils.getCanonicalLinkHref()||utils.getMetaTagContentByProperty("og:url");return canonicalUrl&&"/"===canonicalUrl[0]&&(canonicalUrl=utils.getWindowLocationOrigin()+canonicalUrl),canonicalUrl},getOgUrl:function(){var ogUrl=utils.getMetaTagContentByProperty("og:url");return ogUrl&&"/"===ogUrl[0]&&(ogUrl=utils.getWindowLocationOrigin()+ogUrl),ogUrl},getRelCanonical:function(){var relCanonical=utils.getCanonicalLinkHref();return relCanonical&&"/"===relCanonical[0]&&(relCanonical=utils.getWindowLocationOrigin()+relCanonical),relCanonical},getExternalArticleId:function(){return utils.getMetaTagContentByProperty("tout:article:id")},getCurrentProtocol:function(){return"https:"===document.location.protocol?"https:":"http:"},getPlatformHost:function(){return TOUT.SDK_HOST||"platform.tout.com"}};TOUT.mapAsyncFetchApp={init:function(brandUid,options){this.brandUid=brandUid,this.active=!0,this.productFetched=!1,this.dataLoaded=!1,this.startedSuccessfully=!1,this.options=options||{},this.options.paramsWhitelist||(this.options.paramsWhitelist=["brand_uid","external_article_id","og_url","window_location","rel_canonical","async_fetch"])},fetch:function(){var script=document.createElement("script"),src=utils.getCurrentProtocol()+"//"+utils.getPlatformHost()+"/mid_article_player.js",params=TOUT.mapAsyncFetchApp.getMidArticleQueryParams(),joinCharacter="?";for(var param in params)params.hasOwnProperty(param)&&""!==params[param]&&(src+=joinCharacter+param+"="+encodeURIComponent(params[param]),joinCharacter="&");script.src=src;var firstScript=document.getElementsByTagName("script")[0];firstScript.parentNode.insertBefore(script,firstScript)},start:function(){this.productFetched&&this.dataLoaded&&!this.startedSuccessfully&&(this.startedSuccessfully=!0,TOUT.midArticleProductLoader.start(TOUT.data.mid_article_player_experiment))},getMidArticleQueryParams:function(){var params={};return this._whitelistContains("brand_uid")&&(params.brand_uid=this.brandUid),this._whitelistContains("content_referrer")&&(params.content_referrer=document.referrer),this._whitelistContains("external_article_id")&&(params.external_article_id=utils.getExternalArticleId()),this._whitelistContains("og_url")&&(params.og_url=utils.getOgUrl()),this._whitelistContains("window_location")&&(params.window_location=document.location.href),this._whitelistContains("rel_canonical")&&(params.rel_canonical=utils.getRelCanonical()),this._whitelistContains("async_fetch")&&(params.async_fetch=!0),params},_whitelistContains:function(value){return this.options.paramsWhitelist&&this.options.paramsWhitelist.indexOf(value)>-1}}}();
+    !function(){var TOUT=window.TOUT=window.TOUT||{};if(console&&console.log&&console.log("Tout SDK: "+ +new Date),!TOUT._sdkScriptTagParsedAt){TOUT._sdkScriptTagParsedAt=new Date,TOUT.EMBED_CODE_VERSION="1.2.0";var sdkHost=TOUT.SDK_HOST||"platform.tout.com",sdkProtocol=TOUT.SDK_PROTOCOL||("https:"==window.location.protocol?"https:":"http:"),analyticsHost=TOUT.SDK_ANALYTICS_HOST||"analytics.tout.com",analyticsProtocol=TOUT.SDK_ANALYTICS_PROTOCOL||sdkProtocol;TOUT.onReady=TOUT.onReady||function(func){return TOUT._onReadyQueue=TOUT._onReadyQueue||[],TOUT._onReadyQueue.push(func),TOUT},TOUT.fireSimpleAnalyticsPixel=function(trigger_name,attrs){var img=new Image,url=analyticsProtocol+"//"+analyticsHost+"/events?trigger="+trigger_name;for(var attr in attrs)attrs.hasOwnProperty(attr)&&(url+="&"+attr+"="+encodeURIComponent(attrs[attr]));return img.src=url,img},TOUT.init=function(brandUid,options){options=options||{};var sdkScriptId="tout-js-sdk";if(document.getElementById(sdkScriptId)&&!options.forceInit)return TOUT;if(brandUid=TOUT.SDK_BRAND_UID||brandUid,"undefined"==typeof brandUid||"string"!=typeof brandUid||0===brandUid.length||brandUid.length>7)return TOUT.fireSimpleAnalyticsPixel("sdk_log",{log_level:"error",log_message:"BRAND_UID_NOT_DEFINED",content_page_url:window.location.href}),console&&console.error&&console.error("TOUT - Invalid Brand UID: "+brandUid),TOUT;TOUT._initOptions=options;var script=document.createElement("script");script.type="text/javascript",script.src=sdkProtocol+"//"+sdkHost+"/sdk/v1/"+brandUid+".js",script.id=sdkScriptId,script.className="tout-sdk";var firstScript=document.getElementsByTagName("script")[0];return firstScript.parentNode.insertBefore(script,firstScript),TOUT.fireSimpleAnalyticsPixel("sdk_initialized",{content_brand_uid:brandUid,sdk_embed_code_version:TOUT.EMBED_CODE_VERSION,content_page_url:window.location.href}),TOUT}}}();
+    (function(){
+      var brandUid = "5869df";
+      TOUT.mapAsyncFetchApp.init(brandUid);
+      TOUT.init(brandUid);
+      TOUT.mapAsyncFetchApp.fetch();
+    })();
+    </script>
+
+
+
+
+    <script>
+        ! function() {
+            var tagalongWidth = 325;
+            if (window.innerWidth <= 320) {
+                tagalongWidth = window.innerWidth / 2
+            }
+            if (window.innerWidth > 320 && window.innerWidth <= 768) {
+                tagalongWidth = window.innerWidth * 0.4
+            }
+            if (window.innerWidth > 768 && window.innerWidth < 1367) {
+                tagalongWidth = window.innerWidth / 3
+            }
+            if (tagalongWidth > 325) {
+                tagalongWidth = 325
+            }
+            document.body.addEventListener('ToutSDKLoad', function(evt) { //wait for SDK to load
+                TOUT.model.setMixinSettings('TagAlong', { //change width of tagalong unit before player is created
+                    popoutWidth: tagalongWidth
+                })
+            })
+        }();
+    </script>
+
+
+    <div class="tout-sdk tout-mid-article"></div>
+
+
+
+
+
+
+
+
+
+    <script type='text/template' id='zerg-template'>
+        <div id="vendor-stories-content">
+            <h2 class='heading vendor-storiescontent-heading'>Suggested for you</h2>
+        </div>
+        <div class="vendor-storiescontent-main-container" id="zergnet-widget-53339"></div>
+     </script><div id='zerg-target'></div><script> lazyLoadingModule("zerg-template", "zerg-target", "zerg",500,
+        undefined, undefined, undefined,  "53339", undefined , undefined ); </script>
+
+
+
+
+
+                    <div id="commenting-container" class="commenting-container element-spacing-large">
+
+                            <h2 class="heading link">
+    <a class="comments-toggle" href="javascript:void(0);">
+        <span class="glyphicon glyphicon-comment-o"></span>&nbsp; Comments &nbsp;<span class="glyphicon glyphicon-chevron-down rotate"></span>
+    </a>
+</h2>
+
+<!--Needs to be on the DOM on page load for IE. Needs to be visible to set the correct height of the comment component. I'm hiding it on document ready. Appending it later did not work-->
+<div id="fb-comments" class="fb-comments in" data-href="" data-width="100%" data-numposts="10"></div>
+
+<script>
+    jQuery(document).ready(function () {
+        mi.commentingFaceboook.init();
+    });
+</script>
+
+
+                    </div>
+
+            </div>
+            <div id="nativoArticlePage" ></div>
+        </div>
+
+
+
+<div class="narrow-rail">
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-9" adtype="default" pkg="b" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Large" Large="Flex Ad" Medium="Flex Ad" Small="300x250" Extra-Small="None" articleId="156672104"></div>
+    </div>
+    <div class="element-spacing-medium">
+        <div id="video-widget" class="headline-list">
+            <h2 class="heading link"><a href="/video/">Videos</a></h2>
+            <div class="teaser">
+                <div id="container-156769689-1516251241639" class="container-156769689-1516251241639">
+
+
+
+
+<div class="wf-wps-side-bar">
+<div class="mi-video-sidebar-widget" id="video-detail-194727034-1516251241643">
+    <div id="video-container-194727034-1516251241643">
+
+
+
+
+
+
+
+
+<div id="video-detail-194727034-1516251241643" class="media-wrap">
+    <div class="video-media" data-id="194727034" data-index>
+        <div id="player-194727034-1516251241643" class="player" data-id="194727034">
+            <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; background: url('//www.miamiherald.com/news/nation-world/world/americas/venezuela/7xqi8m-Year-in-Review-2017.00_05_56_21.Still004.jpg/alternates/LANDSCAPE_560/Year%20in%20Review%202017.00_05_56_21.Still004.jpg') no-repeat center center; background-size: cover;">
+        </div>
+    </div>
+
+    <div class="mi-video-utility-bar share-icons  hide">
+
+        <a class="mi-video-share-btn mi-video-utility-item" data-item="share-rail" >
+         <span class="glyphicon glyphicon-share" title="Share" ></span>
+        </a>
+        <a class="mi-video-embed-btn mi-video-utility-item" data-item="embed-rail" >
+            <span class="glyphicon glyphicon-code" title="Embed Links" ></span>
+        </a>
+        <a class="mi-video-info-btn mi-video-utility-item" data-item="info-rail" >
+            <span class="glyphicon glyphicon-info-circle" title="Info" ></span>
+        </a>
+    </div>
+        <div id="mi-video-overlay-194727034-1516251241643" class="mi-video-custom-overlay-wrap" >
+    <div class="mi-video-eos-wrap">
+    <h3 class="mi-video-overlay-title">More Videos</h3>
+
+    <div class="mi-video-eos">
+
+            <div class="mi-overlay-item" data-index="0">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/news/nation-world/world/americas/venezuela/7xqi8m-Year-in-Review-2017.00_05_56_21.Still004.jpg/alternates/LANDSCAPE_200/Year%20in%20Review%202017.00_05_56_21.Still004.jpg" alt="Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender"/>
+                    <span class="duration">0:14</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender</h4>
+                </div>
+
+                    <div class="svg-timer-wrap">
+                        <svg class="svg-timer" viewBox="0 0 34 34">
+                            <g>
+                                <circle class="svg-timer-circle" cx="15" cy="17" r="15.9" transform="rotate(-90 16 16)"></circle>
+                                <text class="svg-timer-text" x="17" y="24"></text>
+                            </g>
+                        </svg>
+                        <a class="svg-timer-pause" href="javascript:void(0)">
+                            <span class="glyphicon glyphicon-pause"></span> Pause
+                        </a>
+                    </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="1">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/news/nation-world/world/americas/venezuela/ia20f5-Oscar-Perez-1-MH.mp4/alternates/LANDSCAPE_200/Oscar%20Perez%201%20-%20MH.mp4" alt="Óscar Pérez posts video saying he is under attack by Venezuelan government forces "/>
+                    <span class="duration">0:42</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Óscar Pérez posts video saying he is under attack by Venezuelan government forces </h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="2">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/news/nation-world/world/americas/venezuela/n9pu8f-O-P-Keyframe-1.jpg/alternates/LANDSCAPE_200/O%20P%20Keyframe%201.jpg" alt="Óscar Pérez: 'We are going to surrender'"/>
+                    <span class="duration">0:10</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Óscar Pérez: "We are going to surrender"</h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="3">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/news/local/crime/f9b9h9-Sequence-04.00_22_44_24.Still004.jpg/alternates/LANDSCAPE_200/Sequence%2004.00_22_44_24.Still004.jpg" alt="Lauderhill shooting caught on video"/>
+                    <span class="duration">0:44</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Lauderhill shooting caught on video</h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="4">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/news/nation-world/world/americas/haiti/ioackb-Main-sequence.00_00_23_22134.Still001.jpg/alternates/LANDSCAPE_200/Main%20sequence.00_00_23_22134.Still001.jpg" alt="Years of unchecked corruption hamper Haiti's development "/>
+                    <span class="duration">2:51</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Years of unchecked corruption hamper Haiti's development </h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="5">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/latest-news/wzb3mr-History-Channel-announces-special-program-on-the-history-of-global-soccer/alternates/LANDSCAPE_200/History%20Channel%20announces%20special%20program%20on%20the%20history%20of%20global%20soccer" alt="History Channel announces special program on the history of global soccer"/>
+                    <span class="duration">1:28</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">History Channel announces special program on the history of global soccer</h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="6">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/news/nation-world/national/f5hi8v-5a5e600d92a59.imag_fitted-2.jpeg/alternates/LANDSCAPE_200/5a5e600d92a59.imag_fitted-2.jpeg" alt="Man charged with hiding girlfriend's dead body in his home for almost a month"/>
+                    <span class="duration">0:49</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Man charged with hiding girlfriend's dead body in his home for almost a month</h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="7">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/latest-news/vsiys1-FINS-BILLS-GASE-CTJ.mp4/alternates/LANDSCAPE_200/FINS%20BILLS%20GASE%20CTJ.mp4" alt="Coach Adam Gase talks about the Miami Dolphins' 2017 season."/>
+                    <span class="duration">1:15</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Coach Adam Gase talks about the Miami Dolphins' 2017 season.</h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="8">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/latest-news/510lb3-Part-2.jpg/alternates/LANDSCAPE_200/Part%202.jpg" alt="Colombian police battle illegal gold miners"/>
+                    <span class="duration">1:54</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Colombian police battle illegal gold miners</h4>
+                </div>
+
+            </div>
+
+            <div class="mi-overlay-item" data-index="9">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.miamiherald.com/latest-news/psikaw-112GoldCol00-NEW-PPP.JPG/alternates/LANDSCAPE_200/112GoldCol00%20NEW%20PPP.JPG" alt="In Colombia, criminal gangs threaten small gold miners"/>
+                    <span class="duration">1:49</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">In Colombia, criminal gangs threaten small gold miners</h4>
+                </div>
+
+            </div>
+
+    </div>
+</div>
+
+    <div class="mi-video-share-wrap">
+    <span class="mi-video-close-share glyphicon glyphicon-remove"></span>
+    <ul class="video-share-icons video">
+        <li class="embed">
+            <div class="form-group">
+                <label>Video Link</label>
+                <textarea class="mi-share-link" readonly="true" ></textarea>
+                <button class="btn btn-primary select-btn">copy</button>
+            </div>
+            <div class="form-group">
+                <label>Embed Code</label>
+                <textarea class="overlay-embed-share" readonly="true" ></textarea>
+                <button class="btn btn-primary select-btn">copy</button>
+            </div>
+        </li>
+        <li class="facebook">
+            <a class="facebook-share"
+               href=""
+               onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"
+               title="Share on Facebook">
+                <span class="glyphicon glyphicon-facebook"></span>
+                <span class="utility-text">Facebook</span>
+            </a>
+        </li>
+        <li class="twitter">
+            <a class="twitter-share"
+               href=""
+               onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"
+               title="Share on Twitter">
+                <span class="glyphicon glyphicon-twitter"></span>
+                <span class="utility-text">Twitter</span>
+            </a>
+        </li>
+        <li class="email">
+            <a class="email-share" href="">
+                <span class="glyphicon glyphicon-envelope"></span>
+                <span class="utility-text">Email</span>
+            </a>
+        </li>
+        <li class="media-det">
+
+
+                <h4 class="media-title">Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender</h4>
+                <p class="media-leadtext">Óscar Pérez posted a video saying that Venezuelan government forces won't accept his surrender. The bloody face reportedly came as a result of an assault.</p>
+
+        </li>
+    </ul>
+</div>
+
+</div>
+
+
+
+    <script type="text/javascript">
+        if ( typeof allowAds === 'undefined' ) {
+            var allowAds = true;
+        }
+    </script>
+
+<script>
+    wpsRequire([ 'video' ], function ( video ) {
+        return video.play([{"id":"194727034","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article194727034.html","duration":"0:14","image":"//www.miamiherald.com/news/nation-world/world/americas/venezuela/7xqi8m-Year-in-Review-2017.00_05_56_21.Still004.jpg/alternates/LANDSCAPE_768/Year%20in%20Review%202017.00_05_56_21.Still004.jpg","title":"Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender","description":"Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender <span class=\"title-duration\">0:14</span>","displayDescription":"Óscar Pérez posted a video saying that Venezuelan government forces won't accept his surrender. The bloody face reportedly came as a result of an assault.","videographer":"","credit":"","published":1516035516,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437582013143-p5k4ma/Oscar_Perez_2___MH-1516035515574.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437580321678-6bjrso/Oscar_Perez_2___MH-1516035516026.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/art_194727034/Oscar_Perez_2___MH.m3u8"}],"mediaid":"63KHBEgG","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dvenezuela%26id%3D194727034%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=venezuela&id=194727034&eid=156672104&vidlength=short&pl="}]},{"id":"194727014","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article194727014.html","duration":"0:42","image":"//www.miamiherald.com/news/nation-world/world/americas/venezuela/ia20f5-Oscar-Perez-1-MH.mp4/alternates/LANDSCAPE_768/Oscar%20Perez%201%20-%20MH.mp4","title":"Óscar Pérez posts video saying he is under attack by Venezuelan government forces ","description":"Óscar Pérez posts video saying he is under attack by Venezuelan government forces  <span class=\"title-duration\">0:42</span>","displayDescription":"Óscar Pérez, the Venezuelan policeman wanted after attacking the headquarters of the Supreme Court and the Ministry of the Interior from a helicopter, is surrounded by Venezuelan government forces.","videographer":"","credit":"","published":1516035484,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437582013143-p5k4ma/Oscar_Perez_1___MH-1516035482996.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437580321678-6bjrso/Oscar_Perez_1___MH-1516035483291.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/art_194727014/Oscar_Perez_1___MH.m3u8"}],"mediaid":"lNPh6FuZ","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dvenezuela%26id%3D194727014%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=venezuela&id=194727014&eid=156672104&vidlength=short&pl="}]},{"id":"194731434","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article194731434.html","duration":"0:10","image":"//www.miamiherald.com/news/nation-world/world/americas/venezuela/n9pu8f-O-P-Keyframe-1.jpg/alternates/LANDSCAPE_768/O%20P%20Keyframe%201.jpg","title":"Óscar Pérez: \"We are going to surrender\"","description":"Óscar Pérez: \"We are going to surrender\" <span class=\"title-duration\">0:10</span>","displayDescription":"Óscar Pérez, the Venezuelan policeman wanted after attacking the headquarters of the Supreme Court and the Ministry of the Interior from a helicopter, posted a video asking Venezuelan government forces to stop shooting at him. Perez says, \"we are going to surrender.\"","videographer":"","credit":"equilibriogv via Instagram","published":1516038636,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/17/1437582013143-p5k4ma/Oscar_Perez_4___MH-1516038635060.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/17/1437580321678-6bjrso/Oscar_Perez_4___MH-1516038635610.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/17/art_194731434/Oscar_Perez_4___MH.m3u8"}],"mediaid":"h9nKJySE","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dvenezuela%26id%3D194731434%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=venezuela&id=194731434&eid=156672104&vidlength=short&pl="}]}], {"wpsInclude":false,"wpsArea":null,"autoPlay":false,"pubName":"miamiherald","embed":false,"cacheBust":"54aaadf","iterator":10,"uniqueID":"194727034-1516251241643","paywallEnabled":true,"domainName":"www.miamiherald.com","pubId":"7","baseTemplate":"story"}, [{"id":"194727034","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article194727034.html","duration":"0:14","image":"//www.miamiherald.com/news/nation-world/world/americas/venezuela/7xqi8m-Year-in-Review-2017.00_05_56_21.Still004.jpg/alternates/LANDSCAPE_768/Year%20in%20Review%202017.00_05_56_21.Still004.jpg","title":"Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender","description":"Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender <span class=\"title-duration\">0:14</span>","displayDescription":"Óscar Pérez posted a video saying that Venezuelan government forces won't accept his surrender. The bloody face reportedly came as a result of an assault.","videographer":"","credit":"","published":1516035516,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437582013143-p5k4ma/Oscar_Perez_2___MH-1516035515574.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437580321678-6bjrso/Oscar_Perez_2___MH-1516035516026.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/art_194727034/Oscar_Perez_2___MH.m3u8"}],"mediaid":"63KHBEgG","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dvenezuela%26id%3D194727034%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=venezuela&id=194727034&eid=156672104&vidlength=short&pl="}]},{"id":"194727014","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article194727014.html","duration":"0:42","image":"//www.miamiherald.com/news/nation-world/world/americas/venezuela/ia20f5-Oscar-Perez-1-MH.mp4/alternates/LANDSCAPE_768/Oscar%20Perez%201%20-%20MH.mp4","title":"Óscar Pérez posts video saying he is under attack by Venezuelan government forces ","description":"Óscar Pérez posts video saying he is under attack by Venezuelan government forces  <span class=\"title-duration\">0:42</span>","displayDescription":"Óscar Pérez, the Venezuelan policeman wanted after attacking the headquarters of the Supreme Court and the Ministry of the Interior from a helicopter, is surrounded by Venezuelan government forces.","videographer":"","credit":"","published":1516035484,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437582013143-p5k4ma/Oscar_Perez_1___MH-1516035482996.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/1437580321678-6bjrso/Oscar_Perez_1___MH-1516035483291.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/16/art_194727014/Oscar_Perez_1___MH.m3u8"}],"mediaid":"lNPh6FuZ","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dvenezuela%26id%3D194727014%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=venezuela&id=194727014&eid=156672104&vidlength=short&pl="}]},{"id":"194731434","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article194731434.html","duration":"0:10","image":"//www.miamiherald.com/news/nation-world/world/americas/venezuela/n9pu8f-O-P-Keyframe-1.jpg/alternates/LANDSCAPE_768/O%20P%20Keyframe%201.jpg","title":"Óscar Pérez: \"We are going to surrender\"","description":"Óscar Pérez: \"We are going to surrender\" <span class=\"title-duration\">0:10</span>","displayDescription":"Óscar Pérez, the Venezuelan policeman wanted after attacking the headquarters of the Supreme Court and the Ministry of the Interior from a helicopter, posted a video asking Venezuelan government forces to stop shooting at him. Perez says, \"we are going to surrender.\"","videographer":"","credit":"equilibriogv via Instagram","published":1516038636,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/17/1437582013143-p5k4ma/Oscar_Perez_4___MH-1516038635060.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/17/1437580321678-6bjrso/Oscar_Perez_4___MH-1516038635610.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/15/17/art_194731434/Oscar_Perez_4___MH.m3u8"}],"mediaid":"h9nKJySE","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dvenezuela%26id%3D194731434%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=venezuela&id=194731434&eid=156672104&vidlength=short&pl="}]},{"id":"195222369","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/local/crime/article195222369.html","duration":"0:44","image":"//www.miamiherald.com/news/local/crime/f9b9h9-Sequence-04.00_22_44_24.Still004.jpg/alternates/LANDSCAPE_768/Sequence%2004.00_22_44_24.Still004.jpg","title":"Lauderhill shooting caught on video","description":"Lauderhill shooting caught on video <span class=\"title-duration\">0:44</span>","displayDescription":"The Lauderhill Police Department is asking the public's help in identifying two men who are accused of shooting a man at his home on Jan. 14, 2018. ","videographer":"","credit":"","published":1516231718,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/23/1437582013143-p5k4ma/lauderhill_shooting_1-1516231716881.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/23/1437580321678-6bjrso/lauderhill_shooting_1-1516231717177.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/23/art_195222369/lauderhill_shooting_1.m3u8"}],"mediaid":"huDPkOOS","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcrime%26id%3D195222369%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=crime&id=195222369&eid=156672104&vidlength=short&pl="}]},{"id":"184642818","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/haiti/article184642818.html","duration":"2:51","image":"//www.miamiherald.com/news/nation-world/world/americas/haiti/ioackb-Main-sequence.00_00_23_22134.Still001.jpg/alternates/LANDSCAPE_768/Main%20sequence.00_00_23_22134.Still001.jpg","title":"Years of unchecked corruption hamper Haiti's development ","description":"Years of unchecked corruption hamper Haiti's development  <span class=\"title-duration\">2:51</span>","displayDescription":"Beauplan's commission recently released a 656-page report on the management of $2 billion in loans that Haiti received as part of Venezuela's PetroCaribe discounted oil program. The investigation accuses 15 former government officials, including two former prime ministers and current President Jovenel Moïse's chief of staff, of corruption and poor management.     ","videographer":"José A. Iglesias; edited by Justin Azpiazu","credit":"Miami Herald","published":1510704173,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2017/11/14/23/1437582013143-p5k4ma/haiti_corruption_v3-1510704170331.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2017/11/14/23/1437580321678-6bjrso/haiti_corruption_v3-1510704171038.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2017/11/14/23/art_184642818/haiti_corruption_v3.m3u8"}],"mediaid":"TLDR91lM","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dhaiti%26id%3D184642818%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=haiti&id=184642818&eid=156672104&vidlength=long&pl="}]},{"id":"194894159","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article194894159.html","duration":"1:28","image":"//www.miamiherald.com/latest-news/wzb3mr-History-Channel-announces-special-program-on-the-history-of-global-soccer/alternates/LANDSCAPE_768/History%20Channel%20announces%20special%20program%20on%20the%20history%20of%20global%20soccer","title":"History Channel announces special program on the history of global soccer","description":"History Channel announces special program on the history of global soccer <span class=\"title-duration\">1:28</span>","displayDescription":"International soccer star, David Villa, was in attendance of the History Channel’s 14-day program celebrating the global history of soccer during NATPE convention at the Fontaine Bleu in Miami Beach, Florida.","videographer":"Carl Juste","credit":"cjuste@miamiherald.com","published":1516126738,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/16/18/1437582013143-p5k4ma/0d6a2f04_0469_47fe_ab91_13482e13113f-1516126735944.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/16/18/1437580321678-6bjrso/0d6a2f04_0469_47fe_ab91_13482e13113f-1516126736300.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/16/18/art_194894159/0d6a2f04_0469_47fe_ab91_13482e13113f.m3u8"}],"mediaid":"6nMV2ZBo","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dmiami_beach%26id%3D194894159%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=miami_beach&id=194894159&eid=156672104&vidlength=long&pl="}]},{"id":"195203539","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/national/article195203539.html","duration":"0:49","image":"//www.miamiherald.com/news/nation-world/national/f5hi8v-5a5e600d92a59.imag_fitted-2.jpeg/alternates/LANDSCAPE_768/5a5e600d92a59.imag_fitted-2.jpeg","title":"Man charged with hiding girlfriend's dead body in his home for almost a month","description":"Man charged with hiding girlfriend's dead body in his home for almost a month <span class=\"title-duration\">0:49</span>","displayDescription":"Jeffrey Michael Thomas from Rockwood, Michigan, was caught concealing his girlfriend’s body in his home after he jumped out a window and neighbors called 911.","videographer":"Matias J. Ocner and David Santiago","credit":"Miami Herald Staff","published":1516228215,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/22/1437582013143-p5k4ma/Thomas___MH___EDIT-1516228214148.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/22/1437580321678-6bjrso/Thomas___MH___EDIT-1516228214435.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/17/22/art_195203539/Thomas___MH___EDIT.m3u8"}],"mediaid":"PkYXmRy2","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D195203539%26eid%3D156672104%26vidlength%3Dshort%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=national&id=195203539&eid=156672104&vidlength=short&pl="}]},{"id":"192416884","asset_type":"videoIngest","url":"https://www.miamiherald.com/sports/nfl/miami-dolphins/article192416884.html","duration":"1:15","image":"//www.miamiherald.com/latest-news/vsiys1-FINS-BILLS-GASE-CTJ.mp4/alternates/LANDSCAPE_768/FINS%20BILLS%20GASE%20CTJ.mp4","title":"Coach Adam Gase talks about the Miami Dolphins' 2017 season.","description":"Coach Adam Gase talks about the Miami Dolphins' 2017 season. <span class=\"title-duration\">1:15</span>","displayDescription":"Miami Dolphins coach Adam Gase talks about the Fins' bizarre season and Jarvis Landry's ejection after their final game of the season, a loss to the Buffalo Bills.","videographer":"Charles Trainor Jr.","credit":"ctrainor@miamiherald.com","published":1514771775,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/1/1/1437582013143-p5k4ma/FINS_BILLS_GASE_CTJ-1514771773130.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/1/1/1437580321678-6bjrso/FINS_BILLS_GASE_CTJ-1514771773833.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/1/1/art_192416884/FINS_BILLS_GASE_CTJ.m3u8"}],"mediaid":"EYTID7Db","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dmiami_dolphins%26id%3D192416884%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FSports%2FFootball%2FPro%2FNFL&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=miami_dolphins&id=192416884&eid=156672104&vidlength=long&pl="}]},{"id":"194023739","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/colombia/article194023739.html","duration":"1:54","image":"//www.miamiherald.com/latest-news/510lb3-Part-2.jpg/alternates/LANDSCAPE_768/Part%202.jpg","title":"Colombian police battle illegal gold miners","description":"Colombian police battle illegal gold miners <span class=\"title-duration\">1:54</span>","displayDescription":"In the Colombian rainforest, outlaw gold mines are poisoning workers and the environment. Police venture deep into the jungle to destroy them with explosives.","videographer":"Jim Wyss, Edited by Matias J. Ocner","credit":"jwyss@miamiherald.com","published":1515622820,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/12/16/1437582013143-p5k4ma/Gold_Explosions___MJO___MH___Final-1515775576779.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/12/16/1437580321678-6bjrso/Gold_Explosions___MJO___MH___Final-1515775579421.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/12/16/art_194023739/Gold_Explosions___MJO___MH___Final.m3u8"}],"mediaid":"Z4jDNVS6","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcolombia%26id%3D194023739%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=colombia&id=194023739&eid=156672104&vidlength=long&pl="}]},{"id":"194024339","asset_type":"videoIngest","url":"https://www.miamiherald.com/news/nation-world/world/americas/colombia/article194024339.html","duration":"1:49","image":"//www.miamiherald.com/latest-news/psikaw-112GoldCol00-NEW-PPP.JPG/alternates/LANDSCAPE_768/112GoldCol00%20NEW%20PPP.JPG","title":"In Colombia, criminal gangs threaten small gold miners","description":"In Colombia, criminal gangs threaten small gold miners <span class=\"title-duration\">1:49</span>","displayDescription":"Subsistence gold miners in Colombia get hit from all sides. The criminal gangs who extort money from them. The multinational companies that dominate the industry. The government that they say wants to regulate them out of existence.","videographer":"Pedro Portal, Edited by Matias J. Ocner","credit":"pportal@miamiherald.com","published":1516053864,"sources":[{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/10/21/1437582013143-p5k4ma/Gold_Mines___MJO___MH___Final-1516053861877.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/10/21/1437580321678-6bjrso/Gold_Mines___MJO___MH___Final-1516053862998.mp4"},{"file":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/10/21/art_194024339/Gold_Mines___MJO___MH___Final.m3u8"}],"mediaid":"E2Uc6uxi","ads":[{"publication":"miamiherald","tag":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcolombia%26id%3D194024339%26eid%3D156672104%26vidlength%3Dlong%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMIA.site_miamiherald%2FNews%2FWorld&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=colombia&id=194024339&eid=156672104&vidlength=long&pl="}]}], true );
+    });
+</script>
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+        <div class="video-details">
+            <time class="published-date timeago hidden">2 days ago</time>
+            <h2 class="title video-title">
+                <a href="https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article194727034.html">Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender</a>
+            </h2>
+        </div>
+    </div>
+    <div id="playlist-194727034-1516251241643">
+        <div class="mi-playlist-sidebar">
+
+
+                    <a class="playlist-item" href="#0" data-index="0">
+                        <div class="media posterframe-wrapper">
+                            <img src="//www.miamiherald.com/news/nation-world/world/americas/venezuela/7xqi8m-Year-in-Review-2017.00_05_56_21.Still004.jpg/alternates/LANDSCAPE_200/Year%20in%20Review%202017.00_05_56_21.Still004.jpg" alt="Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender"/>
+                            <span class="glyphicon glyphicon-play-circle"></span>
+                            <span class="duration">0:14</span>
+                        </div>
+                        <div class="media-desc">
+                            <time class="published-date hidden">2 days ago</time>
+                            <h4 class="title video-title">Covered in blood, Óscar Pérez says Venezuela government will not allow his surrender</h4>
+                        </div>
+                    </a>
+
+
+
+                    <a class="playlist-item" href="#1" data-index="1">
+                        <div class="media posterframe-wrapper">
+                            <img src="//www.miamiherald.com/news/nation-world/world/americas/venezuela/ia20f5-Oscar-Perez-1-MH.mp4/alternates/LANDSCAPE_200/Oscar%20Perez%201%20-%20MH.mp4" alt="Óscar Pérez posts video saying he is under attack by Venezuelan government forces "/>
+                            <span class="glyphicon glyphicon-play-circle"></span>
+                            <span class="duration">0:42</span>
+                        </div>
+                        <div class="media-desc">
+                            <time class="published-date hidden">2 days ago</time>
+                            <h4 class="title video-title">Óscar Pérez posts video saying he is under attack by Venezuelan government forces </h4>
+                        </div>
+                    </a>
+
+
+
+                    <a class="playlist-item" href="#2" data-index="2">
+                        <div class="media posterframe-wrapper">
+                            <img src="//www.miamiherald.com/news/nation-world/world/americas/venezuela/n9pu8f-O-P-Keyframe-1.jpg/alternates/LANDSCAPE_200/O%20P%20Keyframe%201.jpg" alt="Óscar Pérez: "We are going to surrender""/>
+                            <span class="glyphicon glyphicon-play-circle"></span>
+                            <span class="duration">0:10</span>
+                        </div>
+                        <div class="media-desc">
+                            <time class="published-date hidden">2 days ago</time>
+                            <h4 class="title video-title">Óscar Pérez: "We are going to surrender"</h4>
+                        </div>
+                    </a>
+
+
+        </div>
+    </div>
+</div>
+</div>
+
+
+                </div>
+                <div class="clearfix footer element_spacing_large">
+                    <p class="readmore">
+                        <a href="/video">
+                            View More Video
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-10" adtype="default" pkg="c" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="300x250" Medium="300x250" Small="300x250" Extra-Small="None" articleId="156672104"></div>
+    </div>
+
+
+
+
+
+<div class="element-spacing-medium">
+    <section id="more-stories-widget" class="headline-list element_spacing_large">
+
+
+                <h2 class="heading link">
+                    <a href="/news/nation-world/world/americas/venezuela/">
+                        Venezuela
+                    </a>
+                </h2>
+
+
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="//www.miamiherald.com/news/nation-world/world/americas/venezuela/article195014944.html">
+                                        ‘The order is to kill you,’ Venezuelan soldiers reportedly told rebel cop before firing
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+
+
+
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="//www.miamiherald.com/news/nation-world/world/americas/venezuela/article194883259.html">
+                                        Venezuela confirms death of former cop, and says CNN interview helped find rebel group
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+
+
+
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="//www.miamiherald.com/news/nation-world/world/americas/venezuela/article194721704.html">
+                                        Venezuela forces launch deadly assault, capture rebel police officers
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+
+
+
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="//www.miamiherald.com/news/nation-world/world/americas/venezuela/article194511929.html">
+                                        Hungry Venezuelans rely on work-for-food barter as economy spirals
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+
+
+
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="//www.miamiherald.com/news/nation-world/world/americas/venezuela/article194269574.html">
+                                        Maduro may allow food aid into Venezuela if opposition recognizes assembly as legitimate
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="clearfix">
+                    <div class="more-stories-link wps-stories-link">
+                        <a href="/news/nation-world/world/americas/venezuela/">
+                            Venezuela
+                        </a>
+                    </div>
+                </div>
+
+
+
+
+    </section>
+</div>
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-11" adtype="default" pkg="e" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="Flex Ad" Medium="Flex Ad" Small="300x250" Extra-Small="None" articleId="156672104"></div>
+    </div>
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-12" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="nonsub" atf="n" defaultsize="Large" Large="300x250" Medium="300x250" Small="300x250" Extra-Small="None" oom="y"  articleId="156672104"></div>
+    </div>
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-13" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="nonsub" atf="n" defaultsize="Large" Large="300x250" Medium="300x250" Small="300x250" Extra-Small="None" oom="y"  articleId="156672104"></div>
+    </div>
+</div>
+
+    </div>
+</section>
+
+<div class="container">
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-14" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="728x90" Medium="728x90" Small="728x90" Extra-Small="none" articleId="156672104"></div>
+    </div>
+</div>
+
+<img src="http://cdn.relaymedia.com/ping?url=%2F%2Fwww.miamiherald.com%2Fnews%2Fnation-world%2Fworld%2Famericas%2Fvenezuela%2Farticle156672104.html" width="1" height="1">
+
+ <script type="text/javascript">
+  jQuery(document).ready(function () {
+    UD.updateDate.getDiffDate("1497870010", "MMMM DD, YYYY hh:mm A", "America/New_York", "en" , "-05:00");
+  });
+</script>
+
+
+
+
+<div id="footer" class="wps-footer">
+    <header id="footer-logo">
+        <div class="container text-center">
+            <a href="/" target="_top">
+                <img src="/wps/build/images/miamiherald/logo-sm.png" alt="Miami Herald | MiamiHerald.com" class="img-responsive" />
+            </a>
+        </div>
+    </header>
+    <div class="container">
+        <div class="row">
+            <div id="accordion" class="panel-group">
+                <div class="panel full-width-content col-sm-6 col-md-6">
+                    <div class="panel-heading">
+                        <h2 class="heading"><a data-toggle="" data-parent="#accordion" href="#collapseOne">Subscriptions</a></h2>
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <ul class="footer-menu">
+
+                                    <li><a href="https://account.miamiherald.com/static/subscribe/#navlink=mi_footer">Start a Subscription</a></li>
+
+                                    <li><a href="https://mcciservices.newscyclecloud.com/cgi-bin/cmo_mcc-c-cmdb-est-01.sh/custservice/web/login.html?siteid=MIA#navlink=mi_footer">Customer Service</a></li>
+
+                                    <li><a href="http://digital.olivesoftware.com/Olive/ODN/MiamiHerald/#navlink=mi_footer">eEdition</a></li>
+
+                                    <li><a href="https://mcciservices.newscyclecloud.com/cgi-bin/cmo_mcc-c-cmdb-est-01.sh/custservice/web/login.html?siteid=MIA#navlink=mi_footer">Vacation Hold</a></li>
+
+                                    <li><a href="https://mcciservices.newscyclecloud.com/cgi-bin/cmo_mcc-c-cmdb-est-01.sh/custservice/web/login.html?siteid=MIA#navlink=mi_footer">Pay Your Bill</a></li>
+
+                                    <li><a href="/rewards#navlink=mi_footer">Rewards</a></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel full-width-content col-sm-6 col-md-6">
+                    <div class="panel-heading">
+                        <h2 class="heading"><a data-toggle="" data-parent="#accordion" href="#collapseTwo">Site Information</a></h2>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <ul class="footer-menu">
+
+                                    <li><a href="http://www.miamiherald.com/customer-service/about-us/#navlink=mi_footer">About Us</a></li>
+
+                                    <li><a href="http://www.miamiherald.com/customer-service/contact-us/#navlink=mi_footer">Contact Us</a></li>
+
+                                    <li><a href="http://x.email.miamiherald.com/ats/url.aspx?cr=663&amp;wu=36#navlink=mi_footer">Newsletters</a></li>
+
+                                    <li><a href="http://www.niemccse.com/#navlink=mi_footer">News in Education</a></li>
+
+                                    <li><a href="http://www.miamiherald.com/site-services/public-insight-network/#navlink=mi_footer">Public Insight Network</a></li>
+
+                                    <li><a href="http://www.miamiherald.com/site-services/reader-panel/#navlink=mi_footer">Reader Panel</a></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel full-width-content col-sm-6 col-md-6">
+                    <div class="panel-heading">
+                        <h2 class="heading"><a data-toggle="" data-parent="#accordion" href="#collapseThree">Social, Mobile &amp; More</a></h2>
+                    </div>
+                    <div id="collapseThree" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <ul class="footer-menu">
+
+                                    <li><a href="http://x.email.miamiherald.com/ats/url.aspx?cr=663&amp;wu=53#navlink=mi_footer">Text News Alerts</a></li>
+
+                                    <li><a href="/mobile/#navlink=mi_footer">Mobile &amp; Apps</a></li>
+
+                                    <li><a href="https://www.facebook.com/pages/Miami-Herald/38925837299#navlink=mi_footer">Facebook</a></li>
+
+                                    <li><a href="https://twitter.com/miamiherald/#navlink=mi_footer">Twitter</a></li>
+
+                                    <li><a href="https://plus.google.com/109936907321316291240">Google+</a></li>
+
+                                    <li><a href="http://x.email.miamiherald.com/ats/url.aspx?cr=663&amp;wu=36#navlink=mi_footer">Newsletters</a></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel full-width-content col-sm-6 col-md-6">
+                    <div class="panel-heading">
+                        <h2 class="heading"><a data-toggle="" data-parent="#accordion" href="#collapseFour">Advertising</a></h2>
+                    </div>
+                    <div id="collapseFour" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <ul class="footer-menu">
+
+                                    <li><a href="/advertise/place-an-ad/#navlink=mi_footer">Place a Classified</a></li>
+
+                                    <li><a href="http://www.miamiheraldadvertising.com/#navlink=mi_footer">Media Kit</a></li>
+
+                                    <li><a href="http://www.miamiheraldadvertising.com/services-comprint.html#navlink=mi_footer">Commercial Printing</a></li>
+
+                                    <li><a href="http://floridapublicnotices.com/">Public Notices</a></li>
+
+                                    <li><a href="http://www.findnsave.com/#navlink=mi_footer">Shopping</a></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row" id="footer-legal">
+            <div class="panel col-sm-6 col-md-3 full-width-content">
+                <div class="panel-heading">
+                    <h2 class="heading"><a data-toggle="" data-parent="#footer-legal" href="#collapseLegal">More</a></h2>
+                </div>
+                <div id="collapseLegal" class="panel-collapse collapse in">
+                    <div class="panel-body">
+                        <ul class="footer-menu-legal">
+
+                                <li><a href="/site-services/copyright/#navlinks=footer">Copyright</a></li>
+
+                                <li><a href="/site-services/commenting-policy/#navlinks=footer">Commenting Policy</a></li>
+
+                                <li><a href="/site-services/privacy-policy/#navlink=mi_footer">Privacy Policy</a></li>
+
+                                <li><a href="/site-services/terms-of-service/#navlink=mi_footer">Terms of Service</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        mi.footer.init();
+    });
+</script>
+
+<div id="wallpaperWrapper" style="display:none;">
+    <div class="ad-widget" id="mn-gpt-15" adtype="wallpaper" pkg="None" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Large" Large="1600x600" Medium="None" Small="None" Extra-Small="None" articleId="156672104"><script type='text/javascript'>initWallpaperAd(['#mn-gpt-15'], 'section[role="main"]'); createWallpaperAd();</script></div>
+</div>
+
+        <div id="floorboard" class="hidden-xs">
+            <div id="floorboard_outer">
+                <div id="floorTagWrapper" style="display:none;">
+                    <div class="ad-widget" id="mn-gpt-16" adtype="floorboard" pkg="a" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="285x70" Medium="285x70" Small="285x70" Extra-Small="None" articleId="156672104"></div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <script type="text/javascript">
+            jQuery(document).ready(function () {
+                mi_Ads.env.init();
+            })
+        </script>
+
+
+<div id="mistatstag" style="display:none;">
+
+        <script src="//media.miamiherald.com/mistats/products/escenic_s_code.js"></script>
+        <script src="//media.miamiherald.com/mistats/products/escenic.js"></script>
+        <script src="//media.miamiherald.com/mistats/finalizestats.js"></script>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    //<![CDATA[
+    var clientDT = new Date().getTime();
+    document.write('<img style="display:none;" src="http://ece-logger.nandomedia.com:8083/analysis-logger/Logger?rt=1&ctxId=5100&contextPath=3179-5100&pubId=7&cat=&meta=read-story&objId=156672104&type=article&title=With+Venezuela+in+chaos%2C+asylum+petitions+have+tripled.+Most+seek+refuge+in+U.S.&url=%2F%2Fwww.miamiherald.com%2Fnews%2Fnation-world%2Fworld%2Famericas%2Fvenezuela%2Farticle156672104.html&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+    //]]>
+</script>
+
+<noscript>
+    <div>
+        <img src="http://ece-logger.nandomedia.com:8083/analysis-logger/Logger?rt=1&ctxId=5100&contextPath=3179-5100&pubId=7&cat=&meta=read-story&objId=156672104&type=article&title=With+Venezuela+in+chaos%2C+asylum+petitions+have+tripled.+Most+seek+refuge+in+U.S.&url=%2F%2Fwww.miamiherald.com%2Fnews%2Fnation-world%2Fworld%2Famericas%2Fvenezuela%2Farticle156672104.html" alt="one pixel graphics" width="1" height="1"/>
+    </div>
+</noscript>
+
+
+
+
+
+
+
+
+
+
+
+<div class="overlay overlay-data">
+    <div id="overlayParent">
+        <div class="overlayHeading">
+            <h3 class="title"></h3>
+
+            <div class="arrow-box"></div>
+        </div>
+
+
+
+
+    </div>
+
+    <div id="backToStory">
+        <a class="backLink" href="//www.miamiherald.com/news/nation-world/world/americas/venezuela/article156672104.html">
+            <span class="fa glyphicon-long-arrow-left"></span>
+            <span class="back-label">Back to story</span>
+        </a>
+    </div>
+</div>
+
+
+
+
+    <script type="text/javascript">
+    var WFClientTypeDef = {
+        "extraSmall": "(max-width: 767px)",
+        "medium": "(min-width: 992px) and (max-width: 1199px)",
+        "large": "(min-width: 1200px)",
+        "small": "(min-width: 768px) and (max-width: 991px)"
+    };
+    var imageSizes = [80, 160, 200, 320, 400, 480, 560, 640, 720, 768, 960, 1080, 1140];
+</script>
+<script type="text/javascript" src="/wps/build/js/mi-footer-0d84082873.js"></script>
+
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 968074018;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/968074018/?value=0&guid=ON&script=0"/>
+        </div>
+    </noscript>
+
+
+    <!-- Start MdotLabs Tag -->
+<div class="mlabs_container">
+    <script src="https://tags.mdotlabs.com/tracking.php?siteID=e8AJ" async></script>
+</div>
+<!-- End MdotLabs Tag -->
+
+
+
+
+
+    <script type="text/javascript">
+        mi.pageInfo.setConf("chartbeat.uid", 62447);
+    </script>
+
+<script src="/wps/source/scripts/libs/md5.min.js"></script>
+<script type="text/javascript">
+    var nextbee = {
+        user_cookie: undefined,
+        user_email: undefined,
+        nextbee_host: "app.nextbee.com",
+        nextbee_campaign: "3751",
+        nextbee_client: "1703",
+        API_AUTHORIZATION_KEY: 'DECGCFCFHEACGCDBIBGZ158469415068700193Y!n-868654787',
+        ENCRYPTION_KEY: '0.9240762',
+
+        credit_read_story: function() {
+            this.post_to_nextbee("8640");
+        },
+
+        credit_watch_video: function() {
+            this.post_to_nextbee("8623");
+        },
+
+        credit_share_articles: function(id, url) {
+            this.post_to_nextbee(id, url);
+        },
+
+        initialize: function() {
+            this.user_cookie = checkUserSubscribed('MPPUser');
+            if (this.user_cookie) {
+                var cookie_json = JSON.parse(this.user_cookie);
+                if (cookie_json) {
+                    this.user_email = cookie_json.NextBeeEmail;
+                }
+            }
+
+                this.credit_read_story();
+
+        },
+
+        required_values_present: function (widget_id) {
+            return this.user_cookie && this.user_email &&
+                   this.nextbee_host && this.nextbee_client && this.nextbee_campaign &&
+                   widget_id;
+        },
+
+        post_to_nextbee: function (widget_id, href) {
+            if (this.required_values_present(widget_id)) {
+                var nextbee_url = ['https://' + this.nextbee_host, 'nextbeeapis',
+                    this.nextbee_client, this.nextbee_campaign, 'Event'].join('/') +
+                    '?email=' + encodeURIComponent(this.user_email) +
+                    '&widget_config_id=' + widget_id;
+                var timestamp_key = Math.floor(Date.now()).toString();
+                var api_call_signature = md5(this.API_AUTHORIZATION_KEY +
+                    this.ENCRYPTION_KEY + timestamp_key);
+
+                console.log("NextBee URL: " + nextbee_url +
+                    "\nAuth. Key: " + this.API_AUTHORIZATION_KEY +
+                    "\nEnc. Key:  " + this.ENCRYPTION_KEY +
+                    "\nTimestamp: " + timestamp_key +
+                    "\nSignature: " + api_call_signature);
+
+                $.ajax( { url: nextbee_url, type: 'post', headers: {
+                    'ts-key': timestamp_key,
+                    'api-call-signature': api_call_signature,
+                    'cache-control': 'no-cache',
+                    'content-type': 'application/json',
+                    },
+                    complete: function(data) {
+                        if(href)
+                        {
+                            window.location.href = href;
+                        }
+                        console.log("NextBee API response: " + data.responseText);
+                    }
+                } );
+            }
+        }
+    };
+
+    $(function(){
+        nextbee.initialize();
+    });
+</script>
+
+
+
+<!-- Start Lotame Tag -->
+    <script src="//tags.crwdcntrl.net/c/7441/cc.js?ns=_cc7441" id="LOTCC_7441"></script>
+    <script>_cc7441.bcp();</script>
+<!-- End Lotame Tag -->
+
+
+
+
+    <noscript><img src="http://www.miamiherald.com/akam/10/pixel_54a2e8b0?a=dD0yNGMzZTJiNGQxZDI2MTYzN2JkZGY3M2U5ZmUwMDU1OTVjYjdkODI4JmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body>
+</html>
+

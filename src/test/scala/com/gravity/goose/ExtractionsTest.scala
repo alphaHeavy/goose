@@ -279,10 +279,7 @@ class ExtractionsTest {
     TestUtils.runArticleAssertions(article = article,
       expectedStart = expected)
 
-    assertNotNull("publishDate should not be null!", article.publishDate)
-    val expDate = new java.util.Date(1321657200000L) // "2011-11-18T23:00:38Z"
-    assertEquals(s"""Publish date should equal: "$expDate"""", expDate, article.publishDate)
-    System.out.println("Publish Date Extracted: " + article.publishDate)
+    assert(article.publishDate.isDefined)
   }
 
 
@@ -612,10 +609,21 @@ class ExtractionsTest {
   def miamiherald1(): Unit = {
     implicit val config = TestUtils.NO_IMAGE_CONFIG
     val html = getHtml("miamiherald1.txt")
-    val url = "http://www.miamiherald.com/news/nation-world/world/americas/article168120297.html"
+    val url = "http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article156672104.html"
     val article = TestUtils.getArticle(Uri.parse(url), html)
     TestUtils.runArticleAssertions(article = article,
       expectedStart = "RIO DE JANEIRO Maracanã Stadium pulsed with samba, bossa nova and forró music a year ago during the closing ceremony of the 2016 Rio Olympic Games")
+    assert(article.publishDate.isDefined)
+  }
+
+  @Test
+  def miamiherald2(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("miamiherald2.txt")
+    val url = "http://www.miamiherald.com/news/nation-world/world/americas/article168120297.html"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "The number of Venezuelans seeking asylum tripled from 2015 to 2016, as the once-wealthy nation continues to be trapped in a punishing economic, social and political crisis.")
     assert(article.publishDate.isDefined)
   }
 
@@ -628,6 +636,78 @@ class ExtractionsTest {
     TestUtils.runArticleAssertions(article = article,
       expectedStart = "COPENHAGEN, Denmark (AP) — Journalist Kim Wall had reported on conflicts,")
     assert(article.publishDate.isDefined)
+  }
+
+  @Test
+  def yonhapnews1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("yonhapnews1.txt")
+    val url = "http://english.yonhapnews.co.kr/news/2017/06/01/38/0200000000AEN20170601002651315F.html"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "SEOUL, June 1 (Yonhap) -- Sistar's new and final song \"Lonely\" on Thursday rose to No. 1 on major South Korean music streaming charts.")
+    assert(article.publishDate.isDefined)
+  }
+
+  @Test
+  def bloomberg2(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("bloomberg2.txt")
+    val url = "https://www.bloomberg.com/news/articles/2018-01-17/how-to-reverse-america-s-foreign-tourist-problem"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "After a long search for an executive to run operations in China, Airbnb Inc. named an existing executive,")
+    assert(article.publishDate.isDefined)
+  }
+
+  @Test
+  def seekingalpha1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("seekingalpha1.txt")
+    val url = "https://seekingalpha.com/article/4036547-blackstone-buying-brookdale-senior-living-inc-103_10-percent-held-institutions"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Brookdale did not integrate properly the company it acquired in 2014")
+    assert(article.publishDate.isDefined)
+  }
+
+  @Test
+  def abc1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("abc1.txt")
+    val url = "http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206&cid=social_twitter_abcn"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Russian President Vladimir Putin says it is possible that American")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+    assert(article.canonicalLink.get == "http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206")
+  }
+
+  @Test
+  def nikkei1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("nikkei1.txt")
+    val url = "https://asia.nikkei.com/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "TOKYO -- Japan's augmented Global Positioning System is expected to create a host of new business opportunities")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+    //assert(article.canonicalLink.get == "http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206")
+  }
+
+  @Test
+  def fortune2(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("fortune2.txt")
+    val url = "http://fortune.com/2017/06/01/jetblue-delta-boarding-checkin/"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "We’re inching ever closer to")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+    //assert(article.canonicalLink.get == "http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206")
   }
 
   /*@Test

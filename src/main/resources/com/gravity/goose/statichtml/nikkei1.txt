@@ -1,0 +1,2054 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+	<meta http-equiv="Expires" content="-1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+				<meta name="keywords" content="Companies,set,sights,Japan's,homegrown,GPS," />
+	<meta name="description" content="TOKYO -- Japan&#039;s augmented Global Positioning System is expected to create a host of new business opportunities, from highly sophisticated car navigat" />
+
+			<meta name="date" content="2017-06-02 06:44:00" />
+
+				<meta name="twitter:card" content="summary_large_image" />
+				<meta name="twitter:site" content="@NAR" />
+	<meta property="og:title" content="Companies set sights on Japan&#039;s homegrown GPS - Nikkei Asian Review" />
+	<meta property="og:type" content="article" />
+	<meta property="og:description" content="TOKYO -- Japan&#039;s augmented Global Positioning System is expected to create a host of new business opportunities, from highly sophisticated car navigat" />
+									<meta property="og:image" content="https://asia.nikkei.com/var/site_cache/storage/images/node_43/node_51/2017/201706/0602n/0602n-michibiki/7091944-1-eng-GB/0602N-Michibiki_article_main_image.jpg">
+
+				<title>Companies set sights on Japan&#039;s homegrown GPS - Nikkei Asian Review</title>
+	<meta property="og:url" content="https://asia.nikkei.com/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS" />
+	<meta property="og:site_name" content="Nikkei Asian Review" />
+	<link rel="canonical" href="https://asia.nikkei.com/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS" />
+	<link rel="amphtml" href="https://asia.nikkei.com/amp/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS">
+				<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+
+	<link rel="stylesheet" href="/css/jquery-ui-1.10.3.custom.min.css" />
+	<link rel="stylesheet" href="/css/common_v022.css" />
+	<link rel="stylesheet" href="/css/style_v050.css" />
+	<link rel="stylesheet" href="/css/custom/modal_v007.css" />
+	<link rel="stylesheet" href="/extension/ezfind/design/standard/stylesheets/ezajax_autocomplete.css" />
+	<script src="/JavaScript/jquery-1.10.1.min.js"></script>
+	<script src="/JavaScript/jquery-ui-1.10.3.custom.min.js"></script>
+	<script src="/JavaScript/nar_v044.js"></script>
+	<script src="/JavaScript/slider_v001.js"></script>
+
+												<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+			var gads = document.createElement("script");
+			gads.async = true;
+			gads.type = "text/javascript";
+			var useSSL = "https:" == document.location.protocol;
+			gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+			node =document.getElementsByTagName("script")[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+	</script>
+
+	<script type='text/javascript'>
+		googletag.cmd.push(function() {
+															googletag.defineSlot('/7049/NikkeiEnglish_728*90', [728, 90], 'div-gpt-ad-1375148224113-0').addService(googletag.pubads());
+																																				googletag.defineSlot('/7049/NikkeiEnglish_300*250_1', [300, 250], 'div-gpt-ad-1375148072299-0').addService(googletag.pubads());
+																googletag.defineSlot('/7049/NikkeiEnglish_300*250_2', [300, 250], 'div-gpt-ad-1375260461786-0').addService(googletag.pubads());
+																googletag.defineSlot('/7049/NikkeiEnglish_300*250_3', [300, 250], 'div-gpt-ad-1404116812193-0').addService(googletag.pubads());
+																googletag.defineSlot('/7049/NikkeiEnglish_InRead_Article', [1, 1],'div-gpt-ad-1396427317542-0').addService(googletag.pubads());
+																googletag.defineSlot('/7049/NikkeiEnglish_InBoard_Article', [1, 1], 'div-gpt-ad-1410933087819-0').addService(googletag.pubads());
+
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().collapseEmptyDivs();
+		googletag.enableServices();
+		});
+	</script>
+
+
+
+
+	<script type="text/javascript">
+		var YUI3_config = {base: "/extension/ezjscore/design/standard/lib/yui/3.9.0/build/", modules: {}, combine: false};
+		var YUI2_config = {base: "/extension/ezjscore/design/standard/lib/yui/2.8.2/build/", modules: {}, combine: false};
+	</script>
+
+		<script type="text/javascript" src="/js/7bebe13.js" ></script>
+
+						<script type="text/javascript">
+				<!--
+		user_category ="";
+
+					login_flag = false;
+					var authority = "A1";
+					var memberId = "";
+					var aid = "";
+					var c_code = "";
+					var contractId = "" ;
+					var contractName = "" ;
+					var contractMessage = "" ;
+
+				-->
+				</script>
+
+
+
+
+
+
+			<script type="text/javascript" ><!--
+
+	$(function() {
+		if(("user_section" in window) && ("user_status" in window)){
+			if(user_category == 5){
+				if(!NAR_js.has_cookie('cpm')) {
+					if(user_section == 1){
+						NAR_js.modal_gd('10_03');
+						NAR_js.set_oneday_cookie('cpm');
+					}else{
+						if(user_reserve_status == 1){
+							var now = new Date();
+							var user_expire_breore2 = new Date(user_limit);
+							user_expire_breore2.setDate(user_expire_breore2.getDate() - 2);
+							if(now >= user_expire_breore2){
+								NAR_js.modal_gd('10_02');
+								NAR_js.set_oneday_cookie('cpm');
+							}else{
+								var user_expire_breore7 = new Date(user_limit);
+								user_expire_breore7.setDate(user_expire_breore7.getDate() - 7);
+								if(now >= user_expire_breore7){
+									NAR_js.modal_gd('10_01');
+									NAR_js.set_oneday_cookie('cpm');
+								}
+							}
+						}
+					}
+				}
+			}else{
+				if (user_section == 1 && user_status == 2){
+					if(!NAR_js.has_cookie('odm')) {
+						NAR_js.modal_gd('02_01');
+						NAR_js.set_oneday_cookie('odm');
+					}
+				}
+			}
+		}
+	});
+	--></script>
+
+<script src="//assets.adobedtm.com/43692acb8f62beca52063bd53825dcc138f4617b/satelliteLib-f0b759d61953ea549c6cc70abb26c8ddca3274f5.js"></script>
+				<script type="text/javascript" src="/js/7430dc0.js"></script>
+	<script type="text/javascript">
+<!--
+	articleAuthor = "";
+-->
+</script>
+		<script type="text/javascript">
+		<!--
+										release_flag = false;
+						article_limit_free = Number( "2" );
+			article_limit = Number( "2" );
+
+			article_limit_alert_free = "1:1,2:1".split(",");
+			var article_limit_alert_free_list = [];
+			for (var prop in article_limit_alert_free){
+				article_limit_alert_free_list.push( article_limit_alert_free[prop].split(":"));
+			}
+			article_limit_alert = "1:1,2:1".split(",");
+			var article_limit_alert_list = [];
+			for (var prop in article_limit_alert){
+				article_limit_alert_list.push( article_limit_alert[prop].split(":"));
+			}
+
+			expiration_notice = Number( "7" );
+
+			all_campaign_aid = "XYpkbNP3Ue";
+			all_campaign_end_date = "2018/01/29";
+
+		-->
+		</script>
+
+
+</head>
+<body>
+<div id="fb-root"></div>
+<script type="text/javascript">
+    window.fbAsyncInit = function() {
+        // FB initialize
+        FB.init({
+          appId      : '250799988299057',
+          xfbml      : true,
+          version    : 'v2.9'
+        });
+        // Subscribe to the Like event
+        FB.Event.subscribe('edge.create',function(response){
+                var narURL = window.location.href;
+                ga('send', 'social', {
+                    'socialNetwork': 'Facebook',
+                    'socialAction': 'follow',
+                    'socialTarget': narURL
+                 });
+                ga('send', 'event', 'Facebook', 'follow', 'Facebook-follow',0, {nonInteraction:true});
+        });
+        // Subscribe to the UnLike event
+        FB.Event.subscribe('edge.remove',function(response){
+                var narURL = window.location.href;
+                ga('send', 'social', {
+                    'socialNetwork': 'Facebook',
+                    'socialAction': 'unfollow',
+                    'socialTarget': narURL
+                 });
+                ga('send', 'event', 'Facebook', 'unfollow', 'Facebook-unfollow',0, {nonInteraction:true});
+        });
+    };
+(function(d, s, id){
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+  t = window.twttr || {};
+  if (d.getElementById(id)) return;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+  return t;
+}(document, "script", "twitter-wjs"));
+</script>
+
+		<!-- /#header -->
+		<div id="header">
+			<div class="header-banner">
+							<!-- NikkeiEnglish_728*90-->
+<div id='div-gpt-ad-1375148224113-0' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1375148224113-0'); });
+</script>
+</div>
+						</div>
+			<div class="header-content">
+				<div class="logo"><a href="/">
+					<!--[if lte IE 8]><img src="/images/img_logo.png" alt="Nikkei Asian Review" /><![endif]-->
+					<!--[if gte IE 9]><!--><img src="/images/img_logo.svg" width="288" height="51" alt="Nikkei Asian Review" /><!--<![endif]-->
+				</a></div>
+				<div class="header-tool">
+					<div>
+					<ul class="base-list">
+
+				<li class="sp-l-menu ct_hidden"><a href="javascript:void(0)" class="js_balloon ga-login-text" id="login-text">Log in</a></li>
+	<li class="sp-l-menu"><a href="/member/register/?n_cid=NARAN040" class="ga-subscribe-text" id="subscribe-text">Subscribe</a></li>
+	<li><a href="/info/about">About Nikkei Asian Review</a></li>
+
+</ul>						<div class="header-content-search">
+							<div>
+							<form name="searchHeadArticles" action="/search/find">
+								<div class="search-box" id="ezautocomplete" >
+									<input id="SearchText" class="pHolder" name="search_keyword" autocomplete="off" type="text" title="Search articles" />
+									<a href="#">search</a>
+									<div id="header-autocomplete-rs"></div>
+								</div>
+							</form>
+							<script language="JavaScript" type="text/javascript">
+								jQuery('#header-autocomplete-rs').css('width', '174px');
+								var autocomplete = new eZAJAXAutoComplete({
+									url: "/ezjscore/call/custom::autocomplete",
+									inputid: 'SearchText',
+									containerid: 'header-autocomplete-rs',
+									minquerylength: 2,
+									resultlimit: 5
+								});
+							</script>
+							</div>
+							<div>
+							<form name="searchHeadCompanies" action="/Company/SearchResults">
+								<div class="search-box" id="ezautocomplete" >
+									<input id="SearchText" class="pHolder" name="search_keyword" autocomplete="off" type="text" title="Search companies" />
+									<a href="#">search</a>
+								</div>
+							</form>
+							</div>
+						</div>
+					</div>
+																				<div id="login_before" class=""><span id="subscribe-bnr" class="ga-subscribe-bnr"><a href="https://regist.asia.nikkei.com/member/register/?n_cid=NARAN041"><img src="/static/pr/$9_get_160_55_ends.png" alt="" /></a></span></div>
+						<div id="login_after" class="display_none"><a href="/magazine/?n_cid=NARAN068"><img src="/static/pr/pc_header160x55_Read_the_Magazine_20170215.png" alt="" /></a></div>
+					<script language="JavaScript" type="text/javascript"> NAR_js.pr_header(); </script>
+					</div>
+				<div id="modal-login-balloon">
+		<div class="js_form-login-balloon_loading-layer" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(255, 255, 255, 0.3); z-index: 120; display: none;"></div>
+		<img src="/images/bg_load_2.gif" alt="loading..." class="js_form-login-balloon_loading-img" style="position: absolute; top: 50%; left: 50%; margin-left: -24px; margin-top: -24px; z-index: 150; display: none;" />
+						<form id="js_form-login-balloon" class="bg" action="https://regist.asia.nikkei.com/member/auth/login/process">
+		<div class="login-form">
+			<h3 class="title">Log in</h3>
+			<div class="input-form">
+				<dl>
+					<dt>E-mail address/ID</dt>
+					<dd class="js_valid js_notnull js_type_loginId">
+						<input type="text" class="js_vc-mail" name="formLogin[loginId]" id="js_form-login-balloon_loginId" msg_require="Please enter your e-mail address/ID" msg_type= "Please enter valid e-mail address/ID"  maxlength="100"  style="ime-mode: disabled;"/>
+						<p class="error"></p>
+					</dd>
+					<dt>Password<span class="arrow"><a href="/member/password/" tabindex="-1">Forgot password?</a></span></dt>
+					<dd class="js_valid js_notnull">
+						<input type="password" name="formLogin[password]" id="js_form-login-balloon_password" msg_require="Please enter your password" maxlength="30" />
+						<p class="error"></p>
+					</dd>
+				</dl>
+				<div><label><input type="checkbox" checked="checked" name="formLogin[rememberMe]" id="js_form-login-balloon_rememberMe"/>Remember me</label></div>
+																<div class="login-btn"><button type="submit" id="login-balloon-submit" class="general-submit-btn js_btn-submit"><span>Log in</span></button></div>
+								<input type="hidden" name="formLogin[mode]" id="js_form-login-balloon_mode" value="NORMAL"/>
+			</div>
+		</div>
+	</form>
+	<a class="close-btn js_close">close</a>
+	<script type="text/javascript" ><!--
+	$(document).ready( function() { $("#js_form-login-balloon").submit( function() { NAR_js.login($("#js_form-login-balloon")); return false; }); });
+	--></script>
+	</div><!-- /#login-balloon -->
+			</div>
+			<div class="navigation active">
+				<div class="inner">
+					<ul>
+<li><a href="/">Home</a></li>
+<li class="list-open">
+<a href="/Spotlight/">Spotlight</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Spotlight/CES-2018-The-future-of-tech/">CES 2018 -- The future of tech</a></li>
+<li><a href="/Spotlight/Asia300-Summit-2018/">Asia300 Summit 2018</a></li>
+<li><a href="/Spotlight/North-Korea-crisis/">North Korea crisis</a></li>
+<li><a href="/Spotlight/Bitcoin-evolution/">Bitcoin evolution</a></li>
+<li><a href="/Spotlight/Toshiba-in-Turmoil/">Toshiba in Turmoil</a></li>
+<li><a href="/Spotlight/Auto-Industry-Upheaval2/">Auto Industry Upheaval</a></li>
+</ul>
+</div>
+</li>
+
+<li class="list-open">
+<a href="/Politics-Economy/">Politics &amp; Economy</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Politics-Economy/Policy-Politics">Policy & Politics</a></li>
+<li><a href="/Politics-Economy/Economy/">Economy</a></li>
+<li><a href="/Politics-Economy/International-Relations/">International Relations</a></li>
+</ul>
+</div>
+</li>
+<li class="list-open">
+<a href="/Business/">Business</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Business/Companies/">Companies</a></li>
+<li><a href="/Business/AC">&nbsp;&nbsp;Asia300</a></li>
+<li><a href="/Business/Trends/">Trends</a></li>
+<li><a href="/Business/Deals">Deals</a></li>
+<li><a href="/Business/Executive-Lounge">Executive Lounge</a></li>
+<li><a href="/Business/Consumers/">Consumers</a></li>
+
+</ul>
+</div>
+</li>
+<li class="list-open">
+<a href="/Markets/">Markets</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Markets/Capital-Markets/">Capital Markets</a></li>
+<li><a href="/Markets/Equities">Equities</a></li>
+<li><a href="/Markets/Currencies/">Currencies</a></li>
+<li><a href="/Markets/Commodities/">Commodities</a></li>
+<li><a href="/Markets/Property/">Property</a></li>
+<li><a href="/Markets/Tokyo-Market/">Tokyo Market</a></li>
+<li><a href="/Markets/Nikkei-PMI/">Nikkei PMI</a></li>
+<li><a href="/Markets/Nikkei-Markets/">Nikkei Markets</a></li>
+</ul>
+</div>
+</li>
+<li class="list-open">
+<a href="/Tech-Science/">Tech &amp; Science</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Tech-Science/Tech/">Tech</a></li>
+<li><a href="/Tech-Science/Science/">Science</a></li>
+</ul>
+</div>
+</li>
+<li class="list-open">
+<a href="/Viewpoints/">Viewpoints</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Viewpoints-archive/Editorial/">Editorial</a></li>
+</ul>
+</div>
+</li>
+
+<li class="list-open">
+<a href="/Life-Arts/">Life & Arts</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Life-Arts/Life/">Life</a></li>
+<li><a href="/Life-Arts/Arts/">Arts</a></li>
+<li><a href="/Life-Arts/Japan-Trends/">Japan Trends</a></li>
+<li><a href="/Life-Arts/Education/">Education</a></li>
+<li><a href="/Life-Arts/Milestone/">Milestone</a></li>
+</ul>
+</div>
+</li>
+
+<li class="list-open">
+<a href="/Features">Features</a>
+<div class="list-menu">
+<ul>
+<li><a href="/Features/Looking-ahead-2-2018">Looking ahead 2018</a></li>
+<li><a href="/Features/Cover-story">Cover story</a></li>
+<li><a href="/Features/Business-Insight">Business Insight</a></li>
+<li><a href="/Features/Company-in-focus">Company in focus</a></li>
+<li><a href="/Features/CEO-in-the-news">CEO in the news</a></li>
+<li><a href="/Features/China-up-close">China up close</a></li>
+<li><a href="/Features/Asia-Insight">Asia Insight</a></li>
+<li><a href="/Features/BOJ-watch">BOJ watch</a></li>
+<li><a href="/Features/FT-Confidential-Research">FT Confidential Research</a></li>
+<li><a href="/Features/Kenzo-Takada">My Personal History: Kenzo Takada</a></li>
+<li><a href="/Features/Carlos-Ghosn">My Personal History: Carlos Ghosn</a></li>
+<li><a href="/Features/Dhanin-Chearavanont">My Personal History: Dhanin Chearavanont</a></li>
+<li><a href="/Features/Tea-Leaves">Tea Leaves</a></li>
+</ul>
+</div>
+</li>
+<li class="list-open">
+<a>Regions</a>
+<div class="list-menu region">
+<table>
+<tbody><tr>
+<th rowspan="3">East Asia</th>
+<td><a href="/search/findByRegion?facet_region=1">China</a></td>
+<td><a href="/search/findByRegion?facet_region=4">Japan</a></td>
+</tr>
+<tr>
+<td><a href="/search/findByRegion?facet_region=3">South Korea</a></td>
+<td><a href="/search/findByRegion?facet_region=5">Taiwan</a></td>
+</tr>
+<tr>
+<td><a href="/search/findByRegion?facet_region=6">Hong Kong, Macau</a></td>
+<td><a href="/search/findByRegion?facet_region=2">North Korea</a></td>
+</tr>
+<tr>
+<th rowspan="4">Southeast Asia</th>
+<td><a href="/search/findByRegion?facet_region=13">Indonesia</a></td>
+<td><a href="/search/findByRegion?facet_region=9">Thailand</a></td>
+</tr>
+<tr>
+<td><a href="/search/findByRegion?facet_region=12">Philippines</a></td>
+<td><a href="/search/findByRegion?facet_region=10">Malaysia</a></td>
+</tr>
+<tr>
+<td><a href="/search/findByRegion?facet_region=11">Singapore</a></td>
+<td><a href="/search/findByRegion?facet_region=7">Vietnam</a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="/search/findByRegion?facet_region=8">Myanmar, Cambodia, Laos</a></td>
+</tr>
+<tr>
+<th>South Asia</th>
+<td><a href="/search/findByRegion?facet_region=14">India</a></td>
+<td><a href="/search/findByRegion?facet_region=15">Pakistan, Bangladesh, <br>Sri Lanka, Nepal, Bhutan</a></td>
+</tr>
+<tr>
+<th>Oceania</th>
+<td colspan="2"><a href="/search/findByRegion?facet_region=18">Australia, New Zealand, Pacific Islands</a></td>
+</tr>
+<tr>
+<th rowspan="3">Others</th>
+<td><a href="/search/findByRegion?facet_region=16">Mongolia, Central Asia, <br>Afghanistan</a></td>
+<td><a href="/search/findByRegion?facet_region=17">Russia, Caucasus</a></td>
+</tr>
+<tr>
+<td><a href="/search/findByRegion?facet_region=24">North America</a></td>
+<td><a href="/search/findByRegion?facet_region=25">Latin America</a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="/search/findByRegion?facet_region=23">Europe</a></td>
+</tr>
+</tbody></table>
+
+</div>
+</li>
+
+</ul>
+				</div>
+			</div>
+		</div><!-- /#header -->
+
+		<div id="content">
+						<div class="primary">
+
+							<div class="topic-path">
+					<ul>
+						<li class=><a href="/Business">Business</a></li><li class=last><a href="/Business/Trends">Trends</a></li>
+					</ul>
+				</div>
+
+													<div class="article detail-area">
+					<div class="icon-area">
+						<ul class="snsicon-list">
+														<li class="print" style="display:none;"><a href="/print/article/265701" target="_blank">Print</a></li>
+																								<li class="Facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=http://s.nikkei.com/2fRalQE&amp;t=Companies%20set%20sights%20on%20Japan%27s%20homegrown%20GPS%20-%20Nikkei%20Asian%20Review" target="_blank">Facebook</a></li>
+							<li class="Twitter"><a href="https://twitter.com/share?url=http://s.nikkei.com/2fRalQE&amp;text=Companies%20set%20sights%20on%20Japan%27s%20homegrown%20GPS%20-%20Nikkei%20Asian%20Review" target="_blank">Twitter</a></li>
+							<li class="LinkedIn"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://s.nikkei.com/2fRalQE&amp;title=Companies%20set%20sights%20on%20Japan%27s%20homegrown%20GPS%20-%20Nikkei%20Asian%20Review" target="_blank">LinkedIn</a></li>
+							<li class="Google"><a href="https://plus.google.com/share?url=http://s.nikkei.com/2fRalQE" target="_blank">Google+</a></li>
+							<li class="Mail"><a href="mailto:?subject=Companies%20set%20sights%20on%20Japan%27s%20homegrown%20GPS%20&amp;body=Here%20is%20something%20from%20Nikkei%20Asian%20Review%20that%20might%20interest%20you%3A%0D%0ACompanies%20set%20sights%20on%20Japan%27s%20homegrown%20GPS%20%0D%0Ahttp://s.nikkei.com/2fRalQE">Mail</a></li>
+							<li class="save"><a href="javascript:void(0)" class="general-btn js_btn-submit"><span>Save</span></a></li>
+								</ul>
+						<div class="icon-area-modal">
+							<div class="icon-area-modal-inner">
+								<!-- facebook -->
+								<span class="Facebook-save-top" ga-event-action="save-top">
+								<div class="fb-save" data-uri="http://s.nikkei.com/2fRalQE" data-size="large"></div>
+								</span>
+								<!-- Flipboard -->
+								<span class="Flipboard">
+								<a class="Flipboard-share" data-flip-widget="flipit" href="https://flipboard.com">Add to Flipboard Magazine.</a><script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js" type="text/javascript"></script>
+								</span>
+							</div>
+						</div>
+					</div>
+
+											<div class="article-box">
+						<div class="detail">
+							<div class="feature-article">
+														<div class="date-area">
+																												<span class="date-area-date">June 2, 2017 6:44 am JST</span>
+																										</div>
+																				<h1 class="title">Companies set sights on Japan&#039;s homegrown GPS </h1>
+													<p class="subhead01">Second satellite now in orbit, with all four to be in place by 2018 </p>
+																</div>
+
+
+
+
+																							<img src="/var/site_cache/storage/images/node_43/node_51/2017/201706/0602n/0602n-michibiki/7091944-1-eng-GB/0602N-Michibiki_article_main_image.jpg" width="580" alt="" />
+
+
+																																		<p class="img-caption">
+
+																									A rendering of a Michibiki satellite, part of Japan's enhanced GPS system.
+
+																																			<span class="img-credit">
+											&copy; (Image courtesy of JAXA)
+										</span>
+
+								</p>
+
+
+								</div>
+				</div>
+
+
+					<div class="article-box detail">
+										<div class="wysiwyg_area">
+							<div class="articleBodyText">
+								<p>TOKYO -- Japan's augmented Global Positioning System is expected to create a host of new business opportunities, from highly sophisticated car navigation and drone delivery to autonomous driving of construction equipment.&nbsp;</p><div class="page_limit free"></div><div class="page_limit"></div><p>The second of a planned four satellites that will form the network was successfully launched Thursday from the Tanegashima Space Center.&nbsp;Information from the first Michibiki quasi-zenith satellite launched in September 2010 is already in use, and Japan plans to launch two more by March 2018.</p><p>The Global Positioning System, the network of global navigation satellites operated by the U.S., is widely used by car navigation systems and smartphones for positional information, but it is accurate only to 10 meters.</p><p>With the network of four Michibiki satellites, Japan will have a system that augments the data from existing GPS satellites to provide positional information with an accuracy of better than 1 meter, and in best-case situations an accuracy of 6cm. The goal is to have the network up and running next spring.</p><p>Such high-level accuracy will take car navigation to a new level. Not just the road but even the lane can be identified, providing the means for directing drivers more accurately in traffic. This kind of precise positional information will also prove useful for self-driving cars.</p><p>East Nippon Expressway (Nexco East) is looking into using the navigation satellites to optimize the routes of snowplows and drive accurately even during blizzards. The company plans to conduct road tests in Hokkaido this winter, aiming to develop a way for inexperienced snowplow drivers to work with the efficiency of a seasoned veteran.</p><p>The industrial machinery maker <a href="/Company/05HYZK-E" target="_self" alt="05HYZK-E" class="mwMoTrg">Hitachi Zosen</a> has developed a receiver for the radio signals from the Michibiki satellites that can be used to guide drones delivering packages to places like remote islands. It is also testing the use of the receivers to guide unmanned trucks between rice fields. New businesses can be developed in Australia and Southeast Asia, where the signals from the Michibiki satellites reach.</p><p>The Japanese construction giant <a href="/Company/05HWNR-E" target="_self" alt="05HWNR-E" class="mwMoTrg">Obayashi</a> has developed devices that use satellite signals so cranes can move around construction sites without touching power cables, and excavators can dig down to precise depths. The company hopes to reduce the number of human workers at its construction projects by boosting the precision of unmanned machinery.</p><p>(Nikkei)</p>
+							</div>
+						</div>
+
+								<div id="modal-screen_zoom"></div>
+
+									</div>
+
+																					<div id="05HYZK-E" class="cmp-smy-balloon">
+						<div class="cmp-smy-balloon-inr">
+																					<h3 class="mwmo-title"><a href="/Company/05HYZK-E">Hitachi Zosen Corp.</a></h3>
+							<p class="a300ctry">Japan</p>
+							<table>
+								<tr>
+									<th>Market(Ticker):</th>
+									<td>TKS(7004)</td>
+								</tr>
+								<tr>
+									<th>Sector:<br>Industry:</th>
+									<td>Producer Manufacturing<br>Industrial Conglomerates</td>
+								</tr>
+								<tr>
+									<th>Market cap(USD):</th>
+									<td >922.36M</td>
+								</tr>
+								<tr>
+									<th>Shares:</th>
+									<td >170.21M</td>
+								</tr>
+							</table>
+							<div class="more">
+								<a href="/Company/05HYZK-E">about Hitachi Zosen Corp.</a>
+							</div>
+						</div>
+					</div>
+																					<div id="05HWNR-E" class="cmp-smy-balloon">
+						<div class="cmp-smy-balloon-inr">
+																					<h3 class="mwmo-title"><a href="/Company/05HWNR-E">Obayashi Corp.</a></h3>
+							<p class="a300ctry">Japan</p>
+							<table>
+								<tr>
+									<th>Market(Ticker):</th>
+									<td>TKS(1802)</td>
+								</tr>
+								<tr>
+									<th>Sector:<br>Industry:</th>
+									<td>Industrial Services<br>Engineering &amp; Construction</td>
+								</tr>
+								<tr>
+									<th>Market cap(USD):</th>
+									<td >9,018.46M</td>
+								</tr>
+								<tr>
+									<th>Shares:</th>
+									<td >721.50M</td>
+								</tr>
+							</table>
+							<div class="more">
+								<a href="/Company/05HWNR-E">about Obayashi Corp.</a>
+							</div>
+						</div>
+					</div>
+									<!-- balloon -->
+
+
+										<div class="pagination no-border"></div>
+
+
+
+							<div class="icon-area">
+						<ul class="snsicon-list">
+														<li class="print" style="display:none;" ga-event-action="print-bottom"><a href="/print/article/265701" target="_blank">Print</a></li>
+																								<li class="Facebook" ga-event-action="share-bottom"><a href="https://www.facebook.com/sharer/sharer.php?u=http://s.nikkei.com/2fRalQE&amp;t=Companies%20set%20sights%20on%20Japan%27s%20homegrown%20GPS%20-%20Nikkei%20Asian%20Review" target="_blank">Facebook</a></li>
+							<li class="Twitter" ga-event-action="share-bottom"><a href="https://twitter.com/share?url=http://s.nikkei.com/2fRalQE&amp;text=Companies%20set%20sights%20on%20Japan%27s%20homegrown%20GPS%20-%20Nikkei%20Asian%20Review" target="_blank">Twitter</a></li>
+							<li class="LinkedIn" ga-event-action="share-bottom"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://s.nikkei.com/2fRalQE&amp;title=Companies%20set%20sights%20on%20Japan%27s%20homegrown%20GPS%20-%20Nikkei%20Asian%20Review" target="_blank">LinkedIn</a></li>
+							<li class="Google" ga-event-action="share-bottom"><a href="https://plus.google.com/share?url=http://s.nikkei.com/2fRalQE" target="_blank">Google+</a></li>
+							<li class="Mail" ga-event-action="share-bottom"><a href="mailto:?subject=Companies%20set%20sights%20on%20Japan%27s%20homegrown%20GPS%20&amp;body=Here%20is%20something%20from%20Nikkei%20Asian%20Review%20that%20might%20interest%20you%3A%0D%0ACompanies%20set%20sights%20on%20Japan%27s%20homegrown%20GPS%20%0D%0Ahttp://s.nikkei.com/2fRalQE">Mail</a></li>
+							<li class="save" ga-event-action="btn-bottom"><a href="javascript:void(0)" class="general-btn js_btn-submit"><span>Save</span></a></li>
+								</ul>
+						<div class="icon-area-modal">
+							<div class="icon-area-modal-inner">
+								<!-- facebook -->
+								<span class="Facebook-save-bottom" ga-event-action="save-bottom">
+								<div class="fb-save" data-uri="http://s.nikkei.com/2fRalQE" data-size="large"></div>
+								</span>
+								<!-- Flipboard -->
+								<span class="Flipboard" ga-event-action="save-bottom">
+								<a class="Flipboard-share" data-flip-widget="flipit" href="https://flipboard.com">Add to Flipboard Magazine.</a><script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js" type="text/javascript"></script>
+								</span>
+							</div>
+						</div>
+					</div>
+
+						<div class="related-company">
+			<h2 class="related-header">Related companies</h2>
+			<p class="company-list">
+																	<a href="/Company/05HYZK-E">Hitachi Zosen Corp.</a>,																					<a href="/Company/05HWNR-E">Obayashi Corp.</a>										</p>
+		</div>
+
+
+
+																		<div class="related-list">
+							<h2 class="related-header">Related stories</h2>
+							<ul class="point-list">
+																																																		<li><a href="/Tech-Science/Tech/Japan-puts-up-satellite-in-step-to-build-homegrown-GPS">Japan puts up satellite in step to build homegrown GPS</a></li>
+
+																																																										<li><a href="/Tech-Science/Tech/Japan-to-launch-second-GPS-satellite-for-improved-accuracy">Japan to launch second GPS satellite for improved accuracy</a></li>
+
+																																																										<li><a href="/Business/Trends/Japan-s-builders-fighting-expected-labor-shortages-with-faster-payment-terms">Japan&#039;s builders fighting expected labor shortages with faster payment terms</a></li>
+
+																																																										<li><a href="/Tech-Science/Tech/Tokyo-to-begin-marketing-GPS-successor-in-2020">Tokyo to begin marketing GPS successor in 2020</a></li>
+
+																						</ul>
+						</div>
+
+
+
+
+<div class="mail-magazine-article GCCMD_removeall">
+	<h2 class="title">Get Insights on Asia In Your Inbox</h2>
+	<div class="formMember_newsletter_article_loading-layer" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(255, 255, 255, 0.3); z-index: 120; display: none;"></div>
+	<img src="/images/bg_load_2.gif" alt="loading..." class="formMember_newsletter_article_loading-img" style="position: absolute; top: 60%; left: 50%; margin-left: -24px; margin-top: -24px; z-index: 150; display: none;" />
+	<form id="formMember_newsletter_article" class="memberRegister js_scroll_off" name="formMember_newsletter" action="https://regist.asia.nikkei.com/member/register/newsletter/process" method="POST" onsubmit="return false;">
+		<div class="mail-magazine-inner input-form">
+			<div class="frm-area form-box">
+				<table>
+					<tr>
+						<td class="js_valid js_notnull js_type_email required js_type_email_immediate">
+							<a href="javascript:void(0)" class="general-btn js_btn-submit disable">
+							<span>Register</span></a>
+							<input type="text" id="formMember_newsletter_article_email" name="formMember[newsletter][email]" maxlength="100" msg_require="Please enter e-mail address" msg_type="Please enter valid e-mail address" style="ime-mode: disabled;" autocomplete="off" placeholder="e-mail@example.com">
+							<p class="error"></p>
+						</td>
+					</tr>
+				</table>
+				<p class="comp-txt"></p>
+			</div>
+			<div class="taR mt15"><a href="/member/register/newsletter" class="ga-ArticleNewsletter-detail" id="ArticleNewsletter-detail" target="_blank">About newsletters</a></div>
+		</div>
+	</form>
+</div>
+					<div class="morein-area">
+		<h2 class="more-header">More in Trends</h2>
+		<ul class="morein-list">
+								<li>
+	<a href="/Business/Trends/Japan-s-Don-Quijote-set-to-maintain-record-profit-streak">
+		<div class="morein-img">
+
+
+
+
+
+																							<img src="/var/site_cache/storage/images/node_43/node_51/2018/201801/0119n/0119n-don-quijote-for-thumbnail/8717552-3-eng-GB/0119N-Don-Quijote-for-Thumbnail_more_in_thumbnail.jpg" width="188" alt="" />
+
+					</div>
+		<span class="morein-list-read">
+										<span class="sub-title-s">Earnings preview: </span>
+						Japan&#039;s Don Quijote set to maintain record profit streak
+		</span>
+	</a>
+</li>
+
+								<li>
+	<a href="/Business/Trends/CP-Groups-tycoon-sees-good-sentiment-to-invest-in-US-under-Trump">
+		<div class="morein-img">
+
+
+
+
+
+																							<img src="/var/site_cache/storage/images/node_43/node_51/2018/201801/20180118t/20180118-thumb-cp-group-dhanin-with-glyn-davies/8715000-3-eng-GB/20180118-thumb-CP-Group-Dhanin-with-Glyn-Davies_more_in_thumbnail.jpg" width="188" alt="" />
+
+					</div>
+		<span class="morein-list-read">
+									CP Group tycoon says Trump&#039;s US ripe for investment
+		</span>
+	</a>
+</li>
+
+								<li>
+	<a href="/Business/Trends/Tokyo-to-trial-cab-sharing-apps-but-to-Japanese-speakers-only">
+		<div class="morein-img">
+
+
+
+
+
+																							<img src="/var/site_cache/storage/images/node_43/node_51/2018/201801/20180118t/180118tokyo-taxi-sharing-app-trial/8715317-1-eng-GB/180118Tokyo-taxi-sharing-app-trial_more_in_thumbnail.jpg" width="188" alt="" />
+
+					</div>
+		<span class="morein-list-read">
+									Tokyo to trial cab-sharing apps but to Japanese speakers only
+		</span>
+	</a>
+</li>
+
+				</ul>
+	</div>
+
+
+
+						<div class="OUTBRAIN" data-src="https://asia.nikkei.com/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS" data-widget-id="AR_1" data-ob-template="Nikkei_Asian_Review_EN" ></div>
+						<div class="OUTBRAIN" data-src="https://asia.nikkei.com/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS" data-widget-id="AR_3" data-ob-template="Nikkei_Asian_Review_EN" ></div>
+						<script class="OUTBRAIN" type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+		<div class="link-box GCCMD_removeall">
+<!-- Follow Nikkei Asian Review -->
+<h2 class="title">Follow Nikkei Asian Review</h2>
+<div class="follow-nar">
+<dl>
+<dd class="Facebook">The best content posted</dd>
+<dt><div class="fb-like" data-href="https://www.facebook.com/nikkeiasianreview/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></dt>
+<dd class="Twitter">The latest headlines tweeted</dd>
+<dt class="Twitter"><a href="https://twitter.com/NAR" class="twitter-follow-button" data-show-count="false">Follow @NAR</a>
+</dt>
+</dl>
+</div>
+</div>
+				</div>
+
+						<script type="text/javascript">
+				<!--
+															cms_section = 8;
+
+										FREE = Number( 7 );
+					MAGAZINE_FREE = Number( 11 );
+					MEMBERS_ONLY = Number( 9 );
+					SUBSCRIPTION = Number( 8 );
+					MAGAZINE_SUBSCRIPTION = Number( 10 );
+					PAY =  Number( 2 );
+					IP_AUTH =  Number( 4 );
+					TRIAL = Number( 3 );
+			                COUPON = Number( 5 );
+				-->
+				</script>
+								<script type="text/javascript">
+				<!--
+										if( cms_section == SUBSCRIPTION || cms_section == MAGAZINE_SUBSCRIPTION ){
+												now_date = new Date();
+						cookie_name =  String(now_date.getFullYear())+String(now_date.getMonth()+1)+"vc";
+						cookie_nameList = cookie_name+"l";
+
+												user_view_article_list = getCookieList(cookie_nameList);
+						article = 173349;
+
+
+						var in_array_flag = false;
+						for(var i = 0; i < user_view_article_list.length; i++) {
+							if(user_view_article_list[i] == article) {
+								in_array_flag = true;
+							}
+						}
+												if( !in_array_flag ){
+														user_view_article_list.push(article);
+
+														user_view_count = getCookie(cookie_name);
+							if(user_view_count == ""){
+								user_view_count = 1;
+							}else{
+								user_view_count = Number(user_view_count) + 1;
+							}
+						}else{
+													user_view_count = getCookie(cookie_name);
+						}
+					}
+
+										var page = 1
+					var count_flag = user_check();
+
+										if( (cms_section == SUBSCRIPTION || cms_section == MAGAZINE_SUBSCRIPTION) && count_flag ){
+						NAR_js.isCount = true;
+						NAR_js.user_view_count = user_view_count;
+						setCookie(cookie_name, user_view_count, 40);
+						setCookieList(cookie_nameList, user_view_article_list, 40);
+					}
+
+				-->
+				</script>
+						<script>
+				<!--
+				$(function() {
+					var printFlag = false;
+					if( user_category == IP_AUTH ){
+						printFlag = true;
+					}
+					if( login_flag ){
+						if( user_section == PAY ){
+							printFlag = true;
+						}
+					}
+					if(location.href.match(/^https:\/\/asia.staging/)) {
+						printFlag = true;
+					}
+					else if(cms_section == FREE || cms_section == MAGAZINE_FREE){
+						printFlag = true;
+					}
+
+					if (printFlag) {
+						var snsicon = $("ul.snsicon-list");
+						var print = snsicon.find("li.print");
+						print.css("display","inline-block");
+					}
+				});
+				-->
+				</script>
+
+																<link rel="stylesheet" href="/css/article_pagination_v001.css" />
+
+															<script type="text/javascript" src="/js/1ed71a1.js"></script>
+
+										<script type="text/javascript">
+					<!--
+
+					$(function(){
+						if(!$(".limit_page").get(0) && !$(".selection.page-1").get(0)){
+							href = location.href;
+							params = href.split("?");
+							if(params.length>1){
+								paramsList = params[1].split("&");
+								for ( i = 0; i < paramsList.length; i++ ) {
+									if(paramsList[i].match(/page\=.*/)){
+										paramsList.splice( i , 1);
+										break;
+									}
+								}
+								if(paramsList.length>0){
+									p ="";
+									for ( i = 0; i < paramsList.length; i++ ) {
+										p = p + paramsList[i];
+										if(i<paramsList.length-1) p = p + "&";
+									}
+									location.href = params[0] + "?" + p;
+								}else{
+									location.href = params[0];
+								}
+							}
+						}
+					});
+					$(function(){
+						$(".pagination.no-border").pagination({
+														items: $(".selection").length,
+														offset: 1
+						})
+					});
+					-->
+					</script>
+
+								<script type="text/javascript">
+				<!--
+					$(function() {
+						var bodytext = $( '.wysiwyg_area' ).html();
+						var area_count = bodytext.match(/<div class=\"related_articles\" data-count=\"([0-9*])\"><\/div>/gi);
+
+						if( area_count ) {
+							if ( area_count.length > 1 ) {
+								var pos = bodytext.indexOf( area_count[0] ) + area_count[0].length;
+								var bodytext1 = bodytext.slice( 0, pos );
+								var bodytext2 = bodytext.slice( pos );
+								for(var i = 1; i < area_count.length; i++) {
+									var regExp = new RegExp( area_count[i], 'i' );
+									bodytext2 = bodytext2.replace( regExp , '' ) ;
+									//var result = bodytext.replace( regExp , '' ) ;
+									//$( '.wysiwyg_area' ).html(result);
+								}
+								var result = bodytext1 + bodytext2;
+								$( '.wysiwyg_area' ).html(result);
+							}
+
+							var origin = $( 'div.related-list:not(.wysiwyg_area div.related-list)');
+							var origin_count = origin.children('ul').children().length;
+
+							if ( origin.length > 0 ){
+								$( 'div.related_articles' ).attr( 'id', 'related_articles_wrap' );
+								$( 'div.related_articles' ).prepend('<div class="related-list">');
+								$( 'div.related_articles div.related-list' ).prepend('<div class="related-header">Related stories</div>');
+								var list = $( 'div.related_articles div.related-list' ).append('<ul class="point-list"></ul>').find('ul');
+
+								var match = bodytext.match(/<div class=\"related_articles\" data-count=\"([0-9*])\"><\/div>/i);
+
+								for(var i = 1; i <= match[1]; i++) {
+
+								    $( 'div.related-list ul.point-list li:nth-child(1):not(.wysiwyg_area div.related-list ul.point-list li:nth-child(1))').appendTo( list );
+
+									if ( i >= origin_count ) {
+										origin.remove();
+								    	break;
+									}
+
+								}
+							}
+						}
+					});
+				-->
+				</script>
+							</div>
+			<div class="secondary">
+
+
+
+
+
+			<div class="link-box a300 ">
+			<a href="/Business/AC" class="link-box-a300"><h5 class="title notice a300title">
+        <!--[if lte IE 8]><img src="/images/A300logoS2.png" alt="Asia300 Companies to watch" width="330" height="30"/><![endif]-->
+        <!--[if gte IE 9]><!--><img src="/images/A300logoS2.svg" alt="Asia300 Companies to watch" width="330" height="30"/><!--<![endif]-->
+	</h5>
+		<div class="a300-inner">
+		<h6>Nikkei Asia300 Index</h6>
+		<script src="/JavaScript/custom/market_v001.js"></script>
+<table class="market-data">
+	<tbody>
+		<tr>
+			<td class="mk-data-d01">1,495.46</td>
+			<script type='text/javascript'>
+			diffValue("+4.27");
+			diffPercent("1,495.46","+4.27");
+			$tds = $(".a300-inner").find("td");
+			$tds.each(function(idx, td) {
+				if(idx == 1) {
+					$(this).addClass('mk-data-d02');
+				}
+				else if(idx == 2) {
+					$(this).addClass('mk-data-d03');
+				}
+			});
+
+			</script>
+		</tr>
+	</tbody>
+</table>
+
+	</div>
+	</a>
+		<ul class="headline-list a300">
+			<li>
+						<a href="/Business/Companies/Apple-supplier-TSMC-sees-drop-in-premium-phone-shipments-in-2018">
+				Apple supplier TSMC sees drop in premium phone shipments in 2018
+						<p class="a300ctry">
+																																				[Taiwan]
+																</p>
+					</a>
+		</li>
+			<li>
+						<a href="/Business/AC/PTT-Shell-seek-49-at-Vietnam-gas-station-operator">
+				PTT and Shell chase 49% of PV Oil, Vietnam&#039;s No. 2 distributor
+						<p class="a300ctry">
+																																				[Vietnam]
+																																	[Laos, Cambodia, Myanmar]
+																</p>
+					</a>
+		</li>
+			<li>
+						<a href="/Business/Trends/CP-Groups-tycoon-sees-good-sentiment-to-invest-in-US-under-Trump">
+				CP Group tycoon says Trump&#039;s US ripe for investment
+						<p class="a300ctry">
+																																				[Thailand]
+																																	[Europe]
+																										...
+											</p>
+					</a>
+		</li>
+			<li>
+						<a href="/Business/Companies/Adani-Enterprises-to-spin-off-city-gas-distribution-business">
+				Adani Enterprises to spin off city gas distribution business
+						<p class="a300ctry">
+																																				[India]
+																</p>
+					</a>
+		</li>
+		</ul>
+		<div class="more">
+		<a href="/Business/AC">
+							more news and indexes
+					</a>
+	</div>
+	<div class="more">
+		<a href="/info/about-asia300" target="_blank">About Asia300</a>
+	</div>
+</div>
+
+
+
+
+
+			<div class="rectangle">
+<!-- NikkeiEnglish_300*250_1 -->
+<div id='div-gpt-ad-1375148072299-0' style='width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1375148072299-0'); });
+</script>
+</div>
+</div>
+
+
+
+	<div class="link-box ">
+		<h5 class="title">Editor&#039;s picks</h5>
+
+
+<ul class="photo-list another-case">
+	<li>
+						<a href="/Business/AC/PTT-Shell-seek-49-at-Vietnam-gas-station-operator">
+		<img src="/var/site_cache/storage/images/node_43/node_51/2018/201801/20180118t/20180118-pv-oil/8715713-2-eng-GB/20180118-PV-Oil_small_thumbnail.jpg" width="80" alt="" />
+
+		</a>
+						<p>
+		<a href="/Business/AC/PTT-Shell-seek-49-at-Vietnam-gas-station-operator">PTT and Shell chase 49% of PV Oil, Vietnam&#039;s No. 2 distributor</a>
+		</p>
+	</li>
+	<li>
+						<a href="/Business/Companies/Apple-supplier-TSMC-sees-drop-in-premium-phone-shipments-in-2018">
+		<img src="/var/site_cache/storage/images/node_43/node_51/2018/201801/20180118t/20180118_tsmc_logo/8716995-2-eng-GB/20180118_TSMC_logo_small_thumbnail.jpg" width="80" alt="" />
+
+		</a>
+						<p>
+		<a href="/Business/Companies/Apple-supplier-TSMC-sees-drop-in-premium-phone-shipments-in-2018">Apple supplier TSMC sees drop in premium phone shipments in 2018</a>
+		</p>
+	</li>
+	<li>
+						<a href="/Politics-Economy/Economy/China-pads-GDP-with-spending-boost-before-party-congress">
+		<img src="/var/site_cache/storage/images/node_43/node_51/2018/201801/0119n/0119n-china-state-council/8716874-3-eng-GB/0119N-China-state-council_small_thumbnail.jpg" width="80" alt="" />
+
+		</a>
+						<p>
+		<a href="/Politics-Economy/Economy/China-pads-GDP-with-spending-boost-before-party-congress">China pads GDP with spending boost before party congress</a>
+		</p>
+	</li>
+	<li>
+						<a href="/Markets/Commodities/Coal-power-facing-pushback-in-Southeast-Asia">
+		<img src="/var/site_cache/storage/images/node_43/node_51/2018/201801/0119n/0119n_no-coal/8717376-2-eng-GB/0119N_No-Coal_small_thumbnail.jpg" width="80" alt="" />
+
+		</a>
+						<p>
+		<a href="/Markets/Commodities/Coal-power-facing-pushback-in-Southeast-Asia">Coal power facing pushback in Southeast Asia</a>
+		</p>
+	</li>
+	<li>
+						<a href="/Politics-Economy/International-Relations/Japan-Australia-agree-to-keep-pressure-on-North-Korea">
+		<img src="/var/site_cache/storage/images/node_43/node_51/2018/201801/0119n/0119n-australia-japan/8716852-1-eng-GB/0119N-Australia-Japan_small_thumbnail.jpg" width="80" alt="" />
+
+		</a>
+						<p>
+		<a href="/Politics-Economy/International-Relations/Japan-Australia-agree-to-keep-pressure-on-North-Korea">Japan, Australia agree to keep pressure on North Korea</a>
+		</p>
+	</li>
+</ul>
+
+</div>
+
+<div class="link-box latest-issues ">
+		<h5 class="title"><a href="/magazine/20180118">Print Edition</a></h5>
+		<div class="column-layout">
+				<a href="/magazine/20180118">
+		<img src="/var/site_cache/storage/images/top/magazine/20180118/8701593-1-app-WF/A-new-way-of-dying_rc_magazine_image.jpg" width="150" alt="" />
+		</a>
+
+		<ul class="latest-list">
+
+<li>
+		<a href="/magazine/20180118/On-the-Cover/Funerals-for-the-21st-century-Asia-s-new-ways-to-say-goodbye"><span class="sub-title-s">Cover story: </span>Funerals for the 21st century: Asia&#039;s new ways to say goodbye</a>
+</li>
+
+
+<li>
+		<a href="/magazine/20180118/On-the-Cover/A-party-before-dying-Japanese-are-embracing-the-logic-of-the-pre-funeral">A party before dying: Japanese are embracing the logic of the &#039;pre-funeral&#039; </a>
+</li>
+
+							</ul>
+	</div>
+		<div class="more"><a href="/magazine">See all issues</a></div>
+</div>
+
+
+			<div class="rectangle">
+<!-- NikkeiEnglish_300*250_2 -->
+<div id='div-gpt-ad-1375260461786-0' style='width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1375260461786-0'); });
+</script>
+</div>
+</div>
+
+
+
+	<div class="link-box ">
+		<h5 class="title">Most read</h5>
+		<ul class="ranking-list">
+						<li class="number1">
+			<a href="/Business/Companies/Toyota-and-Honda-suspend-exports-to-Vietnam">Toyota and Honda suspend exports to Vietnam </a>
+		</li>
+						<li class="number2">
+			<a href="/Features/Cover-story/Funerals-for-the-21st-century-Asia-s-new-ways-to-say-goodbye"><span class="sub-title-s">Cover story: </span>Funerals for the 21st century: Asia&#039;s new ways to say goodbye</a>
+		</li>
+						<li class="number3">
+			<a href="/Politics-Economy/Economy/A-deep-dive-into-Japan-s-record-setting-tourism-figures">Where are all the tourists in Japan coming from?</a>
+		</li>
+						<li class="number4">
+			<a href="/Business/Deals/Toyota-Tsusho-buying-chunk-of-Australian-lithium-miner">Toyota Tsusho buying chunk of Australian lithium miner</a>
+		</li>
+						<li class="number5">
+			<a href="/Business/Companies/Chat-app-provider-Line-moves-into-financial-services">Chat app provider Line moves into financial services</a>
+		</li>
+			</ul>
+</div>
+
+
+			<!-- Videos -->
+<div class="link-box videos">
+<h5 class="title"><a href="https://video.asia.nikkei.com/">Videos</a></h5>
+<div class="column-layout">
+<ul class="video-detail">
+<li>
+<a href="https://video.asia.nikkei.com/detail/videos/editor-s-picks/video/5640312483001/coffee-on-the-rise-in-indonesia?autoStart=true">
+<img src="/var/site_cache/storage/images/node_43/node_51/video/2018/indonesia-coffee-third-wave/8682534-1-eng-GB/Indonesia-coffee-third-wave.jpg" width="80" alt="">
+<p>Coffee on the rise in Indonesia</p>
+</a>
+</li>
+<li>
+<a href="https://video.asia.nikkei.com/detail/videos/editor-s-picks/video/5705739890001/after-12-years-sony-has-a-new-aibo?autoStart=true">
+<img src="/var/site_cache/storage/images/node_43/node_51/video/2018/sony-aibo-released/8682556-1-eng-GB/Sony-Aibo-released.jpg" width="80" alt="">
+<p>After 12 years, Sony has a new Aibo</p>
+</a>
+</li>
+<li>
+<a href="https://video.asia.nikkei.com/detail/videos/channel-japan/video/5670673861001/the-live-stream-sales-boom?autoStart=true">
+<img src="/var/site_cache/storage/images/node_43/node_51/video/2017/201712cj-livestream-ec/8682677-1-eng-GB/201712CJ-Livestream-EC.jpg" width="80" alt="">
+<p>The live stream sales boom</p>
+</a>
+</li>
+</ul>
+</div>
+<div class="more"><a href="https://video.asia.nikkei.com/">more</a></div>
+</div>
+
+
+
+			<div class="rectangle">
+<!-- NikkeiEnglish_300*250_3 -->
+<div id='div-gpt-ad-1404116812193-0' style='width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1404116812193-0'); });
+</script>
+</div>
+</div>
+
+
+
+
+			<!-- NikkeiEnglish_InRead_Article -->
+<div id='div-gpt-ad-1396427317542-0' style='width:1px; height:1px;'>
+<script type='text/javascript'>
+var obCheck = document.querySelectorAll('.articleBodyText p').length;
+var vdCheck = document.querySelectorAll('.BrightcoveExperience param').length;
+var tpCheck = false;
+if ((obCheck >= 1) && !(vdCheck >= 1)) {
+if((authority == "A1" || authority == "A2") && (cms_section == 8 || cms_section == 10)){
+var current_cookie_name = String(now_date.getFullYear())+String(now_date.getMonth()+1)+"vc";
+var current_user_view_count = getCookie(current_cookie_name);
+var current_cookie_nameList = current_cookie_name+"l";
+var current_user_view_article_list = getCookieList(current_cookie_nameList);
+var in_array_flag = false;
+for(var i = 0; i < current_user_view_article_list.length; i++) {
+if(current_user_view_article_list[i] == article) {
+in_array_flag = true;
+}
+}
+if((authority == "A1") && (current_user_view_count >= article_limit) && !in_array_flag){
+} else if((authority == "A2") && (current_user_view_count >= article_limit_free) && !in_array_flag)
+{
+} else {
+tpCheck = true;
+}
+} else if((authority == "A1" || authority == "A2") && (cms_section == 9)){
+} else {
+tpCheck = true;
+}
+}
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1396427317542-0'); });
+</script>
+</div>
+
+
+
+			<!-- NikkeiEnglish_InBoard_Article -->
+<div id='div-gpt-ad-1410933087819-0' style='width:1px; height:1px;'>
+<script type='text/javascript'>
+var obCheck = document.querySelectorAll('.articleBodyText p').length;
+var vdCheck = document.querySelectorAll('.BrightcoveExperience param').length;
+if ((obCheck >= 1) && !(vdCheck >= 1)) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410933087819-0'); });
+}
+</script>
+</div>
+
+
+
+
+
+
+
+							</div>
+					</div><!-- /#content -->
+						<div id="footer">
+			<div class="footer-content">
+<span>
+<!--[if lte IE 8]><img src="/images/img_logo_footer.png" alt="Nikkei Asian Review" /><![endif]-->
+<!--[if gte IE 9]><!--><img src="/images/img_logo.svg" width="240" height="43" alt="Nikkei Asian Review" /><!--<![endif]-->
+</span>
+<div class="footer-link">
+        <ul class="snsicon-list">
+            <li class="Facebook"><a href="https://www.facebook.com/nikkeiasianreview" target="_blank">Facebook</a></li>
+            <li class="Twitter"><a href="https://twitter.com/NAR" target="_blank">Twitter</a></li>
+            <li class="LinkedIn"><a href="http://www.linkedin.com/company/nikkei-asian-review" target="_blank">LinkedIn</a></li>
+            <li class="Google"><a href="https://plus.google.com/105293795757249725929/posts" target="_blank">Google+</a></li>
+            <li class="YouTube"><a href="https://www.youtube.com/user/NikkeiAsia" target="_blank">YouTube</a></li>
+            <li class="RSS"><a href="/info/rss" target="_blank">RSS</a></li>
+        </ul>
+        <ul class="appstore-link">
+            <li><a href="
+https://itunes.apple.com/app/nikkei-asian-review/id481958599?mt=8" target="_blank"><img src="/images/banner_appstore_l.png" alt="App store" /></a></li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.nikkei.asianreview" target="_blank"><img src="/images/banner_googleplay_l.png" alt="google play" /></a></li>
+        </ul>
+      </div>
+</div>
+<ul class="footer-nav base-list">
+	<li><a href="/info/about">About Nikkei Asian Review</a></li>
+	<li><a href="/info/sitemap">Site map</a></li>
+	<li><a href="/info/help">Help</a></li>
+	<li><a href="/contact">Contact us</a></li>
+	<li><a href="/info/terms-of-use">Terms of use</a></li>
+	<li><a href="/info/copyright">Copyright</a></li>
+	<li><a href="/info/privacy">Privacy &amp; cookie policy</a></li>
+	<li><a href="/info/advertising">Advertising</a></li>
+	<li><a href="/info/announcements">Announcements</a></li>
+</ul>
+
+			<div class="footer-tool">
+				<div class="copyright">Nikkei Inc. No reproduction without permission.</div>
+				<div class="language">
+					<ul class="base-list">
+						<li><a href="http://www.nikkei.com/" target="_BLANK">Japanese</a></li>
+						<li><a href="http://cn.nikkei.com/" target="_BLANK">Chinese</a></li>
+					</ul>
+				</div>
+			</div>
+		</div><!-- /#footer -->
+
+																<div id="ms-link" >
+				<ul>
+					<li><a href="javascript:void(0);" onclick="javascript:NAR_js.view_change('sp');">Mobile site</a></li>
+				</ul>
+			</div>
+			<div id="modal_gd04_01" class="util limitSoon">
+	<h3 class="title">You have <span class="fsL02">2</span> <span class="fsL01">FREE ARTICLES</span> left this month.</h3>
+	<div>
+		<p>Subscribe to get unlimited access to all articles.</p>
+		<div class="btm-sec clearfix">
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+			<p class="login-btn"><a href="/member/register/?n_cid=NARAN003&return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS" class="general-btn" id="subscribe"><span>Get unlimited access</span></a></p>
+		</div>
+	</div>
+	<a class="close-btn js_close" href="#">Close</a>
+	<div style="display:none" class="ga" id="MDLimitSoon(NonLogin)"></div>
+</div>
+
+
+<div id="modal_gd04_01_cp" class="util limitSoon">
+	<h3 class="title">You have <span class="fsL02">2</span> <span class="fsL01">FREE ARTICLES</span> left this month.</h3>
+	<div>
+		<p>Subscribe to get the unlimited access to all articles.<br><span class="fcR fsL02 fwB">3 months for $9</span></p>
+		<div class="btm-sec clearfix">
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+			<p class="login-btn"><a href="/member/register/?n_cid=NARAN069&return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS" class="general-btn" id="subscribe"><span>Get discount now</span></a></p>
+		</div>
+	</div>
+	<a class="close-btn js_close" href="#">Close</a>
+	<div style="display:none" class="ga" id="MDLimitSoon(NonLoginCamp)"></div>
+</div>
+
+
+<div id="modal_gd04_02" class="util limitSoon">
+	<h3 class="title">You have <span class="fsL02">2</span> <span class="fsL01">FREE ARTICLES</span> left this month.</h3>
+	<div>
+		<p>We could not renew your subscription.<br>You need to update your payment information.</p>
+		<div class="btm-sec clearfix">
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+			<p class="login-btn"><a href="/member/edit/plan?n_cid=NARAN009&return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS" class="general-btn" id="resubscribe"><span>Update</span></a></p>
+		</div>
+	</div>
+	<a class="close-btn js_close" href="#">Close</a>
+	<div style="display:none" class="ga" id="MDLimitSoon(FreeUser)"></div>
+</div>
+
+
+<div id="modal_gd05_01" class="util expiration">
+	<h3 class="title">Your trial period will end soon</h3>
+	<div>
+		<p>
+Subscribe today to continue enjoying NAR.<BR>
+&bull; Unlimited access to asia.nikkei.com<BR>
+&bull; Unlimited access to NAR mobile and tablet apps<BR>
+&bull; Add delivery of NAR in print each week
+</p>
+
+		<div class="login-btn"><a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN005" class="general-btn" id="subscribe"><span>See all offers and subscribe</span></a></div>
+	</div>
+	<a class="close-btn js_close" href="#">Close</a>
+        <div style="display:none" class="ga" id="MDSoonExpire(TrialUser)"></div>
+</div><!-- /#modal -->
+<div id="modal-screen_gd05_01"></div>
+
+
+<div id="insert_modal_gd08_01" class="paywall">
+	<p class="title">To read the full story, <a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN022" class="ga-subscribe" id="subscribe">Subscribe</a><span class="gd08_01_loginTitle_disp"> or <a href="/member/auth/login/redirect?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN023" class="ga-loginlink" id="login">Log in</a></span></p>
+	<div class="paywall_inr">
+		<div class="clearfix">
+			<div class="txt_l">
+<p><span class="fsL02">Get your first month for </span><span class="fsL03 fwB fcR">$0.99</span></p>
+<p>Redeemable only through the Subscribe button below</p>
+<p></p>
+<p>Once subscribed, you can…</p>
+<ul>
+<li>Read all stories with unlimited access</li>
+<li>Use our smartphone and tablet apps</li>
+</ul>
+</div>
+<p class="img_r GCCMD_removeall"><img src="/static/info/1B_D_165x110.png" alt="" width="165"></p>
+		</div>
+		<div class="select-btn clearfix">
+			<p><a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN070" class="general-btn" id="subscribe-btn"><span>Subscribe</span></a></p>
+			<p class="gd08_01_loginButton_disp"><a href="/member/auth/login/redirect?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN071" class="login-btn" id="login-btn"><span>Log in</span></a></p>
+		</div>
+		<div class="clearfix">
+			<p class="more GCCMD_removeall"><a href="/info/about?n_cid=NARAN072" class="ga-about" id="about">About Nikkei Asian Review</a></p>
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+		</div>
+	</div><!-- /paywall_inr -->
+	<div style="display:none" class="ga" id="IMDLimited(NonLogin)"></div>
+</div>
+
+
+<div id="insert_modal_gd08_01_cp" class="paywall">
+	<p class="title">To read the full story, <a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN073" class="ga-subscribe" id="subscribe">Subscribe</a><span class="gd08_01_cp_loginTitle_disp"> or <a href="/member/auth/login/redirect?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN074" class="ga-loginlink" id="login">Log in</a></span></p>
+	<div class="paywall_inr">
+		<div class="clearfix">
+			<div class="txt_l">
+<p style="text-align:center"><span class="fsL03  fwB fcR">3 months for $9</span><br>
+<span class="fsL02  fwB">SUBSCRIBE TODAY</span></p>
+<p></p>
+<p>
+Take advantage of this limited offer.<br>
+Subscribe now to get unlimited access to all articles.
+</p>
+</div>
+<p class="img_r GCCMD_removeall"><img src="/static/info/0328-EndsSoon.png" alt="" width="165"></p>
+		</div>
+		<div class="select-btn clearfix">
+			<p><a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN075" class="general-btn" id="subscribe-btn"><span>Subscribe</span></a></p>
+			<p class="gd08_01_cp_loginButton_disp"><a href="/member/auth/login/redirect?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN076" class="login-btn" id="login-btn"><span>Log in</span></a></p>
+		</div>
+		<div class="clearfix">
+			<p class="more GCCMD_removeall"><a href="/info/about?n_cid=NARAN077" class="ga-about" id="about">About Nikkei Asian Review</a></p>
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+		</div>
+	</div><!-- /paywall_inr -->
+	<div style="display:none" class="ga" id="IMDLimited(NonLoginCamp)"></div>
+</div>
+
+
+<div id="insert_modal_gd08_02" class="paywall">
+	<p class="title">To read the full story, <a href="/member/edit/plan?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN028" class="ga-subscribe" id="resubscribe">Update your account</a></p>
+	<div class="paywall_inr">
+		<div class="clearfix">
+			<div class="txt_l">
+<p>Resubscribe now to continue reading.<br>
+<font style="font-size:15px;font-weight:bold;">BEST OFFER:</font><br>
+<font style="font-size:22px;color:red;font-weight:bold;">Only US$ 9.99 per month</font>
+<font style="font-size:15px;font-weight:bold;">for a full-year subscription</font>
+</p>
+</div>
+<p class="img_r GCCMD_removeall"><img src="/static/info/4_D&P_v2_165x110.png" alt="" width="165"></p>
+		</div>
+		<div class="select-btn">
+			<p class="btn01"><a href="/member/edit/plan?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN078" class="general-btn" id="resubscribe-btn"><span>Update</span></a></p>
+		</div>
+		<div class="clearfix">
+			<p class="more GCCMD_removeall"><a href="/info/about?n_cid=NARAN079" class="ga-about" id="about">About Nikkei Asian Review</a></p>
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+		</div>
+	</div><!-- /paywall_inr -->
+	<div style="display:none" class="ga" id="IMDLimited(FreeUser)"></div>
+</div>
+
+
+<div id="insert_modal_gd08_03" class="paywall">
+	<p class="title">To read the full story, <a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN025" class="ga-subscribe" id="subscribe">Subscribe</a><span class="gd08_03_loginTitle_disp"> or <a href="/member/auth/login/redirect?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN026" class="ga-loginlink" id="login">Log in</a></span></p>
+	<div class="paywall_inr">
+		<div class="clearfix">
+			<div class="txt_l">
+<p>Once subscribed, you can…</p>
+<ul>
+<li>Read all stories with unlimited access</li>
+<li>Use our smartphone and tablet apps</li>
+</ul>
+</div>
+<p class="img_r GCCMD_removeall"><img src="/static/info/4_D&P_v2_165x110.png" alt="" width="165"></p>
+		</div>
+		<div class="select-btn clearfix">
+			<p><a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN080" class="general-btn" id="subscribe-btn"><span>Subscribe</span></a></p>
+			<p class="gd08_03_loginButton_disp"><a href="/member/auth/login/redirect?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN081" class="login-btn" id="login-btn"><span>Log in</span></a></p>
+		</div>
+		<div class="clearfix">
+			<p class="more GCCMD_removeall"><a href="/info/about?n_cid=NARAN082" class="ga-about" id="about">About Nikkei Asian Review</a></p>
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+		</div>
+	</div><!-- /paywall_inr -->
+	<div style="display:none" class="ga" id="IMDMemberOnly(NonLogin)"></div>
+</div>
+
+
+<div id="insert_modal_gd08_03_cp" class="paywall">
+	<p class="title">To read the full story, <a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN083" class="ga-subscribe" id="subscribe">Subscribe</a><span class="gd08_03_cp_loginTitle_disp"> or <a href="/member/auth/login/redirect?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN084" class="ga-loginlink" id="login">Log in</a></span></p>
+	<div class="paywall_inr">
+		<div class="clearfix">
+			<div class="txt_l">
+<p style="text-align:center"><span class="fsL03  fwB fcR">3 months for $9</span><br>
+<span class="fsL02  fwB">SUBSCRIBE TODAY</span></p>
+<p></p>
+<p>
+Take advantage of this limited offer.<br>
+Subscribe now to get unlimited access to all articles.
+</p>
+</div>
+<p class="img_r GCCMD_removeall"><img src="/static/info/0328-EndsSoon.png" alt="" width="165"></p>
+		</div>
+		<div class="select-btn clearfix">
+			<p><a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN085" class="general-btn" id="subscribe-btn"><span>Subscribe</span></a></p>
+			<p class="gd08_03_cp_loginButton_disp"><a href="/member/auth/login/redirect?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN086" class="login-btn" id="login-btn"><span>Log in</span></a></p>
+		</div>
+		<div class="clearfix">
+			<p class="more GCCMD_removeall"><a href="/info/about?n_cid=NARAN087" class="ga-about" id="about">About Nikkei Asian Review</a></p>
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+		</div>
+	</div><!-- /paywall_inr -->
+	<div style="display:none" class="ga" id="IMDMemberOnly(NonLoginCamp)"></div>
+</div>
+
+
+<div id="insert_modal_gd08_04" class="paywall">
+	<p class="title">To read the full story, <a href="/member/edit/plan?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN030" class="ga-subscribe" id="resubscribe">Update your account</a></p>
+	<div class="paywall_inr">
+		<div class="clearfix">
+			<div class="txt_l">
+<p>We could not renew your subscription.<br>You need to update your payment information.</p>
+</div>
+<p class="img_r GCCMD_removeall"><img src="/static/info/4_D&P_v2_165x110.png" alt="" width="165"></p>
+		</div>
+		<div class="select-btn">
+			<p class="btn01"><a href="/member/edit/plan?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN088" class="general-btn" id="resubscribe-btn"><span>Update</span></a></p>
+		</div>
+		<div class="clearfix">
+			<p class="more GCCMD_removeall"><a href="/info/about?n_cid=NARAN089" class="ga-about" id="about">About Nikkei Asian Review</a></p>
+			<p class="logo"><img src="/images/img_logo_modal.gif" alt="NIKKEI ASIAN REVIEW" width="140"></p>
+		</div>
+	</div><!-- /paywall_inr -->
+	<div style="display:none" class="ga" id="IMDMemberOnly(FreeUser)"></div>
+</div>
+
+
+
+
+<div id="modal_gd02_01" class="util">
+	<h3 class="title">Update your payment information</h3>
+	<div>
+		<p>Your subscription renewal could not be processed. Please update your payment information to continue enjoying the Nikkei Asian Review.</p>
+		<div class="login-btn"><a href="/member/edit/plan?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN007" class="general-btn" id="resubscribe"><span>Resubscribe now</span></a></div>
+	</div>
+	<a class="close-btn js_close" href="#">Close</a>
+	<div style="display:none" class="ga" id="MDLogin(FreeUser)"></div>
+</div><!-- /#modal -->
+<div id="modal-screen_gd02_01"></div>
+
+
+<div id="modal_gd06_01" class="util expiration">
+	<h3 class="title">Your trial period has expired</h3>
+	<div>
+		<p>
+Subscribe today to continue enjoying NAR.<BR>
+&bull; Unlimited access to asia.nikkei.com<BR>
+&bull; Unlimited access to NAR mobile and tablet apps<BR>
+&bull; Add delivery of NAR in print each week
+</p>
+
+		<div class="login-btn"><a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN006" class="general-btn" id="subscribe"><span>See all offers and subscribe</span></a></div>
+	</div>
+	<a class="close-btn js_close" href="#">Close</a>
+	<div style="display:none" class="ga" id="MDExpired(TrialUser)"></div>
+</div><!-- /#modal -->
+<div id="modal-screen_gd06_01"></div>
+
+<div id="modal_gd09_01" class="util expiration">
+	<!--[if lte IE 8]><img src="/images/img_logo.png" alt="Nikkei Asian Review" /><![endif]-->
+	<!--[if gte IE 9]><!--><img src="/images/img_logo.svg" width="288" height="51" alt="Nikkei Asian Review" /><!--<![endif]-->
+	<img src="/images/For_welcome_modal.png" alt="cover" />
+  <div class="explain">
+  </div>
+  <div>
+        <div class="login-btn"><a href="#" class="general-btn js_close"><span>Close this message</span></a></div></div>
+        <a class="close-btn js_close" href="#">Close</a>
+	<div style="display:none" class="ga" id="MDWelcome(IPUser)"></div>
+	<div style="display:none" class="value" id=""></div>
+   </div><!-- /#modal -->
+<div id="modal-screen_gd09_01"></div>
+
+
+<div id="modal_gd10_01" class="util limit">
+	<h3 class="title">XXcouponLeftDayXX days left of full access to the Nikkei Asian Review</h3>
+	<div class="cf">
+		<img src="/static/info/img_modal_thumbnail02.jpg" alt="" class="thumbnail" />
+<div class="txt">
+<p class="fsL01">Do you want to keep abreast of the issues in Asia?</p>
+<p class="fsL01">Sign up now for an individual subscription and continue enjoying the Nikkei Asian Review.</p>
+<ul>
+<li>Your subscription period starts immediately after the expiration of your current subscription, and will be charged to your credit card accordingly.</li>
+</ul>
+</div>
+	</div>
+	<div class="login-btn"><a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN1501" class="general-btn" id="subscribe"><span>See all offers</span></a></div>
+	<a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN1504" class="link-area" id="subscribe-area"></a>
+	<a class="close-btn js_close" href="#">Close</a>
+        <div style="display:none" class="ga" id="MDLimitNear(CouponUser)"></div>
+</div><!-- /#modal -->
+<div id="modal-screen_gd10_01"></div>
+
+
+<div id="modal_gd10_02" class="util limit">
+	<h3 class="title">Ends soon!</h3>
+	<div class="cf">
+		<img src="/static/info/img_modal_thumbnail02.jpg" alt="" class="thumbnail" />
+<div class="txt">
+<p class="fsL01">Your full access to the Nikkei Asian Review will be expired soon. </p>
+<p class="fsL01">Sign up now for an individual subscription.</p>
+<ul>
+<li>Your subscription period starts immediately after the expiration of your current subscription, and will be charged to your credit card accordingly.</li>
+</ul>
+</div>
+	</div>
+	<div class="login-btn"><a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN1502" class="general-btn" id="subscribe"><span>See all offers</span></a></div>
+	<a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN1505" class="link-area" id="subscribe-area"></a>
+	<a class="close-btn js_close" href="#">Close</a>
+        <div style="display:none" class="ga" id="MDLimitSoon(CouponUser)"></div>
+</div><!-- /#modal -->
+<div id="modal-screen_gd10_02"></div>
+
+<div id="modal_gd10_03" class="util limit">
+	<h3 class="title">Your full access to the Nikkei Asian Review has expired</h3>
+	<div class="cf">
+		<img src="/static/info/img_modal_thumbnail02.jpg" alt="" class="thumbnail" />
+<div class="txt">
+<p class="fsL01">Subscribe today to enjoy the Nikkei Asian Review</p>
+<ul>
+<li>Unlimited access to asia.nikkei.com</li>
+<li>Unlimited access to mobile content through the Nikkei Asian Review app</li>
+</ul>
+</div>
+	</div>
+	<div class="login-btn"><a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN1503" class="general-btn" id="subscribe"><span>See all offers</span></a></div>
+	<a href="/member/register/?return_url=/Business/Trends/Companies-set-sights-on-Japan-s-homegrown-GPS&n_cid=NARAN1506" class="link-area" id="subscribe-area"></a>
+	<a class="close-btn js_close" href="#">Close</a>
+        <div style="display:none" class="ga" id="MDLimited(CouponUser)"></div>
+</div><!-- /#modal -->
+<div id="modal-screen_gd10_03"></div>
+
+<div id="footer-script">
+<script type="text/javascript">
+
+var page = "1";
+
+if(typeof authority === "undefined"){
+	var authority = "";
+}
+if(typeof memberId === "undefined"){
+	var memberId = "";
+}
+
+if(typeof contractId === "undefined"){
+	var contractId = "";
+}
+var viewMode = "PC";
+
+</script>
+<!--SiteCatalyst code-->
+<script type="text/javascript">
+var now = new Date();
+var pageName = location.href;
+var channel = "NAR";
+var server = document.domain;
+var pageType = "";
+
+
+
+
+
+
+var prop1 = "NAR-Business";
+var prop2 = "NAR-Business-Trends";
+var prop3 = "Companies set sights on Japan&#039;s homegrown GPS ";
+var prop4 = "173349";
+var prop5 = page;
+var prop6 = now.getHours();
+var prop9 = "";
+var prop10 = "";
+var prop11 = "";
+var prop12 = "Not selection";
+var prop25 = "Technology";
+	var prop26 = "Japan";
+var prop27 = "";
+var prop28 = authority;
+var prop29 = "1";
+var prop30 = getCookie(String(now.getFullYear())+String(now.getMonth()+1)+"vc");
+var prop33 = "05HYZK-E,05HWNR-E";
+var prop34 = viewMode;
+var prop35 = contractId;
+var prop44 = memberId;
+</script>
+
+
+
+
+<!-- SiteCatalyst code version: H.9.
+Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" src="/JavaScript/s_codeNAR20141104_v003.js"></script>
+<script language="JavaScript" src="/JavaScript/s_cDS_v003.js"></script>
+<script language="JavaScript">
+<!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="//nikkei.d1.sc.omtrdc.net/b/ss/nikkeicojpgrpmstallprod,nikkeicojpdsmstallprod,nikkeicojpnarprod/1/H.9--NS/0" height="1" width="1" border="0" alt="" />
+</a></noscript>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.9. -->
+<!--/SiteCatalyst code-->
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-44606671-1', 'asia.nikkei.com');
+
+
+	// Set custom dimension
+	if(login_flag != "undefined"){
+		ga('set', 'dimension1', login_flag);
+	}
+	if(authority != "undefined" && authority != ""){
+		ga('set','dimension2', authority);
+	}
+	if(memberId != "undefined" && memberId !=""){
+		ga('set','dimension3', memberId);
+	}
+	if( aid != ""){
+		ga('set','dimension4', aid);
+	}
+	if(viewMode != "undefined"){
+		ga('set','dimension5', viewMode);
+	}
+	if(contractId != "undefined"){
+		ga('set','dimension6', contractId);
+	}
+	if(c_code != "undefined"){
+		ga('set','dimension7', c_code);
+	}
+
+	// Send view
+	ga('send', 'pageview');
+	// Send event
+	if(NAR_js.isCount == true){
+		ga('send', 'event', 'Article', 'countUp', 'Article-countUp', NAR_js.user_view_count, {nonInteraction:true});
+	}
+	if(NAR_js.oneClickFree == true){
+		ga('send', 'event', 'OneClickFree', 'view', 'OneClickFree-view',{nonInteraction:true} );
+	}
+
+</script>
+<script>
+	var $eventCategory;
+	var $eventAction;
+	var $eventURL;
+	var $rightColumn = $('div.secondary'); // right column
+	var $atclArea = $('div.article.detail-area'); // article area
+
+	//*** Header
+	//*** area1: Header-text-link
+	var $area1 = $('div.header-tool');
+
+	if( $area1 != undefined && $area1 != "" ){
+		// url check - member register page only
+		var $subscribeText = $area1.find('a.ga-subscribe-text[href*="/member/register/"]');
+		// no url check - for showing modal
+		var $loginText = $area1.find('a.ga-login-text');
+
+		// GA Header-1 Subscribe-text link click event
+		if( $subscribeText != undefined && $subscribeText != "" ){
+			$subscribeText.on('click', function(){
+				$eventCategory = "Header";
+				$eventAction = $subscribeText.attr('id');
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+
+		// GA Header-2 Login-text link click event
+		if( $loginText != undefined && $loginText != "" ){
+			$loginText.on('click', function(){
+				$eventCategory = "Header";
+				$eventAction = $loginText.attr('id');
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+	}
+
+	//*** area2: Header-bnr
+	//*** PC only / Non-login
+	var $area2 = $('div#login_before');
+
+	if( $area2 != undefined && $area2 != "" ){
+		var $subscribeBnr = $area2.find('.ga-subscribe-bnr');
+		// url check - member register page only
+		var $subscribe_a = $subscribeBnr.find('a[href*="/member/register/"]');
+
+		// GA Header-3 Subscribe-bnr link click event
+		if($subscribe_a != undefined && $subscribe_a != "" ){
+			$subscribe_a.on('click', function(){
+				$eventCategory = "Header";
+				$eventAction = $subscribeBnr.attr('id');
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+	}
+
+	//*** area3: Header-login modal login-btn
+	//*** PC only / Non-login
+	var $area3 = $('form#js_form-login-balloon');
+
+	if( $area3 != undefined && $area3 != "" ){
+		// no url check - for form submit
+		var $loginBtn = $area3.find('button#login-balloon-submit');
+
+		// GA Header-4 Login-btn link click event
+		if( $loginBtn != undefined && $loginBtn != "" ){
+			$loginBtn.on('click', function(){
+				$eventCategory = "Header";
+				$eventAction = "login-btn";
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+	}
+
+// smapho only
+if(viewMode != "undefined"){
+if(viewMode == "SP"){
+	//*** area4: SP menu (GlobalNavi)
+	//*** SP only
+	var $area4 = $('div#gmenu');
+	if( $area4 != undefined && $area4 != "" ){
+		// url check - member register page only
+		var $subscribeText_sp = $area4.find('a.ga-subscribe-text[href*="/member/register/"]');
+		// no url check - for showing modal
+		var $loginText_sp = $area4.find('a.ga-login-text');
+
+		// GA Nav-1 Login-text link click event
+		if($loginText_sp != undefined && $loginText_sp != "" ){
+			$loginText_sp.on('click', function(){
+				$eventCategory = "Nav";
+				$eventAction = $loginText_sp.attr('id');
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+
+		// GA Nav-2 Subscribe-text link click event
+		if($subscribeText_sp != undefined && $subscribeText_sp != "" ){
+			$subscribeText_sp.on('click', function(){
+				$eventCategory = "Nav";
+				$eventAction = $subscribeText_sp.attr('id');
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+	}
+
+	//*** SP Banner
+	//*** area5: SP top banner
+	//*** SP only / Non-login
+	// search in header-tool(area1)
+	var $area5 = $area1.find('div.header-sp-bnr');
+	if( $area5 != undefined && $area5 != "" ){
+		// url check - member register page only
+		var $headerSpBnr = $area5.find('a[href*="/member/register/"]');
+
+		// GA RectangleBanner-1 link click event
+		if($headerSpBnr != undefined && $headerSpBnr != "" ){
+			$headerSpBnr.on('click', function(){
+				$eventCategory = "RectangleBanner";
+				$eventAction = "subscribe-top";
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+	}
+
+	//*** area6: SP bottom banner
+	//*** SP only / Non-login
+	// search in right column
+	var $area6 = $rightColumn.find('div#sp_campaign');
+	if( $area6 != undefined && $area6 != "" ){
+		// url check - member register page only
+		var $spRectCampBnr = $area6.find('a[href*="/member/register/"]');
+
+		// GA RectangleBanner-2 link click event
+		if($spRectCampBnr != undefined && $spRectCampBnr != "" ){
+			$spRectCampBnr.on('click', function(){
+				$eventCategory = "RectangleBanner";
+				$eventAction = "subscribe-bottom";
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+	}
+}
+}
+
+	//*** area7: Right column
+	//*** Newsletter register
+	// No-login only
+	// search in right column
+	var $area7 = $rightColumn.find('div.link-box.mail-magazine');
+
+	if( $area7 != undefined && $area7 != "" ){
+		var $RCNewsletterBtn = $area7.find('a.js_btn-submit');
+		// url check - newsletter member register page only
+		var $formNewsletter = $area7.find('form#formMember_newsletter[action*="/member/register/newsletter/process"]');
+		if( $formNewsletter != undefined && $formNewsletter != "" ){
+			// GA Right column-1 Newsletter register button click event
+			if($RCNewsletterBtn != undefined && $RCNewsletterBtn != "" ){
+				$RCNewsletterBtn.on('click', function(){
+					// check button disabled
+					if ( $RCNewsletterBtn.hasClass("disable") != true) {
+						$eventCategory = "RCNewsletter";
+						$eventAction = "register-btn";
+						ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+					}
+				});
+			}
+		}
+
+		// search in area7
+		var $area8 = $area7.find('.title');
+		if( $area8 != undefined && $area8 != "" ){
+			// url check - newsletter member register page only
+			var $RCNewsletterDetail = $area8.find('a[href*="/member/register/newsletter"]');
+
+			// GA Right column-2 Newsletter link click event
+			if($RCNewsletterDetail != undefined && $RCNewsletterDetail != "" ){
+				$RCNewsletterDetail.on('click', function(){
+					$eventCategory = "RCNewsletter";
+					$eventAction = "detail";
+					ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+				});
+			}
+		}
+	}
+
+	//*** area9: article
+	//*** Newsletter register
+	// PC only / No-login only
+	// search in article area
+	var $area9 = $atclArea.find('div.mail-magazine-article');
+
+	if( $area9 != undefined && $area9 != "" ){
+		var $atclNewsletterBtn = $area9.find('a.js_btn-submit');
+		// url check - newsletter member register page only
+		var $formAtclNewsletter = $area9.find('form#formMember_newsletter_article[action*="/member/register/newsletter/process"]');
+		if( $formAtclNewsletter != undefined && $formAtclNewsletter != "" ){
+			// GA Article Newsletter-1 register button click event
+			if($atclNewsletterBtn != undefined && $atclNewsletterBtn != "" ){
+				$atclNewsletterBtn.on('click', function(){
+					// check button disabled
+					if ( $atclNewsletterBtn.hasClass("disable") != true) {
+						$eventCategory = "ArticleNewsletter";
+						$eventAction = "register-btn";
+						ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+					}
+				});
+			}
+		}
+
+		// url check - newsletter member register page only
+		var $atclNewsletterDetail = $area9.find('a.ga-ArticleNewsletter-detail[href*="/member/register/newsletter"]');
+
+		// GA Article Newsletter-2 link click event
+		if($atclNewsletterDetail != undefined && $atclNewsletterDetail != "" ){
+			$atclNewsletterDetail.on('click', function(){
+				$eventCategory = "ArticleNewsletter";
+				$eventAction = "detail";
+				ga('send', 'event', $eventCategory , $eventAction , $eventCategory + '-' + $eventAction,{nonInteraction:true});
+			});
+		}
+	}
+</script>
+<script>
+     // Twitter api
+     twttr.ready(function (twttr) {
+         twttr.events.bind(
+           'follow',
+           function (event) {
+             var narURL = window.location.href;
+             ga('send', 'social', {
+                 'socialNetwork': 'Twitter',
+                 'socialAction': 'follow',
+                 'socialTarget':  narURL
+             });
+              ga('send', 'event', 'Twitter', 'follow', 'Twitter-follow',0,{nonInteraction:true});
+           }
+         );
+     });
+</script>
+	<script type="text/javascript">
+$(function(){
+var obCheck = document.querySelectorAll('.articleBodyText p').length;
+if ((obCheck >= 1) && (authority == "A1")) {
+var tPageCheck_flag = false;
+if(cms_section == 8 || cms_section == 10){
+var current_cookie_name = String(now_date.getFullYear())+String(now_date.getMonth()+1)+"vc";
+var current_user_view_count = getCookie(current_cookie_name);
+var current_cookie_nameList = current_cookie_name+"l";
+var current_user_view_article_list = getCookieList(current_cookie_nameList);
+var in_array_flag = false;
+for(var i = 0; i < current_user_view_article_list.length; i++) {
+if(current_user_view_article_list[i] == article) {
+in_array_flag = true;
+}
+}
+if((current_user_view_count >= article_limit) && !in_array_flag){
+tPageCheck_flag = true;
+}
+}
+if(tPageCheck_flag){
+var sublinkID = "";
+sublinkID = $("#insert_modal_gd08_01 #subscribe").attr("href");
+$("#insert_modal_gd08_01 #subscribe").attr("href", sublinkID + "&aid=JD6p8hccGp");
+var buttonID = "";
+buttonID = $("#insert_modal_gd08_01 #subscribe-btn").attr("href");
+$("#insert_modal_gd08_01 #subscribe-btn").attr("href", buttonID + "&aid=JD6p8hccGp");
+
+}
+}
+});
+</script>
+
+
+<!-- Beta banner -->
+<script type='text/javascript'>
+$(function(){
+if(authority != "undefined" && (authority == "A3h" || authority == "A3C" || authority == "A3k")) {
+if((viewMode != "undefined") && (viewMode =="SP")){
+$(".search-area").after( "<div id=\"beta_banner\" style=\"width:300px;margin: 0 auto;\"><a href=\"https://next.asia.nikkei.com/optin?src=web&req=%2F&action=optin\"><img src=\"/static/pr/NAR-Promo-mobile.png\"></a></div>");
+
+} else {
+$(".navigation").before( "<div id=\"beta_banner\" style=\"width:970px;margin: 0 auto;\"><a href=\"https://next.asia.nikkei.com/optin?src=web&req=%2F&action=optin\"><img src=\"/static/pr/NAR-Promo-desktop.png\"></a></div>");
+
+}
+}
+});
+</script>
+
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1000997403;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1000997403/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script type="text/javascript">
+    window._tfa = window._tfa || [];
+    _tfa.push({notify:"action", name: 'page_view'});
+</script>
+<script src="//cdn.taboola.com/libtrc/nikkeiasianreview-sc/tfa.js"></script>
+</div>
+<script type="text/javascript">_satellite.pageBottom();</script>
+
+</body>
+</html>

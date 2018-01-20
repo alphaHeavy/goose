@@ -19,7 +19,7 @@
 package com.gravity.goose
 
 import com.gravity.goose.cleaners.StandardDocumentCleaner
-import com.gravity.goose.extractors.AuthorExtractor
+import com.gravity.goose.extractors.{AuthorExtractor, CanonicalUrlExtractor}
 import com.netaporter.uri.Uri
 import org.jsoup.Jsoup
 
@@ -46,7 +46,7 @@ class Goose(config: Configuration = new Configuration) {
     article.additionalData = config.getAdditionalDataExtractor.extract(doc)
     article.metaDescription = extractor.getMetaDescription(article)
     article.metaKeywords = extractor.getMetaKeywords(article)
-    article.canonicalLink = extractor.getCanonicalLink(article)
+    article.canonicalLink = CanonicalUrlExtractor.extractCanonicalUrl(doc)
     article.tags = extractor.extractTags(article)
     article.doc = docCleaner.clean(article)
     article.cleanedArticleText = extractor.extractArticle(article)

@@ -42,8 +42,8 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
   def extractCandidate(rootElement: Element, selector: String, url: Uri): Seq[ZonedDateTime] = {
     import scala.collection.JavaConversions._
 
-    try {
-      rootElement.select(selector).flatMap(item => {
+    rootElement.select(selector).flatMap(item => {
+      try {
       if (item.nodeName() == "time") {
         PublishDateExtractor.safeParseISO8601Date(item.attr("datetime"), url)
       }
@@ -74,19 +74,29 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
           None
         }
       }
+
+      else if(item.nodeName() == "span" && item.attr("class") == "timestamp")
+        {
+          PublishDateExtractor.safeParseISO8601Date(item.html(), url)
+        }
       else if(item.nodeName() == "span" && item.attr("data-bi-format") == "date")
       {
         PublishDateExtractor.parseBusinessInsiderDate(item.attr("rel"))
       }
       else {
-        PublishDateExtractor.safeParseISO8601Date(item.attr("content"), url)
-      }})
-    }
+        if(item.hasAttr("content")) {
+          PublishDateExtractor.safeParseISO8601Date(item.attr("content"), url)
+        }
+        else
+        {
+          PublishDateExtractor.safeParseISO8601Date(item.text().trim, url)
+        }
+      }}
     catch {
       case e: Exception =>
         println(e)
         Nil
-    }
+    }})
   }
 
   def extractCandidateNoTimeZone(rootElement: Element, selector: String, zoneId: ZoneId, url: Uri): Seq[ZonedDateTime] = {
@@ -149,6 +159,7 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
     val date5 = DateTimeFormatter.ofPattern("E',' dd M YYYY HH:mm:ss")
     val date6 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy HH:mm a")
     val date7 = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm")
+    val date8 = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm")
     val parser = new DateTimeFormatterBuilder()
       .appendOptional(date1)
       .appendOptional(date2)
@@ -157,6 +168,7 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
       .appendOptional(date5)
       .appendOptional(date6)
       .appendOptional(date7)
+      .appendOptional(date8)
       .toFormatter
 
     val result = LocalDateTime.parse(txt, parser) //parser.parse(txt)
@@ -181,13 +193,18 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
     "meta[name=Search.Updated]",
     "meta[property=article:published_time]",
     "span[id=pubilsh_date]", // Miami Herald
-    "meta[name=publish_date]"
+    "span[id=publish_date]",
+    "meta[name=publish_date]",
+    "p[class=publish-time]",
+    "span[class=timestamp]",
+    "span[class=date-area-date]"
   )
 
   final val modSelectors = Seq(
     "meta[property~=article:modified_time]",
     "meta[itemprop=dateModified]",
-    "meta[property~=og:updated_time]")
+    "meta[property~=og:updated_time]",
+    "meta[name=Last-Modified]")
 
   def extract(rootElement: Element, url: Uri): Option[ZonedDateTime] = {
     val hostname = url.host.get
@@ -225,7 +242,9 @@ object PublishDateExtractor extends Logging {
     "apnews.com" -> ZoneId.of("UTC"),
     "www.miamiherald.com" -> ZoneId.of("America/New_York"),
     "news.sky.com" -> ZoneId.of("Europe/London"),
-    "www.bostonglobe.com" -> ZoneId.of("America/New_York"))
+    "www.bostonglobe.com" -> ZoneId.of("America/New_York"),
+    "english.yonhapnews.co.kr" -> ZoneId.of("Asia/Seoul"),
+    "abcnews.go.com" -> ZoneId.of("America/New_York"))
 
 
   val logPrefix = "PublishDateExtractor: "
@@ -257,7 +276,7 @@ object PublishDateExtractor extends Logging {
     if (txt == null || txt.isEmpty)
       return None
 
-    var txt2 = txt
+    var txt2 = txt.replace(" am ", " AM ").replace(" pm ", " PM ")
     if(txt.endsWith("-500"))
       txt2 = txt.replace("-500", "-0500")
 
@@ -275,6 +294,8 @@ object PublishDateExtractor extends Logging {
       val date11 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSSVV")
       val date12 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ssX")
       val date13 = DateTimeFormatter.ofPattern("E',' dd MMM yyyy HH:mm:ss z")
+      val date14 = DateTimeFormatter.ofPattern("MMM d',' yyyy',' h:mm a z")
+      val date15 = DateTimeFormatter.ofPattern("MMMM d',' yyyy h:mm a z")
       val parser = new DateTimeFormatterBuilder()
         .appendOptional(date1)
         .appendOptional(date2)
@@ -289,6 +310,8 @@ object PublishDateExtractor extends Logging {
         .appendOptional(date11)
         .appendOptional(date12)
         .appendOptional(date13)
+        .appendOptional(date14)
+        .appendOptional(date15)
         .toFormatter
 
       Some(ZonedDateTime.from(parser.parse(txt2)).withZoneSameInstant(ZoneId.of("UTC").normalized()))

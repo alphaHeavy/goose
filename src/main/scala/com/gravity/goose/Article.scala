@@ -56,7 +56,7 @@ class Article {
   /**
   * The canonical link of this article if found in the meta data
   */
-  var canonicalLink: String = ""
+  var canonicalLink: Option[String] = Option.empty
 
   /**
   * holds the domain of this article we're parsing

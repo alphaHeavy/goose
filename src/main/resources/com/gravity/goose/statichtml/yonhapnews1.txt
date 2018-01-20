@@ -1,0 +1,441 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- Meta Common -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="robots" content="all" />
+<meta name="copyright" content="Yonhapnews" />
+<meta name="keywords" content="south,korea,yonhap,breaking,news,yna,agency,yonhapnews,north,seoul,politics,diplomacy,korean,english,K-Pop, K-Wave, Hallyu, Korean Wave, Korean pop, Korean pop culture, Korean culture, Korean idol, Korean movies" />
+<meta property="og:site_name" content="Yonhap News Agency" />
+<meta property="og:keywords" content="Rio 2016 Olympic Games, south,korea,yonhap,breaking,news,yna,agency,yonhapnews,north,seoul,politics,diplomacy,korean,english" />
+<meta property="og:locale" content="en" />
+<meta property="article:publisher" content="https://www.facebook.com/yonhapenglish" />
+<meta name="twitter:site" content="@Yonhapnews" />
+<meta name="twitter:creator" content="@yonhapnews" />
+<meta itemprop="inLanguage" content="en" />
+<!-- //Meta Common -->
+<!-- Meta Article -->
+<title>(LEAD) Sistar tops music charts with swansong track</title>
+<meta name="title" content="(LEAD) Sistar tops music charts with swansong track" />
+<meta name="resource-type" content="article" />
+<meta name="writer" content="Yonhap News Agency" />
+<meta name="description" content=" Sistar's new and final song &quot;Lonely&quot; on Thursday rose to No. 1 on major South Korean music streaming charts." />
+<meta name="image" content="http://img.yonhapnews.co.kr/etc/inner/EN/2017/06/01/AEN20170601002651315_01_i.jpg" />
+<meta name="twitter:title" content="(LEAD) Sistar tops music charts with swansong track" />
+<meta name="twitter:description" content=" Sistar's new and final song &quot;Lonely&quot; on Thursday rose to No. 1 on major South Korean music streaming charts." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="http://img.yonhapnews.co.kr/etc/inner/EN/2017/06/01/AEN20170601002651315_01_i.jpg" />
+<meta property="og:title" content="(LEAD) Sistar tops music charts with swansong track" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content=" Sistar's new and final song &quot;Lonely&quot; on Thursday rose to No. 1 on major South Korean music streaming charts." />
+<meta property="og:image" content="http://img.yonhapnews.co.kr/etc/inner/EN/2017/06/01/AEN20170601002651315_01_i.jpg" />
+<meta itemprop="headline" content="(LEAD) Sistar tops music charts with swansong track" />
+<meta itemprop="name" content="(LEAD) Sistar tops music charts with swansong track" />
+<meta itemprop="description" content=" Sistar's new and final song &quot;Lonely&quot; on Thursday rose to No. 1 on major South Korean music streaming charts." />
+<meta itemprop="image" content="http://img.yonhapnews.co.kr/etc/inner/EN/2017/06/01/AEN20170601002651315_01_i.jpg" />
+<meta itemprop="thumbnailUrl" content="http://img.yonhapnews.co.kr/etc/inner/EN/2017/06/01/AEN20170601002651315_01_i.jpg" />
+<link rel="image_src" href="http://img.yonhapnews.co.kr/etc/inner/EN/2017/06/01/AEN20170601002651315_01_i.jpg" />
+<!-- //Meta Article -->
+<!-- Common Resource -->
+<link rel="stylesheet" type="text/css" href="http://img.yonhapnews.co.kr/basic/svc/00_en/src/2016/css/common.css" />
+<link rel="stylesheet" type="text/css" href="http://img.yonhapnews.co.kr/basic/svc/00_en/src/2016/css/main.css" />
+<link rel="stylesheet" type="text/css" href="http://img.yonhapnews.co.kr/basic/svc/00_en/src/2016/css/dev.css" />
+<link rel="stylesheet" type="text/css" href="http://img.yonhapnews.co.kr/basic/svc/00_en/src/2016/css/sub.css" />
+<script type="text/javascript" src="http://english.yonhapnews.co.kr/jscript/2013/jquery-1.10.0.min.js"></script>
+<script src="http://img.yonhapnews.co.kr/basic/svc/00_ko/resources/js/modernizr.custom.js"></script>
+<script type="text/javascript" src="http://english.yonhapnews.co.kr/jscript/2013/Yna.Lib.js?20150615"></script>
+<script type="text/javascript" src="http://english.yonhapnews.co.kr/jscript/2013/en_common.js"></script>
+<script src="http://img.yonhapnews.co.kr/basic/svc/00_en/src/2016/js/ui.js"></script>
+<!-- //connon resource -->
+
+<!-- Resource Article -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-42288954-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- //Resource Article -->
+<script type="text/javascript" src="http://www.yonhapnews.co.kr/jscript/lib/redirect.js"></script>
+<script type="text/javascript">
+Redirect.check('http://m.yna.co.kr/mob2/en/contents_en.jsp?cid={cid}&{param}&site=0200000000');
+</script>
+</head>
+
+<body>
+<div id="u_skip">
+	<a href="#hdr_search"><span>Go Search</span></a>
+	<a href="#container"><span>Go Contents</span></a>
+	<a href="#footer"><span>Go to bottom site map</span></a>
+</div>
+
+<div id="wrap">
+	<div class="urgent_wrap" style="display:none">
+		<div class="urgent">
+		<h2></h2>
+		<ul>
+		<li><a href="">N. Korea steps up attacks on Park amid signs of diplomacy</a></li>
+		</ul>
+		<p><button></button></p>
+		</div>
+	</div>
+
+
+<div id="header">
+    	<div id="header_top">
+        	<span><a href="http://english.yonhapnews.co.kr" title="Yonhap News Agency"><img src="http://img.yonhapnews.co.kr/basic/svc/00_en/home/2016/com/logo.gif?201601281058" alt="Yonhap News Agency" /></a></span>
+    	<div class="ticker">
+            	<h3><a href="http://english.yonhapnews.co.kr/news/0200000001.html">Latest News</a></h3>
+            	<ul class="tk_lst">
+            	<li style="display:none"><a href="#">Park says S. Korea, U.S. won't tolerate N. Korean provocations</a></li>
+            	</ul>
+              <div class="tk_ctl">
+           	    <button class="btnpause">Pause</button>
+           	    <button class="btnprev">Prev</button>
+           	    <button class="btnnext">Next</button>
+              </div>
+          </div>
+            <div class="ad"><script type="text/javascript" src="http://ad.yonhapnews.co.kr/RealMedia/ads/adstream_jx.ads/english.yonhapnews.co.kr/main@TopRight"></script></div>
+        </div>
+        <div id="header_middle">
+        	<div id="hdr_search">
+            	<h3 class="blind">Search</h3>
+                <form action="http://english.yonhapnews.co.kr/search1/index.html" method="get"  enctype="application/x-www-form-urlencoded">
+  		<fieldset>
+                    <legend>Search Area</legend>
+                    <input type="text" id="search" class="input_text" title="Keyword" name="query"/>
+                    <button type="submit" class="btn_sch" title="search"><span class="blind">Search</span></button>
+            		</fieldset>
+                </form>
+            </div>
+            <div class="hdr_date" style="display:none;">2013-05-09 (Thursday)</div>
+            <div class="top_wtr">
+      			<dl>
+			<dt class="blind">Weather</dt>
+			<dd style="display:none"><a href="http://english.yonhapnews.co.kr/weather/index.html" title="Weather"><span class="wtr"><span class="wtr02"></span></span>
+			<span class="tmpr">22.8℃</span><span class="lctn">Chuncheon</span></a></dd>
+      			</dl>
+            </div>
+            <div class="keyword">
+            	<ol>
+                <li style="display:none"><a href="#"><span>2</span>subscribebuttonsubscribebutton</a></li>
+                </ol>
+            </div>
+            <div class="hdr_sns2">
+            	<a class="fb" href="https://www.facebook.com/yonhapenglish" title="Facebook" target="_blank">Facebook</a>
+            	<a class="tw" href="https://twitter.com/yonhapnews" title="Twitter" target="_blank">Twitter</a>
+            	<a class="rss" href="http://english.yonhapnews.co.kr/tool/3201000000.html" title="rss page">Rss</a>
+            	<!--a class="gp" href="https://plus.google.com/+yonhap/posts" title="Google plus" target="_blank">Google plus</a-->
+            </div>
+</div>
+        <div id="header_navigation" style="height:74px;display:block;">
+        	<h2 class="blind">Global Navigation</h2>
+        	<div class="gnb">
+            	<ul>
+					<li class="home"><a href="http://english.yonhapnews.co.kr">HOME</a></li>
+					<li class="nat" id="menu_01"><a href="http://english.yonhapnews.co.kr/national/index.html">NATIONAL</a>
+						<ul class="smenu" id="smenu_01" style="display:none">
+						<li class="nobdr"><a href="http://english.yonhapnews.co.kr/national/0301000001.html">Politics/Diplomacy</a></li>
+						<li><a href="http://english.yonhapnews.co.kr/national/0302000001.html">Society</a></li>
+						</ul>
+					</li>
+					<li class="nk" id="menu_02"><a href="http://english.yonhapnews.co.kr/northkorea/index.html">NORTH KOREA</a></li>
+					<li class="biz" id="menu_03"><a href="http://english.yonhapnews.co.kr/business/index.html" >BUSINESS</a>
+						<ul class="smenu" id="smenu_03" style="display:none">
+						<li class="nobdr"><a href="http://english.yonhapnews.co.kr/business/0501000001.html">Industry</a></li>
+						<li><a href="http://english.yonhapnews.co.kr/business/0502000001.html">Economy</a></li>
+						<li><a href="http://english.yonhapnews.co.kr/business/0503000001.html">Market</a></li>
+						<li><a href="http://english.yonhapnews.co.kr/business/0504000001.html">Tech/Science</a></li>
+						</ul>
+					</li>
+					<li class="cul" id="menu_04"><a href="http://english.yonhapnews.co.kr/culturesports/index.html">CULTURE/SPORTS</a>
+						<ul class="smenu" id="smenu_04" style="display:none">
+						<li class="nobdr"><a href="http://english.yonhapnews.co.kr/culturesports/0701000001.html">Culture</a></li>
+						<li><a href="http://english.yonhapnews.co.kr/culturesports/0702000001.html">Sports</a></li>
+						</ul>
+					</li>
+					<li class="kwave" id="menu_06"><a href="http://english.yonhapnews.co.kr/kwave/index.html">KOREAN WAVE</a>
+						<ul class="smenu" id="smenu_06" style="display:none">
+						<li class="nobdr"><a href="http://english.yonhapnews.co.kr/kwave/3001000001.html">K-Wave News</a></li>
+						<li><a href="http://english.yonhapnews.co.kr/kwave/3002000001.html">K-Wave Photos</a></li>
+						<li><a href="http://english.yonhapnews.co.kr/kwave/3099000001.html">K-Wave Videos</a></li>
+						</ul>
+					</li>
+                </ul>
+        	</div>
+        	<div class="lnb">
+            	<ul>
+					<li class="pto" id="menu_05"><a href="http://english.yonhapnews.co.kr/photo/2100000001.html">PHOTOS</a>
+						<ul class="smenu2" id="smenu2_01" style="display:none">
+							<li class="nobdr"><a href="http://english.yonhapnews.co.kr/photo/2100000001.html">All</a></li>
+							<li><a href="http://english.yonhapnews.co.kr/photo/2101000001.html">N. Korea</a></li>
+							<!--<li><a href="http://english.yonhapnews.co.kr/photo/2102000001.html">K-pop</a></li>-->
+						</ul>
+					</li>
+					<!--<li class="full"><a href="http://english.yonhapnews.co.kr/full/1200000001.html">FULLSTORIES</a></li>-->
+					<li class="topic"><a href="http://english.yonhapnews.co.kr/focus/1700000001.html">FOCUS</a></li>
+                </ul>
+            </div>
+            <div class="select">
+            	<ul>
+                <li><a href="#"><span class="arw"></span>Select Language</a>
+            		<div class="language" style="display:none">
+                    	<a href="http://www.yonhapnews.co.kr/" title="Korean" class="ko"></a>
+                    	<a href="http://chinese.yonhapnews.co.kr" title="Chines(CG)" class="cg"></a>
+                    	<a href="http://big5.yonhapnews.co.kr:83" title="Chines(CB)" class="cb"></a>
+                    	<a href="http://japanese.yonhapnews.co.kr" title="Japanese" class="jp"></a>
+                    	<a href="http://arabic.yonhapnews.co.kr" title="Arabic" class="arb"></a>
+                    	<a href="http://spanish.yonhapnews.co.kr" title="Spanish" class="sp"></a>
+                    	<a href="http://french.yonhapnews.co.kr" title="Franch" class="fr"></a>
+                    </div>
+                  </li>
+                </ul>
+            </div>
+     </div>
+     <script type="text/javascript" src="http://english.yonhapnews.co.kr/jscript/2013/en_navigationCtl.js"></script>
+</div><!--//header-->
+<hr/>
+    <div id="container">
+
+        <div id="content">
+            <div class="title">
+            	<h2><a href="http://english.yonhapnews.co.kr/news/0200000001.html">ALL HEADLINES</a></h2>
+            	<div class="location"><a href="http://english.yonhapnews.co.kr" title="Home"><span class="ichome"></span></a><span class="path"></span><span><a href="http://english.yonhapnews.co.kr/news/0200000001.html" class="b">All Headlines</a></span></div>
+            </div>
+            <div class="article_wrap">
+            					<h1>(LEAD) Sistar tops music charts with swansong track </h1>
+				<div class="article-option-area">
+					<p class="publish-time">2017/06/01 18:10</p>
+					<dl class="option-type option-type01">
+						<dt class="blind">Article View Option</dt>
+						<dd>
+							<button class="print"><span>Print</span></button>
+							<button class="font-plus"><span>Enlarge</span></button>
+							<button class="font-minus"><span>Reduce</span></button>
+						</dd>
+					</dl>
+					<dl class="share-type share-type01">
+						<dt class="blind">SNS Share</dt>
+						<dd>
+							<button class="share-btn fb"><span>Facebook</span></button>
+							<button class="share-btn tw"><span>Twitter</span></button>
+							<button class="share-btn ggp"><span>google plus</span></button>
+							<button class="share-btn pin"><span>Pinterest</span></button>
+							<button class="share-btn lin"><span>Linked in</span></button>
+							<button class="share-btn tum"><span>Tumblr</span></button>
+							<button class="share-btn red"><span>Reddit</span></button>
+							<button class="share-btn fbm"><span>Facebook Messenger</span></button>
+							<button class="share-btn share-more more"><span>More</span></button>
+						</dd>
+					</dl>
+				</div>
+            	<div class="article">
+            	<p>(ATTN: UPDATES with quotes at bottom)</p><p>   SEOUL, June 1 (Yonhap) -- Sistar's new and final song "Lonely" on Thursday rose to No. 1 on major South Korean music streaming charts.</p><p>   "Lonely," an acoustic R&B song released Wednesday afternoon, topped seven music streaming charts, including Melon, Olleh Music, Naver Music and Bugs Music, as of 8:30 a.m. The track was produced by Sistar's longtime collaborator Black Eyed Philseung.</p><p>   The seven-year-old K-pop team announced earlier that it will disband after releasing its final single album. Hyolyn and Soyou are expected to pursue solo careers, and Bora and Dasom, who have much experience appearing on TV shows, will turn to acting.</p><p>   The team's disbandment came across as a shock to many as the members were seen as having good teamwork with their management agency while enjoying steady popularity.</p><p>   Sistar won the moniker "summer queens" for its popular summer tracks "So Cool," "Loving U," "Give It to Me," "Touch My Body," "Shake It" and "I Like That."<br><br>&nbsp;&nbsp;</p><p><span class="ctsimg"><img src="http://img.yonhapnews.co.kr/etc/inner/EN/2017/06/01/AEN20170601002651315_01_i.jpg" alt="A promotional image for &quot;Lonely,&quot; Sistar&apos;s final song as a group. (Yonhap)"/><span class="innercptn"> A promotional image for &quot;Lonely,&quot; Sistar&apos;s final song as a group. (Yonhap)</span></span></p><p>   </p><p>   The member themselves said they were surprised by the song's strong performance.</p><p>   "Frankly I didn't expect the song to reach number one. The song isn't a summer song per se," Bora said in an interview with Yonhap News Agency, adding that she's especially grateful for fans for such support.</p><p>   Soyou agreed. "I'm thankful for all the love towards the song. I thought people would be disappointed since it's not a cheerful song."<br><br>&nbsp;&nbsp;   When asked about the happiest moment in the group career, Dasom picked out when the team won first place in 2011 for "So Cool."<br><br>&nbsp;&nbsp;   "I was so emotionally overwhelmed I cried a lot. I did think that it would be great to win first place. It was so exhilarating to be congratulated on stage with fellow artists," said Dasom.</p><p>   She also hinted that the members could reunite.</p><p>   "I can't guarantee but I do think that we can perhaps one day get together. We're not splitting because we fell apart from each other and by looking at other senior groups nowadays, it doesn't look like an impossible situation," Dasom said. </p><p>   <a href="mailto:odissy@yna.co.kr">odissy@yna.co.kr</a></p><p>(END)</p>
+                </div>
+<div class="btm_ad">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px"
+
+data-ad-slot="5831778897"
+
+data-ad-client="ca-pub-1930605407058425">
+
+<!-- Eng_Article_bottom_468x60 -->
+
+</ins>
+
+<script>
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+</script>
+
+</div>
+
+
+
+
+            </div><!--//article_wrap-->
+
+        </div><!--//content-->
+
+        <div id="content_right">
+<div style="margin-bottom:10px;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px"
+
+data-ad-slot="5971531617"
+
+data-ad-client="ca-pub-1930605407058425">
+
+<!-- Eng_Article_right_300x250 -->
+
+</ins>
+
+<script>
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+</script>
+</div>
+
+
+        	<div class="mmost">
+            	<h3><a href="http://english.yonhapnews.co.kr/ranking/index.html">Most Viewed</a></h3>
+                <ol class="most">
+	<li class="n1" style="display:none;"><a title="Opening new web browser window" href="#">Seoul to ban smoking at cultural asset sites</a><p class="line"></p></li>
+                <li class="n2" style="display:none;"><a title="Opening new web browser window" href="#">(4th LD) Park apologizes over alleged sexual misconduct by ex-spokesman</a><p class="line"></p></li>
+                <li class="n3" style="display:none;"><a title="Opening new web browser window" href="#">Ssangyong says resumption of overnight shift turning point of normalization</a><p class="line"></p></li>
+                <li class="n4" style="display:none;"><a title="Opening new web browser window" href="#">(2nd LD) N. Korea's Kaesong region sure to be listed as UNESCO world heritage</a><p class="line"></p></li>
+                <li class="n5" style="display:none;"><a title="Opening new web browser window" href="#">N. Korean escapees to S. Korea to fall 20 pct this year: official</a></li>
+                </ol>
+                <a href="http://english.yonhapnews.co.kr/ranking/index.html" class="more">More</a>
+        	</div>
+                <script type="text/javascript" src="http://english.yonhapnews.co.kr/jscript/2013/en_mostview.js"></script>
+        <div class="most_pto">
+        	<h3>Most Viewed Photos</h3>
+        	<ul class="most_ptolst"><li></li>
+        	<!-- <li><a href="#" class="box"><img src="http://img.yonhapnews.co.kr/photo/yna/YH/2013/06/03/PYH2013060301910034000_T.jpg" alt=""/></a>
+        	<p><a href="#">Young North Korean defectors sent back to Pyongyang</a><span>06/05 10:05</span></p>
+        	</li>
+        	<li><a href="#" class="box"><img src="http://img.yonhapnews.co.kr/photo/yna/YH/2013/06/03/PYH2013060302030001300_T.jpg" alt=""/></a>
+        	<p><a href="#">Denial by ex-president's son</a><span>06/05 10:05</span></p>
+        	</li>
+        	<li><a href="#" class="box"><img src="http://img.yonhapnews.co.kr/photo/yna/YH/2013/06/03/PYH2013060302500001300_T.jpg" alt=""/></a>
+        	<p><a href="#">S. Korean soldiers in plain clothes at World Cup qualifier</a><span>06/05 10:05</span></p>
+        	</li>-->
+        	</ul>
+        </div>
+        <script type="text/javascript" src="http://english.yonhapnews.co.kr/jscript/2013/Yna.En.MostViewPhoto2.js"></script>
+
+        <div class="sfocus">
+		<h3><a href="#">News Focus</a></h3>
+			<ul>
+			<li><a href="HTTP://english.yonhapnews.co.kr/focus/2017/05/30/10/1700000000AEN20170530007000315F.html">N. Korea seeks 'carrier-killer' missile amid technical hurdle</a></li>			<li><a href="HTTP://english.yonhapnews.co.kr/business/2017/05/26/0501000000AEN20170526004651320.html">Hyundai holds driverless car race to promote cutting edge technology </a></li>			<li><a href="HTTP://english.yonhapnews.co.kr/national/2017/05/25/91/0301000000AEN20170525010700315F.html">Foreign ministry to reclaim trade negotiation task amid looming FTA revision with U.S. </a></li>			<li><a href="HTTP://english.yonhapnews.co.kr/focus/2017/05/25/84/1700000000AEN20170525006800320F.html">Rate freeze mirrors S. Korea's improving fundamentals </a></li>			<li><a href="HTTP://english.yonhapnews.co.kr/focus/2017/05/22/87/1700000000AEN20170522009900320F.html">Finance minister nominee set to expand fiscal intervention to boost economy </a></li>			<li><a href="HTTP://english.yonhapnews.co.kr/focus/2017/05/22/37/1700000000AEN20170522004900320F.html">SME policy getting scrutiny on chronic worker shortage </a></li>			<li><a href="HTTP://english.yonhapnews.co.kr/focus/2017/05/21/3/1700000000AEN20170521003100315F.html">Moon's pick for FM signals push to expand diplomatic horizon, concerns linger </a></li>			<li><a href="HTTP://english.yonhapnews.co.kr/focus/2017/05/21/25/1700000000AEN20170521002500320F.html">S. Korea's new economic chief tasked with reviving economy </a></li>
+			</ul>
+        </div>
+
+
+        </div><!-- //content_right -->
+
+   <div id="ad_lft"> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:120px;height:600px"
+
+data-ad-slot="4494823737"
+
+data-ad-client="ca-pub-1930605407058425">
+
+<!-- Eng_Main_Left_120x600 -->
+
+</ins>
+
+<script>
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+</script>
+<div style="margin-top:10px;"><a href="http://seoul.angloinfo.com" target="_blank"><img src="http://img.yonhapnews.co.kr/basic/home_english/14_images/seoul.gif" alt="angloinfo.com"/></a></div>
+</div>
+    </div><!--//container-->
+<hr/>
+<hr/>
+    <div id="footer">
+ 		<div class="sitemap">
+			<div class="map">
+				<h2>News<span class="line"></span></h2>
+				<ul>
+				<li><a href="http://english.yonhapnews.co.kr/news/0200000001.html">All headlines</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/national/index.html">National</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/northkorea/index.html">North Korea</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/business/index.html">Business</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/culturesports/index.html">Culture / Sports</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/kwave/index.html">Korean Wave</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/photo/2100000001.html">Photo news</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/graphic/1000000001.html">Graphic news</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/focus/1700000001.html">Focus</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/ranking/index.html">Most viewed</a></li>
+				<!-- <li><a href="http://english.yonhapnews.co.kr/full/1200000001.html">Full stories</a></li> -->
+				</ul>
+			</div>
+			<div class="map">
+				<h2>Special Features<span class="line"></span></h2>
+				<ul>
+				<li><a href="http://english.yonhapnews.co.kr/interview/0800000001.html">Interviews</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/feature/0900000001.html">Features</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/topic/index.html">Topics</a></li>
+				</ul>
+			</div>
+			<div class="map2">
+				<h2> Miscellaneous<span class="line"></span></h2>
+				<ul>
+				<li><a title="Newspaper headlines">Newspaper headlines</a></li>
+				<li><a title="Today in Korean history ">Today in Korean history </a></li>
+				<li><a href="http://english.yonhapnews.co.kr/summary/1500000001.html">Yonhap News summary</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/editorial/1600000001.html">Editorials from dailies</a></li>
+				</ul>
+			</div>
+		   <div class="map">
+				<h2>Tools<span class="line"></span></h2>
+				<ul>
+				<li><a href="http://english.yonhapnews.co.kr/tool/3201000000.html">RSS</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/tool/3202000000.html">Mobile Service </a></li>
+				<li><a title="Opening new web browser window" href="https://twitter.com/yonhapnews" target="_blank">Twitter</a></li>
+				<li><a title="Opening new web browser window" href="https://www.facebook.com/yonhapenglish" target="_blank">Facebook</a></li>
+				<!--<li><a title="Opening new web browser window" href="https://plus.google.com/+yonhap" target="_blank">Google plus</a></li>-->
+				</ul>
+			</div>
+			<div class="map">
+				<h2>Information<span class="line"></span></h2>
+				<ul>
+				<li><a title="Opening new web browser window" href="http://engsales.yonhapnews.co.kr" target="_blank">Photo/Video Archives</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/brief/index.html">Korea in brief</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/link/index.html">Useful links</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/festival/index.html">Festival Calendar</a></li>
+				 <li><a href="http://english.yonhapnews.co.kr/weather/index.html">Weather</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/about/3101070000.html" target="_blank">Overseas Networks</a></li>
+				</ul>
+			</div>
+			<div class="map">
+				<h2>About Yonhap<span class="line"></span></h2>
+				<ul>
+				<li><a href="http://english.yonhapnews.co.kr/about/3101000000.html" target="_blank">About Us </a></li>
+				<!--<li><a href="http://english.yonhapnews.co.kr/history/index.html">History</a></li>-->
+				<li><a href="http://english.yonhapnews.co.kr/about/3101090000.html">Contact Us</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/subscription/index.html">Subscription</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/copyright/index.html">Copyright</a></li>
+				</ul>
+			</div>
+		   <div class="map">
+				<h2>N.K Archives<span class="line"></span></h2>
+				<ul>
+				<li><a href="http://english.yonhapnews.co.kr/newsletter/index.html">N.K Newsletter</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/vantage/index.html">Vantage Point </a></li>
+				</ul>
+			</div>
+	<address class="copy"><span class="cplogo"></span>Copyrights <span>Yonhap News  Agency.</span>  All Rights Reserved.</address>
+		</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42288954-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    </div> <!--//footer-->
+
+</div><!-- //wrap-->
+</body>
+</html>

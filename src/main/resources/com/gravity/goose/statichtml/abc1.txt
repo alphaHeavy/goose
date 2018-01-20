@@ -1,0 +1,1317 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Putin suggests US hackers could have interfered with election, blamed Russia - ABC News</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="robots" content="noarchive" />
+<meta name="robots" content="index, follow" />
+<meta name="author" content="ABC News" />
+<meta name="copyright" content="Copyright (c) 2018 ABC News Internet Ventures" />
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="description" content="&ldquo;Hackers can be anywhere,&rdquo; Putin told Kelly." />
+<meta name="keywords" content="Vladimir Putin, Megyn Kelly, Russia investigation, politics news, election news, political news, political news articles" />
+<meta property="fb:admins" content="704409894" />
+<meta property="fb:app_id" content="4942312939" />
+<meta name="fb_title" content="Putin suggests US hackers could have interfered with election, blamed Russia" />
+<!--ABC News page:-->
+<meta property="fb:pages" content="86680728811" />
+<!--GMA page:-->
+<meta property="fb:pages" content="59306617060" />
+<!--WNT page:-->
+<meta property="fb:pages" content="214832449817" />
+<!--Nightline page:-->
+<meta property="fb:pages" content="66660497800" />
+<!--ABC Politics page:-->
+<meta property="fb:pages" content="184096565021911" />
+<!--This Week:-->
+<meta property="fb:pages" content="295479040495545" />
+<!--20/20:-->
+<meta property="fb:pages" content="163497464933" />
+<!--The View:-->
+<meta property="fb:pages" content="149475666523" />
+<!--ABC News Live:-->
+<meta property="fb:pages" content="1161108697272926" />
+<!--Brian Ross:-->
+<meta property="fb:pages" content="263058762303" />
+<!--WNN:-->
+<meta property="fb:pages" content="55845270277" />
+<meta property="og:site_name" content="ABC News" />
+<meta property="og:title" content="Putin suggests US hackers could have interfered with election, blamed Russia" />
+<meta property="og:description" content="&ldquo;Hackers can be anywhere,&rdquo; Putin told Kelly." />
+<meta property="og:url" content="http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image" content="http://a.abcnews.com/images/Politics/AP-putin-01-as-170331_16x9_992.jpg" />
+<meta name="DC.date.issued" content="2017-06-02" />
+<meta name="Date" content="2017-06-02" />
+<meta name="Last-Modified" content="2017-06-02 20:52:10" />
+<meta name="news_keywords" content="Vladimir Putin, Megyn Kelly, Russia investigation" />
+<meta property="og:type" content="article" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@ABC" />
+<meta property="twitter:creator" content="@rbeggin" />
+<meta property="twitter:title" content="Putin suggests US hackers could have interfered with election, blamed Russia" />
+<meta property="twitter:description" content="&ldquo;Hackers can be anywhere,&rdquo; Putin told Kelly." />
+<meta property="twitter:url" content="http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206" />
+<meta property="twitter:image:width" content="640" />
+<meta property="twitter:image:height" content="360" />
+<meta name="twitter:app:name:iphone" content="ABC News" />
+<meta name="twitter:app:id:iphone" content="300255638" />
+<meta name="twitter:app:url:iphone" content="abcnewsiphone://link/story,47800206" />
+<meta name="twitter:app:name:ipad" content="ABC News" />
+<meta name="twitter:app:id:ipad" content="306934135" />
+<meta name="twitter:app:url:ipad" content="abcnewsipad://link/story,47800206" />
+<meta name="twitter:app:name:googleplay" content="ABC News" />
+<meta name="twitter:app:id:googleplay" content="com.abc.abcnews" />
+<meta name="twitter:app:url:googleplay" content="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206" />
+<meta property="twitter:image" content="http://a.abcnews.com/images/Politics/AP-putin-01-as-170331_16x9_992.jpg" />
+<meta property="al:iphone:url" content="abcnewsiphone://link/story,47800206" />
+<meta property="al:iphone:app_store_id" content="300255638" />
+<meta property="al:iphone:app_name" content="ABC News - Breaking US & World News" />
+<meta property="al:ipad:url" content="abcnewsipad://link/story,47800206" />
+<meta property="al:ipad:app_store_id" content="380520716" />
+<meta property="al:ipad:app_name" content="ABC News for iPad" />
+<meta property="al:android:url" content="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206" />
+<meta property="al:android:app_name" content="ABC News Breaking Latest News" />
+<meta property="al:android:package" content="com.abc.abcnews" />
+<meta property="al:web:url" content="http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206" />
+<link rel="amphtml" href="http://abcnews.go.com/amp/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206" />
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="http://a.abcnews.com" rel="preconnect" crossorigin>
+<link href="https://s.abcnews.com" rel="preconnect" crossorigin>
+<link href="http://fonts.abcnews.com" rel="preconnect" crossorigin>
+<link href="https://cdn.registerdisney.go.com" rel="preconnect" crossorigin>
+<!--[if IE 9]>
+<link rel="stylesheet"href="https://s.abcnews.com/assets/beta/css/styles.css?v=89">
+<style>#main-container{visibility:visible !important;}</style>
+<![endif]-->
+<link rel="stylesheet" href="https://s.abcnews.com/assets/beta/css/icons.css?v=89">
+<link class="page-type-include" rel="stylesheet" href="https://s.abcnews.com/assets/beta/css/page-types/story_.css?v=89" />
+<link id="canonical" rel="canonical" href="http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206" />
+<script src="https://s.abcnews.com/assets/beta/js/lib.js?v=247"></script>
+<script id="disneyid-script" src="https://cdn.registerdisney.go.com/v2/outer/DisneyID.js"></script>
+<script>
+(function(d) {
+var config = {
+kitId: 'kyb8pht',
+scriptTimeout: 3000,
+async: true
+},
+h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/wf-loading/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//fonts.abcnews.com/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+})(document);
+</script>
+<script>
+var _vrq = _vrq || [];
+_vrq.push(['id', 613]);
+_vrq.push(['automate', false]);
+_vrq.push(['track', function(){}]);
+(function(d, a) {
+var s = d.createElement(a),
+x = d.getElementsByTagName(a)[0];
+s.async = true;
+s.src = '//vra.outbrain.com/vrs.js';
+x.parentNode.insertBefore(s, x);
+})(document, 'script');
+</script>
+<script async src="http://widgets.outbrain.com/outbrain.js"></script>
+<script async src="https://s.abcnews.com/assets/js/newrelic.js"></script>
+<script>
+var isSSL = qsParam("isSSL");
+if ("https:" == window.location.protocol){
+if (isSSL === "true" && window.location.pathname.toLowerCase().indexOf("tech") > -1 ||isSSL === "true" && window.location.pathname.toLowerCase().indexOf("technology") > -1 ){
+}
+else if (-1==window.parent.location.hostname.indexOf("outbrain")){
+var _sslurl=window.location.href.replace("https://","http://");
+window.location.replace(_sslurl),window.location.href=_sslurl
+}
+}
+</script>
+<script async src="//native.sharethrough.com/assets/sfp.js"></script>
+<script type="text/javascript" src="//cdn.optimizely.com/js/168844516.js" async></script>
+<script>
+var electionJSObj = {};
+var _sf_async_config = _sf_async_config || {};
+_sf_async_config.uid = 12240; // ACCOUNT NUMBER
+_sf_async_config.domain = location.hostname; // DOMAIN
+_sf_async_config.flickerControl = false;
+_sf_async_config.useCanonical = true;
+_sf_async_config.autoDetect = false;
+var _sf_startpt = (new Date()).getTime();
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<script type="text/javascript">
+var digAdData;
+var digGetAd = function(){};
+tq = new Object();
+tq.path = '/News/Politics/story/';
+tq.caid = 'News/Politics';
+tq.keywords = ((tq.keywords)&&(tq.keywords!=''))?tq.keywords+'':'';
+tq.show = '';
+tq.recipes = '';
+tq.id = '47800206';
+tq.section = 'politics';
+tq.realsection = '';
+tq.subsection = '';
+tq.altsection = 'default';
+tq.objType = 'story';
+tq.byline = 'riley beggin';
+tq.othersubs = '';
+</script>
+<script type='text/javascript' src='https://s.abcnews.com/assets/js/adCallOverride.js?v=1'></script>
+<script type="text/javascript" id="fb-ad-script" src="https://s.abcnews.com/assets/js/FBAN_v2_4.js"></script>
+<script type="text/javascript">
+if(typeof AudienceNetworkPrebid != "undefined"){
+fbPrebid = new AudienceNetworkPrebid("192534527849650_216014375501665");
+fbPrebid.getProfile(function(profile) {
+var token = profile.token; // prebid token string
+});
+if(document.location.href.indexOf("debug=true") > -1){
+console.log("token - " + fbPrebid._tryGetToken());
+}
+}
+</script>
+<script type="text/javascript">
+if(tq.path){
+tq.urlTargetPath = (tq.path)?tq.path:window.location.pathname;
+tq.urlTargetPath = (tq.urlTargetPath == '/')?'/index':tq.urlTargetPath;
+tq.urlKeywords = (tq.keywords)?tq.keywords:'';
+tq.urlRecipes = (tq.recipes)?tq.recipes:'';
+tq.urlShow = (tq.show)?tq.show:'';
+tq.urlFullQuery = '&tqkw='+encodeURI(tq.urlKeywords)+'&tqshow='+encodeURI(tq.urlShow)+encodeURI(tq.urlRecipes)+'&url='+encodeURI(tq.urlTargetPath);
+}else{
+tq.urlFullQuery = '&url='+encodeURI(window.location.pathname);
+}
+var fwNetworkId = '168234'
+var fwSectionFallbackId = '109523';
+var fwAdSystem = true;
+</script>
+<script type="text/javascript" src="https://s.abcnews.com/assets/js/min/fw.js?v=46.8"></script>
+<script type="text/javascript" src="https://s.abcnews.com/assets/js/prebid.min.js?v=4.1" async></script>
+<script type="text/javascript">
+var fw = window.fw || {};
+fw.sharethroughBid = function(sharethroughKey){
+return {
+bidder: 'sharethrough',
+params: { pkey: sharethroughKey }
+};
+}
+fw.tripleliftBid = function(tripleliftKey){
+return {
+bidder: 'triplelift',
+params: { inventoryCode: tripleliftKey }
+};
+}
+fw.aolBid = function(placement, network){
+return {
+bidder: 'aol',
+params: {
+placement: placement,
+network: network || '10573.1'
+}
+};
+}
+fw.nnhBids = function(sharethroughKey, tripleliftKey){
+var adDef = {
+code: 'news-native-homepage',
+sizes: [[440, 90]],
+bids: []
+};
+if(sharethroughKey){
+adDef.bids.push(fw.sharethroughBid(sharethroughKey));
+}
+if(tripleliftKey){
+adDef.bids.push(fw.tripleliftBid(tripleliftKey));
+}
+return adDef;
+}
+// PREBID ad definitions
+fw.prebidAdDefs = {
+"adunit-code-1": {
+code: 'adunit-code-1',
+sizes: [[300, 250]],
+bids: [{
+bidder: 'aol',
+params: {
+placement: 4330522,
+network: '10573.1'
+}
+}, {
+bidder: 'rubicon',
+params: {
+accountId: '8829',
+siteId: '14549',
+zoneId: '30505',
+sizes: [15], //300x250
+}
+}, {
+bidder: 'pubmatic',
+params: {
+publisherId: "102526",
+adSlot: "abcnews_pm_ros@300x250",
+}
+}, {
+bidder: 'criteo',
+params: {
+zoneId: 948987,
+}
+}]
+},
+"banner-ad": {
+code: 'banner-ad',
+sizes: [[728, 90]],
+bids: [{
+bidder: 'aol',
+params: {
+placement: 4330521,
+network: '10573.1'
+}
+}, {
+bidder: 'rubicon',
+params: {
+accountId: '8829',
+siteId: '14549',
+zoneId: '30505',
+sizes: [2], //728x90
+}
+}, {
+bidder: 'pubmatic',
+params: {
+publisherId: "102526",
+adSlot: "abcnews_pm_ros@728x90",
+}
+}, {
+bidder: 'criteo',
+params: {
+zoneId: 948988,
+}
+}]
+},
+"news-native-homepage-desktop": fw.nnhBids('f0187c6c', 'abcnews_topstories_homepage'),
+"news-native-homepage-mobile": fw.nnhBids('E8GDvm65srbZVYqkXP9jHA2x', 'abcnews_topstories_homepage'),
+"news-native-homepage-tablet": fw.nnhBids('GYKUJHSvgPhnj8vup4BREvQH', 'abcnews_topstories_homepage'),
+"news-native-index-desktop": fw.nnhBids('FknhBQLrM8Ty9ygk9iRuix7D', 'abcnews_topstories_index'),
+"news-native-index-mobile": fw.nnhBids('ZtaArt34FfUGgudCnXbzYZT7', 'abcnews_topstories_index'),
+"news-native-index-tablet": fw.nnhBids('VUMLaq5viQkXu8ioYAFhr9Pn', 'abcnews_topstories_index'),
+"news-native-article-mobile": fw.nnhBids('8c681d32', 'abcnews_topstories_article'),
+"news-native-article-desktop": fw.nnhBids('eda65e14', 'abcnews_topstories_article'),
+"news-native-article-tablet": fw.nnhBids('3a92cd62', 'abcnews_topstories_article')
+}
+PREBID_TIMEOUT = 1500;STARTUP_AD_TIMEOUT = 10000;
+fw.usePrebid = true;
+window.fw = fw;
+</script>
+</head>
+<body class="story desktop logged-out trident abcn-desktop" data-pagetype="story" data-twttr-rendered="true" data-device="desktop" data-content-id="47800206" data-alert-tag-primary="Russia">
+<div class="ad-slot ad-slot-overlay" data-slot-type="overlay" data-slot-kvps="pos=outofpage" data-out-of-page="true"></div>
+<div id="fb-root"></div>
+<div id="global-viewport" data-behavior="global_nav_condensed global_nav_full load_comments native_star rain_ads">
+<script src="https://s.abcnews.com/assets/beta/js/abcn-head.js?v=247"></script>
+<!-- mobile -->
+<nav id="global-nav-mobile">
+<ul class="tier-1">
+<li class="active">
+<a class="menu-trigger nav-pillar nav-sections" data-route="false" href="#">
+<span class="link-text">Sections</span>
+<span class="icon-sections m-icon"></span>
+</a>
+<ul class="tier-2" data-behavior="favorites_mgmt">
+<li>
+<h1 class="label">
+<span class="link-text">Sections</span>
+</h1>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="/" name="lpos=nav[header_desktop_story]&lid=section[Top Stories]">
+<span class="link-text">Top Stories</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Video" name="lpos=nav[header_desktop_story]&lid=section[Watch]">
+<span class="link-text">Watch</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/US" name="lpos=nav[header_desktop_story]&lid=section[U.S.]">
+<span class="link-text">U.S.</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/International" name="lpos=nav[header_desktop_story]&lid=section[International]">
+<span class="link-text">International</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Politics" name="lpos=nav[header_desktop_story]&lid=section[Politics]">
+<span class="link-text">Politics</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Video/abc_news_features" name="lpos=nav[header_desktop_story]&lid=section[ABC News Features]">
+<span class="link-text">ABC News Features</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Lifestyle" name="lpos=nav[header_desktop_story]&lid=section[Lifestyle]">
+<span class="link-text">Lifestyle</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Entertainment" name="lpos=nav[header_desktop_story]&lid=section[Entertainment]">
+<span class="link-text">Entertainment</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/VR" name="lpos=nav[header_desktop_story]&lid=section[Virtual Reality]">
+<span class="link-text">Virtual Reality</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Health" name="lpos=nav[header_desktop_story]&lid=section[Health]">
+<span class="link-text">Health</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Technology" name="lpos=nav[header_desktop_story]&lid=section[Technology]">
+<span class="link-text">Technology</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Blotter" name="lpos=nav[header_desktop_story]&lid=section[Investigative]">
+<span class="link-text">Investigative</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Sports" name="lpos=nav[header_desktop_story]&lid=section[Sports]">
+<span class="link-text">Sports</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/topics/news/weather.htm" name="lpos=nav[header_desktop_story]&lid=section[Weather]">
+<span class="link-text">Weather</span>
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="menu-trigger nav-pillar nav-shows" data-route="false" href="#">
+<span class="link-text">Shows</span>
+<span class="icon-shows m-icon"></span>
+</a>
+<ul class="tier-2">
+<li>
+<h1 class="label">
+<span class="link-text">Shows</span>
+</h1>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/GMA" name="lpos=nav[header_desktop_story]&lid=section[Good Morning America]">
+<span class="link-text">Good Morning America</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/WN" name="lpos=nav[header_desktop_story]&lid=section[World News Tonight]">
+<span class="link-text">World News Tonight</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Nightline" name="lpos=nav[header_desktop_story]&lid=section[Nightline]">
+<span class="link-text">Nightline</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/2020" name="lpos=nav[header_desktop_story]&lid=section[20/20]">
+<span class="link-text">20/20</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/ThisWeek" name="lpos=nav[header_desktop_story]&lid=section[This Week]">
+<span class="link-text">This Week</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/TheView" name="lpos=nav[header_desktop_story]&lid=section[The View]">
+<span class="link-text">The View</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/WhatWouldYouDo" name="lpos=nav[header_desktop_story]&lid=section[What Would You Do?]">
+<span class="link-text">What Would You Do?</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Video/abc_news_features" name="lpos=nav[header_desktop_story]&lid=section[ABC News Features]">
+<span class="link-text">ABC News Features</span>
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="menu-trigger nav-pillar nav-live" data-route="false" href="#">
+<span class="link-text">Live</span>
+<span class="icon-play m-icon"></span>
+</a>
+<ul class="tier-2">
+<li>
+<h1 class="label">
+<span class="link-text">Live</span>
+</h1>
+</li>
+<li>
+<a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_story]&lid=[link]" href="http://abcnews.go.com/live/video/special-live-5">
+<span class="link-text">House debates government funding as shutdown looms</span>
+<span class="icon-play m-icon"></span>
+</a>
+</li>
+<li>
+<a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_story]&lid=[link]" href="http://abcnews.go.com/live/video/special-live-3">
+<span class="link-text">Senate resumes debate on FISA</span>
+<span class="icon-play m-icon"></span>
+</a>
+</li>
+<li>
+<a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_story]&lid=[link]" href="http://abcnews.go.com/live/video/special-live-08">
+<span class="link-text">House Armed Services subcommittee hearing on surface warfare</span>
+<span class="icon-play m-icon"></span>
+</a>
+</li>
+<li>
+<a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_story]&lid=[link]" href="http://abcnews.go.com/live/video/special-live-06">
+<span class="link-text">Dow Jones Industrial Average</span>
+<span class="icon-play m-icon"></span>
+</a>
+</li>
+<li>
+<a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_story]&lid=[link]" href="http://abcnews.go.com/live/video/special-live-07">
+<span class="link-text">Old Faithful Geyser in Yellowstone National Park</span>
+<span class="icon-play m-icon"></span>
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="menu-trigger nav-pillar nav-more" data-route="false" href="#">
+<span class="link-text">More</span>
+<span class="icon-more m-icon"></span>
+</a>
+<ul class="tier-2">
+<li>
+<a href="http://disneyprivacycenter.com" data-tab="true" name="lpos=nav[header_desktop_story]&lid=section[Privacy Policy]" target="_blank">
+<span class="link-text">Privacy Policy</span>
+</a>
+</li>
+<li>
+<a href="https://disneyprivacycenter.com/notice-to-california-residents/" data-tab="true" name="lpos=nav[header_desktop_story]&lid=section[Your CA Privacy Rights]" target="_blank">
+<span class="link-text">Your CA Privacy Rights</span>
+</a>
+</li>
+<li>
+<a href="https://disneyprivacycenter.com/kids-privacy-policy/english/" data-tab="true" name="lpos=nav[header_desktop_story]&lid=section[Children's Online Privacy Policy]" target="_blank">
+<span class="link-text">Children's Online Privacy Policy</span>
+</a>
+</li>
+<li>
+<a href="http://preferences-mgr.truste.com/?type=abcnews&affiliateId=11" data-tab="true" name="lpos=nav[header_desktop_story]&lid=section[Interest-Based Ads]" target="_blank">
+<span class="link-text">Interest-Based Ads</span>
+</a>
+</li>
+<li>
+<a href="http://disneytermsofuse.com" data-tab="true" name="lpos=nav[header_desktop_story]&lid=section[Terms of Use]" target="_blank">
+<span class="link-text">Terms of Use</span>
+</a>
+</li>
+<li>
+<a href="http://abcnews.go.com/Site/page?id=3068843" data-tab="true" name="lpos=nav[header_desktop_story]&lid=section[Contact Us]" target="_blank">
+<span class="link-text">Contact Us</span>
+</a>
+</li>
+<li>
+<h1 class="footer label">
+<span class="link-text">Yahoo!-ABC News Network <span class='copy-pipe'> | </span> &copy; 2018 ABC News Internet Ventures. All rights reserved.</span>
+</h1>
+</li>
+</ul>
+</li>
+<li>
+<a class="menu-trigger nav-search" data-route="false" href="#">
+<span class="link-text">Search</span>
+<span class="icon-search2 m-icon"></span>
+</a>
+<ul class="tier-2">
+<li>
+<div class="global-search" id="global-search-mobile">
+<input class="search-box" placeholder="Search" type="text"><input class="btn-search" type="submit">
+<span class="icon-search2 m-icon"></span>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<div class="menu-overlay-primary"></div>
+<div data-behavior="global_header livetab appboy_init" id="header-wrapper" data-device="desktop" data-domain="http://abcnews.go.com" data-playerversion="https://abcnewsplayer-a.akamaihd.net/player/2.64.0.0010">
+<header id="global-header">
+<div class="menu-overlay-secondary"></div>
+<div class="container">
+<a data-route="false" href="#" id="global-nav-mobile-trigger"><span>Menu</span></a>
+<h1>
+<a href='http://abcnews.go.com' name="lpos=nav[header_desktop_story]&lid=section[Logo]">
+<span class="icon-logo"></span>
+</a>
+</h1>
+<div class="abcn-interests-modules">
+<div class="abcn-interest-popover">
+<div class="interest-close"></div>
+<span class="interest-label">Interest Successfully Added</span>
+<span class="interest-popover-msg">
+We'll notify you here with news about</br> <span class="interest-active">AlertTag</span>
+</span>
+<span class="interest-turnon-noti">Turn on desktop notifications for breaking stories about interest? </span>
+<label class="interest-switch">
+<input type="checkbox">
+<span class="interest-slider round"></span>
+<span class="off_text">Off</span>
+<span class="on_text">On</span>
+</label>
+</div>
+</div>
+<ul class="tools">
+<li class="interest" data-behavior="ufirst_init">
+<a href="javascript:void();" id="global-interest-trigger">
+<span class="icon-notifications"></span>
+<span class="notification-badge"></span>
+</a>
+<div class="abcn-interest-notifications">
+<div class="notification-header">
+<span class="notification-title parent-title">Notifications</span>
+<div class="gear-holder">
+<span class="gear icon-settings"></span>
+</div>
+</div>
+<div class="notification-body">
+<div class="interest_loader"></div>
+<!-- Notification Settings -->
+<ul class="notification-settings">
+<li class="manage-interests">
+<div class="notification-title">Notifications For Interests:</div>
+<ul class="notification-settings-interests">
+</ul>
+</li>
+</ul>
+<ul class="notification-sections">
+<!-- BREAKING NEWS -->
+<li class="notification-breaking-box">
+<div class="notification-title">Breaking</div>
+<ul class="notification-bn-ul"></ul>
+</li>
+<!--INTERESTS -->
+<li class="notification-interest-box">
+<div class="notification-title">
+Interests
+<span class="see-all"><a href="/myinterests?cid=clicksource_nc_seeall">See All</a></span>
+</div>
+<ul class="notification-int-ul"></ul>
+</li>
+</ul>
+</div>
+<div class="notification-footer">
+<!-- show this if not logged in or if UNID -->
+<div class="noti-footer-callouts noti-footer-notloggedin">
+<div>
+<span class="uf-checkmark check-on"><span class="icon-interest-check"></span></span>To save your interests across all devices <a href="#" class="uf-signup main-login black-ln">Log In</a> or <a href="#" class="uf-signup main-signup uf-create-acct black-ln">Sign Up</a>
+</div>
+</div>
+<!-- show this to promote web notifications for BN -->
+<div class="noti-footer-callouts promote-web-not">
+<div>
+<span>Turn on desktop notifications for breaking news?</span>
+<label class="bn-toggleswitch">
+<input type="checkbox">
+<span class="interest-slider round"></span>
+<span class="off_text">Off</span>
+<span class="on_text">On</span>
+</label>
+</div>
+</div>
+</div>
+</div>
+<div class="chevron-toggle"></div>
+</li>
+<li class="user">
+<a class="profile-logged-out loggedOut signin" data-tab="true" data-affiliatename="abcn" data-behavior="profile_handler" href="#" data-route="false" name="lpos=nav[header_desktop_story]&lid=section[Log In]">Log In</a>
+<a class="profile-logged-in loggedIn" data-tab="true" style="display: none;" data-affiliatename="abcn" href="#" thref="#" data-behavior="profile" data-route="false" name="lpos=nav[header_desktop_story]&lid=section[Profile]">
+<span class="icon-login"></span>
+</a>
+</li>
+</ul>
+</div>
+<!-- desktop -->
+<nav id="global-nav">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li class="video" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Video" name="lpos=nav[header_desktop_story]&lid=section[Video]">
+Video
+</a>
+</li>
+<li class="live" itemprop="name">
+<a href="http://abcnews.go.com/Live" data-tab="true" data-behavior="livebar_handler" itemprop="url" name="lpos=nav[header_desktop_story]&lid=section[Live]">Live</a>
+</li>
+<li class="shows">
+<a href="#">Shows</a>
+<div class="shows-dropdown">
+<ul>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/GMA" name="lpos=nav[header_desktop_story]&lid=section[Good Morning America]" data-mobile="false" name="lpos=nav[header_story]&lid=section[Good Morning America]" class="black-ln">
+<span class="link-text">Good Morning America</span>
+<span class="link-text-short">Good Morning America</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/WN" name="lpos=nav[header_desktop_story]&lid=section[World News Tonight]" data-mobile="false" name="lpos=nav[header_story]&lid=section[World News Tonight]" class="black-ln">
+<span class="link-text">World News Tonight</span>
+<span class="link-text-short">World News Tonight</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/Nightline" name="lpos=nav[header_desktop_story]&lid=section[Nightline]" data-mobile="false" name="lpos=nav[header_story]&lid=section[Nightline]" class="black-ln">
+<span class="link-text">Nightline</span>
+<span class="link-text-short">Nightline</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/2020" name="lpos=nav[header_desktop_story]&lid=section[20/20]" data-mobile="false" name="lpos=nav[header_story]&lid=section[20/20]" class="black-ln">
+<span class="link-text">20/20</span>
+<span class="link-text-short">20/20</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/ThisWeek" name="lpos=nav[header_desktop_story]&lid=section[This Week]" data-mobile="false" name="lpos=nav[header_story]&lid=section[This Week]" class="black-ln">
+<span class="link-text">This Week</span>
+<span class="link-text-short">This Week</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/TheView" name="lpos=nav[header_desktop_story]&lid=section[The View]" data-mobile="false" name="lpos=nav[header_story]&lid=section[The View]" class="black-ln">
+<span class="link-text">The View</span>
+<span class="link-text-short">The View</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/WhatWouldYouDo" name="lpos=nav[header_desktop_story]&lid=section[What Would You Do?]" data-mobile="false" name="lpos=nav[header_story]&lid=section[What Would You Do?]" class="black-ln">
+<span class="link-text">What Would You Do?</span>
+<span class="link-text-short">What Would You Do?</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/Video/abc_news_features" name="lpos=nav[header_desktop_story]&lid=section[ABC News Features]" data-mobile="false" name="lpos=nav[header_story]&lid=section[ABC News Features]" class="black-ln">
+<span class="link-text">ABC News Features</span>
+<span class="link-text-short">ABC News Features</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="none more" itemprop="name">
+<a href="#" itemprop="url" data-mobile="false">
+<span class="icon-more"></span>
+</a>
+<div class="more-dropdown">
+<ul>
+<li class="u.s." itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/US" name="lpos=nav[header_desktop_story]&lid=section[U.S.]" class="black-ln">
+U.S.
+</a>
+</li>
+<li class="abcnewsfeatures" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Video/abc_news_features" name="lpos=nav[header_desktop_story]&lid=section[ABC News Features]" class="black-ln">
+ABC News Features
+</a>
+</li>
+<li class="politics" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Politics" name="lpos=nav[header_desktop_story]&lid=section[Politics]" class="black-ln">
+Politics
+</a>
+</li>
+<li class="international" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/International" name="lpos=nav[header_desktop_story]&lid=section[International]" class="black-ln">
+International
+</a>
+</li>
+<li class="entertainment" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Entertainment" name="lpos=nav[header_desktop_story]&lid=section[Entertainment]" class="black-ln">
+Entertainment
+</a>
+</li>
+<li class="lifestyle" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Lifestyle" name="lpos=nav[header_desktop_story]&lid=section[Lifestyle]" class="black-ln">
+Lifestyle
+</a>
+</li>
+<li class="health" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Health" name="lpos=nav[header_desktop_story]&lid=section[Health]" class="black-ln">
+Health
+</a>
+</li>
+<li class="virtualreality" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/VR" name="lpos=nav[header_desktop_story]&lid=section[Virtual Reality]" class="black-ln">
+Virtual Reality
+</a>
+</li>
+<li class="investigative" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Blotter" name="lpos=nav[header_desktop_story]&lid=section[Investigative]" class="black-ln">
+Investigative
+</a>
+</li>
+<li class="technology" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Technology" name="lpos=nav[header_desktop_story]&lid=section[Technology]" class="black-ln">
+Technology
+</a>
+</li>
+<li class="weather" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/topics/news/weather.htm" name="lpos=nav[header_desktop_story]&lid=section[Weather]" class="black-ln">
+Weather
+</a>
+</li>
+<li class="sports" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Sports" name="lpos=nav[header_desktop_story]&lid=section[Sports]" class="black-ln">
+Sports
+</a>
+</li>
+</ul>
+<div class="footer-links">
+<ul class="more-more pipes">
+<li itemprop="name">
+<a itemprop="url" href="http://disneyprivacycenter.com" target="_blank" name="lpos=nav[header_desktop_story]&lid=section[Privacy Policy]"><span class="link-text">Privacy Policy</span><span class="link-text-short">Privacy Policy</span></a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="https://disneyprivacycenter.com/notice-to-california-residents/" target="_blank" name="lpos=nav[header_desktop_story]&lid=section[Your CA Privacy Rights]"><span class="link-text">Your CA Privacy Rights</span><span class="link-text-short">Your CA Privacy Rights</span></a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="https://disneyprivacycenter.com/kids-privacy-policy/english/" target="_blank" name="lpos=nav[header_desktop_story]&lid=section[Children's Online Privacy Policy]"><span class="link-text">Children's Online Privacy Policy</span><span class="link-text-short">Children's Online Privacy Policy</span></a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://preferences-mgr.truste.com/?type=abcnews&affiliateId=11" target="_blank" name="lpos=nav[header_desktop_story]&lid=section[Interest-Based Ads]"><span class="link-text">Interest-Based Ads</span><span class="link-text-short">Interest-Based Ads</span></a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://disneytermsofuse.com" target="_blank" name="lpos=nav[header_desktop_story]&lid=section[Terms of Use]"><span class="link-text">Terms of Use</span><span class="link-text-short">Terms of Use</span></a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/Site/page?id=3068843" target="_blank" name="lpos=nav[header_desktop_story]&lid=section[Contact Us]"><span class="link-text">Contact Us</span><span class="link-text-short">Contact Us</span></a>
+</li>
+</ul>
+</div>
+<div class="footer-wrapper">
+<ul class="footer">
+<li class="footer label">
+<span class="link-text">Yahoo!-ABC News Network <span class='copy-pipe'> | </span> &copy; 2018 ABC News Internet Ventures. All rights reserved.</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<div class="search">
+<a href="#" id="global-search-trigger">
+<span class="icon-search2"></span>
+<span class="icon-close"></span>
+</a>
+<div class="global-search" id="global-search">
+<input class="search-box" placeholder="Search Headlines, News and Video..." type="text">
+<input class="btn-search" type="submit">
+<span class="icon-search2"></span>
+</div>
+</div>
+</ul>
+</nav>
+</header>
+</div>
+<div id="breaking-alerts"></div>
+<div id="abcn-videoplayer" data-behavior="story_player" data-playerversion="https://abcnewsplayer-a.akamaihd.net/player/2.64.0.0010" class="offpage abcn-videoplayer"></div>
+<section id="pane-main">
+<div class="ad-slot ad-slot-banner ad-wrapper" style="text-align: center;" data-rain-drop="Banner" data-slot-type="banner" data-slot-kvps="pos=banner"></div>
+<section id="main-container">
+<div class="main-content layout-cb">
+<!-- main article -->
+<section class="col-b" data-behavior="author_overlay article_header_news_feed_item_meta social_tools comment" id="article-feed">
+<article class="article" data-behavior="story_scroll story_progress" data-id="47800206" data-section="Politics" data-src="http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206">
+<div class="container">
+<header class="article-header"><h1>Putin suggests US hackers could have interfered with election, blamed Russia</h1><div class="news-feed_item-meta"><div class="article-meta">
+<ul class="authors">
+<li>
+<div rel="author" id="RILEYBEGGIN" class="author has-bio"><span class="by-text">By</span> RILEY BEGGIN
+</div>
+<div class="author-overlay">
+<a class="close" href="#">
+Close
+<span class="icon-close"></span>
+</a>
+<div class="author-meta">
+<a class="btn-social twitter horizontal" data-social="true" target="_new" href="https://twitter.com/intent/user?screen_name=@rbeggin">
+Follow on Twitter
+<span class="icon-twitter"></span>
+</a>
+</div><div class="author-meta auth-bio">
+<a href="/author/riley_beggin" class="author-info horizontal" data-social="true" target="_new">
+More from Riley
+</a>
+</div></div>
+</li>
+</ul><span class="timestamp">Jun 2, 2017, 7:39 PM ET</span></div></div>
+<ul class="article-social horizontal" data-id="47800206" data-section="Politics" data-src="http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206">
+<li class="share-count"><span>0</span> Shares</li><li class="btn-social-facebook">
+<a class="btn-social facebook horizontal" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fabcnews.go.com%2FPolitics%2Fputin-suggests-us-hackers-interfered-election-blamed-russia%2Fstory%3Fid%3D47800206%26cid%3Dshare_facebook_widget" name="lpos=widget[share_facebook_widget]&lid=link[horizontal]" data-social="true" target="_new" data-link-tracking="share_facebook">
+<span class="icon-facebook"></span>
+</a>
+</li><li class="btn-social-twitter">
+<a class="btn-social twitter horizontal" href="http://twitter.com/intent/tweet?text=Putin+suggests+US+hackers+could+have+interfered+with+election%2C+blamed+Russia+-+ABC+News+-+http%3A%2F%2Fabcn.ws%2F2rtXUf0&via=ABC" name="lpos=widget[share_twitter_widget]&lid=link[horizontal]" data-social="true" target="_new" data-link-tracking="share_twitter">
+<span class="icon-twitter"></span>
+</a>
+</li><li class="btn-social-whatsapp">
+<a class="btn-social whatsapp horizontal" href="whatsapp://send?text=Putin+suggests+US+hackers+could+have+interfered+with+election%2C+blamed+Russia website:http%3A%2F%2Fabcnews.go.com%2FPolitics%2Fputin-suggests-us-hackers-interfered-election-blamed-russia%2Fstory%3Fid%3D47800206%26cid%3Dshare_whatsapp_widget" name="lpos=widget[share_whatsapp_widget]&lid=link[horizontal]" data-social="true" target="_new" data-link-tracking="share_whatsapp">
+<span class="icon-whatsapp"></span>
+</a>
+</li><li class="internal send-email">
+<div class="btn-social horizontal">
+<a class="page-action email" href="http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206&cid=share_addthis_widget&title=Putin+suggests+US+hackers+could+have+interfered+with+election%2C+blamed+Russia" name="lpos=widget[share_addthis_widget]&lid=link[footer]" data-social="true" data-link-tracking="share_email">Email
+<span class="icon-mail"></span>
+</a>
+</div>
+</li>
+<li class="internal h-star">
+<div class="page-action native-star" data-alert-tag="Russia" data-alert-tag-callback="http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206">Star <span class="icon-star"></span></div>
+</li>
+</ul></header><figure class="article-figure video v-lead teaser_enabled vilynx_autoplay" data-id="47800518" data-video="47800518">
+<div class="img-wrap">
+<picture><img src="http://a.abcnews.com/images/Politics/AP-putin-01-as-170331_12x5_992.jpg" border="0" width="992" height="414" alt="PHOTO: Vladimir Putin speaks at the international Arctic forum in Arkhangelsk, Russia." itemprop='image' class='lazyload'/><span class="video-play-button" data-id="47800518">Play<span class="icon-play-plain"></span></span></picture><span class="credit">Grigoriy Sisoev/Sputnik via AP</span></div></figure><div class="vid-figcaption"><span class="v-credit">WATCH</span><span class="caption"> Vladimir Putin mocks 'hysteria' over Russian hacking during the presidential campaign</span></div><div class="article-body"><ul class="article-social vertical" data-behavior="sticky_social" data-id="47800206" data-src="http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206">
+<li class="share-count"><span>0</span> Shares</li><li>
+<a class="btn-social facebook vertical" name="lpos=widget[share_facebook_widget]&lid=link[vertical]" data-social="true" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fabcnews.go.com%2FPolitics%2Fputin-suggests-us-hackers-interfered-election-blamed-russia%2Fstory%3Fid%3D47800206%26cid%3Dshare_facebook_widget" target="_new" data-link-tracking="share_facebook">
+<span class="icon-facebook"></span>
+</a>
+</li><li>
+<a class="btn-social twitter vertical" name="lpos=widget[share_twitter_widget]&lid=link[vertical]" data-social="true" href="http://twitter.com/intent/tweet?text=Putin+suggests+US+hackers+could+have+interfered+with+election%2C+blamed+Russia+-+ABC+News+-+http%3A%2F%2Fabcn.ws%2F2rtXUf0&via=ABC" target="_new" data-link-tracking="share_twitter">
+<span class="icon-twitter"></span>
+</a>
+</li><li>
+<a class="btn-social whatsapp vertical" name="lpos=widget[share_whatsapp_widget]&lid=link[vertical]" data-social="true" href="whatsapp://send?text=Putin+suggests+US+hackers+could+have+interfered+with+election%2C+blamed+Russia website:http%3A%2F%2Fabcnews.go.com%2FPolitics%2Fputin-suggests-us-hackers-interfered-election-blamed-russia%2Fstory%3Fid%3D47800206%26cid%3Dshare_whatsapp_widget" target="_new" data-link-tracking="share_whatsapp">
+<span class="icon-whatsapp"></span>
+</a>
+</li><li class="internal send-email">
+<div class="btn-social vertical">
+<a class="page-action email" href="http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206&cid=share_addthis_widget&title=Putin+suggests+US+hackers+could+have+interfered+with+election%2C+blamed+Russia" name="lpos=widget[share_addthis_widget]&lid=link[vertical]" data-social="true" data-link-tracking="share_email">
+Email <span class="icon-mail"></span>
+</a>
+</div>
+</li>
+</ul><div class="article-copy">
+<p itemprop="articleBody">
+Russian President <a href="http://abcnews.go.com/topics/news/world/vladimir-putin.htm" id="ramplink_Vladimir Putin_" target="_blank">Vladimir Putin</a> says it is possible that American hackers were responsible for interference with the 2016 U.S. presidential election and then framed Russia.
+</p>
+<div class="abcn-alert-insert">
+<h3>Interested in <span>Russia Investigation?</span></h3>
+<span class="insert-callout">Add Russia Investigation as an interest to stay up to date on the latest Russia Investigation news, video, and analysis from ABC News.</span>
+<div class="lower-wrapper">
+<div class="lower-left-meta">
+<a href="/alerts/russia?cid=clicksource_interests_embed"><span class="insert-display-name"><span class="interest-check"><span class="icon-interest-check _article"></span></span>Russia Investigation</a></span>
+</div>
+<div class="add-interest uf-tag" data-alert="Russia" data-alert-display="Russia Investigation">Add Interest</div>
+</div>
+</div>
+<p itemprop="articleBody">
+In an interview with NBC News’ Megyn Kelly Friday, Putin suggested that Russia was framed for the cyber campaign to undermine the election -- contrary to U.S. intelligence reports that Moscow had a direct hand in hacking political parties’ computer systems and sending found documents to WikiLeaks with the intention of hurting the public’s faith in the democratic process.
+</p><p itemprop="articleBody">
+“Hackers can be anywhere,” Putin told Kelly. “There can even be hackers, by the way, in the United States who very skillfully and professionally shifted the blame, as we say, onto Russia. Can you imagine something like that? In the midst of a political battle?"
+</p><p itemprop="articleBody">
+He went on to imply hackers made a political calculation to leak information at certain times.
+</p><p itemprop="articleBody">
+“By some calculations, it was convenient for them to release this information, so they released it, citing Russia,” he said. “Could you imagine something like that? I can.”
+</p><p itemprop="articleBody">
+Both the House and the Senate are conducting investigations into Russian influence in the election and possible collusion between the Trump administration and the Kremlin.
+</p>
+</div>
+</div>
+<footer class="article-footer"><div class="outbrain-container" data-src="http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206" data-ob-template="abc"></div>
+<div class="social-footer-wrapper">
+<ul class="article-social footer" data-content-id="47800206" data-src="http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206">
+<li class="share-count"><span>0</span> Shares</li><li class="btn-social-facebook">
+<a class="btn-social facebook footer" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fabcnews.go.com%2FPolitics%2Fputin-suggests-us-hackers-interfered-election-blamed-russia%2Fstory%3Fid%3D47800206%26cid%3Dshare_facebook_widget" name="lpos=widget[share_facebook_widget]&lid=link[footer]" data-social="true" target="_new" data-link-tracking="share_facebook">
+<span class="icon-facebook"></span>
+</a>
+</li><li class="btn-social-twitter">
+<a class="btn-social twitter footer" href="http://twitter.com/intent/tweet?text=Putin+suggests+US+hackers+could+have+interfered+with+election%2C+blamed+Russia+-+ABC+News+-+http%3A%2F%2Fabcn.ws%2F2rtXUf0&via=ABC" name="lpos=widget[share_twitter_widget]&lid=link[footer]" data-social="true" target="_new" data-link-tracking="share_twitter">
+<span class="icon-twitter"></span>
+</a>
+</li><li class="btn-social-whatsapp">
+<a class="btn-social whatsapp footer" href="whatsapp://send?text=Putin+suggests+US+hackers+could+have+interfered+with+election%2C+blamed+Russia website:http%3A%2F%2Fabcnews.go.com%2FPolitics%2Fputin-suggests-us-hackers-interfered-election-blamed-russia%2Fstory%3Fid%3D47800206%26cid%3Dshare_whatsapp_widget" name="lpos=widget[share_whatsapp_widget]&lid=link[footer]" data-social="true" target="_new" data-link-tracking="share_whatsapp">
+<span class="icon-whatsapp"></span>
+</a>
+</li><li class="internal send-email">
+<div class="btn-social footer">
+<a class="page-action email" href="http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206&cid=share_addthis_widget&title=Putin+suggests+US+hackers+could+have+interfered+with+election%2C+blamed+Russia" name="lpos=widget[share_addthis_widget]&lid=link[footer]" data-social="true" data-link-tracking="share_email">
+Email <span class="icon-mail"></span>
+</a>
+</div>
+</li>
+<li class="internal">
+<div class="page-action native-star" data-alert-tag="Russia" data-social="true" data-alert-tag-callback="http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206">
+Star <span class="icon-star"></span>
+</div>
+</li>
+</ul>
+</div><div class="internal comments">
+<div class="page-action comment button-alt lg" data-src="http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206" data-content-id="47800206">Comments</div>
+</div>
+<div class="def-band abcn-interests">
+<article class="carousel-item row-item" id="interest-carousel">
+<h2>
+Add Interests
+<div>Customize your news feed by choosing the topics that interest you.</div>
+</h2>
+<div class="slick-slider carousel article-version"></div>
+<div class="interest-footer">
+<div>
+<span class="uf-checkmark check-on"><span class="icon-interest-check"></span></span>To save your interests across all devices <a href="#" class="uf-signup main-login black-ln">Log In</a> or <a href="#" class="uf-signup main-signup uf-create-acct black-ln">Sign Up &raquo</a>
+</div>
+</div>
+</article>
+</div>
+</footer>
+</div>
+</article>
+</section>
+<!-- news feed -->
+<section id="news-feed" class="col-c chk-height" data-behavior="desktop_story_news_feed">
+<div id="news-feed-content" class="sidebar">
+<div class="container-wrapper">
+<div class="container">
+<article data-id="47800206" class="news-feed-item w-images" data-index="0"> <a class="story-link" data-id="47800206" name="lpos=newsfeed[story_47800206]&lid=[image]" href="/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/AP-putin-01-as-170331_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_47800206]&lid=[headline]" href="/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206" data-redirect="false">Putin suggests US hackers could have interfered with election, blamed Russia</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article><div data-rain-drop="NewsNativeArticle"></div></article> <article data-id="52434401" class="news-feed-item w-images" data-index="2"> <a class="story-link" data-id="52434401" name="lpos=newsfeed[story_52434401]&lid=[image]" href="/Politics/trump-sums-workout-routine-walk/story?id=52434401" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/trump-walking-gty-er-180118_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52434401]&lid=[headline]" href="/Politics/trump-sums-workout-routine-walk/story?id=52434401" data-redirect="false">Trump sums up his workout routine: 'I walk, I this, I that'</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52318319" class="news-feed-item w-images" data-index="3"> <a class="story-link" data-id="52318319" name="lpos=newsfeed[story_52318319]&lid=[image]" href="/Politics/activist-explains-hopes-change-america-views-abortion/story?id=52318319" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Live/march-gty-3-er-180111_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52318319]&lid=[headline]" href="/Politics/activist-explains-hopes-change-america-views-abortion/story?id=52318319" data-redirect="false">Activist explains why she hopes to change the way America views abortion</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52438005" class="news-feed-item w-images" data-index="4"> <a class="story-link" data-id="52438005" name="lpos=newsfeed[story_52438005]&lid=[image]" href="/Politics/trump-set-speak-pennsylvania-special-election-looms/story?id=52438005" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/saccone-lamb-ap-rt-mem-180118_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52438005]&lid=[headline]" href="/Politics/trump-set-speak-pennsylvania-special-election-looms/story?id=52438005" data-redirect="false">Trump touts PA GOP candidate Saccone as a 'great guy' as special election looms</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article class="ad-300"><div class="ad-slot ad-wrapper ad-slot-incontent-strip ad-slot-incontent" data-rain-drop="Rectangle"><!-- ad --></div></article> <article data-id="52033836" class="news-feed-item w-images" data-index="5"> <a class="story-link" data-id="52033836" name="lpos=newsfeed[story_52033836]&lid=[image]" href="/Politics/trump-businesses-ups-downs-year-presidency/story?id=52033836" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/trump-moments-07-gty-jrl-171107_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52033836]&lid=[headline]" href="/Politics/trump-businesses-ups-downs-year-presidency/story?id=52033836" data-redirect="false">Trump businesses see ups and downs a year into the presidency</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52422140" class="news-feed-item w-images" data-index="7"> <a class="story-link" data-id="52422140" name="lpos=newsfeed[story_52422140]&lid=[image]" href="/Politics/kelly-trump-campaign-promises-border-wall-evolved/story?id=52422140" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/ap-john-kelly-fox-mo-20180118_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52422140]&lid=[headline]" href="/Politics/kelly-trump-campaign-promises-border-wall-evolved/story?id=52422140" data-redirect="false">Kelly: Trump campaign promises on border wall have 'evolved'</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52434480" class="news-feed-item w-images" data-index="33"> <a class="story-link" data-id="52434480" name="lpos=newsfeed[story_52434480]&lid=[image]" href="/Politics/trump-administration-announce-conscience-religious-freedom-division-hhs/story?id=52434480" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/hargan-gty-er-180118_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52434480]&lid=[headline]" href="/Politics/trump-administration-announce-conscience-religious-freedom-division-hhs/story?id=52434480" data-redirect="false">Trump administration announces new 'conscience and religious freedom' HHS division</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52421131" class="news-feed-item w-images" data-index="16"> <a class="story-link" data-id="52421131" name="lpos=newsfeed[story_52421131]&lid=[image]" href="/Politics/note-shutdown-blame-game-misses-broader-goal/story?id=52421131" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/trump-mitch-mcconnell-gty-ml-170928_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52421131]&lid=[headline]" href="/Politics/note-shutdown-blame-game-misses-broader-goal/story?id=52421131" data-redirect="false">The Note: Shutdown blame game misses the broader goal</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52360325" class="news-feed-item w-images" data-index="10"> <a class="story-link" data-id="52360325" name="lpos=newsfeed[story_52360325]&lid=[image]" href="/Politics/trumps-relationships-graham-corker-evolved-year-presidency/story?id=52360325" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/corker-graham-02-gty-jc-171011_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52360325]&lid=[headline]" href="/Politics/trumps-relationships-graham-corker-evolved-year-presidency/story?id=52360325" data-redirect="false">Trump's relationships with 2 Republican senators have evolved during presidency</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52425629" class="news-feed-item w-images" data-index="9"> <a class="story-link" data-id="52425629" name="lpos=newsfeed[story_52425629]&lid=[image]" href="/Politics/trump-administration-bar-haitians-seasonal-work-visas/story?id=52425629" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/president-trump-ap-jef-180111_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52425629]&lid=[headline]" href="/Politics/trump-administration-bar-haitians-seasonal-work-visas/story?id=52425629" data-redirect="false">Trump administration to bar Haitians from seasonal work visas</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52425921" class="news-feed-item w-images" data-index="11"> <a class="story-link" data-id="52425921" name="lpos=newsfeed[story_52425921]&lid=[image]" href="/Politics/trump-us-leadership-approval-drops-lows-abroad-poll/story?id=52425921" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/trump-asia-vietnam-apec-putin-ap-jt-171111_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52425921]&lid=[headline]" href="/Politics/trump-us-leadership-approval-drops-lows-abroad-poll/story?id=52425921" data-redirect="false">Under Trump, US leadership approval drops to new lows abroad: Poll</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52420597" class="news-feed-item w-images" data-index="13"> <a class="story-link" data-id="52420597" name="lpos=newsfeed[story_52420597]&lid=[image]" href="/Politics/michelle-obama-celebrates-54th-birthday-flowers-barack-obama/story?id=52420597" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/michelle-obama-gty-hb-180117_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52420597]&lid=[headline]" href="/Politics/michelle-obama-celebrates-54th-birthday-flowers-barack-obama/story?id=52420597" data-redirect="false">Michelle Obama celebrates 54th birthday with flowers from Barack Obama</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52418777" class="news-feed-item w-images" data-index="14"> <a class="story-link" data-id="52418777" name="lpos=newsfeed[story_52418777]&lid=[image]" href="/Politics/steve-bannon-reached-agreement-special-counsel-robert-mueller/story?id=52418777" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/steve-bannon-1-gty-jt-180116_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52418777]&lid=[headline]" href="/Politics/steve-bannon-reached-agreement-special-counsel-robert-mueller/story?id=52418777" data-redirect="false">Bannon reaches agreement with special counsel for interview: Sources</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52431816" class="news-feed-item w-images" data-index="13"> <a class="story-link" data-id="52431816" name="lpos=newsfeed[story_52431816]&lid=[image]" href="/US/13-captive-siblings-forced-shower-year-strangled-subject/story?id=52431816" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/US/turpin-mugs_split-ht-180115_3_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52431816]&lid=[headline]" href="/US/13-captive-siblings-forced-shower-year-strangled-subject/story?id=52431816" data-redirect="false">Horrific new details emerge in case of 13 captive siblings</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52433255" class="news-feed-item w-images" data-index="15"> <a class="story-link" data-id="52433255" name="lpos=newsfeed[story_52433255]&lid=[image]" href="/US/multiple-officers-shot-serving-federal-warrant-pennsylvania/story?id=52433255" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/US/breaking-news-graphic1-abc-ml-171211_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52433255]&lid=[headline]" href="/US/multiple-officers-shot-serving-federal-warrant-pennsylvania/story?id=52433255" data-redirect="false">US Marshal killed, officers wounded serving federal warrant</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52425887" class="news-feed-item w-images" data-index="18"> <a class="story-link" data-id="52425887" name="lpos=newsfeed[story_52425887]&lid=[image]" href="/Politics/wireStory/white-house-official-trump-immigration-views-evolved-52425887" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/WireAP_0432f94e661a435b98404ec5fc144646_16x9_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52425887]&lid=[headline]" href="/Politics/wireStory/white-house-official-trump-immigration-views-evolved-52425887" data-redirect="false">Congress strains to pass stopgap budget, avert shutdown</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52428043" class="news-feed-item w-images" data-index="10"> <a class="story-link" data-id="52428043" name="lpos=newsfeed[story_52428043]&lid=[image]" href="/Politics/wireStory/russia-probes-claims-executive-privilege-52428043" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/WireAP_894360ea75204125b92fc37b48126d70_16x9_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52428043]&lid=[headline]" href="/Politics/wireStory/russia-probes-claims-executive-privilege-52428043" data-redirect="false">Russia probes come up against claims of executive privilege</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52425158" class="news-feed-item w-images" data-index="13"> <a class="story-link" data-id="52425158" name="lpos=newsfeed[story_52425158]&lid=[image]" href="/Politics/wireStory/trump-pennsylvania-call-campaign-trip-52425158" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/WireAP_67f5e94464e04d8eaa4aa7ff7f90a63a_16x9_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52425158]&lid=[headline]" href="/Politics/wireStory/trump-pennsylvania-call-campaign-trip-52425158" data-redirect="false">Trump hoping to keep Pennsylvania seat in Republican hands</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52413926" class="news-feed-item w-images" data-index="20"> <a class="story-link" data-id="52413926" name="lpos=newsfeed[story_52413926]&lid=[image]" href="/Politics/oprahs-16-potential-democratic-2020-candidates-advice/story?id=52413926" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/Jim-Messina-Barack-Obama-gty-hb-180117_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52413926]&lid=[headline]" href="/Politics/oprahs-16-potential-democratic-2020-candidates-advice/story?id=52413926" data-redirect="false">Oprah's not alone: 16 potential Democratic 2020 candidates ask for advice</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52404496" class="news-feed-item w-images" data-index="17"> <a class="story-link" data-id="52404496" name="lpos=newsfeed[story_52404496]&lid=[image]" href="/Health/analysis-questions-president-donald-trumps-health-answered/story?id=52404496" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/donald-trump-spl-mem-180117_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52404496]&lid=[headline]" href="/Health/analysis-questions-president-donald-trumps-health-answered/story?id=52404496" data-redirect="false">ANALYSIS: 6 questions about Trump's health answered </a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52388416" class="news-feed-item w-images" data-index="17"> <a class="story-link" data-id="52388416" name="lpos=newsfeed[story_52388416]&lid=[image]" href="/Politics/view-sen-dick-durbin-defends-account-trumps-alleged/story?id=52388416" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/dick-durbin-abc-ml-180117_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52388416]&lid=[headline]" href="/Politics/view-sen-dick-durbin-defends-account-trumps-alleged/story?id=52388416" data-redirect="false">Sen. Dick Durbin defends his account of Trump's alleged 's---hole' remark</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52406127" class="news-feed-item w-images" data-index="21"> <a class="story-link" data-id="52406127" name="lpos=newsfeed[story_52406127]&lid=[image]" href="/Politics/eric-trump-brushes-off-accusations-father-racist/story?id=52406127" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/AP-Eric-Trump-MEM-170607_2_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52406127]&lid=[headline]" href="/Politics/eric-trump-brushes-off-accusations-father-racist/story?id=52406127" data-redirect="false">Eric Trump: 'My father sees one color, green'</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52360108" class="news-feed-item w-images" data-index="20"> <a class="story-link" data-id="52360108" name="lpos=newsfeed[story_52360108]&lid=[image]" href="/Politics/congressional-democrats-boycott-trumps-state-union-hole-remark/story?id=52360108" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/john-lewis-gty-jrl-180115_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52360108]&lid=[headline]" href="/Politics/congressional-democrats-boycott-trumps-state-union-hole-remark/story?id=52360108" data-redirect="false">4 congressmen to boycott Trump's State of the Union in response to 's---hole' remark</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52413977" class="news-feed-item w-images" data-index="20"> <a class="story-link" data-id="52413977" name="lpos=newsfeed[story_52413977]&lid=[image]" href="/Politics/democratic-gains-state-legislatures-fuel-republican-2018-anxieties/story?id=52413977" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/Patty-Schachtner-ap-hb-180117_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52413977]&lid=[headline]" href="/Politics/democratic-gains-state-legislatures-fuel-republican-2018-anxieties/story?id=52413977" data-redirect="false">Democratic gains in state legislatures fuel Republican 2018 anxieties</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article> <article data-id="52406277" class="news-feed-item w-images" data-index="22"> <a class="story-link" data-id="52406277" name="lpos=newsfeed[story_52406277]&lid=[image]" href="/Politics/sen-jeff-flake-condemns-trumps-media-attacks-compares/story?id=52406277" data-redirect="false"></a><figure class="feed-item-figure"><div class="img-wrap"><img data-sizes="auto" class="lazyload" data-src="http://a.abcnews.com/images/Politics/flakespeech-01-pool-jrl-180117_16x9t_240.jpg" /></div></figure><div class="text-container"> <div class="item-info-wrap"><h1> <a class="realStory" name="lpos=newsfeed[story_52406277]&lid=[headline]" href="/Politics/sen-jeff-flake-condemns-trumps-media-attacks-compares/story?id=52406277" data-redirect="false">Sen. Flake condemns Trump's media attacks, compares rhetoric to Stalin</a> </h1><div class="news-feed_item-meta"> </div> </div> </div> </article>
+</div>
+</div>
+</div>
+</section>
+</div>
+</section>
+</section>
+</div>
+<script>
+window.abcnvideo = window.abcnvideo || {};
+window.abcnvideo.storysection = "politics";
+window.abcnvideo.storyid = "47800206";
+window.abcnvideo.show = "wn";
+window.abcnvideo.url = "/WNT/video/vladimir-putin-mocks-hysteria-russian-hacking-presidential-campaign-47800518";
+window.abcnvideo.playlist = [47800518];
+window.abcnvideo.editorautostart = "true";
+window.abcnvideo.featuredvideo = "Vladimir Putin mocks \'hysteria\' over Russian hacking during the presidential campaign";
+window.abcnvideo.featuredimage = "http://a.abcnews.com/images/Politics/AP-putin-01-as-170331_12x5_992.jpg";
+window.abcnvideo.uniUrl = "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/15a750c8-e7be-4371-b5c3-dd911c0d8bb0/wnt-47800518/content.once?UMADPARAMcsid=nws_smartphone_politics&UMADPARAMcaid=news-47800518&UMADPARAMusernum=624388&UMXBeacon=http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgnewabcnews%2Cwdgasec%2F5%2FH.16%2F1721%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Awnt%26c3%3D47800518%7C170602_wn_brianross_637_video%7Csec_wnt%7Esec_blotter%7Esec_politics%7Esec_wn%7Cvladimir-putin-mocks-hysteria-over-russian-hacking-during-the-presidential-campaign%26v2%3D47800518%7C170602_wn_brianross_637_video%7Csec_wnt%7Esec_blotter%7Esec_politics%7Esec_wn%7Cvladimir-putin-mocks-hysteria-over-russian-hacking-during-the-presidential-campaign%26c18%3Dplayer%7Cstorypage%26v15%3Dplayer%7Cstorypage%26c25%3D47800518%26v12%3D47800518%26c16%3Dvideoadtree%7CNews%2FPolitics%26v20%3Dvideoadtree%7CNews%2FPolitics"
+window.leadStoryAnalytics = "{\"prop1\":\"abcn\",\"eVar1\":\"abcn\",\"prop4\":\"story\",\"prop5\":\"abcn:politics\",\"eVar5\":\"story\",\"prop6\":\"abcn:politics::\",\"prop13\":\"beggin,riley\",\"prop16\":\"abcnews\",\"eVar16\":\"abcn|sec_politics|||20170602|47800206|story|beggin_putin_kelly_06022017\",\"eVar17\":\"story:abcn:politics\",\"prop24\":\"47800206|Putin suggests US hackers could have interfered with election blamed Russia\",\"prop25\":\"\",\"prop26\":\"\",\"prop37\":\"storypage-hasvideo\",\"eVar39\":47800206,\"eVar41\":\"beggin,riley\",\"prop41\":\"russia\",\"prop42\":\"06-02-2017\",\"eVar42\":\"06-02-2017\",\"prop43\":\"19:23\",\"eVar43\":\"19:23\",\"eVar45\":\"Vladimir Putin, Megyn Kelly, Russia investigation\",\"prop46\":\"http:\/\/abcnews.go.com\/Politics\/putin-suggests-us-hackers-interfered-election-blamed-russia\/story?id=47800206\",\"eVar46\":\"http:\/\/abcnews.go.com\/Politics\/putin-suggests-us-hackers-interfered-election-blamed-russia\/story?id=47800206\",\"prop47\":\"\\\\u201CHackers can be anywhere,\\\\u201D Putin told Kelly.\",\"eVar47\":\"\\\\u201CHackers can be anywhere,\\\\u201D Putin told Kelly.\",\"eVar48\":\"\",\"prop49\":\"06-02-2017\",\"eVar49\":\"06-02-2017\",\"prop52\":\"Putin suggests US hackers could have interfered with election blamed Russia\",\"eVar52\":\"Putin suggests US hackers could have interfered with election blamed Russia\",\"eVar55\":\"\",\"eVar59\":\"\",\"prop66\":\"Russia Investigation\",\"eVar66\":\"Russia Investigation\",\"site\":\"site\",\"pageName\":\"abcn|sec_politics|||20170602|47800206|story|beggin_putin_kelly_06022017\",\"pageURL\":\"\",\"pageType\":\"\",\"server\":\"abcnews.go.com\",\"channel\":\"abcn:politics\",\"events\":\"event3\",\"varnish_device\":\"site\",\"storyID\":47800206}";
+window.leadTQ = "{\"realsection\":\"\",\"id\":\"47800206\",\"othersubs\":\"\",\"altsection\":\"default\",\"byline\":\"riley beggin\",\"objType\":\"story\",\"keywords\":\"\",\"subsection\":\"\",\"recipes\":\"\",\"path\":\"\/News\/Politics\/story\/\",\"show\":\"\",\"caid\":\"News\/Politics\",\"section\":\"politics\"}";
+window.chartbeatConfig = "{\"location\":\"\/Politics\/putin-suggests-us-hackers-interfered-election-blamed-russia\/story?id=47800206\",\"pageName\":\"Putin suggests US hackers could have interfered with election, blamed Russia\"}";
+</script>
+<script src="https://s.abcnews.com/assets/beta/js/abcn.js?v=247"></script>
+<script type="text/javascript" src="https://abcnewsplayer-a.akamaihd.net/player/2.64.0.0010/amp.premier/amp.premier.min.js?v=2"></script>
+<script src="https://s.abcnews.com/assets/beta/js/custom/pages/trident_story.js?v=247"></script>
+<!-- SiteCatalyst code version: H.15.1 Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript">
+var s_account = "wdgnewabcnews,wdgasec,wdgnewabcnweb";
+</script>
+<script language="JavaScript" src="https://s.abcnews.com/assets/js/s_code_15.js?v=4"></script>
+<script language="JavaScript">
+// Optimizely SiteCatalyst Integration
+window.optimizely = window.optimizely || [];
+window.optimizely.push(['activateSiteCatalyst', {"sVariable": s_omni}]);
+s_omni.pageName = "abcn|sec_politics|||20170602|47800206|story|beggin_putin_kelly_06022017"; //content name
+s_omni.pageURL = ""; //content url
+s_omni.pageType = ""; //page type
+s_omni.server = window.document.location.hostname; //reporting domain
+s_omni.channel = "abcn:politics";
+s_omni.prop1 = "abcn";
+s_omni.eVar1 = "abcn";
+s_omni.prop4 = "story";
+s_omni.prop5 = "abcn:politics";
+s_omni.eVar5 = "story";
+s_omni.prop6 = "abcn:politics::";
+s_omni.prop13 = "beggin,riley";
+s_omni.eVar16 = "abcn|sec_politics|||20170602|47800206|story|beggin_putin_kelly_06022017";
+s_omni.eVar17 = "story:abcn:politics";
+s_omni.prop24 = "47800206|Putin suggests US hackers could have interfered with election blamed Russia";
+s_omni.prop25 = "";
+s_omni.prop26 = "";
+s_omni.prop37 = "storypage-hasvideo";
+s_omni.eVar39 = "47800206";
+s_omni.prop41 = "russia";
+s_omni.eVar41 = "beggin,riley";
+s_omni.prop42 = "06-02-2017";
+s_omni.eVar42 = "06-02-2017";
+s_omni.prop43 = "19:23";
+s_omni.eVar43 = "19:23";
+s_omni.prop46 = "http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206";
+s_omni.eVar46 = "http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206";
+s_omni.prop47 = "\u201CHackers can be anywhere,\u201D Putin told Kelly.";
+s_omni.eVar47 = "\u201CHackers can be anywhere,\u201D Putin told Kelly.";
+s_omni.eVar48 = "";
+s_omni.prop49 = "06-02-2017";
+s_omni.eVar49 = "06-02-2017";
+s_omni.eVar55 = "";
+s_omni.prop2 = s_omni.c_r('SWID'); // reads value from cookie when JS executes
+if(typeof $.cookie != "undefined"){
+if($.cookie("abcn_hasInterestTag") !== null) {
+s_omni.eVar51 = "yes";
+} else {
+s_omni.eVar51 = "no";
+}
+if($.cookie("SWID") != null){//user has SWID
+if(window.abcn_ui.Helpers.ufirst.SWID()) {//logged in
+s_omni.eVar59 = "yes";
+} else {//logged out
+s_omni.eVar59 = "no";
+}
+} else {
+s_omni.eVar59 = "no";
+}
+if($.cookie("abcn_appboySDK") !== null) {
+s_omni.eVar52 = "yes";
+} else {
+s_omni.eVar52 = "no";
+}
+}
+var arecookiesEnabled = navigator.cookieEnabled;
+var tryLocalStorage = function() {
+try {
+localStorage.setItem("testLS", "test");
+localStorage.removeItem("testLS");
+return true;
+} catch(e) {
+return false;
+}
+}
+var thirtyMinutesLater = new Date();
+thirtyMinutesLater.setMinutes(thirtyMinutesLater.getMinutes() + 30);
+var setTrackID = function() {
+// set setTime for protection
+setTimeout(function() {
+if (s_omni.prop14) {
+var prevPageTrack = s_omni.prop14;
+if (tryLocalStorage) {
+memcachejs.set("abcnd-prev-page", prevPageTrack, 1800);
+//localStorage.setItem('abcnd-prev-page', prevPageTrack);
+} else if (arecookiesEnabled) {
+createCookie('abcnd-prev-page',prevPageTrack,1);
+}
+} else {
+// clear
+if (tryLocalStorage) {
+memcachejs.remove("abcnd-prev-page");
+} else if (arecookiesEnabled) {
+document.cookie = 'abcnd-prev-page=; expires='+thirtyMinutesLater.toGMTString()+';';
+}
+}
+}, 1000);
+}
+$(document).ready(function(){
+$(document).on("click", 'a[name^=lpos]', function(e) {
+var n = $(this).attr("name");
+if (tryLocalStorage) {
+memcachejs.set("abcnd-link-track", n, 1800);
+} else if (arecookiesEnabled) {
+createCookie('abcnd-link-track',n,1);
+}
+});
+//apply link tracking to social buttons with specific attribute
+$(document).on("click", '.btn-social, .vjs-control.icon-facebook, .page-action.email', function(e) {
+if(this.getAttribute("data-link-tracking")){
+trackClickInteraction(this)
+}
+});
+});
+/** link tracking for ALERTS (nav bell, interest button, etc) **/
+$('#global-interest-trigger').on('click', function(){
+if($('.abcn-interest-notifications').css('opacity') == '0') {
+s_omni.tl(true,'o','nav_bell');
+}
+});
+$('article, .col-b').on('click', '.uf-tag', function(e) {
+s_omni.tl(true,'o','interest_button');
+});
+var linkTrack = false;
+if (tryLocalStorage) {
+linkTrack = memcachejs.get("abcnd-link-track");
+} else if (arecookiesEnabled) {
+linkTrack = readCookie('abcnd-link-track');
+}
+if (linkTrack) {
+var lpos = linkTrack.split("lpos=");
+if (lpos.length == 2) {
+if(typeof s_omni != "undefined"){
+// lpos[1] is the name= property in the anchor tag.
+s_omni.prop9 = lpos[1];
+}
+}
+}
+// do this again for prop12, even if click tracking doesn't occur (back button, forward button)
+if (tryLocalStorage) {
+memcachejs.remove("abcnd-link-track");
+// if previous page is set, add to to prop12
+if (memcachejs.get('abcnd-prev-page')) {
+s_omni.prop12 = memcachejs.get('abcnd-prev-page')
+memcachejs.remove("abcnd-prev-page");
+}
+} else if (arecookiesEnabled) {
+document.cookie = 'abcnd-link-track=; expires='+thirtyMinutesLater.toGMTString()+';';
+// if previous page is set, add to to prop12
+if (readCookie('abcnd-prev-page')) {
+s_omni.prop12 = readCookie('abcnd-prev-page');
+document.cookie = 'abcnd-prev-page=; expires='+thirtyMinutesLater.toGMTString()+';';
+}
+}
+// set the current page in ls/cookie format
+setTrackID();
+function slideLoadJS(u, c) {
+var d = document, t = 'script',
+o = d.createElement(t),
+s = d.getElementsByTagName(t)[0];
+o.src = '//' + u;
+if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+s.parentNode.insertBefore(o, s);
+}
+window.bkInit = function(s_omni_override) {
+try{
+if(typeof s_omni !='undefined'){
+if(typeof s_omni_override != "undefined"){
+var bkprop4 = (typeof s_omni_override.prop4 != 'undefined' ? s_omni_override.prop4 : '');
+var bkprop5 = (typeof s_omni_override.prop5 != 'undefined' ? s_omni_override.prop5 : '');
+var bkprop15 = (typeof s_omni_override.prop15 != 'undefined' ? s_omni_override.prop15 : '');
+var bkeVar2 = (typeof s_omni_override.eVar2 != 'undefined' ? s_omni_override.eVar2 : '');
+var bkpeVar20 = (typeof s_omni_override.eVar20 != 'undefined' ? s_omni_override.eVar20 : '');
+var bkchannel = (typeof s_omni_override.channel != 'undefined' ? s_omni_override.channel : '');
+}else{
+var bkprop4 = (typeof s_omni.prop4 != 'undefined' ? s_omni.prop4 : '');
+var bkprop5 = (typeof s_omni.prop5 != 'undefined' ? s_omni.prop5 : '');
+var bkprop15 = (typeof s_omni.prop15 != 'undefined' ? s_omni.prop15 : '');
+var bkeVar2 = (typeof s_omni.eVar2 != 'undefined' ? s_omni.eVar2 : '');
+var bkpeVar20 = (typeof s_omni.eVar20 != 'undefined' ? s_omni.eVar20 : '');
+var bkchannel = (typeof s_omni.channel != 'undefined' ? s_omni.channel : '');
+}
+bk_addPageCtx("prop4", bkprop4);
+bk_addPageCtx("prop5", bkprop5);
+bk_addPageCtx("prop15", bkprop15);
+bk_addPageCtx("eVar2", bkeVar2);
+bk_addPageCtx("eVar20", bkpeVar20);
+bk_addPageCtx("channel", bkchannel);
+/*placeholder for ID to be used for offline match.
+for example, the lines below assume the ID for offline match is in s_omni.prop2.
+to activate the offline match id, remove the comments from the lines below and
+replace the s_omni.prop2 with the correct variable for the offline ID to be used.*/
+//var bkid = (typeof s_omni.prop2 != 'undefined' ? s_omni.prop2 : '');
+//bk_addPageCtx("id", bkid);
+}
+}
+catch(e){
+}
+bk_allow_multiple_calls = true;
+bk_use_multiple_iframes = true;
+BKTAG.doTag(25193, 10);
+};
+slideLoadJS("tags.bkrtx.com/js/bk-coretag.js", function() {
+window.bkInit();
+});
+var s_code=s_omni.t();if(s_code)document.write(s_code);
+</script>
+<!-- End SiteCatalyst code version: H.15.1 -->
+<script>
+window.captions = [];
+var initId = $(".col-b article").data("id");
+var initEl = $('.col-b article[data-id='+initId+']');
+window.abcn_ui.Helpers.captions.init(initEl);
+// ad tracking
+if (s_omni !== "undefined") {
+window.abcn_ui.Helpers.tracking.preInit(s_omni);
+}
+</script>
+<script type="text/javascript" src="https://s.abcnews.com/assets/js/min/merlin-news.min.js?v=3.61"></script>
+<script type="text/javascript">
+var merlinObj = new Merlin({
+"contentId": "47800206",
+"productId": "NewsWeb",
+"source": "news",
+"traceId": "null",
+"template": "story",
+"parentSource": "null",
+"parentId": "47800206",
+"grandParentId": "null",
+"grandParentSource": "null",
+"recName": "null",
+"recId": "null"
+});
+merlinObj.registerBasic(true,true);
+</script>
+<script type="text/javascript">
+var merlinVideoObj = MerlinTemplateHandlers.beta_story("47800206");
+</script>
+<noscript><div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-704476h&cg=0&cc=1&ts=noscript" width="1" height="1" alt="" /></div></noscript>
+<!-- Google Code for ABC News - Site - 365 Remarketing List -->
+<script type="text/javascript">
+var google_conversion_id = 1005826543;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "1GPKCOHYjwMQ7-PO3wM";
+var google_conversion_value = 0;
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js" async></script>
+<noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1005826543/?value=0&amp;label=1GPKCOHYjwMQ7-PO3wM&amp;guid=ON&amp;script=0"/></div></noscript>
+<!-- Nielsen Online SiteCensus V6.0, Copyright 2010 Nielsen Online-->
+<script type="text/javascript">
+(function () {
+var nielsenImg = new Image(1, 1);
+nielsenImg.onerror = nielsenImg.onload = function () {
+nielsenImg.onerror = nielsenImg.onload = null;
+};
+nielsenImg.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-704476h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+</script>
+<div class="ad_container"><script type="text/javascript">digGetAd("Survey");</script></div><script type='text/javascript'>
+var _sf_async_config = _sf_async_config || {};
+/** CONFIGURATION START **/
+if (typeof tq != 'undefined' && tq.section) {
+_sf_async_config.sections = tq.section;
+} else if (typeof abcnewsSite != 'undefined' && abcnewsSite.section) {
+_sf_async_config.sections = abcnewsSite.section;
+} else {
+_sf_async_config.sections = '';
+}
+if (typeof tq != 'undefined' && tq.byline) {
+_sf_async_config.authors = tq.byline;
+} else {
+_sf_async_config.authors = '';
+}
+/** CONFIGURATION END **/
+(function() {
+function loadChartbeat() {
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() {
+oldonload();
+loadChartbeat();
+};
+})();
+</script>
+<script type="text/javascript" src="//js.pusher.com/2.2/pusher.min.js"></script>
+<!-- FastCast -->
+<script src="https://s.abcnews.com/assets/fastcast/tinycast.prod.js?v=247"></script>
+<script>
+TinyCast.easyInit({pid:11001, "dcs": "PROD", "path": "https://s.abcnews.com/assets"},
+function onMessage(data) {
+if (data.data) {
+abcn_ui.Helpers.live_alerts_render.updateLiveAlerts(data.data);
+}
+}
+)
+</script>
+<script type="text/javascript" src="//static.vilynx.com/plugins/abcnews-vilynx.js" disableall="true"></script>
+</body>
+</html>
