@@ -1,0 +1,1410 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script><meta charset="UTF-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width">
+<title>Longtime CSO violinist Fred Spector has died at 92 | Chicago Sun-Times</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://chicago.suntimes.com/xmlrpc.php">
+<link rel="apple-touch-icon" sizes="57x57" href="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/favicon-16x16.png" sizes="16x16" />
+<meta name="msapplication-TileColor" content="#282828" />
+<meta name="msapplication-TileImage" content="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/assets/images/favicons/mstile-310x310.png" />
+<script type="text/javascript" async src="http://mtrx.go.sonobi.com/morpheus.chicagosuntimes.5552.js"></script>
+<script type="text/javascript">
+(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') +
+			'//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+})();
+</script>
+	<script>/* <![CDATA[ */
+var dfp = {
+	"account_id":"/61924087/",
+	"front_page": false,
+	"section": false,
+	"article": true,
+	"search": false,
+	"fourohfour": false,
+	"author": false,
+	"gallery": false,
+	"parent_inventory":"chicago.suntimes.com\/chicago.suntimes.com.index",
+	"parent" : "",
+	"child" : "",
+	"slug" : "entertainment",
+	"grandchild" : "",
+	"adunitpath" : "\/61924087\/chicago.suntimes.com\/chicago.suntimes.com.entertainment\/chicago.suntimes.com.entertainment.index"};
+/* ]]> */
+</script>
+		<meta name="apple-itunes-app" content="app-id=930568136">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+{ (i[r].q=i[r].q||[]).push(arguments)}
+,i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-52083976-1', 'auto', {name: 'BNA'});
+ga('BNA.require', 'displayfeatures');
+ga('create', 'UA-53290409-1', 'auto', {name: 'networkGlobal'});
+ga('networkGlobal.require', 'displayfeatures');
+ga('BNA.require','eventTracker', {attributePrefix: 'data-', hitFilter: function (model) {
+  if ( 'chicago.suntimes.com' !== model.get('cookieDomain') ) {throw new Error('Aborting hit');}
+}});
+ga('BNA.require','outboundLinkTracker', {attributePrefix: 'data-'});
+</script><script type='text/javascript'>
+  var adUnitPath = dfp.adunitpath;
+  var article_skyscraper_mapping, article_lead_unit_mapping, article_cube_mapping, sf_mapping, sf_inline_mapping, article_mapping, super_leaderboard_mapping, gallery_cube_mapping, hp_cube_mapping, article_leaderboard_mapping, hp_ear_mapping;
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  var CSTAdTags = {};
+  googletag.cmd.push(function () {
+    article_lead_unit_mapping = googletag.sizeMapping()
+      .addSize([1025, 0], [728, 90]) //desktop
+	  .addSize([800, 1200], [ [320, 50] ] ) //tablet
+	  .addSize([800, 1280], [ [320, 50] ] ) //tablet
+	  .addSize([768, 1024], [ [320, 50] ] ) //tablet
+      .addSize([0, 0], [[320, 50],[300,50]]) //other
+	  .build();
+    super_leaderboard_mapping = googletag.sizeMapping().
+    addSize([1200, 800], [ [970, 250], [970,90], [728,90] ] ). //tablet
+    addSize([992, 0], [ [970, 250], [970, 90], [728, 90] ] ). //desktop
+    addSize([800, 1200], [ [728,90] ] ). //tablet
+    addSize([768, 1024], [ [728,90] ] ). //tablet
+    addSize([640, 480], [[320, 50], [300, 50]]). //phone
+    addSize([414, 0], [[320, 50], [300, 50]]). //phone
+    addSize([375, 667], [[320, 50], [300, 50]]). //phone
+    addSize([0, 0], [[320, 50], [300, 50]]). //other
+    build();
+    article_cube_mapping = googletag.sizeMapping()
+      .addSize([0, 0], []) //other
+	  .addSize([1025, 0], [[300, 600], [300, 250]]) //desktop
+	  .build();
+    article_skyscraper_mapping = googletag.sizeMapping()
+      .addSize([0, 0], []) //other
+	  .addSize([1025, 0], [[160,600]]) //desktop
+	  .build();
+    hp_ear_mapping = googletag.sizeMapping()
+      .addSize([0, 0], []) //other
+	  .addSize([992, 0], [[184,90]]) //desktop
+	  .build();
+    hp_cube_mapping = googletag.sizeMapping()
+	  .addSize([1025, 0], [[300, 600]]) //desktop
+	  .addSize([768,1024], [[300, 600]]) //desktop no sidebar
+	  .addSize([768, 0], [[300, 600]]) //desktop
+	  .addSize([732, 0], [[300, 250]]) //mobile device
+	  .addSize([640, 480], [[320, 50], [300, 50]]) //phone
+	  .addSize([375, 667], [[320, 50], [300, 50]]) //phone
+	  .addSize([0, 0], [[300, 50], [320, 50]])
+	  .build();
+    gallery_cube_mapping = googletag.sizeMapping()
+      .addSize([0, 0], []) //other
+	  .addSize([1025, 0], [[300, 250]]) //desktop
+	  .build();
+    var ym_craig_mapping = googletag.sizeMapping()
+	  .addSize([992, 0], [728, 90]) //desktop
+	  .addSize([0, 0], [300, 250]) //other
+	  .build();
+    article_mapping = googletag.sizeMapping().
+    addSize([992, 0], [ [728, 90] ] ). //desktop
+    addSize([800, 1200], [ [728,90] ] ). //tablet
+    addSize([768, 1024], [ [728,90] ] ). //tablet
+    addSize([640, 480], [[300, 50], [320, 50]]). //phone
+    addSize([375, 667], [[300, 50], [320, 50]]). //phone
+    addSize([0, 0], [[300, 50], [320, 50]]). //other
+    build();
+    article_leaderboard_mapping = googletag.sizeMapping().
+    addSize([992, 0], [ [728, 90] ] ). //desktop
+    addSize([800, 1200], [ [728,90] ] ). //tablet
+    addSize([768, 1024], [ [728,90] ] ). //tablet
+    addSize([640, 480], [[320, 50], [300, 50]]). //phone
+    addSize([375, 667], [[320, 50], [300, 50]]). //phone
+    addSize([0, 0], [320, 50], [300, 50]). //other
+    build();
+    sf_mapping = googletag.sizeMapping()
+      .addSize([0, 0], []) //other
+	  .addSize([992, 0], [[300, 600], [300, 250]]) //desktop
+      .addSize([768, 0], [[300, 600], [300, 250]]) //tablet
+      .build();
+    sf_inline_mapping = googletag.sizeMapping()
+      .addSize([992, 0], [[300, 250]]) //desktop
+      .addSize([768, 0], [[300, 250]]) //tablet
+      .addSize([640, 0], [[320, 50]]) //phone
+      .addSize([414, 0], [[320, 50]]) //phone
+      .addSize([375, 0], [[320, 50]]) //phone
+      .addSize([0, 0], [320, 50]) //other
+      .build();
+    if (dfp.front_page) {
+    googletag.defineSlot(adUnitPath, [[300, 600]], 'div-gpt-rr-cube-1')
+	  .defineSizeMapping(hp_cube_mapping)
+      .addService(googletag.pubads()).setTargeting("pos", "rr cube 1");
+      googletag.defineSlot(adUnitPath, [[2, 2], [970, 90]], 'div-gpt-sbb-1')
+        .addService(googletag.pubads())
+        .setTargeting("pos", "sbb")
+        .setCollapseEmptyDiv(true, true);
+      googletag.defineSlot(adUnitPath, [[728, 90]], 'div-gpt-super-leaderboard-3')
+        .defineSizeMapping(super_leaderboard_mapping)
+        .addService(googletag.pubads())
+        .setTargeting("pos", "Super Leaderboard 3")
+        .setCollapseEmptyDiv(true, true);
+      googletag.defineSlot(adUnitPath, [[728, 90]], 'div-gpt-super-leaderboard-4')
+        .defineSizeMapping(super_leaderboard_mapping)
+        .addService(googletag.pubads())
+        .setTargeting("pos", "Super Leaderboard 4")
+        .setCollapseEmptyDiv(true, true);
+      googletag.defineSlot(adUnitPath, [[728, 90]], 'div-gpt-super-leaderboard-5')
+        .defineSizeMapping(super_leaderboard_mapping)
+        .addService(googletag.pubads())
+        .setTargeting("pos", "Super Leaderboard 5")
+        .setCollapseEmptyDiv(true, true);
+      googletag.defineSlot(adUnitPath, [300, 250], 'div-gpt-rr-cube-7')
+        .defineSizeMapping(gallery_cube_mapping)
+        .addService(googletag.pubads()).setTargeting("pos", "rr cube 7");
+        googletag.defineSlot(adUnitPath, [184, 90], 'div-gpt-sponsor-ear-left')
+          .defineSizeMapping(hp_ear_mapping)
+          .addService(googletag.pubads()).setTargeting("pos", "Sponsor Ear Left")
+          .setCollapseEmptyDiv(true, true);
+        googletag.defineSlot(adUnitPath, [184, 90], 'div-gpt-sponsor-ear-right')
+          .defineSizeMapping(hp_ear_mapping)
+          .addService(googletag.pubads()).setTargeting("pos", "Sponsor Ear Right")
+          .setCollapseEmptyDiv(true, true);
+    }
+    if (dfp.author) {
+      googletag.defineSlot(adUnitPath, [ [728, 90] ], 'div-gpt-super-leaderboard-2')
+        .defineSizeMapping(super_leaderboard_mapping)
+        .addService(googletag.pubads())
+        .setTargeting("pos", "Super leaderboard 2 970x90")
+        .setCollapseEmptyDiv(true, true);
+    }
+    if (dfp.search||dfp.fourohfour||dfp.article) {
+      googletag.defineSlot(adUnitPath, [[728, 90]], 'div-gpt-atf-leaderboard-1')
+        .defineSizeMapping(article_leaderboard_mapping)
+        .addService(googletag.pubads())
+        .setTargeting("pos", "atf leaderboard");
+    }
+    if (dfp.article) {
+      CSTAdTags['div-gpt-sky-scraper-1'] = googletag.defineSlot(adUnitPath, [160, 600], 'div-gpt-sky-scraper-1')
+		.defineSizeMapping(article_skyscraper_mapping)
+		.addService(googletag.pubads())
+		.setTargeting("pos", "SkyScraper");
+    }
+    if ( dfp.front_page || dfp.article || dfp.section || dfp.author ) {
+      googletag.defineSlot(adUnitPath, [1, 1], 'div-gpt-interstitial')
+        .addService(googletag.pubads()).setTargeting("pos", "1x1");
+	}
+    if(dfp.gallery) {
+      CSTAdTags['div-gpt-gallery-1'] = googletag.defineSlot(adUnitPath, [300, 250], 'div-gpt-gallery-1')
+        .addService(googletag.pubads())
+		.defineSizeMapping(gallery_cube_mapping)
+        .setTargeting("pos","gallery 1");
+    }
+    googletag.pubads().enableSingleRequest();
+    window.CSTAds = window.CSTAds || false;
+    if (window.CSTAds) {
+      googletag.pubads().addEventListener('slotVisibilityChanged', CSTAds.handleGptVisibility);
+      googletag.pubads().addEventListener('impressionViewable', CSTAds.handleGptImpressionViewability);
+	}
+    googletag.enableServices();
+});
+</script>
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=chicago.suntimes.com&amp;id=107184512&amp;t=1496558521&amp;back=http%3A%2F%2Fchicago.suntimes.com%2Fentertainment%2Flongtime-cso-violinist-fred-spector-has-died-at-92%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//assets.pgs.io' />
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel='dns-prefetch' href='//platform.twitter.com' />
+<link rel='dns-prefetch' href='//g2.gumgum.com' />
+<link rel='dns-prefetch' href='//s.ntv.io' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//suntimesmedia.wordpress.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1488818651h&ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s2.wp.com/_static/??-eJx9jksOwjAMRC9EiMpPdIE4S0hdalo7Ue2AensSVbAoqBtrbM0bj31F4wMrsFpKJg7pjiz2FX0gI4QDTItt60U29j+G3CKjTl+xZvZhhHyn6LQ4CBp0MABl2xpG8fShiuyc71c7zeVvtziCiMmTMJHRLj9a5TJVqpgBe8ibLC4zipaDYqblK34y51f2idH6Dr27B0msWG5OBHQOfwI3YbRtSNw4xcBbQi5ZV7pUh2O9O1T1/vx4Aw6hosM=' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A300%2C300i%2C400%2C400i%2C700%2C700i%2C900%2C900i%7CLibre+Franklin%3A400%2C400i%2C600%2C600i%2C700%2C700i&#038;subset=latin&#038;ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s0.wp.com/_static/??-eJylj0sOwjAMRC9EMKAiwQJxFjeY1JDEVZzS65OWnxCCRdkkY3vmyYa+NVZippghNxRI4cIt2IYtOtEuZh56qEpZwWoZUzxIgmMJGexJJdA8cJyX2Qym0nrC4k9j664NF5JOxI6uCdnTcyP1bM+39z8OebJ59fg/WKEzre8cRwVHYrxYzCzxrTBHj5x+RRPVXlyRbjz/Vf4KoR3gNaaX+nZqU4HzUqMfDPuwW1bbar3YLLeL0xV5O9p4' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CSTIE = {"cst_theme_url":"https:\/\/s0.wp.com\/wp-content\/themes\/vip\/chicagosuntimes"};
+var CSTData = {"home_url":"http:\/\/chicago.suntimes.com\/","disqus_shortname":"cstbreakingnews","taboola_container_id":"taboola-below-article-thumbnails-"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CSTAnalyticsData = {"is_singular":"1","dimension1":"Miriam Di Nunzio","dimension2":"obituary","dimension3":"Fred Spector","dimension4":"","dimension5":"cst_article","dimension6":"06042017 01:41:18","dimension7":"06042017 01:41:18","dimension8":"","dimension9":"Entertainment"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var adblocker = {"bm_website_code":"\"7B8C6522340440F1\""};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CSTBreakingNewsWidgetData = {"placeholder_text":"Search for content to feature","nonce":"0347db20ab"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJytVO1ugzAMfKGlqGsndT+mPUtIDDXN12IHRJ9+gbVSpzLWlkpApHA53yW+FF0Q6JRJGqho8vOVIPanYdXQSzEHEBbrKBlWFt0ZrLxjcDxgrS/RgEgEUdZ5LhNVfgIXPLEFogya+PtbEroWofsX1gAHqQ4iAuHxipX3kOsVLYZC7VHJ2lNyjMOcJAIenbbgtI9F5ZPTktG7KZf3MFmvITo8xpl9TVhAVYHiy2JzOEEG9eQB3CRtBC0xlcurw8/3YRG1NOai3e5aC+3QWBzzYaOrH6KQTpqeUdGSfZCJ/ahiCUmPYLS9ishtLvQi/XWyYnj3IHOXLmFiWXpv5BOYsqUUgulF8CGHEOJTOEvj1WEZlyIWZQQ5tJxw0JHoUNfAi4IEJsf59Tz+lX8Ks/fC6fo7oT7tx3r7vtltN2+7dfMNUjhAqQ=='></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://suntimesmedia.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="http://chicago.suntimes.com/entertainment/longtime-cso-violinist-fred-spector-has-died-at-92/" />
+<link rel='shortlink' href='http://bit.ly/2sCZQBp' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fchicago.suntimes.com%2Fentertainment%2Flongtime-cso-violinist-fred-spector-has-died-at-92%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fchicago.suntimes.com%2Fentertainment%2Flongtime-cso-violinist-fred-spector-has-died-at-92%2F&amp;for=wpcom-auto-discovery" /><link rel="search" type="application/opensearchdescription+xml" href="http://chicago.suntimes.com/osd.xml" title="Chicago Sun-Times" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<meta property="description" content="Spector was a member of the orchestra&#039;s violin section from 1956 to 2003. " />
+<meta property="og:site_name" content="Chicago Sun-Times" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Longtime CSO violinist Fred Spector has died at 92" />
+<meta property="og:description" content="Spector was a member of the orchestra&#039;s violin section from 1956 to 2003. " />
+<meta property="og:url" content="http://chicago.suntimes.com/entertainment/longtime-cso-violinist-fred-spector-has-died-at-92/" />
+<meta property="og:image" content="https://suntimesmedia.files.wordpress.com/2017/06/fred-spector.jpg?w=825&amp;h=527&amp;crop=1" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@suntimes" />
+<meta property="twitter:title" content="Longtime CSO violinist Fred Spector has died at 92" />
+<meta property="twitter:description" content="Spector was a member of the orchestra&#039;s violin section from 1956 to 2003. " />
+<meta property="twitter:url" content="http://chicago.suntimes.com/entertainment/longtime-cso-violinist-fred-spector-has-died-at-92/" />
+<meta property="twitter:image" content="https://suntimesmedia.files.wordpress.com/2017/06/fred-spector.jpg?w=400&amp;h=400&amp;crop=1" />
+<meta name="description" content="Spector was a member of the orchestra&#039;s violin section from 1956 to 2003. " />
+<script type="text/javascript" async src="//suntimes-d.openx.net/w/1.0/jstag?nc=61924087-suntimes"></script>
+		<!-- distroscale -->
+<script async type="text/javascript" src="//c.jsrdn.com/s/cs.js?p=22519"></script>
+<div id="ds_default_anchor"></div>
+<!-- /distroscale -->
+					<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="Chicago Sun-Times" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Chicago News, Sports, Politics, Entertainment, Weather and More" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://chicago.suntimes.com/feed/;icon-uri=https://s2.wp.com/i/favicon.ico" /><link rel="amphtml" href="http://chicago.suntimes.com/entertainment/longtime-cso-violinist-fred-spector-has-died-at-92/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+
+<body class="cst_article-template-default single single-cst_article postid-598364 mp6 customizer-styles-applied highlander-enabled highlander-light infinite-scroll neverending">
+<div id="ie8-user" style="display:none;"></div>
+
+
+<div id="div-gpt-interstitial" class="dfp dfp-centered show-for-medium-up dfp-interstitial">
+	<div id="dfp-interstitial-container">
+		<div class="dfp-interstitial-headerbar">
+
+		</div>
+		<div id="dfp-interstitial-content"></div>
+	</div>
+</div>
+<header id="header" class="masthead">
+	<div class="contain-to-grid">
+		<nav class="top-bar" data-topbar role="navigation" aria-hidden="true">
+			<ul class="title-area">
+			</ul>
+		<section class="top-bar-section">
+			<ul class="right">
+				<li class="has-form">
+					<div class="row collapse">
+						<div class="large-2 small-9 columns hide-for-small">
+																			<div class="weather">
+								<a href="http://chicago.suntimes.com/weather" class="weather-link">
+	<span class="degrees"><i class="wi wi-night-cloudy"></i>
+		74&deg;</span>
+								</a>
+							</div>
+												</div>
+					</div>
+				</li>
+				<li class="has-form">
+					<div class="row collapse">
+						<div class="large-2 small-2 columns subscribe-container">
+							<a href="http://chicago.suntimes.com/subscribe/" class="subscribe-link">Subscribe</a>
+						</div>
+					</div>
+				</li>
+			</ul>
+			<ul class="left">
+				<li class="has-form">
+					<div class="row-collapse search">
+						<div class="columns small-1 ">
+							<form class="search-wrap" autocomplete="off" action="http://chicago.suntimes.com/">
+								<div class="row collapse search-input-wrapper">
+									<div class="large-1 small-1 columns search-icon">
+										<a href="#" data-reveal-id="search-container">
+											<i class="fa fa-search"></i>
+										</a>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+				</li>
+				<li class="has-form">
+					<div class="row-collapse">
+													<div class="columns small-1 burger-wrapper-no-fries">
+									<a href="#1" class="left-off-canvas-toggle burger-bar">
+											<i class="fa fa-bars"></i>
+									</a>
+							</div>
+											</div>
+				</li>
+				<li class="has-form">
+					<div class="row-collapse">
+													<div class="columns small-12 medium-10 large-2 small-logo">
+								<a href="http://chicago.suntimes.com/">
+									<img src="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/cst-amp-logo.svg" alt='Chicago Sun-Times logo' height="32" width="167">
+								</a>
+							</div>
+							<div class="columns small-10 show-for-large-up">
+								<div class="masthead-sections columns small-12 show-for-medium-up show-for-landscape"><div class="homepage-nav-holder columns"><ul id="menu-homepage-left" class="homepage"><li id="menu-item-579" class="news-menu menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children menu-item-579"><a href="http://chicago.suntimes.com/section/news/" data-event-category="navigation - homepage-masthead" data-event-action="navigate">Chicago News</a></li>
+<li id="menu-item-581" class="sports-menu menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children menu-item-581"><a href="http://chicago.suntimes.com/section/sports/" data-event-category="navigation - homepage-masthead" data-event-action="navigate">Sports</a></li>
+<li id="menu-item-561629" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-561629"><a href="http://chicago.suntimes.com/section/podcasts/" data-event-category="navigation - homepage-masthead" data-event-action="navigate">Podcasts</a></li>
+<li id="menu-item-599" class="politics-menu menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children menu-item-599"><a href="http://chicago.suntimes.com/section/politics/" data-event-category="navigation - homepage-masthead" data-event-action="navigate">Politics</a></li>
+<li id="menu-item-640" class="entertainment-menu menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children menu-item-640"><a href="http://chicago.suntimes.com/section/entertainment/" data-event-category="navigation - homepage-masthead" data-event-action="navigate">Entertainment</a></li>
+<li id="menu-item-607" class="columnists-menu menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children menu-item-607"><a href="http://chicago.suntimes.com/section/columnists/" data-event-category="navigation - homepage-masthead" data-event-action="navigate">Columnists</a></li>
+<li id="menu-item-613" class="opinion-menu menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children menu-item-613"><a href="http://chicago.suntimes.com/section/opinion/" data-event-category="navigation - homepage-masthead" data-event-action="navigate">Opinion</a></li>
+<li id="menu-item-616" class="lifestyles-menu menu-item menu-item-type-taxonomy menu-item-object-cst_section current-cst_article-ancestor current-menu-parent current-cst_article-parent menu-item-has-children menu-item-616"><a href="http://chicago.suntimes.com/section/lifestyles/" data-event-category="navigation - homepage-masthead" data-event-action="navigate">Lifestyles</a></li>
+<li id="menu-item-373361" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children menu-item-373361"><a href="http://chicago.suntimes.com/section/autos/" data-event-category="navigation - homepage-masthead" data-event-action="navigate">Autos</a></li>
+<li id="menu-item-553539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-553539"><a href="http://legacy.suntimes.com/obituaries/chicagosuntimes/" data-event-category="navigation - homepage-masthead" data-event-action="navigate">Obits</a></li>
+<li id="menu-item-165639" class="obit-external menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-165639"><a href="http://chicago.suntimes.com/section/obituaries/" data-event-category="navigation - homepage-masthead" data-event-action="navigate">Featured Obits</a></li>
+<li id="menu-item-622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-622"><a href="http://marketplace.suntimes.com/" data-event-category="navigation - homepage-masthead" data-event-action="navigate">Classifieds</a></li>
+<li id="menu-item-623" class="jobs-navigation-links menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-623"><a href="http://career-advice.local-jobs.monster.com/?wt.mc_n=hjnpcaradvcovlet&#038;ch=NEWSCHISUN" data-event-category="navigation - homepage-masthead" data-event-action="navigate">Jobs</a></li>
+<li id="menu-item-624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-624"><a href="http://suntimes.com/subscribe/" data-event-category="navigation - homepage-masthead" data-event-action="navigate">Subscribe</a></li>
+<li id="menu-item-625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-625"><a href="http://chicago.suntimes.com" data-event-category="navigation - homepage-masthead" data-event-action="navigate">More</a></li>
+</ul></div></div>							</div>
+											</div>
+				</li>
+			</ul>
+		</section>
+		</nav>
+	</div>
+			<section id="headlines-slider">
+			<div class="slider">
+					<div class="slide">
+						<div class="slide-inner">
+																						<div class="slide-image-container">
+									<a href="http://chicago.suntimes.com/entertainment/u2-takes-chicago-on-nostalgic-journey-with-joshua-tree/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-image">
+										<div class="slide-image" style="background-image: url('https://suntimesmedia.files.wordpress.com/2017/06/u2_world_tour_68785549.jpg?w=425&#038;h=320&#038;crop=1')">
+											<div class="gradient-overlay"></div>
+										</div>
+									</a>
+								</div>
+														<div class="slide-text">
+																	<h4>Entertainment</h4>
+																<h3><a href="http://chicago.suntimes.com/entertainment/u2-takes-chicago-on-nostalgic-journey-with-joshua-tree/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-text">U2 takes Chicago on nostalgic journey with &#8216;Joshua&nbsp;Tree&#8217;</a></h3>
+							</div>
+						</div>
+					</div>
+									<div class="slide">
+						<div class="slide-inner">
+																						<div class="slide-image-container">
+									<a href="http://chicago.suntimes.com/entertainment/in-king-liz-a-sports-agent-exerts-blistering-female-power/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-image">
+										<div class="slide-image" style="background-image: url('https://suntimesmedia.files.wordpress.com/2017/05/king-liz-image-2.jpg?w=425&#038;h=320&#038;crop=1')">
+											<div class="gradient-overlay"></div>
+										</div>
+									</a>
+								</div>
+														<div class="slide-text">
+																	<h4>Entertainment</h4>
+																<h3><a href="http://chicago.suntimes.com/entertainment/in-king-liz-a-sports-agent-exerts-blistering-female-power/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-text">In &#8216;King Liz,&#8217; a sports agent exerts blistering female&nbsp;power</a></h3>
+							</div>
+						</div>
+					</div>
+									<div class="slide">
+						<div class="slide-inner">
+																						<div class="slide-image-container">
+									<a href="http://chicago.suntimes.com/news/second-city-alum-tino-insana-has-died-at-69/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-image">
+										<div class="slide-image" style="background-image: url('https://suntimesmedia.files.wordpress.com/2017/06/tino-e1496350785301.jpg?w=425&#038;h=308&#038;crop=1')">
+											<div class="gradient-overlay"></div>
+										</div>
+									</a>
+								</div>
+														<div class="slide-text">
+																	<h4>Chicago News</h4>
+																<h3><a href="http://chicago.suntimes.com/news/second-city-alum-tino-insana-has-died-at-69/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-text">Second City alum Tino Insana has died at&nbsp;69</a></h3>
+							</div>
+						</div>
+					</div>
+									<div class="slide">
+						<div class="slide-inner">
+																						<div class="slide-image-container">
+									<a href="http://chicago.suntimes.com/entertainment/goodman-cancels-full-run-of-pamplona-as-keach-recuperates/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-image">
+										<div class="slide-image" style="background-image: url('https://suntimesmedia.files.wordpress.com/2017/05/pamplona_02.jpg?w=425&#038;h=320&#038;crop=1')">
+											<div class="gradient-overlay"></div>
+										</div>
+									</a>
+								</div>
+														<div class="slide-text">
+																	<h4>Entertainment</h4>
+																<h3><a href="http://chicago.suntimes.com/entertainment/goodman-cancels-full-run-of-pamplona-as-keach-recuperates/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-text">Goodman cancels full run of &#8216;Pamplona&#8217; as Stacy Keach&nbsp;recuperates</a></h3>
+							</div>
+						</div>
+					</div>
+									<div class="slide">
+						<div class="slide-inner">
+																						<div class="slide-image-container">
+									<a href="http://chicago.suntimes.com/entertainment/formidable-parade-an-eerily-timely-portrait-of-american-injustice/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-image">
+										<div class="slide-image" style="background-image: url('https://suntimesmedia.files.wordpress.com/2017/06/patrick-andrews-and-brianna-borger-horiz-2.jpg?w=425&#038;h=320&#038;crop=1')">
+											<div class="gradient-overlay"></div>
+										</div>
+									</a>
+								</div>
+														<div class="slide-text">
+																	<h4>Entertainment</h4>
+																<h3><a href="http://chicago.suntimes.com/entertainment/formidable-parade-an-eerily-timely-portrait-of-american-injustice/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-text">Formidable &#8216;Parade&#8217; an eerily timely portrait of American&nbsp;injustice</a></h3>
+							</div>
+						</div>
+					</div>
+									<div class="slide">
+						<div class="slide-inner">
+																						<div class="slide-image-container">
+									<a href="http://chicago.suntimes.com/entertainment/in-dean-demetri-martin-makes-misfortune-a-winning-grinning-treat/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-image">
+										<div class="slide-image" style="background-image: url('https://suntimesmedia.files.wordpress.com/2017/05/dean_fs_0341493665023.jpg?w=425&#038;h=320&#038;crop=1')">
+											<div class="gradient-overlay"></div>
+										</div>
+									</a>
+								</div>
+														<div class="slide-text">
+																	<h4>Entertainment</h4>
+																<h3><a href="http://chicago.suntimes.com/entertainment/in-dean-demetri-martin-makes-misfortune-a-winning-grinning-treat/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-text">In &#8216;Dean,&#8217; Demetri Martin makes misfortune a winning, grinning&nbsp;treat</a></h3>
+							</div>
+						</div>
+					</div>
+									<div class="slide">
+						<div class="slide-inner">
+																						<div class="slide-image-container">
+									<a href="http://chicago.suntimes.com/entertainment/rami-malek-headlines-weird-but-rewarding-busters-mal-heart/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-image">
+										<div class="slide-image" style="background-image: url('https://suntimesmedia.files.wordpress.com/2017/06/busters-005.jpg?w=425&#038;h=320&#038;crop=1')">
+											<div class="gradient-overlay"></div>
+										</div>
+									</a>
+								</div>
+														<div class="slide-text">
+																	<h4>Entertainment</h4>
+																<h3><a href="http://chicago.suntimes.com/entertainment/rami-malek-headlines-weird-but-rewarding-busters-mal-heart/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-text">Rami Malek headlines weird but rewarding &#8216;Buster&#8217;s Mal&nbsp;Heart&#8217;</a></h3>
+							</div>
+						</div>
+					</div>
+									<div class="slide">
+						<div class="slide-inner">
+																						<div class="slide-image-container">
+									<a href="http://chicago.suntimes.com/entertainment/will-arnett-admires-the-way-chicago-audiences-get-comedy/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-image">
+										<div class="slide-image" style="background-image: url('https://suntimesmedia.files.wordpress.com/2017/05/screen-shot-2017-05-29-at-12-28-10-pm.png?w=424&#038;h=320&#038;crop=1')">
+											<div class="gradient-overlay"></div>
+										</div>
+									</a>
+								</div>
+														<div class="slide-text">
+																	<h4>Bill Zwecker</h4>
+																<h3><a href="http://chicago.suntimes.com/entertainment/will-arnett-admires-the-way-chicago-audiences-get-comedy/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-text">Will Arnett admires the way Chicago audiences &#8216;get&#8217; comedy</a></h3>
+							</div>
+						</div>
+					</div>
+									<div class="slide">
+						<div class="slide-inner">
+																						<div class="slide-image-container">
+									<a href="http://chicago.suntimes.com/entertainment/chicago-trained-comedian-jena-friedman-gravitates-to-the-dark-side/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-image">
+										<div class="slide-image" style="background-image: url('https://suntimesmedia.files.wordpress.com/2017/05/screen-shot-2017-05-30-at-5-34-11-pm.png?w=425&#038;h=320&#038;crop=1')">
+											<div class="gradient-overlay"></div>
+										</div>
+									</a>
+								</div>
+														<div class="slide-text">
+																	<h4>Comedy</h4>
+																<h3><a href="http://chicago.suntimes.com/entertainment/chicago-trained-comedian-jena-friedman-gravitates-to-the-dark-side/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-text">Chicago-trained comedian Jena Friedman gravitates to the dark&nbsp;side</a></h3>
+							</div>
+						</div>
+					</div>
+									<div class="slide">
+						<div class="slide-inner">
+																						<div class="slide-image-container">
+									<a href="http://chicago.suntimes.com/entertainment/chicago-improv-alum-puts-on-his-best-pence-for-the-president-show/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-image">
+										<div class="slide-image" style="background-image: url('https://suntimesmedia.files.wordpress.com/2017/05/tps_01_005_02.jpg?w=425&#038;h=320&#038;crop=1')">
+											<div class="gradient-overlay"></div>
+										</div>
+									</a>
+								</div>
+														<div class="slide-text">
+																	<h4>Comedy</h4>
+																<h3><a href="http://chicago.suntimes.com/entertainment/chicago-improv-alum-puts-on-his-best-pence-for-the-president-show/" data-on="click" data-event-category="slider" data-event-action="navigate-slider-text">Chicago improv alum puts on his best Pence for &#8216;The President&nbsp;Show&#8217;</a></h3>
+							</div>
+						</div>
+					</div>
+				</div>
+		</section>
+	</header>
+<div class="off-canvas-wrap" data-offcanvas>
+	<main class="inner-wrap">
+<nav class="left-off-canvas-menu">
+	<ul class="off-canvas-list">
+		<div class="menu-homepage-left-container"><ul id="menu-homepage-left-oc" class="cst-off-canvas-navigation-container homepage"><li id="menu-item-579" class="news-menu menu-item menu-item-type-taxonomy menu-item-object-cst_section current-cst_article-ancestor current-menu-parent current-cst_article-parent menu-item-has-children has-dropdown has-submenu menu-item-579"><a href="http://chicago.suntimes.com/section/news/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Chicago News</a>
+<ul class="dropdown left-submenu"><li class="back"><a href="#">Back</a></li>
+	<li id="menu-item-157451" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section current-cst_article-ancestor current-menu-parent current-cst_article-parent menu-item-157451"><a href="http://chicago.suntimes.com/section/news/" data-event-category="navigation - homepage-menu" data-event-action="navigate">News Home</a></li>
+	<li id="menu-item-580" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section current-cst_article-ancestor current-menu-parent current-cst_article-parent menu-item-580"><a href="http://chicago.suntimes.com/section/crime/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Crime</a></li>
+	<li id="menu-item-589" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-589"><a href="http://chicago.suntimes.com/section/education/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Education</a></li>
+	<li id="menu-item-590" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-590"><a href="http://chicago.suntimes.com/section/opinion/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Opinion</a></li>
+	<li id="menu-item-591" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-591"><a href="http://chicago.suntimes.com/section/transportation/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Transportation</a></li>
+	<li id="menu-item-594" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-594"><a href="http://chicago.suntimes.com/section/business/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Business</a></li>
+	<li id="menu-item-595" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-595"><a href="http://chicago.suntimes.com/section/chicago/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Chicago</a></li>
+	<li id="menu-item-597" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-597"><a href="http://chicago.suntimes.com/section/sneed/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Sneed</a></li>
+	<li id="menu-item-511264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-511264"><a href="http://chicago.suntimes.com/features/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Feature Stories</a></li>
+	<li id="menu-item-598" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-598"><a href="http://chicago.suntimes.com/section/the-watchdogs/" data-event-category="navigation - homepage-menu" data-event-action="navigate">The Watchdogs</a></li>
+	<li id="menu-item-148600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148600"><a target="_blank" href="http://homicides.suntimes.com" data-event-category="navigation - homepage-menu" data-event-action="navigate">Homicide Watch</a></li>
+	<li id="menu-item-160212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160212"><a href="http://projects.suntimes.com/koschman/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Koschman</a></li>
+	<li id="menu-item-316666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-316666"><a href="http://chicago.suntimes.com/weather" data-event-category="navigation - homepage-menu" data-event-action="navigate">Weather</a></li>
+</ul>
+</li>
+<li id="menu-item-581" class="sports-menu menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children has-dropdown has-submenu menu-item-581"><a href="http://chicago.suntimes.com/section/sports/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Sports</a>
+<ul class="dropdown left-submenu"><li class="back"><a href="#">Back</a></li>
+	<li id="menu-item-157448" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-157448"><a href="http://chicago.suntimes.com/section/sports/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Sports Home</a></li>
+	<li id="menu-item-196700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196700"><a href="http://chicago.suntimes.com/author/rmorrisseycst/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Rick Morrissey</a></li>
+	<li id="menu-item-196704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196704"><a href="http://chicago.suntimes.com/author/rick-telander" data-event-category="navigation - homepage-menu" data-event-action="navigate">Rick Telander</a></li>
+	<li id="menu-item-593" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-593"><a href="http://chicago.suntimes.com/section/white-sox/" data-event-category="navigation - homepage-menu" data-event-action="navigate">White Sox</a></li>
+	<li id="menu-item-106520" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-106520"><a href="http://chicago.suntimes.com/section/bears-football/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Bears</a></li>
+	<li id="menu-item-106521" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-106521"><a href="http://chicago.suntimes.com/section/blackhawks-hockey/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Blackhawks</a></li>
+	<li id="menu-item-583" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-583"><a href="http://chicago.suntimes.com/section/bulls/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Bulls</a></li>
+	<li id="menu-item-161187" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-161187"><a href="http://chicago.suntimes.com/section/cubs-baseball/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Cubs</a></li>
+	<li id="menu-item-587" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-587"><a href="http://chicago.suntimes.com/section/outdoors/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Outdoors</a></li>
+	<li id="menu-item-302897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-302897"><a href="http://suntimeshighschoolsports.com" data-event-category="navigation - homepage-menu" data-event-action="navigate">High School Sports</a></li>
+	<li id="menu-item-584" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-584"><a href="http://chicago.suntimes.com/section/colleges/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Colleges</a></li>
+	<li id="menu-item-106522" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-106522"><a href="http://chicago.suntimes.com/section/fire-soccer/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Fire</a></li>
+	<li id="menu-item-106526" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-106526"><a href="http://chicago.suntimes.com/section/steve-greenberg/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Steve Greenberg</a></li>
+	<li id="menu-item-106530" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-106530"><a href="http://chicago.suntimes.com/section/ladd-biro/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Ladd Biro</a></li>
+	<li id="menu-item-106531" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-106531"><a href="http://chicago.suntimes.com/section/dale-bowman/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Dale Bowman</a></li>
+	<li id="menu-item-106529" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-106529"><a href="http://chicago.suntimes.com/section/jeff-agrest/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Jeff Agrest</a></li>
+</ul>
+</li>
+<li id="menu-item-561629" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-561629"><a href="http://chicago.suntimes.com/section/podcasts/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Podcasts</a></li>
+<li id="menu-item-599" class="politics-menu menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children has-dropdown has-submenu menu-item-599"><a href="http://chicago.suntimes.com/section/politics/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Politics</a>
+<ul class="dropdown left-submenu"><li class="back"><a href="#">Back</a></li>
+	<li id="menu-item-157452" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-157452"><a href="http://chicago.suntimes.com/section/politics/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Politics Home</a></li>
+	<li id="menu-item-600" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-600"><a href="http://chicago.suntimes.com/section/chicago-politics/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Chicago</a></li>
+	<li id="menu-item-602" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-602"><a href="http://chicago.suntimes.com/section/springfield-politics/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Springfield</a></li>
+	<li id="menu-item-603" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-603"><a href="http://chicago.suntimes.com/section/washington-politics/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Washington</a></li>
+	<li id="menu-item-106248" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-106248"><a href="http://chicago.suntimes.com/section/lynn-sweet-politics/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Lynn Sweet</a></li>
+</ul>
+</li>
+<li id="menu-item-640" class="entertainment-menu menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children has-dropdown has-submenu menu-item-640"><a href="http://chicago.suntimes.com/section/entertainment/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Entertainment</a>
+<ul class="dropdown left-submenu"><li class="back"><a href="#">Back</a></li>
+	<li id="menu-item-157449" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-157449"><a href="http://chicago.suntimes.com/section/entertainment/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Entertainment Home</a></li>
+	<li id="menu-item-641" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-641"><a href="http://chicago.suntimes.com/section/architecture-and-design/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Architecture &amp; Design</a></li>
+	<li id="menu-item-642" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-642"><a href="http://chicago.suntimes.com/section/art/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Art</a></li>
+	<li id="menu-item-159101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159101"><a href="http://games.chicago.suntimes.com" data-event-category="navigation - homepage-menu" data-event-action="navigate">Games</a></li>
+	<li id="menu-item-196724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196724"><a href="http://chicago.suntimes.com/author/bzweckercst/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Bill Zwecker</a></li>
+	<li id="menu-item-253442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-253442"><a href="http://chicago.suntimes.com/author/hweisscst/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Hedy Weiss</a></li>
+	<li id="menu-item-196725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196725"><a href="http://chicago.suntimes.com/author/richie7777/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Rich Roeper</a></li>
+	<li id="menu-item-644" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-644"><a href="http://chicago.suntimes.com/section/books/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Books</a></li>
+	<li id="menu-item-275669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-275669"><a href="http://chicago.com" data-event-category="navigation - homepage-menu" data-event-action="navigate">Things to do</a></li>
+	<li id="menu-item-645" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-645"><a href="http://chicago.suntimes.com/section/comedy/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Comedy</a></li>
+	<li id="menu-item-647" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-647"><a href="http://chicago.suntimes.com/section/dance/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Dance</a></li>
+	<li id="menu-item-648" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children menu-item-648"><a href="http://chicago.suntimes.com/section/movies/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Movies</a></li>
+	<li id="menu-item-650" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children menu-item-650"><a href="http://chicago.suntimes.com/section/music/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Music</a></li>
+	<li id="menu-item-654" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-654"><a href="http://chicago.suntimes.com/section/reviews/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Reviews</a></li>
+	<li id="menu-item-658" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children menu-item-658"><a href="http://chicago.suntimes.com/section/stage/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Stage</a></li>
+	<li id="menu-item-663" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children menu-item-663"><a href="http://chicago.suntimes.com/section/television/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Television</a></li>
+</ul>
+</li>
+<li id="menu-item-607" class="columnists-menu menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children has-dropdown has-submenu menu-item-607"><a href="http://chicago.suntimes.com/section/columnists/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Columnists</a>
+<ul class="dropdown left-submenu"><li class="back"><a href="#">Back</a></li>
+	<li id="menu-item-192358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192358"><a href="http://chicago.suntimes.com/author/bowmanoutside/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Dale Bowman</a></li>
+	<li id="menu-item-192359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192359"><a href="http://chicago.suntimes.com/author/rmorrisseycst/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Rick Morrissey</a></li>
+	<li id="menu-item-192360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192360"><a href="http://chicago.suntimes.com/author/rick-telander/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Rick Telander</a></li>
+	<li id="menu-item-192362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192362"><a href="http://chicago.suntimes.com/author/sgreenbergcst/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Steve Greenberg</a></li>
+	<li id="menu-item-192364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192364"><a href="http://chicago.suntimes.com/author/dmihalopouloscst/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Dan Mihalopoulos</a></li>
+	<li id="menu-item-192365" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192365"><a href="http://chicago.suntimes.com/author/jagrestcst/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Jeff Agrest</a></li>
+	<li id="menu-item-192367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192367"><a href="http://chicago.suntimes.com/author/lsweetcst/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Lynn Sweet</a></li>
+	<li id="menu-item-192369" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192369"><a href="http://chicago.suntimes.com/author/richie7777/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Rich Roeper</a></li>
+	<li id="menu-item-192370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192370"><a href="http://chicago.suntimes.com/author/bzweckercst/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Bill Zwecker</a></li>
+	<li id="menu-item-192374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192374"><a href="http://chicago.suntimes.com/author/hweisscst/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Hedy Weiss</a></li>
+	<li id="menu-item-192375" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192375"><a href="http://chicago.suntimes.com/author/nsteinbergcst/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Neil Steinberg</a></li>
+	<li id="menu-item-192377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192377"><a href="http://chicago.suntimes.com/author/mbrowncst/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Mark Brown</a></li>
+	<li id="menu-item-192378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192378"><a href="http://chicago.suntimes.com/author/marymcst/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Mary Mitchell</a></li>
+	<li id="menu-item-192379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192379"><a href="http://chicago.suntimes.com/author/msneedcst/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Sneed</a></li>
+	<li id="menu-item-238385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-238385"><a href="http://chicago.suntimes.com/author/shia-kapos/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Shia Kapos</a></li>
+</ul>
+</li>
+<li id="menu-item-613" class="opinion-menu menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children has-dropdown has-submenu menu-item-613"><a href="http://chicago.suntimes.com/section/opinion/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Opinion</a>
+<ul class="dropdown left-submenu"><li class="back"><a href="#">Back</a></li>
+	<li id="menu-item-157458" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-157458"><a href="http://chicago.suntimes.com/section/opinion/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Opinion Home</a></li>
+	<li id="menu-item-614" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-614"><a href="http://chicago.suntimes.com/section/editorials/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Editorials</a></li>
+	<li id="menu-item-157697" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-157697"><a href="http://chicago.suntimes.com/section/letters-to-the-editor/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Letters to the Editor</a></li>
+	<li id="menu-item-218199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218199"><a href="http://chicago.suntimes.com/author/s-e-cupp/" data-event-category="navigation - homepage-menu" data-event-action="navigate">S. E. Cupp</a></li>
+	<li id="menu-item-196790" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196790"><a href="http://chicago.suntimes.com/author/madeleine-doube/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Madeleine Doubek</a></li>
+	<li id="menu-item-196787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196787"><a href="http://chicago.suntimes.com/author/john-fountain/" data-event-category="navigation - homepage-menu" data-event-action="navigate">John Fountain</a></li>
+	<li id="menu-item-196791" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196791"><a href="http://chicago.suntimes.com/author/mgarciasuntimescom/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Marlen Garcia</a></li>
+	<li id="menu-item-218197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218197"><a href="http://chicago.suntimes.com/author/jesse-jackson/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Jesse Jackson</a></li>
+	<li id="menu-item-196796" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196796"><a href="http://chicago.suntimes.com/author/gene-lyons/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Gene Lyons</a></li>
+	<li id="menu-item-444104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-444104"><a href="http://chicago.suntimes.com/author/Phil-Kadner/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Phil Kadner</a></li>
+	<li id="menu-item-196793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196793"><a href="http://chicago.suntimes.com/author/sontiveros/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Sue Ontiveros</a></li>
+	<li id="menu-item-218205" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218205"><a href="http://chicago.suntimes.com/author/andy-shaw/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Andy Shaw</a></li>
+	<li id="menu-item-196792" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196792"><a href="http://chicago.suntimes.com/author/roger-simon/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Roger Simon</a></li>
+	<li id="menu-item-196789" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196789"><a href="http://chicago.suntimes.com/author/laura-washington/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Laura Washington</a></li>
+	<li id="menu-item-106548" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-106548"><a href="http://chicago.suntimes.com/section/other-views/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Other Views</a></li>
+</ul>
+</li>
+<li id="menu-item-616" class="lifestyles-menu menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children has-dropdown has-submenu menu-item-616"><a href="http://chicago.suntimes.com/section/lifestyles/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Lifestyles</a>
+<ul class="dropdown left-submenu"><li class="back"><a href="#">Back</a></li>
+	<li id="menu-item-157450" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-157450"><a href="http://chicago.suntimes.com/section/lifestyles/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Lifestyles Home</a></li>
+	<li id="menu-item-337548" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-337548"><a href="http://chicago.suntimes.com/section/well/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Well</a></li>
+	<li id="menu-item-619" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-619"><a href="http://chicago.suntimes.com/section/travel/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Travel</a></li>
+	<li id="menu-item-106552" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-106552"><a href="http://chicago.suntimes.com/section/horoscopes/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Horoscopes</a></li>
+	<li id="menu-item-106553" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-106553"><a href="http://chicago.suntimes.com/section/relationship-advice/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Relationship Advice</a></li>
+	<li id="menu-item-106554" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-106554"><a href="http://chicago.suntimes.com/section/dear-abby/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Dear Abby</a></li>
+</ul>
+</li>
+<li id="menu-item-373361" class="menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-has-children has-dropdown has-submenu menu-item-373361"><a href="http://chicago.suntimes.com/section/autos/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Autos</a>
+<ul class="dropdown left-submenu"><li class="back"><a href="#">Back</a></li>
+	<li id="menu-item-373503" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-373503"><a href="http://chicago.suntimes.com/section/autos/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Autos Home</a></li>
+</ul>
+</li>
+<li id="menu-item-553539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-553539"><a href="http://legacy.suntimes.com/obituaries/chicagosuntimes/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Obits</a></li>
+<li id="menu-item-165639" class="obit-external menu-item menu-item-type-taxonomy menu-item-object-cst_section menu-item-165639"><a href="http://chicago.suntimes.com/section/obituaries/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Featured Obits</a></li>
+<li id="menu-item-622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown has-submenu menu-item-622"><a href="http://marketplace.suntimes.com/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Classifieds</a>
+<ul class="dropdown left-submenu"><li class="back"><a href="#">Back</a></li>
+	<li id="menu-item-164634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-164634"><a target="_blank" href="http://marketplace.suntimes.com/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Classifieds</a></li>
+	<li id="menu-item-148454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148454"><a href="http://marketplace.suntimes.com/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Real Estate</a></li>
+	<li id="menu-item-148461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148461"><a href="http://marketplace.suntimes.com/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Autos</a></li>
+</ul>
+</li>
+<li id="menu-item-623" class="jobs-navigation-links menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown has-submenu menu-item-623"><a href="http://career-advice.local-jobs.monster.com/?wt.mc_n=hjnpcaradvcovlet&#038;ch=NEWSCHISUN" data-event-category="navigation - homepage-menu" data-event-action="navigate">Jobs</a>
+<ul class="dropdown left-submenu"><li class="back"><a href="#">Back</a></li>
+	<li id="menu-item-106555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106555"><a href="http://career-advice.local-jobs.monster.com/?wt.mc_n=hjnpcaradvcovlet&#038;ch=NEWSCHISUN" data-event-category="navigation - homepage-menu" data-event-action="navigate">Monster</a></li>
+</ul>
+</li>
+<li id="menu-item-624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown has-submenu menu-item-624"><a href="http://suntimes.com/subscribe/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Subscribe</a>
+<ul class="dropdown left-submenu"><li class="back"><a href="#">Back</a></li>
+	<li id="menu-item-106556" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106556"><a href="http://suntiservices.dticloud.com/cgi-bin/cmo_cmo.sh/custservice/web/login.html?siteid=CST" data-event-category="navigation - homepage-menu" data-event-action="navigate">Manage Account</a></li>
+	<li id="menu-item-106557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106557"><a href="http://suntimes.com/subscribe" data-event-category="navigation - homepage-menu" data-event-action="navigate">Subscriptions</a></li>
+	<li id="menu-item-106558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106558"><a href="http://suntimes.com/newsletters" data-event-category="navigation - homepage-menu" data-event-action="navigate">Newsletters</a></li>
+	<li id="menu-item-106559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106559"><a href="http://eedition.suntimes.com/epaper/viewer.aspx" data-event-category="navigation - homepage-menu" data-event-action="navigate">Today&#8217;s E-Paper</a></li>
+	<li id="menu-item-106560" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106560"><a href="http://chicago.suntimes.com/paper-finder/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Paper Finder</a></li>
+	<li id="menu-item-106561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106561"><a href="http://secure.iwantmytvmagazine.com/order/zipcode/1" data-event-category="navigation - homepage-menu" data-event-action="navigate">TV Weekly</a></li>
+	<li id="menu-item-106562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106562"><a href="https://payments.suntimes.com/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Order Back Issues</a></li>
+	<li id="menu-item-106563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106563"><a href="http://chicagosuntimesnie.newspaperdirect.com/epaper/viewer.aspx" data-event-category="navigation - homepage-menu" data-event-action="navigate">NIE</a></li>
+</ul>
+</li>
+<li id="menu-item-625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children has-dropdown has-submenu menu-item-625"><a href="http://chicago.suntimes.com" data-event-category="navigation - homepage-menu" data-event-action="navigate">More</a>
+<ul class="dropdown left-submenu"><li class="back"><a href="#">Back</a></li>
+	<li id="menu-item-106564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106564"><a href="http://advertising.suntimes.com/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Advertise with Us</a></li>
+	<li id="menu-item-531935" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-531935"><a href="http://nl.newsbank.com/sites/cstb/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Search Archives</a></li>
+	<li id="menu-item-106565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106565"><a href="http://suntimesreprints.com/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Licensing</a></li>
+	<li id="menu-item-106566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106566"><a href="http://chicagosuntimes.mycapture.com/mycapture/index.asp" data-event-category="navigation - homepage-menu" data-event-action="navigate">Order Photos</a></li>
+	<li id="menu-item-511149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-511149"><a href="http://chicago.suntimes.com/newsroom-internships/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Newsroom Internships</a></li>
+	<li id="menu-item-106567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106567"><a href="http://chicago.suntimes.com/about-us/" data-event-category="navigation - homepage-menu" data-event-action="navigate">About Us</a></li>
+	<li id="menu-item-106568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106568"><a href="http://chicago.suntimes.com/contact-us/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Contact Us</a></li>
+	<li id="menu-item-106569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106569"><a href="http://chicago.suntimes.com/about-sponsored-content/" data-event-category="navigation - homepage-menu" data-event-action="navigate">About Native Ads</a></li>
+	<li id="menu-item-106570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106570"><a href="http://chicago.suntimes.com/terms-of-use/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Terms of Use</a></li>
+	<li id="menu-item-106571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106571"><a href="http://chicago.suntimes.com/privacy-policy/" data-event-category="navigation - homepage-menu" data-event-action="navigate">Privacy Policy</a></li>
+	<li id="menu-item-106572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106572"><a href="http://chicago.suntimes.com/about-our-ads/" data-event-category="navigation - homepage-menu" data-event-action="navigate">About Our Ads</a></li>
+</ul>
+</li>
+</ul></div>	</ul>
+</nav>
+<div class="spacer"></div>
+<div class="single-wrapper">
+
+	<aside class="sidebar show-for-large-up article-sidebar large-2 columns" id="post-sidebar-left">
+    <div class="stick-sidebar-left">
+
+<div class="row">
+<div id="div-gpt-sky-scraper-1" class="dfp">
+<script>
+	googletag.cmd.push(function() {
+		googletag.display("div-gpt-sky-scraper-1");
+	})
+</script>
+</div>
+</div>
+        <hr>
+    				<div id="nativo-sponsored" style="display: none;">
+					<h4>Sponsored Content</h4>
+					<ul class="nativo-sponsored-articles">
+																					<div id="nativo-sponsored-article-image"></div>
+														<li id="Entertainment1"></li>
+																				<li id="Entertainment2"></li>
+											</ul>
+				</div>
+				    </div>
+</aside>
+
+	<section id="post-body" class="columns large-10">
+
+	<div class="row">
+					<div class="article-upper-ad-unit">
+
+<div class="row">
+<div id="div-gpt-atf-leaderboard-1" class="dfp dfp-leaderboard dfp-centered article-upper-ad-unit">
+<script>
+	googletag.cmd.push(function() {
+		googletag.display("div-gpt-atf-leaderboard-1");
+	})
+</script>
+</div>
+</div>
+			</div>
+
+		<div id="main" class="columns small-12 medium-7 large-8 end">
+			<div class="small-12 end">
+
+	<a id="newsfeed-logo" href="http://chicago.suntimes.com/section/entertainment/" data-on="click" data-event-category="navigation" data-event-action="navigate-sf-newsfeed-logo">Entertainment</a>
+			</div>
+
+
+
+
+
+
+
+
+								<div class="row post-row">
+
+				<article id="post-598364" class="single-view columns small-12 column-adjust end cst-sharing-relative post-598364 cst_article type-cst_article status-publish has-post-thumbnail hentry cst_section-entertainment cst_section-music cst_section-obituaries-obituaries cst_topic-obituary cst_person-fred-spector post active"  data-cst-post-id="598364" data-cst-post-uri="/entertainment/longtime-cso-violinist-fred-spector-has-died-at-92/" data-cst-wp-title="Longtime CSO violinist Fred Spector has died at 92 | Chicago Sun-Times" data-cst-ga-dimension-1="Miriam Di Nunzio" data-cst-ga-dimension-2="obituary" data-cst-ga-dimension-3="Fred Spector" data-cst-ga-dimension-4="" data-cst-ga-dimension-5="cst_article">
+
+									<div class="post-meta post-meta-social show-for-medium-up">
+
+<a class="post-social twitter" target="_blank" href="https://twitter.com/share?url=http://bit.ly/2sCZQBp&#038;text=Longtime%20CSO%20violinist%20Fred%20Spector%20has%20died%20at%2092&#038;via=suntimes"><i class="fa fa-twitter"></i></a>
+<a class="post-social facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://bit.ly/2sCZQBp"><i class="fa fa-facebook"></i></a>
+
+					</div>
+
+
+
+					<div class="columns small-11 medium-10 end">
+		<h1>Longtime CSO violinist Fred Spector has died at&nbsp;92</h1>
+	</div>
+	<div class="post-meta post-meta-social show-for-small-only">
+
+<a class="post-social twitter" target="_blank" href="https://twitter.com/share?url=http://bit.ly/2sCZQBp&#038;text=Longtime%20CSO%20violinist%20Fred%20Spector%20has%20died%20at%2092&#038;via=suntimes"><i class="fa fa-twitter"></i></a>
+<a class="post-social facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://bit.ly/2sCZQBp"><i class="fa fa-facebook"></i></a>
+
+	</div>
+					<div class="post-meta post-meta-top columns small-11 medium-8 end">
+<span class="post-section-taxonomy">
+	<a href="http://chicago.suntimes.com/section/obituaries-obituaries/" data-event-category="article" data-event-action="navigate to Obituaries section-front">Obituaries</a>
+</span>		<span class="post-relative-date top-date">06/04/2017, 01:41am</span>
+</div>
+<div class="post-lead-media columns small-12 end"><img width="763" height="487" src="https://suntimesmedia.files.wordpress.com/2017/06/fred-spector.jpg?w=763" class="attachment-cst-article-featured size-cst-article-featured" alt="" /><div class="image-caption"><p>Fred Spector | COURTESY CSO</p>
+</div></div>		<div class="post-meta post-meta-byline columns small-12 large-12 end">
+	<div class="row">
+
+		<div class="large-5 medium-4 small-12 columns author-meta-box">
+								<div class="post-meta-author"><a href="http://chicago.suntimes.com/author/miriamdinunziocst/" data-event-category="author-byline" data-event-action="view author">Miriam Di Nunzio</a></div>
+					<div class="post-meta-author-contact"><a href="https://twitter.com/intent/user?screen_name=MiriamDiNunzio">@MiriamDiNunzio</a> | <a href="mailto:mdinunzio@suntimes.com">email</a></div>									</div>
+
+<div class="large-7 medium-8 small-12 columns newsletter-box">
+	<div class="newsletter-sign-up">
+		<h3>Sign-Up for our Entertainment Newsletter&nbsp;
+			<a href="https://r1.surveysandforms.com/062jcp97-bf1s1y92" data-event-category="newsletter" data-event-action="subscribe to Entertainment" target="_blank" class="button tiny info">
+				<i class="fa fa-envelope"></i> Sign-Up
+			</a>
+		</h3>
+	</div>
+</div>
+	</div>
+</div>
+		<div class="post-content columns small-12 large-12 p402_premium end" itemprop="articleBody">
+		<script type="text/javascript">
+  window.SECTIONS_FOR_AGGREGO_HEADLINESNETWORK = null;
+</script>
+	<p>The Chicago Symphony Orchestra on Saturday announced the passing of longtime violinist Fred Spector, who was a member of the orchestra&#8217;s violin section from 1956 to 2003. Spector passed away Saturday at the age of 92.</p><p>According to <a href="https://csoarchives.wordpress.com/2017/06/03/remembering-fred-spector/" target="_blank" rel="noopener">the statement </a>from the CSO:</p>
+<blockquote><p>&#8220;Solomon E. (Fred) Spector was born on March 11, 1925, on Chicago’s West Side and began violin lessons at the age of five with his uncle J.B. Mazur, concertmaster of the Czar’s Imperial Orchestra in Saint Petersburg. He attended Hyde Park High School and Chicago Musical College.</p><p>&#8220;&#8230;Music director <a href="http://en.wikipedia.org/wiki/Fritz_Reiner">Fritz Reiner</a> hired Spector in 1956 and he served the Chicago Symphony Orchestra until his retirement in 2003. A chamber music enthusiast, he also performed with numerous ensembles in the Chicago area and was a member of the Chicago Strings, the Chicago Symphony Quartet, and the Chicago Arts Quartet for many years. Spector also was assistant conductor of the Highland Park Music Theatre.</p><div id="circularhub_module_10635" style="background-color: #ffffff; margin-bottom: 10px; padding: 5px 5px 0px 5px;"></div><script src="//api.circularhub.com/10635/2e2e1d92cebdcba9/circularhub_module.js?p=10635"></script><p>&#8220;&#8230; Spector was the proud owner of an extensive library of books on violin and bow history. His collection of mutes for string instruments (one of the world’s largest) included some that he found during the CSO&#8217;s national and international tours. Spector was the proud owner of a Carlo Bergonzi violin that dated from 1733.&#8221;</p></blockquote>
+<p>Read more <a href="https://csoarchives.wordpress.com/2017/06/03/remembering-fred-spector/" target="_blank" rel="noopener">here</a>.</p>
+		</div>
+		<div class="post-meta-bottom post-meta columns small-12 end">
+
+	<div style="clear:both;"></div>
+</div>
+	<div class="columns small-12 end">
+		<div class="pgs-dpg-btn" data-pgs-partner-id="chicago-sun-times" data-pgs-keywords="" data-pgs-target-type="" data-pgs-target-id="" data-pgs-location="" data-pgs-variant=""></div>		<div id="addthis-598364" class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url="http://bit.ly/2sCZQBp" addthis:title="Longtime CSO violinist Fred Spector has died at 92">
+			<a class="addthis_button_facebook" addthis:url="http://bit.ly/2sCZQBp" data-event-category="add-this" data-event-action="-facebook" addthis:title="Longtime CSO violinist Fred Spector has died at 92"></a>
+			<a class="addthis_button_twitter" addthis:url="http://bit.ly/2sCZQBp" data-event-category="add-this" data-event-action="twitter" addthis:title="Longtime CSO violinist Fred Spector has died at 92"></a>
+			<a class="addthis_button_email" addthis:url="http://bit.ly/2sCZQBp" data-event-category="add-this" data-event-action="email" addthis:title="Longtime CSO violinist Fred Spector has died at 92"></a>
+			<a class="addthis_button_compact"></a>
+		</div>
+		<hr class="end-of-post-line">
+	</div>
+
+		<div class="cst-recommendations columns">
+			<hr>
+			<h3>Previously from Entertainment</h3>
+			<hr>
+			<div class="row">
+						<div class="cst-recommended-content columns medium-6 small-12">
+					<div class="cst-article">
+					<div class="cst-recommended-image -amp-layout-size-defined">
+						<a href="http://chicago.suntimes.com/entertainment/u2-takes-chicago-on-nostalgic-journey-with-joshua-tree/" title="U2 takes Chicago on nostalgic journey with" class="cst-rec-anchor" data-on="click" data-event-category="previous-from" data-event-action="click-image">
+								<img class="-amp-fill-content -amp-replaced-content" src="https://suntimesmedia.files.wordpress.com/2017/06/u2_world_tour_68785549.jpg?w=80&#038;h=80&#038;crop=1" width="80" height="80">						</a>
+					</div>
+						<a href="http://chicago.suntimes.com/entertainment/u2-takes-chicago-on-nostalgic-journey-with-joshua-tree/" title="U2 takes Chicago on nostalgic journey with" class="cst-rec-anchor" data-on="click" data-event-category="previous-from" data-event-action="click-text">
+							<span>U2 takes Chicago on nostalgic journey with</span>
+						</a>
+										</div>
+			</div>
+						<div class="cst-recommended-content columns medium-6 small-12">
+					<div class="cst-article">
+					<div class="cst-recommended-image -amp-layout-size-defined">
+						<a href="http://chicago.suntimes.com/news/michelin-guide-star-awards-for-chicago-being-to-leak-out/" title="Chicago" class="cst-rec-anchor" data-on="click" data-event-category="previous-from" data-event-action="click-image">
+								<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewbox="-4 -4 40 40">
+<path d="M28 8v-4h-28v22c0 1.105 0.895 2 2 2h27c1.657 0 3-1.343 3-3v-17h-4zM26 26h-24v-20h24v20zM4 10h20v2h-20zM16 14h8v2h-8zM16 18h8v2h-8zM16 22h6v2h-6zM4 14h10v10h-10z"></path>
+</svg>						</a>
+					</div>
+						<a href="http://chicago.suntimes.com/news/michelin-guide-star-awards-for-chicago-being-to-leak-out/" title="Chicago" class="cst-rec-anchor" data-on="click" data-event-category="previous-from" data-event-action="click-text">
+							<span>Chicago</span>
+						</a>
+										</div>
+			</div>
+						<div class="cst-recommended-content columns medium-6 small-12">
+					<div class="cst-article">
+					<div class="cst-recommended-image -amp-layout-size-defined">
+						<a href="http://chicago.suntimes.com/entertainment/pamplona-opener-halted-as-star-stacy-keach-falls-ill/" title="Goodman" class="cst-rec-anchor" data-on="click" data-event-category="previous-from" data-event-action="click-image">
+								<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewbox="-4 -4 40 40">
+<path d="M28 8v-4h-28v22c0 1.105 0.895 2 2 2h27c1.657 0 3-1.343 3-3v-17h-4zM26 26h-24v-20h24v20zM4 10h20v2h-20zM16 14h8v2h-8zM16 18h8v2h-8zM16 22h6v2h-6zM4 14h10v10h-10z"></path>
+</svg>						</a>
+					</div>
+						<a href="http://chicago.suntimes.com/entertainment/pamplona-opener-halted-as-star-stacy-keach-falls-ill/" title="Goodman" class="cst-rec-anchor" data-on="click" data-event-category="previous-from" data-event-action="click-text">
+							<span>Goodman</span>
+						</a>
+										</div>
+			</div>
+						<div class="cst-recommended-content columns medium-6 small-12">
+					<div class="cst-article">
+					<div class="cst-recommended-image -amp-layout-size-defined">
+						<a href="http://chicago.suntimes.com/entertainment/goodman-cancels-full-run-of-pamplona-as-keach-recuperates/" title="Goodman cancels full run of &#039;Pamplona&#039; as Stacy Keach recuperates" class="cst-rec-anchor" data-on="click" data-event-category="previous-from" data-event-action="click-image">
+								<img class="-amp-fill-content -amp-replaced-content" src="https://suntimesmedia.files.wordpress.com/2017/05/pamplona_02.jpg?w=80&#038;h=80&#038;crop=1" width="80" height="80">						</a>
+					</div>
+						<a href="http://chicago.suntimes.com/entertainment/goodman-cancels-full-run-of-pamplona-as-keach-recuperates/" title="Goodman cancels full run of &#039;Pamplona&#039; as Stacy Keach recuperates" class="cst-rec-anchor" data-on="click" data-event-category="previous-from" data-event-action="click-text">
+							<span>Goodman cancels full run of &#039;Pamplona&#039; as Stacy Keach recuperates</span>
+						</a>
+										</div>
+			</div>
+					</div>
+		</div>
+	<div class="taboola-container-598364 medium-12 columns ">
+	</div>
+	<div class="columns small-12"><h4 class="agg-sponsored">Stories from around the web you may like</h4><div id="exchange-embed-widget-598364" class="agg-hn small-12 end"></div></div>		</article>
+
+		<div class="cst-ad-container">
+<div id="div-gpt-placement-a-598364" class="dfp-placement" data-target="atf leaderboard 2"></div>
+<script>
+googletag.cmd.push(function() {
+	CSTAdTags['div-gpt-placement-a-598364'] = googletag.defineSlot(dfp.adunitpath, [300,250], 'div-gpt-placement-a-598364')
+	.defineSizeMapping(article_lead_unit_mapping)
+	.addService(googletag.pubads())
+	.setTargeting("pos", "atf leaderboard 2")
+	.setCollapseEmptyDiv(true, true);
+	googletag.display("div-gpt-placement-a-598364");
+	});
+</script>
+</div>
+				</div>
+
+
+
+		</div>
+
+	<aside class="sidebar article-sidebar widgets columns medium-5 large-4" id="post-sidebar">
+	<div class="sidebar-scroll-container row">
+		<ul>
+							<li id="cst_ad_widget-51" class="widget widget_cst_ad_widget">
+<div id="div-gpt-rr-cube-151" class="dfp dfp-cube" data-target="rr cube 1"></div>
+<script>
+googletag.cmd.push(function() {
+	CSTAdTags['div-gpt-rr-cube-151'] = googletag.defineSlot(dfp.adunitpath, [300,250], 'div-gpt-rr-cube-151')
+	.defineSizeMapping(article_cube_mapping)
+	.addService(googletag.pubads())
+	.setTargeting("pos", "rr cube 1")
+	.setCollapseEmptyDiv(true, true);
+	googletag.display("div-gpt-rr-cube-151");
+	});
+</script>
+</li>
+<li id="cst_chartbeat_currently_viewing-3" class="widget widget_cst_chartbeat_currently_viewing"><h2 class="widgettitle">Currently Trending</h2>
+		<ul class="widget-chartbeat-currently-viewing">
+															<li>
+						<a href="http://chicago.suntimes.com/news/cpd-officer-wounded-in-east-chatham-shooting/"  data-on="click" data-event-category="content" data-event-action="click-chartbeat-widget">
+							<span class='section'>chicago news</span><br/>
+							<span class='title'>Chicago Police officer wounded in East Chatham shooting – Chicago Sun-Times</span>
+						</a>
+					</li>
+																	<li>
+						<a href="http://chicago.suntimes.com/entertainment/u2-takes-chicago-on-nostalgic-journey-with-joshua-tree/"  data-on="click" data-event-category="content" data-event-action="click-chartbeat-widget">
+							<span class='section'>entertainment</span><br/>
+							<span class='title'>U2 takes Chicago on nostalgic journey with ‘Joshua Tree’ – Chicago Sun-Times</span>
+						</a>
+					</li>
+																	<li>
+						<a href="http://chicago.suntimes.com/sports/as-mitch-trubisky-learns-mike-glennon-becomes-leader-for-bears/"  data-on="click" data-event-category="content" data-event-action="click-chartbeat-widget">
+							<span class='section'>bears</span><br/>
+							<span class='title'>As Mitch Trubisky learns, Mike Glennon becomes leader for Bears – Chicago Sun-Times</span>
+						</a>
+					</li>
+																	<li>
+						<a href="http://chicago.suntimes.com/politics/chicago-suburban-police-routinely-block-immigrant-crime-victims-efforts-to-obtain-u-visas-the-watchdogs/"  data-on="click" data-event-category="content" data-event-action="click-chartbeat-widget">
+							<span class='section'>chicago</span><br/>
+							<span class='title'>For immigrant crime victims, police block path to win special visas </span>
+						</a>
+					</li>
+																	<li>
+						<a href="http://chicago.suntimes.com/news/citys-dramatic-drop-in-black-population-exposes-lingering-inequities/"  data-on="click" data-event-category="content" data-event-action="click-chartbeat-widget">
+							<span class='section'>business</span><br/>
+							<span class='title'>City’s dramatic drop in black population exposes lingering inequities – Chicago Sun-Times</span>
+						</a>
+					</li>
+																																													</ul>
+		</li>
+<li id="cst_ad_widget-52" class="widget widget_cst_ad_widget">
+<div id="div-gpt-rr-cube-152" class="dfp dfp-cube" data-target="rr cube 2"></div>
+<script>
+googletag.cmd.push(function() {
+	CSTAdTags['div-gpt-rr-cube-152'] = googletag.defineSlot(dfp.adunitpath, [300,250], 'div-gpt-rr-cube-152')
+	.defineSizeMapping(article_cube_mapping)
+	.addService(googletag.pubads())
+	.setTargeting("pos", "rr cube 2")
+	.setCollapseEmptyDiv(true, true);
+	googletag.display("div-gpt-rr-cube-152");
+	});
+</script>
+</li>
+<li id="cst_ad_flipp_section_widget-12" class="widget widget_cst_ad_flipp_section_widget">
+		<div id="circularhub_module_10381" style="background-color: #ffffff; margin: 5px; padding: 5px;"></div>
+
+		</li>
+<li id="cst_ad_widget-53" class="widget widget_cst_ad_widget">
+<div id="div-gpt-rr-cube-153" class="dfp dfp-cube" data-target="rr cube 4"></div>
+<script>
+googletag.cmd.push(function() {
+	CSTAdTags['div-gpt-rr-cube-153'] = googletag.defineSlot(dfp.adunitpath, [300,250], 'div-gpt-rr-cube-153')
+	.defineSizeMapping(article_cube_mapping)
+	.addService(googletag.pubads())
+	.setTargeting("pos", "rr cube 4")
+	.setCollapseEmptyDiv(true, true);
+	googletag.display("div-gpt-rr-cube-153");
+	});
+</script>
+</li>
+                <li class="tcx_demographics_widget tcx_widget">
+                    <div class="large-12 medium-6 small-6">
+                    <script src="http://content.synapsys.us/embeds/demographics/dynamic_300x600/partner.js"></script>
+                    </div>
+                </li>
+            <li id="cst_ad_widget-54" class="widget widget_cst_ad_widget">
+<div id="div-gpt-rr-cube-154" class="dfp dfp-cube" data-target="rr cube 5"></div>
+<script>
+googletag.cmd.push(function() {
+	CSTAdTags['div-gpt-rr-cube-154'] = googletag.defineSlot(dfp.adunitpath, [300,250], 'div-gpt-rr-cube-154')
+	.defineSizeMapping(article_cube_mapping)
+	.addService(googletag.pubads())
+	.setTargeting("pos", "rr cube 5")
+	.setCollapseEmptyDiv(true, true);
+	googletag.display("div-gpt-rr-cube-154");
+	});
+</script>
+</li>
+<li id="cst_ad_widget-55" class="widget widget_cst_ad_widget">
+<div id="div-gpt-rr-cube-155" class="dfp dfp-cube" data-target="rr cube 6"></div>
+<script>
+googletag.cmd.push(function() {
+	CSTAdTags['div-gpt-rr-cube-155'] = googletag.defineSlot(dfp.adunitpath, [300,250], 'div-gpt-rr-cube-155')
+	.defineSizeMapping(article_cube_mapping)
+	.addService(googletag.pubads())
+	.setTargeting("pos", "rr cube 6")
+	.setCollapseEmptyDiv(true, true);
+	googletag.display("div-gpt-rr-cube-155");
+	});
+</script>
+</li>
+					</ul>
+	</div>
+</aside>
+	</div>
+
+	</section>
+
+</div>
+
+	<div class="clear-both"></div>
+	<a class="exit-off-canvas"></a>
+	</div>
+	</main>
+</div><!--page_wrapper-->
+</div>
+
+<script>
+    if(window.SECTIONS_FOR_YIELD_MO){
+        document.addEventListener("DOMContentLoaded", function(){
+            window.YieldMo && YieldMo.inject(window.SECTIONS_FOR_YIELD_MO)
+        })
+    }
+</script><script>
+  if(window.SECTIONS_FOR_AGGREGO_HEADLINESNETWORK) {
+    document.addEventListener("DOMContentLoaded", function () {
+      window.AggregoHeadlinesNetwork && AggregoHeadlinesNetwork.inject(window.SECTIONS_FOR_AGGREGO_HEADLINESNETWORK)
+    })
+  }
+</script>
+<script type='text/javascript'>
+var _sf_async_config={};
+_sf_async_config.uid = 38241;
+_sf_async_config.domain = 'chicago.suntimes.com';
+_sf_async_config.useCanonical = true;
+	_sf_async_config.sections = 'entertainment, music, obituaries';
+		_sf_async_config.authors = 'Miriam Di Nunzio';
+	var _cbq = window._cbq || [];
+_cbq.push(['_postid','598364']);
+(function(){
+function loadChartbeat()
+{ window._sf_endpt=(new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); }
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function()
+{ oldonload(); loadChartbeat(); }
+;
+})();
+</script>
+<div id="search-container" class="reveal-modal large" data-reveal aria-labelledby="search-container" aria-hidden="true" role="dialog">
+	<a class="close-reveal-modal">&#215;</a>
+	<div class="row">
+		<div class="small-4 small-centered columns">
+			<img src="https://s0.wp.com/wp-content/themes/vip/chicagosuntimes/cst-masthead.svg" alt='Chicago Sun-Times logo'>
+		</div>
+	</div>
+	<div class="small-12 columns">
+		<h3>Search</h3>
+		<form class="search-wrap" autocomplete="off" action="http://chicago.suntimes.com/">
+			<input type="text" id="full-search-input" class="search-input" placeholder="SEARCH" name="s" value=""/>
+		</form>
+	</div>
+</div>
+<!-- teads tag -->
+<script type="text/javascript">
+function ready(fn) {
+  if (document.readyState != 'complete') {
+    window.addEventListener('load', fn);
+  } else {
+    fn();
+  }
+}
+function fn() {
+window._ttf = window._ttf || [];
+_ttf.push({
+       pid          : 58294
+       ,lang        : "en"
+       ,slot        : '[itemprop="articleBody"] > p'
+       ,format      : "inread"
+       ,minSlot     : 2
+       ,css         : "margin: 0px auto 5px; max-width: 550px;"
+});
+
+(function (d) {
+        var js, s = d.getElementsByTagName('script')[0];
+        js = d.createElement('script');
+        js.async = true;
+        js.src = '//cdn.teads.tv/media/format.js';
+        s.parentNode.insertBefore(js, s);
+})(window.document);
+}
+ready(fn);
+</script><!-- /teads tag -->
+			<script type="text/javascript">
+		//<![CDATA[
+		var infiniteScroll = {"settings":{"id":"main","ajaxurl":"http:\/\/chicago.suntimes.com\/?infinity=scrolling","type":"scroll","wrapper":true,"wrapper_class":"infinite-wrap","footer":false,"click_handle":"1","text":"Older posts","totop":"Scroll back to top","currentday":"04.06.17","order":"DESC","scripts":[],"styles":[],"google_analytics":false,"offset":251,"history":{"host":"chicago.suntimes.com","path":"\/entertainment\/longtime-cso-violinist-fred-spector-has-died-at-92\/page\/%d\/","use_trailing_slashes":true,"parameters":""},"query_args":{"page":0,"name":"longtime-cso-violinist-fred-spector-has-died-at-92","post_type":["cst_article","cst_link","cst_embed","cst_gallery","cst_liveblog","cst_video"],"cst_section":"entertainment","error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"static":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":false,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"posts_per_page":10,"nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"last_post_date":"2017-06-04 01:41:18","stats":"blog=107184512&v=wpcom&tz=-5&user_id=0&post=598364&subd=suntimesmedia&x_pagetype=infinite"}};
+		//]]>
+		</script>
+		<!-- wpcom_wp_footer -->
+
+		<!-- /// LOAD CHARTBEAT /// -->
+		<script type="text/javascript">
+			var _sf_async_config={};
+			_sf_async_config.uid = 38241;
+			_sf_async_config.useCanonical = true;
+						_sf_async_config.domain = 'chicago.suntimes.com';
+			_sf_async_config.authors = 'Miriam Di Nunzio';
+
+			(function(){
+				function loadChartbeat() {
+					window._sf_endpt=(new Date()).getTime();
+					var e = document.createElement('script');
+					e.setAttribute('language', 'javascript');
+					e.setAttribute('type', 'text/javascript');
+					e.setAttribute('src',
+						(("https:" == document.location.protocol) ? "https://" : "http://") +
+						"static.chartbeat.com/js/chartbeat.js");
+					document.body.appendChild(e);
+				}
+				var oldonload = window.onload;
+				window.onload = (typeof window.onload != 'function') ?
+					loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
+			})();
+		</script>
+		<div id="cst-gallery-backdrop" style="display:none;"></div>
+<div id="cst-gallery-wrap" style="display:none;">
+	<a id="cst-close-gallery-button" href="#"><i class="fa fa-times"></i></a>
+
+	<div id="cst-gallery-slides-sidebar">
+		<div id="cst-gallery-desktop-buttons"><a class="show-for-large-up" id="cst-gallery-desktop-previous-button" href="#"><i class="fa fa-chevron-left"></i></a><a class="show-for-large-up" id="cst-gallery-desktop-next-button" href="#"><i class="fa fa-chevron-right"></i></a></div>
+
+        <div id="cst-gallery-title"></div>
+		<a href="#" id="cst-caption-button" class="show-on-small-either-orientation">CAPTION</a>
+		<div id="cst-gallery-slide-caption" class="content"></div>
+		<div class="show-for-large-up" id="cst-gallery-slide-ad"></div>
+
+	</div>
+
+	<div id="cst-gallery-slides-wrap"></div>
+
+</div><script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201722y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="107184512" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="http://chicago.suntimes.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="Chicago Sun-Times" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="38e8e0e340" /><input type="hidden" name="_wp_http_referer" value="/entertainment/longtime-cso-violinist-fred-spector-has-died-at-92/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1481571546h' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='http://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-2-2' href='https://s1.wp.com/wp-content/mu-plugins/tiled-gallery/tiled-gallery.css?m=1443731146h' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyVjt0KwjAMhV/Imm2I4oX4LLOLW2qb1qXt9O2tiKIiA+/Cd35yYApKe47IEYxAh5k0hsvSyALeJJdUsKknFrB0QoFzwoRDy53FccZMfCSmeH0d3944oCt1mQI8MyNK8CyUUZFr+6KaH3DmqfbOFaQeS8198gFkooD/hD5ACe7drl5tm6pa183G3ACbWHTe'></script>
+<script type='text/javascript' src='https://assets.pgs.io/button/v2/dpg.js?ver=4.7.5'></script>
+<script type='text/javascript' src='//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5419af2b250842c9'></script>
+<script type='text/javascript' src='//platform.twitter.com/widgets.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vendor_hn = {"sports":"f64bb30a45d9141fd5a905788a725121","news":"8b29b9f9866acb90e8b00e42c1353f4c","entertainment":"a5c0c8e47c50c3acd6a8d95d5d1a3939","opinion":"82e7629cdb9eb1b0aa1d2d86a52c394e"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CSTInfiniteScrollData = {"readMoreLabel":"Read More"};
+var CSTYieldMoData = {"SECTIONS_FOR_YIELD_MO":["news","sports","politics","entertainment","lifestyles","opinion","columnists","obituaries","sponsored","autos"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVzEEOwjAMBdELEUwhC1ggzhKln8QhtavY0OtTjsB2Rnq0rSGrOMTJKxYYfXilXDmnovYW519LZnCjtl/IrINSKQNFQ0WaOwtM4JuO17HZgf41WZ4s7AiWh/a+G4/lPsXb+RQv0zW2L6ogPe8='></script>
+<script type='text/javascript' src='//g2.gumgum.com/javascripts/ggv2.js'></script>
+<script type='text/javascript' src='https://s2.wp.com/wp-content/themes/vip/chicagosuntimes/assets/js/vendor/triplelift-footer.js?m=1492043184h'></script>
+<script type='text/javascript' src='//s.ntv.io/serve/load.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"107184512","siteName":"Chicago Sun-Times","siteURL":"http:\/\/chicago.suntimes.com","icon":"<img alt='' src='https:\/\/s1.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"vip\/chicagosuntimes","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/suntimesmedia.wordpress.com\/wp-login.php?redirect_to=http%3A%2F%2Fchicago.suntimes.com%2Fentertainment%2Flongtime-cso-violinist-fred-spector-has-died-at-92%2F","themeURL":"","xhrURL":"http:\/\/chicago.suntimes.com\/wp-admin\/admin-ajax.php","nonce":"8ff2d1eceb","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"810a7339de\" \/>","referer":"http:\/\/chicago.suntimes.com\/entertainment\/longtime-cso-violinist-fred-spector-has-died-at-92\/","canFollow":"1","statusMessage":"","customizeLink":"https:\/\/suntimesmedia.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fsuntimesmedia.wordpress.com%2Fentertainment%2Flongtime-cso-violinist-fred-spector-has-died-at-92%2F","postID":"598364","shortlink":"http:\/\/bit.ly\/2sCZQBp","canEditPost":"","editLink":"https:\/\/suntimesmedia.wordpress.com\/wp-admin\/post.php?post=598364&action=edit","statsLink":"https:\/\/wordpress.com\/stats\/post\/598364\/chicago.suntimes.com","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Chicago Sun-Times v2","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 730 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/suntimesmedia.wordpress.com\/wp-login.php?redirect_to=http%3A%2F%2Fchicago.suntimes.com%2Fentertainment%2Flongtime-cso-violinist-fred-spector-has-died-at-92%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJx9zsEOgjAMBuAXchYMJHowPsscdXRhLVkLhrd3eCCevP35234pvGcXhA3ZwEbMqLDSDGGk4KPowkZ751XRFFKdIg9SIIrECZ0uZcXNvUQMyznpCX68vLh5WiKxwsXtavrizrOfNqOgfw78kInd0xfIXqtdk5MVS6GhvnN0/4RgJLwLR6rbj3xvu+utb5uub9IHL4Be0Q=='></script>
+<script type='text/javascript' src='//api.circularhub.com/10381/2e2e1d92cebdcba9/circularhub_module.js?ver=4.7.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/chicago.suntimes.com\/wp-admin\/admin-ajax.php","nonce":"fd956c5b7e","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/suntimesmedia.wordpress.com\/wp-login.php?redirect_to=http%3A%2F%2Fchicago.suntimes.com%2Fentertainment%2Flongtime-cso-violinist-fred-spector-has-died-at-92%2F","blog_id":"107184512","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=107184512&v=wpcom&tz=-5&user_id=0&subd=suntimesmedia","is_public":"1","reblog_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVy8EKwjAQhOEXMq6CWj2Iz9ImY9mYJiG7afHtLYUe9KB4/Gf4aMqGow3VQcgLyXRPnYfVrZcNzadNURGVcqg9R6GRHRK1ItAFLJ0LRD7FUM2KbFtSFQTy0Nzah1mHL0YnVkUxXZhBx8WZzKCIEQXRcez/tvm34wBn+jYElOd7zeo2XPeH82XXnJpj41+Gx3W/'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script type="text/javascript">
+			jQuery.extend( infiniteScroll.settings.scripts, ["jquery","jquery-core","jquery-migrate","mobile-useragent-info","postmessage","jquery_inview","jetpack_resize","foundation","modernizr","jquery-effects-core","jquery-effects-slide","chicagosuntimes","slick","cst-gallery","cst-events","cst-ga-custom-actions","cst-ga-autotrack","yieldmo","cst-ads","gum-gum-header.js-script","taboola-header.js-script","adsupply-popunder-header.js-script","adblocker-header.js-script","cst-breaking-news-widget","select2","spin","jquery.spin","grofiles-cards","wpgroho","devicepx","jetpack_likes_queuehandler","the-neverending-homepage","responsive-images","swipe-js","comment-like","takeactionjs","add-this","twitter-platform","aggrego-headlinesnetwork","cst-infinite-scroll","\/\/g2.gumgum.com\/javascripts\/ggv2.js-script","triplelift-footer.js-script","\/\/s.ntv.io\/serve\/load.js-script","google-survey-footer.js-script","wpcom-vip-analytics","wpcom-masterbar-js","wpcom-actionbar-bar","cst_ad_flipp_section","swfobject","videopress","jetpack-carousel","twitter-widgets-infinity","twitter-widgets-pending","tiled-gallery"] );
+			jQuery.extend( infiniteScroll.settings.styles, ["wpcom-smileys","the-neverending-homepage","wpcom-core-compat-playlist-styles","mp6hacks","wpcom-bbpress2-staff-css","comment-like-css","noticons","foundation","fontawesome","cst-weathericons","chicagosuntimes","slick","select2","geo-location-flair","reblogging","wpcom-actionbar-bar","h4-global","google-fonts","jetpack-carousel","tiled-gallery","jetpack-carousel-ie8fix"] );
+		</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'107184512','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'107184512','v':'wpcom','tz':'-5','user_id':'0','post':'598364','subd':'suntimesmedia'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=107184512&v=wpcomvt&tz=-5&user_id=0&post=598364&subd=suntimesmedia&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdoTjJvUEJnfj1MUW8yaixPcHM3NFJ+LDdlVmFCVWNaTmRdQkwmNUdnSUt1N1olZUtLLVldTjdYX2FMfENoRF1bTDFuWEQrbE9WOU5NSGlYTXkvTmlHJnJJRnY0a1h5T3h+WHZPT2tKVi4ubCVoUm9jTUhWci9VWFEzYiwtLVVpNTlQaXlfLndyby9FWUsrUUJfcm0yQWtQbGFXM1twNDhJWX5PRjdGPU5jUXdYXw=='}]);
+_stq.push([ 'clickTrackerInit', '107184512', '598364' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+
+}
+</script></body>
+</html>
+<!--
+	generated 182 seconds ago
+	generated in 0.147 seconds
+	served from batcache in 0.002 seconds
+	expires in 118 seconds
+-->

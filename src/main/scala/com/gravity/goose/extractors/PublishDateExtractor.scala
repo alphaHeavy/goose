@@ -21,6 +21,7 @@ import java.time.format.{DateTimeFormatter, DateTimeFormatterBuilder}
 import java.time._
 import java.time.temporal.ChronoField
 
+import com.gravity.goose.extractors.PublishDateExtractor.info
 import org.json4s._
 import org.json4s.native.JsonMethods._
 import com.gravity.goose.utils.Logging
@@ -104,22 +105,22 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
       import scala.collection.JavaConverters._
       rootElement.select(selector).asScala.flatMap(item => {
         if (item.nodeName() == "time") {
-          safeParseNoTimeZone(item.attr("datetime"), zoneId)
+          safeParseNoTimeZone(item.attr("datetime"), url, zoneId)
         }
         else if(item.nodeName() == "abbr")
         {
-          safeParseNoTimeZone(item.attr("title"), zoneId)
+          safeParseNoTimeZone(item.attr("title"), url, zoneId)
         }
         else if(item.nodeName() == "script")
         {
           val json = parse(item.html,false)
 
           val dateCreated = json \\ "dateCreated" match {
-            case JString(x) => Some(safeParseNoTimeZone(x,zoneId))
+            case JString(x) => Some(safeParseNoTimeZone(x, url, zoneId))
             case _ => None
           }
           val datePublished = json \\ "datePublished" match {
-            case JString(x) => Some(safeParseNoTimeZone(x,zoneId))
+            case JString(x) => Some(safeParseNoTimeZone(x, url, zoneId))
             case _ => None
           }
 
@@ -135,11 +136,11 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
         }
         else {
           if(item.hasAttr("content")) {
-            safeParseNoTimeZone(item.attr("content"), zoneId)
+            safeParseNoTimeZone(item.attr("content"), url, zoneId)
           }
           else
             {
-              safeParseNoTimeZone(item.text().trim, zoneId)
+              safeParseNoTimeZone(item.text().trim, url, zoneId)
             }
         }})
     }
@@ -151,29 +152,42 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
   }
 
   //Parse
-  def safeParseNoTimeZone(txt: String, zoneId: ZoneId): Option[ZonedDateTime] = {
-    val date1 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss")
-    val date2 = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")
-    val date3 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm")
-    val date4 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSS")
-    val date5 = DateTimeFormatter.ofPattern("E',' dd M YYYY HH:mm:ss")
-    val date6 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy HH:mm a")
-    val date7 = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm")
-    val date8 = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm")
-    val parser = new DateTimeFormatterBuilder()
-      .appendOptional(date1)
-      .appendOptional(date2)
-      .appendOptional(date3)
-      .appendOptional(date4)
-      .appendOptional(date5)
-      .appendOptional(date6)
-      .appendOptional(date7)
-      .appendOptional(date8)
-      .toFormatter
+  def safeParseNoTimeZone(txt: String, url: Uri, zoneId: ZoneId): Option[ZonedDateTime] = {
+    try {
 
-    val result = LocalDateTime.parse(txt, parser) //parser.parse(txt)
+      val txt2 = txt.replace("am", "AM").replace("pm", "PM")
 
-    Some(ZonedDateTime.of(result, zoneId).withZoneSameInstant(ZoneId.of("UTC").normalized()))
+      val date1 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss")
+      val date2 = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")
+      val date3 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm")
+      val date4 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSS")
+      val date5 = DateTimeFormatter.ofPattern("E',' dd M YYYY HH:mm:ss")
+      val date6 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy HH:mm a")
+      val date7 = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm")
+      val date8 = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm")
+      val date9 = DateTimeFormatter.ofPattern("MM/dd/yyyy',' HH:mma")
+      val parser = new DateTimeFormatterBuilder()
+        .appendOptional(date1)
+        .appendOptional(date2)
+        .appendOptional(date3)
+        .appendOptional(date4)
+        .appendOptional(date5)
+        .appendOptional(date6)
+        .appendOptional(date7)
+        .appendOptional(date8)
+        .appendOptional(date9)
+        .toFormatter
+
+      val result = LocalDateTime.parse(txt2, parser)
+
+      Some(ZonedDateTime.of(result, zoneId).withZoneSameInstant(ZoneId.of("UTC").normalized()))
+    }
+    catch {
+      case ex: Throwable =>
+        println(ex)
+        info(s"safeParseNoTimeZone `$txt` could not be parsed to date as it did not meet the ISO 8601 spec" + " " + url.toString)
+        None
+    }
   }
 
   final val pubSelectors = Seq(
@@ -197,7 +211,9 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
     "meta[name=publish_date]",
     "p[class=publish-time]",
     "span[class=timestamp]",
-    "span[class=date-area-date]"
+    "span[class=date-area-date]",
+    "meta[name=sailthru.date]",
+    "span[class=post-relative-date top-date]"
   )
 
   final val modSelectors = Seq(
@@ -244,7 +260,9 @@ object PublishDateExtractor extends Logging {
     "news.sky.com" -> ZoneId.of("Europe/London"),
     "www.bostonglobe.com" -> ZoneId.of("America/New_York"),
     "english.yonhapnews.co.kr" -> ZoneId.of("Asia/Seoul"),
-    "abcnews.go.com" -> ZoneId.of("America/New_York"))
+    "abcnews.go.com" -> ZoneId.of("America/New_York"),
+    "chicago.suntimes.com" -> ZoneId.of("America/Chicago"),
+    "money.cnn.com" -> ZoneId.of("America/New_York"))
 
 
   val logPrefix = "PublishDateExtractor: "
@@ -314,11 +332,12 @@ object PublishDateExtractor extends Logging {
         .appendOptional(date15)
         .toFormatter
 
-      Some(ZonedDateTime.from(parser.parse(txt2)).withZoneSameInstant(ZoneId.of("UTC").normalized()))
+      val x = ZonedDateTime.from(parser.parse(txt2)).withZoneSameInstant(ZoneId.of("UTC").normalized())
+      Some(x)
     } catch {
       case ex: Exception =>
         println(ex)
-        info(s"`$txt` could not be parsed to date as it did not meet the ISO 8601 spec" + " " + url.toString)
+        info(s"safeParseISO8601Date `$txt` could not be parsed to date as it did not meet the ISO 8601 spec" + " " + url.toString)
         None
     }
   }

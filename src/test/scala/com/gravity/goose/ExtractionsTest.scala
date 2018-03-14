@@ -694,7 +694,6 @@ class ExtractionsTest {
       expectedStart = "TOKYO -- Japan's augmented Global Positioning System is expected to create a host of new business opportunities")
     assert(article.publishDate.isDefined)
     assert(article.canonicalLink.isDefined)
-    //assert(article.canonicalLink.get == "http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206")
   }
 
   @Test
@@ -707,9 +706,55 @@ class ExtractionsTest {
       expectedStart = "We’re inching ever closer to")
     assert(article.publishDate.isDefined)
     assert(article.canonicalLink.isDefined)
-    //assert(article.canonicalLink.get == "http://abcnews.go.com/Politics/putin-suggests-us-hackers-interfered-election-blamed-russia/story?id=47800206")
   }
 
+  @Test
+  def fortune3(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("fortune3.txt")
+    val url = "http://fortune.com/2017/06/02/jpmorgan-chase-jamie-dimon-white-house-paris-climate-president-donald-trump/"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Though JPMorgan CEO Jamie Dimon says he totally disagrees with")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def suntimes1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("suntimes1.txt")
+    val url = "https://chicago.suntimes.com/entertainment/longtime-cso-violinist-fred-spector-has-died-at-92/"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "The Chicago Symphony Orchestra on Saturday announced")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def cnn2(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("cnn2.txt")
+    val url = "http://money.cnn.com/2017/06/02/news/companies/lloyd-blankfein-tweets-again/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fmoney_latest+%28CNNMoney%3A+Latest+News%29"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "For Lloyd Blankfein, the answer was a bold call for")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def thehill1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("thehill1.txt")
+    val url = "http://thehill.com/blogs/ballot-box/house-races/170525-rep-steve-king-iowa-caucus-still-matters"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Rep. Steve King (R-Iowa) has two words for anyone who")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
   /*@Test
   def blogger1(): Unit ={
     // ld script

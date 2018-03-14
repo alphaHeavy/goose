@@ -22,4 +22,13 @@ class DateParserTests {
     val result = ZonedDateTime.from(dateFormat.parse(string))
     assert(result != null)
   }
+
+  @Test
+  def suntimes(): Unit = {
+    val string = "06/04/2017, 01:41am".replace("am","AM")
+    val dateFormat = DateTimeFormatter.ofPattern("MM/dd/yyyy',' HH:mma")
+    dateFormat.parse(string)
+    val result = ZonedDateTime.from(dateFormat.parse(string))
+    assert(result != null)
+  }
 }
