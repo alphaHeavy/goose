@@ -71,7 +71,7 @@ class Configuration {
   @BeanProperty
   var browserUserAgent: String = "Mozilla/5.0 (X11; U; Linux x86_64; de; rv:1.9.2.8) Gecko/20100723 Ubuntu/10.04 (lucid) Firefox/3.6.8"
 
-  var contentExtractor: ContentExtractor = new MultiPartStoryExtractor
+  var contentExtractor: ContentExtractor = new MasterContentExtractor()
 
   var publishDateExtractor: PublishDateExtractor = new PublishDateExtractor(PublishDateExtractor.timezones)
 

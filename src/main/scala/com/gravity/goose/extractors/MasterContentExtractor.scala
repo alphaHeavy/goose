@@ -5,8 +5,9 @@ import com.gravity.goose.extractors.sitespecific.DallasNewsExtractor
 
 class MasterContentExtractor extends ContentExtractor {
   private val standardContentExtractor = new StandardContentExtractor()
-  private val siteSpecificContentExtractors: Map[String, ContentExtractor] =
-    Map("www.dallasnews.com" -> new DallasNewsExtractor())
+  private val multiPartStoryExtractor = new MultiPartStoryExtractor()
+  private val siteSpecificContentExtractors: Map[String, ContentExtractor] = Map()
+  private val jsonContentExtractor = new JSONArticleExtractor()
 
   override def getTitle(article: Article): String = {
     siteSpecificContentExtractors.get(article.domain) match {
@@ -45,7 +46,22 @@ class MasterContentExtractor extends ContentExtractor {
 
   override def extractArticle(article: Article): String = {
     siteSpecificContentExtractors.get(article.domain) match {
-      case None => standardContentExtractor.extractArticle(article)
+      case None =>
+        if(multiPartStoryExtractor.shouldUse(article))
+          {
+            multiPartStoryExtractor.extractArticle(article)
+          }
+        else {
+          val result = standardContentExtractor.extractArticle(article)
+          if(result.isEmpty)
+            {
+              jsonContentExtractor.extractArticle(article)
+            }
+          else
+            {
+              result
+            }
+        }
       case Some(extractor) => extractor.extractArticle(article)
     }
   }

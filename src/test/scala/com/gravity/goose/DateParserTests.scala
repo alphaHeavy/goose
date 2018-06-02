@@ -1,6 +1,6 @@
 package com.gravity.goose
 
-import java.time.ZonedDateTime
+import java.time.{LocalDateTime, ZonedDateTime}
 import java.time.format.DateTimeFormatter
 
 import org.junit.Test
@@ -31,4 +31,21 @@ class DateParserTests {
     val result = ZonedDateTime.from(dateFormat.parse(string))
     assert(result != null)
   }
+
+  @Test
+  def maimiherald(): Unit = {
+    val string = "June 12, 2017 07:16 PM"
+    val dateFormat = DateTimeFormatter.ofPattern("MMMM dd',' yyyy hh:mm a")
+    val result = LocalDateTime.parse(string, dateFormat)
+    assert(result != null)
+  }
+
+  @Test
+  def ndtv(): Unit = {
+    val string = "Thu, 01 Jun 2017 11:12:55 +0530"
+    val dateFormat = DateTimeFormatter.ofPattern("E',' dd MMM yyyy HH:mm:ss X")
+    val result = LocalDateTime.parse(string, dateFormat)
+    assert(result != null)
+  }
+
 }

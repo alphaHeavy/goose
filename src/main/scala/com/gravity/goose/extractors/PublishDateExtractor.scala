@@ -19,7 +19,6 @@ package com.gravity.goose.extractors
 
 import java.time.format.{DateTimeFormatter, DateTimeFormatterBuilder}
 import java.time._
-import java.time.temporal.ChronoField
 
 import com.gravity.goose.extractors.PublishDateExtractor.info
 import org.json4s._
@@ -166,6 +165,7 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
       val date7 = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm")
       val date8 = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm")
       val date9 = DateTimeFormatter.ofPattern("MM/dd/yyyy',' HH:mma")
+      val date10 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy hh:mm a")
       val parser = new DateTimeFormatterBuilder()
         .appendOptional(date1)
         .appendOptional(date2)
@@ -176,6 +176,7 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
         .appendOptional(date7)
         .appendOptional(date8)
         .appendOptional(date9)
+        .appendOptional(date10)
         .toFormatter
 
       val result = LocalDateTime.parse(txt2, parser)
@@ -314,6 +315,7 @@ object PublishDateExtractor extends Logging {
       val date13 = DateTimeFormatter.ofPattern("E',' dd MMM yyyy HH:mm:ss z")
       val date14 = DateTimeFormatter.ofPattern("MMM d',' yyyy',' h:mm a z")
       val date15 = DateTimeFormatter.ofPattern("MMMM d',' yyyy h:mm a z")
+      val date16 = DateTimeFormatter.ofPattern("E',' dd MMM yyyy HH:mm:ss X")
       val parser = new DateTimeFormatterBuilder()
         .appendOptional(date1)
         .appendOptional(date2)
@@ -330,6 +332,7 @@ object PublishDateExtractor extends Logging {
         .appendOptional(date13)
         .appendOptional(date14)
         .appendOptional(date15)
+        .appendOptional(date16)
         .toFormatter
 
       val x = ZonedDateTime.from(parser.parse(txt2)).withZoneSameInstant(ZoneId.of("UTC").normalized())

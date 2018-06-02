@@ -2,7 +2,7 @@
 <html id="Stencil" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="H-100">
     <head>
         <script>var t_headstart=new Date().getTime();</script>
-        <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8"/ >
 	<title>It's All About The Benjamins, Baby: Dollar ETFs In Rarefied Air - Yahoo Finance</title>
 	<meta http-equiv="x-dns-prefetch-control" content="on"><link rel="dns-prefetch" href="https://s.yimg.com"><link rel="dns-prefetch" href="//y3.analytics.yahoo.com"><link rel="dns-prefetch" href="//geo.query.yahoo.com"><link rel="dns-prefetch" href="//geo.yahoo.com"><link rel="dns-prefetch" href="//csc.beap.bc.yahoo.com"><link rel="dns-prefetch" href="//b.scorecardresearch.com"><link rel="dns-prefetch" href="//l.yimg.com"><link rel="dns-prefetch" href="//l1.yimg.com"><link rel="dns-prefetch" href="//l2.yimg.com"><link rel="dns-prefetch" href="//l3.yimg.com">
 	<!--[if !IE]><!--><link rel="icon" sizes="any" mask href="http://l.yimg.com/os/mit/media/p/common/images/favicon_new-7483e38.svg"><meta name="theme-color" content="#400090"><!--<![endif]--><!--[if !IE]><!--><link rel="alternate icon" type="image/x-icon" href="/favicon.ico"/><!--<![endif]-->

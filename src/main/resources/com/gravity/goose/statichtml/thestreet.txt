@@ -1,0 +1,2291 @@
+<!DOCTYPE html>
+
+
+<!--[if IE 8 ]>    <html lang="en" class="no-js no-css ie8" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js no-css ie9"    > <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js no-css"><!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <!-- Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-6534317-15', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script type="text/javascript">
+        var dataLayer = [];
+    </script>
+    <script type='text/javascript'>
+        var forwardSlash = '/';
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+
+
+    <script type="text/javascript">
+        (function (){
+            window.advBidxc = window.advBidxc || {};
+            window.advBidxc.renderAd = function (){};
+            window.advBidxc.startTime = new Date().getTime();
+            window.advBidxc.timeout = 300;
+            window.advBidxc.version = 4.1;
+            window.advBidxc.customerId = "8CU80A91U"; //Media.net Customer ID
+            function loadScript(tagSrc) {
+                if (tagSrc.substr(0, 4) !== 'http') {
+                    var isSSL = 'https:' == document.location.protocol;
+                    tagSrc = (isSSL ? 'https:' : '') + tagSrc;
+                }
+                var scriptTag = document.createElement('script'),
+                    placeTag = document.getElementsByTagName("script")[0];
+                scriptTag.type = 'text/javascript';
+                scriptTag.async = true;
+                scriptTag.src = tagSrc;
+                placeTag.parentNode.insertBefore(scriptTag, placeTag);
+            }
+            function loadGPT(){
+                if(!window.advBidxc.isAdServerLoaded){
+                    loadScript('//www.googletagservices.com/tag/js/gpt.js');
+                    window.advBidxc.isAdServerLoaded = true;
+                }
+            }
+            window.advBidxc.loadGPT = setTimeout(loadGPT, window.advBidxc.timeout);
+            var isSSL = 'https:' == document.location.protocol;
+            var mnSrc = (isSSL ? 'https:' : 'http:') + '//contextual.media.net/bidexchange.js?cid='  + window.advBidxc.customerId + '&version=' +    window.advBidxc.version + (isSSL ? '&https=1' : '');
+            loadScript(mnSrc);
+        })();
+    </script>
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1024,  user-scalable=no">
+    <meta name="referrer" content="unsafe-url">
+    <title>RWT August 18th Options Begin Trading - TheStreet</title>
+    <meta property="fb:app_id" content="458919507482096"/>
+    <meta property="fb:pages" content="112877175855"/>
+    <link rel="dns-prefetch" href="//static.chartbeat.com"/><link rel="preconnect" href="//pixel.moatads.com"/><link rel="dns-prefetch" href="//pixel.moatads.com"/><link rel="dns-prefetch" href="//b.scorecardresearch.com"/><link rel="preconnect" href="//b.scorecardresearch.com"/><link rel="dns-prefetch" href="//securepubads.g.doubleclick.net"/><link rel="preconnect" href="https://securepubads.g.doubleclick.net"/><link rel="dns-prefetch" href="//s.thestreet.com"/><link rel="preconnect" href="//s.thestreet.com"/><link rel="dns-prefetch" href="//pubads.g.doubleclick.net"/><link rel="preconnect" href="//pubads.g.doubleclick.net"/><link rel="dns-prefetch" href="//tpc.googlesyndication.com"/><link rel="preconnect" href="//tpc.googlesyndication.com"/><link rel="dns-prefetch" href="//www.google-analytics.com"/><link rel="preconnect" href="//www.google-analytics.com"/><link rel="dns-prefetch" href="//www.googletagservices.com"/><link rel="dns-prefetch" href="//partner.googleadservices.com"/><link rel="dns-prefetch" href="//cm.g.doubleclick.net"/><link rel="preconnect" href="//ad.doubleclick.net"/><link rel="dns-prefetch" href="//static.yieldmo.com"/><link rel="dns-prefetch" href="//s.yieldmo.com"/><link rel="dns-prefetch" href="//px.moatads.com"/><link rel="dns-prefetch" href="//ads.yieldmo.com"/><link rel="dns-prefetch" href="//cdn.teads.tv"/><link rel="dns-prefetch" href="//cdn2.teads.tv"/><link rel="dns-prefetch" href="//a.teads.tv"/><link rel="dns-prefetch" href="//sync.teads.tv"/><link rel="preconnect" href="//sync.teads.tv"/><link rel="dns-prefetch" href="//studio-t.teads.tv"/><link rel="preconnect" href="//studio-t.teads.tv"/><link rel="dns-prefetch" href="//dianomi.com"/><link rel="preconnect" href="//dianomi.com"/><link rel="dns-prefetch" href="//t.teads.tv"/><link rel="preconnect" href="//t.teads.tv"/><link rel="preconnect" href="//schema.org"/>
+    <link rel="apple-touch-icon" href="//s.t.st/files/tsc/thestreet-60x60.png"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="//s.t.st/files/tsc/thestreet-120x120.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="//s.t.st/files/tsc/thestreet-152x152.png"/>
+
+    <script type="text/javascript">
+        var  MAIN_VERSION=2;
+        var Keystone = Keystone || {};
+        Keystone.Cfg = {appName:"thestreet-ng", env:"production", msBaseUrl:"https://www.thestreet.com", tstBaseUrl:"https://www.thestreet.com", betaBaseUrl:"https://www.thestreet.com", commerceBaseUrl:"https://secure2.thestreet.com", enablePromo:"false", upmBaseUrl:"https://secure.thestreet.com",
+            siteName:'TheStreet', siteCode:'TSC', adSite:'tsc-thestreet', cookieDomain: '.thestreet.com', siteUrl: 'http://www.thestreet.com',
+            disqusCommentsUrl: '//thestreet.disqus.com/embed.js', disqusShortName: 'thestreet', twitterHandle:'TheStreet', yieldMoMobileId: 'ym_977514524868026203', yieldMoTabletId: '',
+            yieldMoMobileIdVideo: 'ym_1159944114266290993', yieldVideoId: 'ym_1159944114266290993', outbrainTextWidgetId: '', outbrainImagesWidgetId: '', outbrainImagesMobileWidgetId: 'MB_3',
+            kalturaPublisher: '105', articleAppMappings: ['story/:id/:number(/:name)', 'slideshow/:id/:number/:name', 'video/:id/:name', 'story/*path'], targetingValues :'', noGTM :true, ptnTargeting :''};
+        Keystone.Tracking = {recentTickers: {}};
+
+    </script>
+    <link rel="shortcut icon" type="image/x-icon" href="//s.thestreet.com/favicon.ico"/>
+    <link rel="publisher" href="https://plus.google.com/+TheStreet" />
+
+        <meta name="layout" content="main"/>
+
+
+        <meta property="tst:article" content="desktop"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="date" content="2017-06-19"/>
+<meta name="description" content="Investors in Redwood Trust Inc saw new options become available today, for the August 18th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the RWT options chain for the new August 18th contracts and identified the following call contract of particular interest....RWT"/>
+<meta name="guid" content="14185345"/>
+<meta name="keywords" content="Financial, News, Stock, Market, Headlines, Investments, Quotes, Trading, TheStreet, DividendChannel.com, Investing ,RWT"/><meta name="news_keywords" content="Investing,Stocks"/>
+<meta name="author" content="DividendChannel.com"/><meta name="section" content="Investing"/>
+<meta name="contentType" content="article"/>
+
+
+
+         <meta property="channel1" content="Investing"/>
+
+         <meta property="channel2" content="Stocks"/>
+
+
+<meta property="primarytag" content="Stocks"/>
+<meta property="contenttype" content="article"/>
+<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="&#64;TheStreet"/><meta name="twitter:title" content="RWT August 18th Options Begin Trading"/><meta name="twitter:description" content="Investors in Redwood Trust Inc saw new options become available today, for the August 18th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the RWT options chain for the new August 18th contracts and identified the following call contract of particular interest."/><meta name="twitter:url" content="https://www.thestreet.com/story/14185345/1/rwt-august-18th-options-begin-trading.html"/><meta property="og:type" content="article"/>
+<meta property="og:title" content="RWT August 18th Options Begin Trading"/>
+<meta property="og:url" content="https://www.thestreet.com/story/14185345/1/rwt-august-18th-options-begin-trading.html"/>
+<meta property="og:description" content="Investors in Redwood Trust Inc saw new options become available today, for the August 18th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the RWT options chain for the new August 18th contracts and identified the following call contract of particular interest."/>
+<meta property="og:site_name" content="TheStreet"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="article:author" content="https://www.thestreet.com/author/1309409/dividendchannel-com/all.html"/>
+<meta property="article:section" content="Investing"/>
+<meta property="article:publisher" content="https://www.facebook.com/TheStreet"/>
+<meta property="article:published_time" content="2017-06-19T11:38:22.000-0400"/>
+
+    <meta property="article:modified_time" content="2017-06-19T11:38:22.000-0400"/>
+
+<meta property="article:tag" content="Investing"/><meta property="article:tag" content="Stocks"/>
+<meta property="article:tag" content="Investing"/><meta property="article:tag" content="Stocks"/>
+
+    <meta property="og:image" content="//s.thestreet.com/files/tsc/logo.png"/>
+    <meta name="twitter:image" content="//s.thestreet.com/files/tsc/logo.png"/>
+    <link rel="image_src" href="//s.thestreet.com/files/tsc/logo.png" />
+    <meta property="og:image:width" content="696"/>
+    <meta property="og:image:height" content="400"/>
+
+
+
+    <script>Keystone.Cfg.targetingValues +="authors=dividendchannel-com;";
+    Keystone.Cfg.targetingValues +="article=14185345;";
+    Keystone.Cfg.targetingValues +="site=TSC;";
+    Keystone.Cfg.targetingValues +="pageType=article;";
+    Keystone.Cfg.targetingValues +="contenttype=Text;";
+
+
+
+
+             Keystone.Cfg.targetingValues +="channel1=investing;";
+
+             Keystone.Cfg.targetingValues +="channel2=investingstocks;";
+
+         Keystone.Cfg.targetingValues +="primaryTag=stocks;";
+         Keystone.Cfg.targetingValues +="tag=investing;";Keystone.Cfg.targetingValues +="tag=stocks;";
+
+    Keystone.Cfg.targetingValues +="storytype=General;";
+    Keystone.Cfg.targetingValues +="section=Stock News;";
+    Keystone.Cfg.targetingValues +="hasVideo=false;";
+
+     </script>
+
+
+
+
+
+<script type="application/ld+json">
+        { "@context": "schema.org", "@type": "NewsArticle","mainEntityOfPage": {"@type": "WebPage",   "@id": "https://www.thestreet.com/story/14185345/1/rwt-august-18th-options-begin-trading.html" },
+                  "headline": "RWT August 18th Options Begin Trading",
+                    "articleBody": "Investors in Redwood Trust Inc saw new options become available today, for the August 18th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the RWT options chain for the new August 18th contracts and identified the following call contract of particular interest. The call contract at the $17.5 strike price has a current bid of 5 cents. If an investor was to purchase shares of RWT stock at the current price level of $17.30/share, and then sell-to-open that call contract as a covered call, they are committing to sell the stock at $17.5. Considering the call seller will also collect the premium, that would drive a total return (excluding dividends, if any) of 1.45% if the stock gets called away at the August 18th expiration (before broker commissions). Of course, a lot of upside could potentially be left on the table if RWT shares really soar, which is why looking at the trailing twelve month trading history for Redwood Trust Inc, as well as studying the business fundamentals becomes important. Below is a chart showing RWT's trailing twelve month trading history, with the $17.5 strike highlighted in red: Considering the fact that the $17.5 strike represents an approximate 1% premium to the current trading price of the stock (in other words it is out-of-the-money by that percentage), there is also the possibility that the covered call contract would expire worthless, in which case the investor would keep both their shares of stock and the premium collected. The current analytical data (including greeks and implied greeks) suggest the current odds of that happening are 56%. On our website under the contract detail page for this contract, Stock Options Channel will track those odds over time to see how they change and publish a chart of those numbers (the trading history of the option contract will also be charted). Should the covered call contract expire worthless, the premium would represent a 0.29% boost of extra return to the investor, or 1.76% annualized, which we refer to as the YieldBoost. START SLIDESHOW: Top YieldBoost Calls of the Mortgage REITs » The implied volatility in the call contract example above is 23%. Meanwhile, we calculate the actual trailing twelve month volatility (considering the last 251 trading day closing values as well as today's price of $17.30) to be 20%. For more put and call options contract ideas worth looking at, visit StockOptionsChannel.com.",
+
+              "publisher": { "@type": "Organization", "name": "TheStreet", "logo": { "@type": "ImageObject", "url": "https://s.t.st/files/tsc/TheStreet_logo.gif", "width": 80, "height": 30  }
+            },
+            "author": { "@type": "Person", "name": "DividendChannel.com"  },
+            "genre": "Investing","description": "Investors in Redwood Trust Inc saw new options become available today, for the August 18th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the RWT options chain for the new August 18th contracts and identified the following call contract of particular interest....RWT", "datePublished": "2017-06-19T11:38:22-0400", "dateModified": "2017-06-19T11:38:22-0400",
+
+
+                    "image": { "@type": "ImageObject",  "url": "https://s.thestreet.com/files/tsc/logo.png", "width": 696, "height": 400
+                    },
+
+
+            "keywords": ["Investing","Stocks", "TheStreet"]
+        }
+    </script>
+
+
+
+    <link rel="stylesheet" type="text/css"  href="//fonts.googleapis.com/css?family=Oswald:300,400,500,700"/>
+
+        <link rel="stylesheet" href="//s.t.st/assets/thestreet-ngbeta/production/408/styles/base-6e5b70afaf1b0a83b87477068a692c47.css"/>
+
+            <link rel="stylesheet" href="//s.t.st/assets/thestreet-ngbeta/production/408/styles/article-0ff7004fbba9d7ad2e6472fbd53b7056.css"/>
+
+
+    <!--[if lt IE 9]><script src="//s.t.st/assets/thestreet-ngbeta/production/408/js/ie-d6ed231c1d7f5e72b60a04596f1e8355.js" type="text/javascript" ></script><![endif]-->
+
+
+        <meta name="robots" content="noindex,nofollow"/>
+
+
+
+    <script>
+(function(o){var K=o.$LAB,y="UseLocalXHR",z="AlwaysPreserveOrder",u="AllowDuplicates",A="CacheBust",B="BasePath",C=/^[^?#]*\//.exec(location.href)[0],D=/^\w+\:\/\/\/?[^\/]+/.exec(C)[0],i=document.head||document.getElementsByTagName("head"),L=(o.opera&&Object.prototype.toString.call(o.opera)=="[object Opera]")||("MozAppearance"in document.documentElement.style),q=document.createElement("script"),E=typeof q.preload=="boolean",r=E||(q.readyState&&q.readyState=="uninitialized"),F=!r&&q.async===true,M=!r&&!F&&!L;function G(a){return Object.prototype.toString.call(a)=="[object Function]"}function H(a){return Object.prototype.toString.call(a)=="[object Array]"}function N(a,c){var b=/^\w+\:\/\//;if(/^\/\/\/?/.test(a)){a=location.protocol+a}else if(!b.test(a)&&a.charAt(0)!="/"){a=(c||"")+a}return b.test(a)?a:((a.charAt(0)=="/"?D:C)+a)}function s(a,c){for(var b in a){if(a.hasOwnProperty(b)){c[b]=a[b]}}return c}function O(a){var c=false;for(var b=0;b<a.scripts.length;b++){if(a.scripts[b].ready&&a.scripts[b].exec_trigger){c=true;a.scripts[b].exec_trigger();a.scripts[b].exec_trigger=null}}return c}function t(a,c,b,d){a.onload=a.onreadystatechange=function(){if((a.readyState&&a.readyState!="complete"&&a.readyState!="loaded")||c[b])return;a.onload=a.onreadystatechange=null;d()}}function I(a){a.ready=a.finished=true;for(var c=0;c<a.finished_listeners.length;c++){a.finished_listeners[c]()}a.ready_listeners=[];a.finished_listeners=[]}function P(d,f,e,g,h){setTimeout(function(){var a,c=f.real_src,b;if("item"in i){if(!i[0]){setTimeout(arguments.callee,25);return}i=i[0]}a=document.createElement("script");if(f.type)a.type=f.type;if(f.charset)a.charset=f.charset;if(h){if(r){e.elem=a;if(E){a.preload=true;a.onpreload=g}else{a.onreadystatechange=function(){if(a.readyState=="loaded")g()}}a.src=c}else if(h&&c.indexOf(D)==0&&d[y]){b=new XMLHttpRequest();b.onreadystatechange=function(){if(b.readyState==4){b.onreadystatechange=function(){};e.text=b.responseText+"\n//@ sourceURL="+c;g()}};b.open("GET",c);b.send()}else{a.type="text/cache-script";t(a,e,"ready",function(){i.removeChild(a);g()});a.src=c;i.insertBefore(a,i.firstChild)}}else if(F){a.async=false;t(a,e,"finished",g);a.src=c;i.insertBefore(a,i.firstChild)}else{t(a,e,"finished",g);a.src=c;i.insertBefore(a,i.firstChild)}},0)}function J(){var l={},Q=r||M,n=[],p={},m;l[y]=true;l[z]=false;l[u]=false;l[A]=false;l[B]="";function R(a,c,b){var d;function f(){if(d!=null){d=null;I(b)}}if(p[c.src].finished)return;if(!a[u])p[c.src].finished=true;d=b.elem||document.createElement("script");if(c.type)d.type=c.type;if(c.charset)d.charset=c.charset;t(d,b,"finished",f);if(b.elem){b.elem=null}else if(b.text){d.onload=d.onreadystatechange=null;d.text=b.text}else{d.src=c.real_src}i.insertBefore(d,i.firstChild);if(b.text){f()}}function S(c,b,d,f){var e,g,h=function(){b.ready_cb(b,function(){R(c,b,e)})},j=function(){b.finished_cb(b,d)};b.src=N(b.src,c[B]);b.real_src=b.src+(c[A]?((/\?.*$/.test(b.src)?"&_":"?_")+~~(Math.random()*1E9)+"="):"");if(!p[b.src])p[b.src]={items:[],finished:false};g=p[b.src].items;if(c[u]||g.length==0){e=g[g.length]={ready:false,finished:false,ready_listeners:[h],finished_listeners:[j]};P(c,b,e,((f)?function(){e.ready=true;for(var a=0;a<e.ready_listeners.length;a++){e.ready_listeners[a]()}e.ready_listeners=[]}:function(){I(e)}),f)}else{e=g[0];if(e.finished){j()}else{e.finished_listeners.push(j)}}}function v(){var e,g=s(l,{}),h=[],j=0,w=false,k;function T(a,c){a.ready=true;a.exec_trigger=c;x()}function U(a,c){a.ready=a.finished=true;a.exec_trigger=null;for(var b=0;b<c.scripts.length;b++){if(!c.scripts[b].finished)return}c.finished=true;x()}function x(){while(j<h.length){if(G(h[j])){try{h[j++]()}catch(err){}continue}else if(!h[j].finished){if(O(h[j]))continue;break}j++}if(j==h.length){w=false;k=false}}function V(){if(!k||!k.scripts){h.push(k={scripts:[],finished:true})}}e={script:function(){for(var f=0;f<arguments.length;f++){(function(a,c){var b;if(!H(a)){c=[a]}for(var d=0;d<c.length;d++){V();a=c[d];if(G(a))a=a();if(!a)continue;if(H(a)){b=[].slice.call(a);b.unshift(d,1);[].splice.apply(c,b);d--;continue}if(typeof a=="string")a={src:a};a=s(a,{ready:false,ready_cb:T,finished:false,finished_cb:U});k.finished=false;k.scripts.push(a);S(g,a,k,(Q&&w));w=true;if(g[z])e.wait()}})(arguments[f],arguments[f])}return e},wait:function(){if(arguments.length>0){for(var a=0;a<arguments.length;a++){h.push(arguments[a])}k=h[h.length-1]}else k=false;x();return e}};return{script:e.script,wait:e.wait,setOptions:function(a){s(a,g);return e}}}m={setGlobalDefaults:function(a){s(a,l);return m},setOptions:function(){return v().setOptions.apply(null,arguments)},script:function(){return v().script.apply(null,arguments)},wait:function(){return v().wait.apply(null,arguments)},queueScript:function(){n[n.length]={type:"script",args:[].slice.call(arguments)};return m},queueWait:function(){n[n.length]={type:"wait",args:[].slice.call(arguments)};return m},runQueue:function(){var a=m,c=n.length,b=c,d;for(;--b>=0;){d=n.shift();a=a[d.type].apply(null,d.args)}return a},noConflict:function(){o.$LAB=K;return m},sandbox:function(){return J()}};return m}o.$LAB=J();(function(a,c,b){if(document.readyState==null&&document[a]){document.readyState="loading";document[a](c,b=function(){document.removeEventListener(c,b,false);document.readyState="complete"},false)}})("addEventListener","DOMContentLoaded")})(this);
+</script>
+
+
+
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NB54V7P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <div class="site-wrapper nav-collapsed">
+
+    <div id="form_overlay_opacity"></div>
+<div id="form_frame_holder"></div>
+
+
+
+
+
+
+
+
+
+
+
+  <!--[if lte IE 9]>
+    <div id="browsehappy" class="browsehappy">
+        <div class="browsehappy-content">
+            <i class="icon-exclamation-triangle" aria-hidden="true"></i>You are using an <strong>outdated</strong> browser.
+            Please <a href="http://browsehappy.com/" rel="external" target="_blank">upgrade your browser</a> to improve your experience.
+        </div>
+        <span id="browsehappy-close" class="browsehappy-close icon-times" title="Close"></span>
+    </div>
+    <![endif]-->
+    <div class="site-header">
+
+
+<div class="main-nav--desktop" role="navigation">
+    <div class="main-nav__inner">
+        <div class="main-nav__upper">
+            <div class="main-nav__promo">
+                <div data-type="promo" class="promo-unit     " id="promo-div-global-nav-premium"></div>
+            </div>
+            <div class="main_nav__indices">
+                <section class="market-data refresh-market-data market-indices market-indices_header"
+                         id="ticker-1547162c-2084-44ad-b4e9-113b1ea8747c">
+                    <div class="market-indices__grid">
+                        <div id="indexCarousel" class="carousel slide" data-ride="carousel">
+                            <!-- Indicators -->
+                            <ol class="carousel-indicators">
+                                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                            </ol>
+                            <!-- Wrapper for slides -->
+                            <div class="carousel-inner" role="listbox">
+                                <div class="item active">
+                                    <div class="market-indices__grid-col ticker-DJI market-ticker-data" data-ticker="^DJI">
+                                        <a href="https://www.thestreet.com/quote/%5EDJI.html" id="main_nav_djia" class="ticker-symbol market-data-item"
+                                           data-symbol="^DJI" data-field-name="symbol" title="DJIA">
+                                            <span class="market-indices__item--inline-grid market-indices__item--symbol">
+                                                DJIA
+                                            </span>
+                                            <span class="ticker-netChange market-data-item" data-net-change=""
+                                                  data-field-name="netChange"></span>
+                                            <span class="ticker-percentChange market-data-item hidden-xs" data-percent-change=""
+                                                  data-field-name="percentChange"></span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="market-indices__grid-col ticker-IXIC market-ticker-data" data-ticker="^IXIC">
+                                        <a href="https://www.thestreet.com/quote/%5EIXIC.html" id="main_nav_ixic" class="ticker-symbol market-data-item"
+                                           data-symbol="^IXIC" data-field-name="symbol" title="NASDAQ">
+                                            <span class="market-indices__item--inline-grid market-indices__item--symbol">
+                                                NASDAQ
+                                            </span>
+                                            <span class="ticker-netChange market-data-item" data-net-change=""
+                                                  data-field-name="netChange"></span>
+                                            <span class="ticker-percentChange market-data-item hidden-xs" data-percent-change=""
+                                                  data-field-name="percentChange"></span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="market-indices__grid-col ticker-GSPC market-ticker-data" data-ticker="^GSPC">
+                                        <a href="https://www.thestreet.com/quote/%5EGSPC.html" id="main_nav_gspc" class="ticker-symbol market-data-item"
+                                           data-symbol="^GSPC" data-field-name="symbol" title="S&amp;P 500">
+                                            <span class="market-indices__item--inline-grid market-indices__item--symbol">
+                                                S&amp;P 500
+                                            </span>
+                                            <span class="ticker-netChange market-data-item" data-net-change=""
+                                                  data-field-name="netChange"></span>
+                                            <span class="ticker-percentChange market-data-item" data-percent-change=""
+                                                  data-field-name="percentChange"></span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="market-indices__date-time market-date-time market-ticker-data" data-ticker="^DJI">
+                        <span>Updated</span>
+                        <span class=" market-data-item" data-date-time-as-string="" data-field-name="dateTimeAsString"></span>
+                    </div>
+                </section>
+            </div>
+
+                <div class="market-ad--mainnav-collapsed">
+                    <div data-type="gpt-ad" class="googleAd center-text  center-text " id="ad-div-marketdata" data-ad-sizes="300,26"  data-ad-preload="" data-ad-load-in-view="" data-ad-targeting="ptn=marketdata"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+                </div>
+
+            <div class="main-nav__search">
+                <div id="searchDesktopNav" class="search--navigation">
+                    <form action="https://www.thestreet.com/find/results" method="get" role="search">
+                        <button class="search__submit" aria-label="Search"></button>
+                        <input type="text" name="q" id="select-term" placeholder="Keyword/Quote" class="search__input--navigation repositories typeahead" data-position="fixed" data-tickers="true" data-authors="true" data-news="true" data-categories="true" data-zindex="1031" data-target="search_slidedown_autocomp_quote" title="Search" required="required" maxlength="150" value="">
+                        <input type="hidden" name="redirectQuote" value="true" id="redirectQuote">
+                    </form>
+                    <div id="search_slidedown_autocomp_quote" class="search__autocomplete--main-nav"></div>
+                </div>
+            </div>
+            <div class="main-nav__upper-links">
+                <ul class="main-nav__subscribe-links">
+                    <li class="main-nav__subscribe__item" data-dropdown="main-nav__dropdown--account">
+                        <a href="https://www.thestreet.com#login" id="login">Log In</a>
+                        <div class="main-nav__dropdown--account" id="accountDropdown">
+                            <div class="main-nav__dropdown-inner">
+                                <div class="triangle"></div>
+                                <a class="main-nav__dropdown__link" data-toggle="collapse" href="#memberships">Your Membership(s)</a>
+                                <div class="main-nav__dropdown__subnav collapse in" id="memberships" data-parent="#memberships"></div>
+                                <a class="main-nav__dropdown__link collapsed" data-toggle="collapse" href="#account">Your Account</a>
+                                <div class="main-nav__dropdown__subnav collapse" id="account" data-parent="#account" >
+                                    <a href="https://secure2.thestreet.com/cap/selfserve/SSMainMenu.jsp?site=tsc&url=https://www.thestreet.com/index.html"
+                                       id="main_nav_account_2_sub_1">Account Preferences</a>
+                                    <a href="https://www.thestreet.com/newsletters" id="main_nav_account_2_sub_2">Newsletters</a>
+                                    <a href="https://www.thestreet.com/alerts" id="main_nav_account_2_sub_3">Alerts</a>
+                                </div>
+                                <a href="#" id="logout" class="logged blue">Logout</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="main-nav__subscribe__item">
+                        <a href="https://www.thestreet.com/newsletters" id="main_nav_account_2_sub_4">Newsletters</a>
+                    </li>
+                    <li class="main-nav__subscribe__item" data-dropdown="main-nav__dropdown--subscribe">
+                        <a class="blue" href="">Subscribe</a>
+                        <div class="main-nav__dropdown--subscribe">
+                            <div class="main-nav__dropdown-inner">
+                                <div class="triangle"></div>
+                                <div class="subscribe-summ">Access insights and guidance from our Wall Street pros. Find the product that's right for you.</div>
+                                <ul class="upper-nav__dropdown__items">
+                                    <li class="upper-nav__dropdown__item">
+                                        <a class="upper-nav__dropdown__link" id="main_nav_subscription_services_1"
+                                           href="https://www.thestreet.com/k/aap/_tscnavnew/"
+                                           title="Action Alerts PLUS">Action Alerts PLUS</a>
+                                    </li>
+                                    <li class="upper-nav__dropdown__item">
+                                        <a class="upper-nav__dropdown__link" id="main_nav_subscription_services_3"
+                                           href="https://www.thestreet.com/k/dsa/_tscnavnew/"
+                                           title="Income Seeker">Income Seeker</a>
+                                    </li>
+                                    <li class="upper-nav__dropdown__item">
+                                        <a class="upper-nav__dropdown__link" id="main_nav_subscription_services_4"
+                                           href="https://www.thestreet.com/k/qr/_tscnavnew/"
+                                           title="Quant Ratings">Quant Ratings</a>
+                                    </li>
+                                    <li class="upper-nav__dropdown__item">
+                                        <a class="upper-nav__dropdown__link" id="main_nav_subscription_services_5"
+                                           href="http://realmoney.thestreet.com"
+                                           title="Real Money">Real Money</a>
+                                    </li>
+                                    <li class="upper-nav__dropdown__item">
+                                        <a class="upper-nav__dropdown__link" id="main_nav_subscription_services_6"
+                                           href="http://realmoneypro.thestreet.com"
+                                           title="Real Money Pro">Real Money Pro</a>
+                                    </li>
+
+                                    <li class="upper-nav__dropdown__item">
+                                        <a class="upper-nav__dropdown__link" id="main_nav_subscription_services_10"
+                                           href="https://retirement.thestreet.com"
+                                           title="Retirement Daily">Retirement Daily</a>
+                                    </li>
+                                    <li class="upper-nav__dropdown__item">
+                                        <a id="main_nav_subscription_services_7"
+                                           href="https://www.thestreet.com/k/su/_tscnavnew/"
+                                           title="Stocks Under $10">Stocks Under $10</a>
+                                    </li>
+                                    <li class="upper-nav__dropdown__item">
+                                        <a class="upper-nav__dropdown__link" id="main_nav_subscription_services_8"
+                                           href="https://www.thestreet.com/k/ts/_tscnavnew/"
+                                           title="Top Stocks">Top Stocks</a>
+                                    </li>
+                                    <li class="upper-nav__dropdown__item">
+                                        <a class="upper-nav__dropdown__link" id="main_nav_subscription_services_9"
+                                           href="https://www.thestreet.com/k/tf/_tscnavnew/"
+                                           title="Trifecta Stocks">Trifecta Stocks</a>
+                                    </li>
+                                    <li class="upper-nav__dropdown__item">
+                                        <a class="upper-nav__dropdown__link" id="main_nav_subscription_bundles_2"
+                                           href="https://www.thestreet.com/k/rmpp/_newlogin/"
+                                           title="Real Money Pro Portfolio">Real Money Pro Portfolio</a>
+                                    </li>
+                                    <li class="upper-nav__dropdown__item">
+                                        <a class="upper-nav__dropdown__link" id="main_nav_subscription_bundles_3"
+                                           href="https://www.thestreet.com/k/ch/_newlogin/"
+                                           title="Chairman's Club">Chairman's Club</a>
+                                    </li>
+                                    <li class="upper-nav__dropdown__item">
+                                        <a class="upper-nav__dropdown__link" id="main_nav_subscription_compareLink"
+                                           href="https://www.thestreet.com/staticFull/special-offers.html"
+                                           title="Compare All Subscription Services"><span>Compare All</span>
+                                            <span class="arrowIcon"></span></a>
+                                    </li>
+                                </ul>
+                                <ul class="upper-nav__dropdown__items">
+                                    <li class="upper-nav__dropdown__item">
+                                        <a id="main_nav_subscription_chatter"
+                                           href="http://chatter.thestreet.com"
+                                           title="Chatter on the Street"><span>Chatter on the Street</span></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <a id="mainNavLogoDesktop" class="main-nav__logo--desktop--upper" href="/" title="TheStreet"></a>
+        </div>
+        <div class="main-nav__lower">
+            <div class="main-nav__lower__inner">
+                <a id="navbarHamburger" class="main-nav__hamburger" aria-label="Navigation menu"
+                   role="button"><span></span></a>
+                <a id="mainNavLogoDesktopLower" class="main-nav__logo--desktop--lower" href="/" title="TheStreet"></a>
+
+
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - NAVIGATION - MAINNAV*********** -->
+<!-- *************************************************************************************************************** -->
+
+
+    <ul class="lower-navbar__links">
+
+
+
+
+
+            <li class="lower-navbar__item" data-menu-id="2607109" >
+                 <a class="lower-navbar__link counter_0" id="jim_cramer" href="/jim-cramer" data-link-name="navigation" data-link-order="0" data-link-type="top-level-nav-link" data-link-title="Jim Cramer" data-interaction="false">Jim Cramer</a>
+            </li>
+
+
+
+
+
+            <li class="lower-navbar__item" data-menu-id="2607106" >
+                 <a class="lower-navbar__link counter_1" id="investing" href="/investing" data-link-name="navigation" data-link-order="1" data-link-type="top-level-nav-link" data-link-title="Investing" data-interaction="false">Investing</a>
+            </li>
+
+
+
+
+
+            <li class="lower-navbar__item" data-menu-id="2607103" >
+                 <a class="lower-navbar__link counter_2" id="personal_finance" href="/personal-finance" data-link-name="navigation" data-link-order="2" data-link-type="top-level-nav-link" data-link-title="Personal Finance" data-interaction="false">Personal Finance</a>
+            </li>
+
+
+
+
+
+            <li class="lower-navbar__item" data-menu-id="2607115" >
+                 <a class="lower-navbar__link counter_3" id="retirement" href="/retirement" data-link-name="navigation" data-link-order="3" data-link-type="top-level-nav-link" data-link-title="Retirement" data-interaction="false">Retirement</a>
+            </li>
+
+
+
+
+
+            <li class="lower-navbar__item" data-menu-id="2607116" >
+                 <a class="lower-navbar__link counter_4" id="technology" href="/technology" data-link-name="navigation" data-link-order="4" data-link-type="top-level-nav-link" data-link-title="Technology" data-interaction="false">Technology</a>
+            </li>
+
+
+
+
+
+            <li class="lower-navbar__item" data-menu-id="2607101" >
+                 <a class="lower-navbar__link counter_5" id="markets" href="/markets" data-link-name="navigation" data-link-order="5" data-link-type="top-level-nav-link" data-link-title="Markets" data-interaction="false">Markets</a>
+            </li>
+
+
+
+
+
+            <li class="lower-navbar__item" data-menu-id="2607142" >
+                 <a class="lower-navbar__link counter_6" id="how_to" href="/how-to" data-link-name="navigation" data-link-order="6" data-link-type="top-level-nav-link" data-link-title="How-To" data-interaction="false">How-To</a>
+            </li>
+
+
+
+
+
+            <li class="lower-navbar__item" data-menu-id="2607118" >
+                 <a class="lower-navbar__link counter_7" id="video" href="/video" data-link-name="navigation" data-link-order="7" data-link-type="top-level-nav-link" data-link-title="Video" data-interaction="false">Video</a>
+            </li>
+
+
+
+
+
+    </ul>
+
+
+
+
+            </div>
+        </div>
+        <div class="main-nav__sub">
+            <div class="main-nav__sub__inner">
+
+
+
+
+
+
+        <h2 class="navigation__title">Hot Topics</h2>
+
+    <ul class="nav navbar-nav header__links">
+
+    <li class="header__item">
+        <a class="main-nav__link" id="plan-your-retirement-future" href="http://subscription.thestreet.com/retirement-daily-desktop/p/1?OID=038358" data-link-name="navigation" data-link-order="" data-link-type="hot-topic-nav-link" data-link-title="Plan Your Retirement Future" data-interaction="false">Plan Your Retirement Future</a>
+    </li>
+
+
+
+    <li class="header__item">
+        <a class="main-nav__link" id="what-you-need-to-know-about-cannabis" href="/lifestyle/health/what-is-cannabis-14578863" data-link-name="navigation" data-link-order="" data-link-type="hot-topic-nav-link" data-link-title="What You Need To Know About Cannabis" data-interaction="false">What You Need To Know About Cannabis</a>
+    </li>
+
+
+
+    <li class="header__item">
+        <a class="main-nav__link" id="tesla-hype" href="https://www.thestreet.com/future-of-the-car" data-link-name="navigation" data-link-order="" data-link-type="hot-topic-nav-link" data-link-title="Tesla Hype" data-interaction="false">Tesla Hype</a>
+    </li>
+
+
+
+    </ul>
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="top-ad-wrap main-nav__header-ad"><!--start-as-sticky-->
+    <div data-type="gpt-ad" class="googleAd center-text  center-block text-center " id="ad-div-top" data-ad-sizes="970,250|970,90|728,90"  data-ad-preload="true" data-ad-load-in-view="" data-ad-targeting="ptn=banner-1"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+</div>
+
+
+
+
+
+
+
+
+    </div>
+    <div class="container-fluid container-content container-content--cmstagsarticle" id="container">
+        <div class="row"><div id="pendingWrapper"><div id="pendingMessage"></div></div></div>
+        <div id="mainContent" class="content-cmsTagsArticle">
+        <div class="row">
+            <div class="col-md-12">
+
+        <div id="article-app">
+
+
+<div class="layout">
+
+
+
+                <div class="row">
+
+
+
+
+
+        <div class="col-md-12 col-sm-12 widget-block">
+
+
+
+                    <div data-type="promo" class="promo-unit     " id="promo-div-breaking-news-alert-story"></div>
+
+
+        </div>
+
+
+
+
+
+</div>
+
+
+                <div class="row">
+
+
+
+
+
+        <div class="col-md-12 col-sm-12 widget-block">
+
+
+
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - ARTICLE BODY - DEFAULT - NUMBER OF ARTICLES ==> 1********************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+        <div class="article">
+            <div class="article-main">
+                    <ol class="tst-breadcrumb" itemscope itemtype="//schema.org/BreadcrumbList">
+
+                            <li itemprop="itemListElement" itemscope itemtype="//schema.org/ListItem">
+
+                                <a itemprop="item" href="https://www.thestreet.com"><span itemprop="name">  Home</span>
+                                </a>
+                                <meta itemprop="position" content="1"/>
+                            </li>
+
+                            <li itemprop="itemListElement" itemscope itemtype="//schema.org/ListItem">
+                                /
+                                <a itemprop="item" href="https://www.thestreet.com/investing"><span itemprop="name">  Investing</span>
+                                </a>
+                                <meta itemprop="position" content="2"/>
+                            </li>
+
+                            <li itemprop="itemListElement" itemscope itemtype="//schema.org/ListItem">
+                                /
+                                <a itemprop="item" href="https://www.thestreet.com/investing/stocks"><span itemprop="name">  Stocks</span>
+                                </a>
+                                <meta itemprop="position" content="3"/>
+                            </li>
+
+                    </ol>
+
+
+                <div class="row article-header-row article-standard-header-row">
+                    <div class="col-md-12 share-header-col">
+
+
+
+
+<header class="article__header" id="article-header">
+    <h1 class="article__headline ">RWT August 18th Options Begin Trading</h1>
+    <div class="article__callout article-standard__callout">
+
+        Investors in Redwood Trust Inc saw new options become available today, for the August 18th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the RWT options chain for the new August 18th contracts and identified the following call contract of particular interest.</div>
+    <div class="social-links__wrapper">
+        <div class="social-links social-links--article social-links--article-standard" id="share-widget">
+    <span title="Share on Google+"><a class="social-links__item social-links__item--article  social-links__item--article-standard icon-google2 share sharebtn s_plus" role="button" target="_blank"></a></span>
+
+    <span title="Share on Twitter"><a class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard icon-twitter share sharebtn s_twitter" role="button" target="_blank"></a></span>
+    <span title="Share on Facebook"><a class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard icon-facebook share sharebtn s_facebook" role="button" target="_blank"></a></span>
+    <span title="Share on LinkedIn"><a class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard icon-linkedin share sharebtn s_linkedin" role="button" target="_blank"></a></span>
+    <span title="Share on Reddit"><a class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard icon-ks-reddit-line share sharebtn s_reddit" role="button" target="_blank"></a></span>
+    <span title="Share on Email"><a class="social-links__item social-links__item--article  social-links__item social-links__item--article-standard icon-envelope share sharebtn s_email no-popup" role="button" target="_blank"></a></span>
+
+    <span class="hidden-xs" title="Print"><a class="social-links__item social-links__item--article  social-links__item--article-standard article-print-btn icon-print share sharebtn s_print no-popup" role="button" target="_blank"></a></span>
+
+</div>
+
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="article__author-wrap article-standard__author-wrap">
+                <div class="article-standard__byline">
+
+
+
+
+                            <div class="article__author-name article-standard__author-name">
+
+                                    <a href="/author/1309409/dividendchannel.com/all.html" rel="author" class="article__author-link">
+                                        <span>DividendChannel.com</span>
+                                    </a>
+
+                            </div>
+
+                                <a href="" class="follow article__author-follow article-standard__author-follow" data-follow-key="authorId" data-follow-val="1309409"
+                                   data-follow-display="DividendChannel.com" title="Follow DividendChannel.com with alerts from TSC"></a>
+
+
+
+                    <div class="article__publish-date article-standard__publish-date">
+                        <time datetime="2017-06-19T11:38:22-0400">Jun<span> </span>19,<span> </span>2017<span> </span>11:38<span> </span>AM<span> </span>EDT</time>
+                    </div>
+                    <div data-type="promo" class="promo-unit no-buffer article__subscribe-button    " id="promo-div-article-byline"></div>
+                    <div data-type="gpt-ad" class="googleAd center-text  no-buffer " id="ad-div-1287688649" data-ad-sizes="120,30"  data-ad-preload="" data-ad-load-in-view="" data-ad-targeting="ptn=byline"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+</header>
+
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-8 article__main-container article-standard__main-container">
+                        <main class="main-content--article main-content--article-article" role="main">
+
+
+
+<article class="article" id="article-14185345" role="article">
+
+
+            <div class="article__top article-standard__top">
+
+
+
+            </div>
+            <div class="article__print article__print-before visible-print">
+                <div class="article__body-print"></div>
+            </div>
+
+            <div class="article__page article-standard__page">
+                <div class="article__body " id="page-content">
+
+                        <div class="page-item" data-page-number="1"><div data-paragraph-count="2" class="placement-fixed" id="div-placement-fixed-0.018092914002557525" data-total-word-count="403" data-article-has-video="false" data-article-fixed-placement="articleTop"></div><div id="div-placement-fixed-0.11072556003151657" class="placement-fixed" data-page-count="1" data-page-word-count-total="404" data-total-page-count="1" data-article-fixed-placement="pageTop"></div> <div id="div-placement-para-0.2774508881241984" data-image-at-index="-1" class="placement-para" data-paragraph-word-count-total="48" data-page-paragraph-middle="false" data-page-word-count-so-far="0" data-page-word-count-total="404" data-page-paragraph-count-total="2" data-page-paragraph-count-so-far="1" data-article-word-count-so-far="0" data-article-word-count-total="403" data-article-paragraph-count-so-far="1" data-article-paragraph-count-total="2"></div><p>Investors in Redwood Trust Inc (<a href="/quote/RWT.html">RWT</a>) saw new options become available today, for the August 18th expiration. At <a href="https://www.stockoptionschannel.com/" rel="nofollow">Stock Options Channel</a>, our YieldBoost formula has looked up and down the RWT options chain for the new August 18th contracts and identified the following call contract of particular interest. </p> <p></p>The call contract at the $17.5 strike price has a current bid of 5 cents. If an investor was to purchase shares of RWT stock at the current price level of $17.30/share, and then sell-to-open that call contract as a "covered call," they are committing to sell the stock at $17.5. Considering the call seller will also collect the premium, that would drive a total return (excluding dividends, if any) of 1.45% if the stock gets called away at the August 18th expiration (before broker commissions). Of course, a lot of upside could potentially be left on the table if RWT shares really soar, which is why looking at the trailing twelve month trading history for Redwood Trust Inc, as well as studying the business fundamentals becomes important. Below is a chart showing RWT's trailing twelve month trading history, with the $17.5 strike highlighted in red: <p></p> <img width="450" height="300" src="http://www.tickertech.net/pics/thestreet/21497884183.gif" alt="Loading+chart++2017+TickerTech.com" border="0"> <p></p> Considering the fact that the $17.5 strike represents an approximate 1% premium to the current trading price of the stock (in other words it is out-of-the-money by that percentage), there is also the possibility that the covered call contract would expire worthless, in which case the investor would keep both their shares of stock and the premium collected. The current analytical data (including greeks and implied greeks) suggest the current odds of that happening are 56%. On our website under the <a href="https://www.stockoptionschannel.com/symbol/?symbol=RWT&amp;month=20170818&amp;type=call&amp;contract=17.5" rel="nofollow">contract detail page for this contract</a>, Stock Options Channel will track those odds over time to see how they change and publish a chart of those numbers (the trading history of the option contract will also be charted). Should the covered call contract expire worthless, the premium would represent a 0.29% boost of extra return to the investor, or 1.76% annualized, which we refer to as the <i>YieldBoost</i>. <p></p> <div id="div-placement-para-0.16685654948655992" data-image-at-index="184" class="placement-para" data-paragraph-word-count-total="10" data-page-paragraph-middle="false" data-page-word-count-so-far="48" data-page-word-count-total="404" data-page-paragraph-count-total="2" data-page-paragraph-count-so-far="2" data-article-word-count-so-far="48" data-article-word-count-total="403" data-article-paragraph-count-so-far="2" data-article-paragraph-count-total="2"></div><p style="margin-left: 4px; text-align: center; vertical-align: middle; height: 70px; padding: 5px; width:585px; background-color: #FFFF99; border: 1px dotted #666666; font-family: Trebuchet MS; size: 25px;"><span id="nointelliTXT"><a style="color: #222222; text-decoration: none;" href="https://www.stockoptionschannel.com/slideshows/top-yieldboost-calls-of-mortgage-reits/" rel="nofollow"> <img src="https://www.dividendchannel.com/tslideshow.gif" width="16" height="16" border="0" style="margin:0; display:inline; padding-right: 4px"> <b><u>START SLIDESHOW</u></b>:<br><b>Top YieldBoost Calls of the Mortgage REITs »</b></a><b> </b></span></p> <p></p>The implied volatility in the call contract example above is 23%. Meanwhile, we calculate the actual trailing twelve month volatility (considering the last 251 trading day closing values as well as today's price of $17.30) to be 20%. For more put and call options contract ideas worth looking at, visit <a href="https://www.stockoptionschannel.com/" title="Stock Options Channel" rel="nofollow">StockOptionsChannel.com</a>. <div data-paragraph-count="2" class="placement-fixed" id="div-placement-fixed-0.406437066299134" data-total-word-count="403" data-article-has-video="false" data-article-fixed-placement="pageEnd"></div><div data-paragraph-count="2" class="placement-fixed" id="div-placement-fixed-0.422632299831462" data-total-word-count="403" data-article-has-video="false" data-article-fixed-placement="articleEnd"></div></div>
+
+                </div>
+                <div class="article__arrow-next article__arrow-next--hidden article-standard__arrow-next article-standard__arrow-next--hidden" id="next-page-arrow" title="Next page"><i class="fa fa-chevron-right"></i></div>
+            </div>
+
+
+                <div class="article__disclosure"><p></p>
+<footer></footer></div>
+
+
+            <div class="article__bottom article-standard__bottom"></div>
+
+            <nav class="article-pagination-wrapper" aria-label="Page navigation">
+    <ul id="article-pagination" class="article__pagination"></ul>
+    <div class="article__remove-pagination-wrapper"></div>
+</nav>
+
+
+                 <div class="article__tags">
+
+
+
+                            <a href="/investing">Investing</a>
+
+
+
+
+
+                            <a href="/investing/stocks">Stocks</a>
+
+
+
+                </div>
+
+
+            <div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div--527805057" data-ad-sizes="1,1"  data-ad-preload="" data-ad-load-in-view="" data-ad-targeting="ptn=pxarticle"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+
+            <div class="article__print article__print-after visible-print">
+                <div class="article__body-print"></div>
+            </div>
+
+
+
+</article>
+<script defer>
+    document.addEventListener('appBottomLoadedEvent', function () {
+        if (typeof $LAB !== 'undefined') {
+            $LAB.script(function () {
+                return '//s.t.st/assets/thestreet-ngbeta/production/408/js/article/article-hash-pagination-141f2dd71cdde03f932cdf115e82d771.js';
+            });
+        }
+    });
+</script>
+
+
+
+
+                            <div data-type="promo" class="promo-unit top-buffer-xl   " id="promo-div-article-bottom"></div>
+                            <!-- START PREMIUM MAIN-WELL PROMO -->
+                            <div class="row">
+                                <div class="col-md-12 col-sm-12 widget-block">
+                                    <div data-type="promo" class="promo-unit     " id="promo-div-global-footer-premium-main-well"></div>
+                                </div>
+                            </div>
+                            <!-- END PREMIUM MAIN-WELL PROMO -->
+                            <div class="row top-buffer-sm">
+                                <div class="col-md-12 col-sm-12">
+                                    <div class="article__promo-wrap"><div class="article__promo" id="article-promo"></div></div>
+
+                                        <div class="row top-buffer-sm">
+                                            <div class="col-md-12">
+
+
+                                                    <!-- *************************************************************************************************************** -->
+<!-- ********* START - LATEST BY CATEGORY - TSTNG:NEWS-LIST - NUMBER OF ARTICLES ==> 5 *********** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+
+    <div class="row news-list">
+        <section class="col-xs-12 news-list__inner-wrap">
+            <h2 class="section-headline" style="border-top:1px solid #ccc; padding-top:15px;margin-bottom:20px;">More from Stocks</h2>
+            <div class="news-list__story-list">
+                <div>
+
+
+
+                            <div class="news-list__item" data-story-id="14580137">
+                                <div class="news-list__block">
+
+                                        <a id="news-list-related-stories-0" href="/opinion/whitney-tilson-says-sanity-is-returning-to-stock-market-14580137" data-link-type="suggested" data-story-id="14580137" class="news-list__object-wrap news-list__object-wrap--video">
+                                            <figure>
+                                                <img src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/806e0c00-47d2-11e8-a89a-c3617e4137c2_150x100.png" width="150" height="100" alt="Whitney Tilson: Sanity Is Returning to Some &#39;Really Stupid&#39; Parts of the Market"/>
+                                            </figure><i class="icon-play"></i>
+                                        </a>
+
+                                    <div class="news-list__body">
+                                        <a  id="news-list-h3-related-stories-0" data-link-type="suggested" data-story-id="14580137" href="/opinion/whitney-tilson-says-sanity-is-returning-to-stock-market-14580137">
+                                            <h3  class="news-list__headline ">Whitney Tilson: Sanity Is Returning to Some 'Really Stupid' Parts of the Market</h3></a>
+
+                                            <p  class="news-list__callout hidden-xs">Short-sellers have had a rough go of it during the ten-year bull market. But, things may be about to change.</p>
+
+                                    </div>
+
+                                    <div class="news-list__byline">
+                                        <a href="/author/2026086/kinsey-grant/all.html">Kinsey Grant</a>
+                                        <div class="news-list__publish-date">
+                                            <time  datetime="2018-05-06T11:08:44-0400">May<span> </span>6,<span> </span>2018<span> </span>11:08<span> </span>AM<span> </span>EDT</time>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+
+                            <div class="news-list__item" data-story-id="14580048">
+                                <div class="news-list__block">
+
+                                        <a id="news-list-related-stories-1" href="/markets/here-s-why-it-s-dumb-not-to-consider-short-selling-in-this-market-14580048" data-link-type="suggested" data-story-id="14580048" class="news-list__object-wrap news-list__object-wrap--video">
+                                            <figure>
+                                                <img src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/0-8ro88zow_150x100.jpg" width="150" height="100" alt="Here&#39;s Why It&#39;s Dumb Not to Consider Short Selling in This Market"/>
+                                            </figure><i class="icon-play"></i>
+                                        </a>
+
+                                    <div class="news-list__body">
+                                        <a  id="news-list-h3-related-stories-1" data-link-type="suggested" data-story-id="14580048" href="/markets/here-s-why-it-s-dumb-not-to-consider-short-selling-in-this-market-14580048">
+                                            <h3  class="news-list__headline ">Here's Why It's Dumb Not to Consider Short Selling in This Market</h3></a>
+
+                                            <p  class="news-list__callout hidden-xs">'A lot of shorts have started to work. A little sanity is returning,' one source says.</p>
+
+                                    </div>
+
+                                    <div class="news-list__byline">
+                                        <a href="/author/2026086/kinsey-grant/all.html">Kinsey Grant</a>
+                                        <div class="news-list__publish-date">
+                                            <time  datetime="2018-05-05T19:00:00-0400">May<span> </span>5,<span> </span>2018<span> </span>7:00<span> </span>PM<span> </span>EDT</time>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+
+                            <div class="news-list__item" data-story-id="14580417">
+                                <div class="news-list__block">
+
+                                        <a id="news-list-related-stories-2" href="/investing/live-warren-buffett-berkshire-hathaway-annual-meeting-14580417" data-link-type="suggested" data-story-id="14580417" class="news-list__object-wrap news-list__object-wrap--video">
+                                            <figure>
+                                                <img src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/bf69119d-d477-11e7-bfc8-3d0becce1328_150x100.png" width="150" height="100" alt="11 Things We Learned From Warren Buffett at Berkshire Hathaway&#39;s Annual Meeting"/>
+                                            </figure><i class="icon-play"></i>
+                                        </a>
+
+                                    <div class="news-list__body">
+                                        <a  id="news-list-h3-related-stories-2" data-link-type="suggested" data-story-id="14580417" href="/investing/live-warren-buffett-berkshire-hathaway-annual-meeting-14580417">
+                                            <h3  class="news-list__headline ">11 Things We Learned From Warren Buffett at Berkshire Hathaway's Annual Meeting</h3></a>
+
+                                            <p  class="news-list__callout hidden-xs">We were live from Berkshire Hathaway's annual meeting in Omaha, Neb. Here's what Warren Buffett and Charlie Munger had to say this year, ranging from cryptocurrencies to Apple's buyback plan.</p>
+
+                                    </div>
+
+                                    <div class="news-list__byline">
+                                        <a href="/author/1312956/bret-kenwell/all.html">Bret Kenwell</a>
+                                        <div class="news-list__publish-date">
+                                            <time  datetime="2018-05-05T16:35:21-0400">May<span> </span>5,<span> </span>2018<span> </span>4:35<span> </span>PM<span> </span>EDT</time>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+
+                            <div class="news-list__item" data-story-id="14580436">
+                                <div class="news-list__block">
+
+                                        <a id="news-list-related-stories-3" href="/technology/paypal-ceo-dan-schulman-in-20-years-there-will-be-no-more-credit-cards-14580436" data-link-type="suggested" data-story-id="14580436" class="news-list__object-wrap news-list__object-wrap--video">
+                                            <figure>
+                                                <img src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/ffde35b4-9e04-11e7-98b5-f5d2f22b525f_150x100.png" width="150" height="100" alt="PayPal CEO Dan Schulman: In 20 Years &amp;quot;There Will Be No More Credit Cards&amp;quot;"/>
+                                            </figure><i class="icon-play"></i>
+                                        </a>
+
+                                    <div class="news-list__body">
+                                        <a  id="news-list-h3-related-stories-3" data-link-type="suggested" data-story-id="14580436" href="/technology/paypal-ceo-dan-schulman-in-20-years-there-will-be-no-more-credit-cards-14580436">
+                                            <h3  class="news-list__headline ">PayPal CEO Dan Schulman: In 20 Years &quot;There Will Be No More Credit Cards&quot;</h3></a>
+
+                                            <p  class="news-list__callout hidden-xs">PayPal CEO Dan Schulman talked cryptocurrency, Amazon and the future of Venmo at TheStreet's&nbsp;Investor Boot Camp&nbsp;conference in New York.</p>
+
+                                    </div>
+
+                                    <div class="news-list__byline">
+                                        <a href="/author/2531741/francesca-fontana/all.html">Francesca Fontana</a>
+                                        <div class="news-list__publish-date">
+                                            <time  datetime="2018-05-05T14:47:15-0400">May<span> </span>5,<span> </span>2018<span> </span>2:47<span> </span>PM<span> </span>EDT</time>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+
+                            <div class="news-list__item" data-story-id="14580426">
+                                <div class="news-list__block">
+
+                                        <a id="news-list-related-stories-4" href="/investing/jim-cramers-seven-deadly-sins-of-investing-14580426" data-link-type="suggested" data-story-id="14580426" class="news-list__object-wrap news-list__object-wrap--video">
+                                            <figure>
+                                                <img src="//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/7de5a55d-4a49-11e8-a2db-dddb1a9ffc0b_150x100.png" width="150" height="100" alt="Jim Cramer&#39;s 7 Deadly Sins That Can Kill Your Stocks"/>
+                                            </figure><i class="icon-play"></i>
+                                        </a>
+
+                                    <div class="news-list__body">
+                                        <a  id="news-list-h3-related-stories-4" data-link-type="suggested" data-story-id="14580426" href="/investing/jim-cramers-seven-deadly-sins-of-investing-14580426">
+                                            <h3  class="news-list__headline ">Jim Cramer's 7 Deadly Sins That Can Kill Your Stocks</h3></a>
+
+                                            <p  class="news-list__callout hidden-xs">Expert unveils these key risk factors at TheStreet's Boot Camp for Investors in New York.</p>
+
+                                    </div>
+
+                                    <div class="news-list__byline">
+                                        <a href="/author/2635993/katherine-ross/all.html">Katherine Ross</a>
+                                        <div class="news-list__publish-date">
+                                            <time  datetime="2018-05-05T14:02:35-0400">May<span> </span>5,<span> </span>2018<span> </span>2:02<span> </span>PM<span> </span>EDT</time>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                </div>
+            </div>
+        </section>
+    </div>
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* END - LATEST BY CATEGORY -  TSTNG:NEWS-LIST - NUMBER OF ARTICLES ==> 5     ************** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+                                            </div>
+                                        </div>
+
+                                </div>
+                            </div>
+
+                        </main>
+                    </div>
+                    <!-- END MAIN CONTENT COLUMN -->
+                    <!-- BEGIN RIGHT RAIL  -->
+                    <div class="col-md-4 article__aside-container hidden-print">
+                        <aside class="article__rightRail" role="complementary">
+
+
+
+
+    <div class="sidebar">
+        <div class="widgetSet">
+            <div class="widgetset-spacer"></div>
+
+
+
+
+
+
+                      <div class="sticky-block">
+                     <div class="sticky-group">
+
+
+            <div class="row">
+                <div class="col-md-12 widget-block">
+
+                        <div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  sticky-ad" id="ad-div-box1" data-ad-sizes="300,250|300,600"  data-ad-preload="true" data-ad-load-in-view="" data-ad-targeting="ptn=box-1"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  data-refreshable="true"> </div>
+
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-12 widget-block">
+
+                         <div class="hide-mobile">
+
+
+
+
+
+
+
+<script>
+    // TODO: REMOVE INLINE SCRIPTS
+    if (typeof Keystone !== 'undefined') {
+        document.addEventListener('deferredLoadedEvent', function () {
+            $(function () {
+                Keystone.Utils.AlertsUtil.init();
+            });
+//            Keystone.UserWatchlistUtil.loadReferrerStories(document.referrer);
+            var alertMgrResetMessage = false;
+            $(function () {
+                $(document).on("userLoggedInEvent", function (event) {
+                    alertMgrResetMessage = true;
+                });
+                $(document).on("modalClosedEvent", function (event) {
+                    if (alertMgrResetMessage) {
+                        alertMgrResetMessage = false;
+                    }
+                });
+                $(document).on("userLoggedOutEvent", function (event) {
+                    $("#userNotifications").hide();
+                    $("#signin").show().html('<i class="icon-exclamation"></i><a href="#launch-login" class="alertsLogin"> Please login to manage your alerts</a>');
+                    Keystone.UPM.CommForms.openAltLogin("follow");
+                    document.location.href = document.location.href;    // Refresh the page
+                });
+                $("#notificationsLoading").on('click', '.alertsLogin', function (e) {
+                    e.preventDefault();
+                    Keystone.UPM.CommForms.openAltLogin('follow');
+                });
+            });
+        });
+    }
+</script>
+
+
+
+<div class="watchlist" id="watchlist">
+    <h3 class="watchlist__heading"><a href="/alerts" class="watchlist__heading-link" title="Watchlist">Watchlist</a></h3>
+
+    <!-- START TICKER ADD FORM -->
+    <div class="watchlist__edit pull-right" style="display:none;">
+
+        <div id="searchWatchlistTickers" class="search search--watchlist-tickers">
+            <div id="search-form-watchlist-tickers" class="search__form search__form--watchlist-tickers">
+                <input type="hidden" id="selectedTicker"/>
+                <input type='text' width="100%" placeholder='Add Symbol' name='tickerSearch' id='tickerSearchWatchlist'
+                       class='ui-autocomplete-input form-control' autocomplete='off' role='textbox' aria-autocomplete='list' aria-haspopup='true' maxlength="50" />
+                <div id='tickerContainer'></div>
+            </div>
+        </div>
+    </div>
+    <!-- END TICKER ADD FORM -->
+
+    <div id="watchlistData" class="watchlist__content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="watchlist__sign-in" style="display:none;">
+                <h4 class="watchlist__sign-in__heading">What stocks are you watching?</h4>
+                <p>Sign up to get started or log in to see your watchlist.</p>
+                <p class="watchlist__sign-in__button-container"><a class="watchlist-upm-button btn" data-context="register" href="#">Sign Up</a></p>
+                <p class="watchlist__sign-in__button-container"><a class="watchlist-upm-button btn btn-clear" data-context="login" href="#">Log In</a></p>
+            </div>
+
+            <div class="watchlist__block watchlist__noalerts" style="display:none;">
+                <h4 class="watchlist__noalerts__heading">What stocks are you watching?</h4>
+                <p>Enter a symbol above to add it to your watchlist.</p>
+            </div>
+
+            <div class="watchlist__block watchlist__user-pending" style="display:none;">
+                <h4 class="watchlist__user-pending__heading">This account is currently pending confirmation.</h4>
+                <p>A confirmation email has been sent to the address provided during registration. Please click on the appropriate link to confirm your email address.</p>
+            </div>
+
+            <div class="watchlist__block watchlist__alerts" style="display:none;">
+
+                    <div class="quote__list-table clearfix">
+                        <div class="watchlist__header">
+                            <ul class="watchlist__header-list">
+                                <li class="watchlist__header--companyName">Symbol</li>
+                                <li class="watchlist__header--currentPrice align-right">Price</li>
+                                <li class="watchlist__header--change align-right">Change %Change</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div id="watchlistLoading" class="watchlist__loading"></div>
+                    <div id="recentQuotesDash" class="quote__list-table clearfix"></div>
+                    <div class="watchlist__block--footer">
+                        <span>Showing up to 5 most recent symbols</span>
+                    </div>
+
+            </div>
+
+
+    </div>
+    <script>
+        if (typeof Keystone !== 'undefined') {
+            // JKIM this is unnecessary > Keystone.pageMetaData = { contentType: 'watchlist' };
+            document.addEventListener('deferredLoadedEvent', function () {
+                $(function() {
+                    if ($.cookie("RGIS")) {
+                        var cleanId = Keystone.UPM.Auth.parseRgis();
+                        if(parseInt(cleanId, 10) > 0) {
+                            $("#watchlistData").show();
+                        }
+                    }
+                });
+            });
+        }
+    </script>
+    <!-- END TST ANALYTICS REPORT -->
+</div>
+
+
+<script type="text/x-handlebars-template" id="watchlist-template">
+{{#tickers}}
+<div class="watchlist__ticker-item" data-ticker="{{symbol}}">
+    <ul class="watchlist-tickers-list">
+        <li class="companyName">
+
+            <a href="/quote/{{symbol}}.html" id="wl-quote-{{toLowerCase symbol}}" data-link-type="watchlist" data-quote-id="{{toLowerCase symbol}}">{{symbol}}</a>
+        </li>
+        <li class="currentPrice align-right">{{ formatNumberValue currentPrice}}</li>
+        <li class="change align-right">
+            <span class="change-container {{tickerTrend netChange}}">
+                <span class="change-data netChange">{{ formatNumberValue (splitNetChange netChange) 'change' }}</span>
+                <span class="change-data percentChange {{ checkNaN percentChange 'percentChange-nan' }}">{{ formatNumberValue percentChange 'change' }}</span>
+
+
+
+            </span>
+        </li>
+    </ul>
+</div>
+{{/tickers}}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         </div>
+
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-12 widget-block">
+
+
+<div style="background: #ffffff;width:100%;" class=" text__sponsors  hidden-xs">
+    <h3 class="section-list__section-headline" >Advertising Partners</h3>
+    <div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-1956425106" data-ad-sizes="300,40"  data-ad-preload="" data-ad-load-in-view="" data-ad-targeting="ptn=textlink-1"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+    <div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div--1413535156" data-ad-sizes="300,40"  data-ad-preload="" data-ad-load-in-view="" data-ad-targeting="ptn=textlink-2"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+    <div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div--100794659" data-ad-sizes="300,40"  data-ad-preload="" data-ad-load-in-view="" data-ad-targeting="ptn=textlink-3"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+    <div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-1431022585" data-ad-sizes="300,40"  data-ad-preload="" data-ad-load-in-view="" data-ad-targeting="ptn=textlink-4"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div>
+
+
+</div>
+
+
+                </div>
+            </div>
+
+
+
+
+                   </div></div>
+
+                      <div class="sticky-block">
+                     <div class="sticky-group">
+
+
+            <div class="row">
+                <div class="col-md-12 widget-block">
+
+                        <div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  sticky-ad" id="ad-div--231552179" data-ad-sizes="300,250|300,600"  data-ad-preload="false" data-ad-load-in-view="false" data-ad-targeting="ptn=box-2"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  data-refreshable="true"> </div>
+
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-12 widget-block">
+
+                        <div data-type="promo" class="promo-unit     " id="promo-div-right-rail-sponsor-content"></div>
+
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-12 widget-block">
+
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - MOST COMMENTED - DEFAULT - NUMBER OF ARTICLES ==> 2********************** -->
+<!-- *************************************************************************************************************** -->
+
+    <section class="most-popular section-list">
+
+            <a href="/most-popular"><h2  style="margin-bottom: 15px;" class="section-list__section-headline">Trending</h2></a>
+
+            <div class="section-list--tertiary">
+
+
+
+                            <a id="trending-tertiary-0" data-link-type="trending" data-story-id="14580137" class="section-list--default" href="/opinion/whitney-tilson-says-sanity-is-returning-to-stock-market-14580137">
+                                <div class="section-list--default__headline">Whitney Tilson: Sanity Is Returning to Some 'Really Stupid' Parts of the Market</div>
+                            </a>
+
+                            <a id="trending-tertiary-1" data-link-type="trending" data-story-id="12963546" class="section-list--default" href="/story/12963546/1/the-12-absolutely-cheapest-places-to-buy-a-house-in-america.html">
+                                <div class="section-list--default__headline">The 12 Absolutely Cheapest Places to Buy a House in America</div>
+                            </a>
+
+
+
+            </div>
+    </section>
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* END - MOST COMMENTED - DEFAULT - NUMBER OF ARTICLES ==> 2  ********************** -->
+<!-- *************************************************************************************************************** -->
+
+
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-12 widget-block">
+
+                        <div data-type="promo" class="promo-unit     " id="promo-div-right-rail-free-report"></div>
+
+                </div>
+            </div>
+
+
+
+
+                   </div></div>
+
+                      <div class="sticky-block">
+                     <div class="sticky-group">
+
+
+            <div class="row">
+                <div class="col-md-12 widget-block">
+
+                        <div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  sticky-ad" id="ad-div-1236606176" data-ad-sizes="300,250"  data-ad-preload="false" data-ad-load-in-view="true" data-ad-targeting="ptn=box-3"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  data-refreshable="true"> </div>
+
+                </div>
+            </div>
+
+
+            </div></div>
+            <!-- END STICKY BLOCK -->
+
+
+
+    </div>
+</div>
+
+<!-- END WIDGET SET -->
+
+
+
+
+
+                        </aside>
+                    </div>
+                    <!-- END RIGHT RAIL -->
+                </div>
+            </div>
+        </div>
+
+
+        <script type="text/x-handlebars-template" id="article-page-template">
+        <div class="article__body">{{{body}}}</div>
+        </script>
+        <script type="text/x-handlebars-template" id="article-top-template">
+        {{#if isFirstPage}}
+        {{#if videoStoryId}}
+        <div class="article__video">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" allowfullscreen webkitallowfullscreen mozallowfullscreen data-video-id="{{videoStoryId}}"
+                        data-video-auto-play="false" data-video-show-ads="false" data-video-auto-mute="true"
+                        src="//s.t.st/embed/null.html?custParams=ptn%3darticle,site%3dTSC" frameborder="0" scrolling="no"></iframe>
+            </div>
+        </div>
+        {{/if}}
+        {{#unless videoStoryId}}
+        {{#if largeThumbUrl}}
+        <div class="article__figure article-standard__figure">
+            <img class="lazyload article__image article-standard__image" alt="{{headline}}" data-sizes="auto" data-src="{{largeThumbUrl}}" data-srcset="{{mediumThumbUrl}} 200w, {{largeThumbUrl}} 500w" />
+            <noscript>
+                <img src="{{largeThumbUrl}}" width="640" height="480" alt="{{headline}}" />
+            </noscript>
+        </div>
+        <div class="article-image-caption">
+            {{articleImageCaption}}
+        </div>
+        {{/if}}
+        {{/unless}}
+        {{/if}}
+        </script>
+        <script type="text/x-handlebars-template" id="article-pagination-template">
+        <div class="article__pagination-wrap">
+            <div class="article__pagination-item">
+                {{#if !isFirstPage}}
+                <a id="prev-page" class="nav-link article__pagination-link article__pagination-link--prev" href="#" data-prev-page aria-label="Previous" title="Previous page"></a>
+                {{/if}}
+                <span class="article__pagination__continue">Continue Reading</span>
+                {{#if !isLastPage}}
+                <a id="next-page" class="nav-link article__pagination-link article__pagination-link--next" href="#" data-next-page aria-label="Next" title="Next page"></a>
+                {{/if}}
+            </div>
+        </div>
+        <div id="page-indicator" class="article__pagination-position--numeric">(Page {{page}} of {{total_pages}})</div>
+        </script>
+        <script>
+            (function(){
+                var articleModel = {"slides":{},"callout":"Investors in Redwood Trust Inc saw new options become available today, for the August 18th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the RWT options chain for the new August 18th contracts and identified the following call contract of particular interest.","pagination":{"currentArticleUrl":"/story/14185345/1/rwt-august-18th-options-begin-trading.html","nextArticleUrl":"/json/article/related/165/14185345/1?type=json&excludeId=14185345","currentArticleDataUrl":"/story/14185345/1/rwt-august-18th-options-begin-trading.html?type=json","nextArticleDataUrl":"/json/article/related/165/14185345/1?type=json&excludeId=14185345"},"footer":"<p><\/p>\n<footer><\/footer>","articleImageUrl":"null","isExternalContributor":true,"publishDate":new Date(1497886702000),"primaryAuthorUrl":"/author/1309409/dividendchannel.com/all.html","siteName":"TheStreet","mediumThumbUrl":"null","leadTicker":"[\"RWT\"]","categoryName":"Stock News","publishDateFormatted":"2017-06-19T11:38:22.000Z","compactPubDate":"11:38 AM","numPages":1,"subcategoryName":"General","lastPublishDate":"2017-06-19T11:38:22.000-0400","pages":{"0":{"number":1,"pageTitle":"RWT August 18th Options Begin Trading - TheStreet","isLastPage":true,"body":"<div data-paragraph-count=\"2\" class=\"placement-fixed\" id=\"div-placement-fixed-0.018092914002557525\" data-total-word-count=\"403\" data-article-has-video=\"false\" data-article-fixed-placement=\"articleTop\"><\/div><div id=\"div-placement-fixed-0.11072556003151657\" class=\"placement-fixed\" data-page-count=\"1\" data-page-word-count-total=\"404\" data-total-page-count=\"1\" data-article-fixed-placement=\"pageTop\"><\/div> <div id=\"div-placement-para-0.2774508881241984\" data-image-at-index=\"-1\" class=\"placement-para\" data-paragraph-word-count-total=\"48\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"0\" data-page-word-count-total=\"404\" data-page-paragraph-count-total=\"2\" data-page-paragraph-count-so-far=\"1\" data-article-word-count-so-far=\"0\" data-article-word-count-total=\"403\" data-article-paragraph-count-so-far=\"1\" data-article-paragraph-count-total=\"2\"><\/div><p>Investors in Redwood Trust Inc (<a href=\"/quote/RWT.html\">RWT<\/a>) saw new options become available today, for the August 18th expiration. At <a href=\"https://www.stockoptionschannel.com/\" rel=\"nofollow\">Stock Options Channel<\/a>, our YieldBoost formula has looked up and down the RWT options chain for the new August 18th contracts and identified the following call contract of particular interest. <\/p> <p><\/p>The call contract at the $17.5 strike price has a current bid of 5 cents. If an investor was to purchase shares of RWT stock at the current price level of $17.30/share, and then sell-to-open that call contract as a \"covered call,\" they are committing to sell the stock at $17.5. Considering the call seller will also collect the premium, that would drive a total return (excluding dividends, if any) of 1.45% if the stock gets called away at the August 18th expiration (before broker commissions). Of course, a lot of upside could potentially be left on the table if RWT shares really soar, which is why looking at the trailing twelve month trading history for Redwood Trust Inc, as well as studying the business fundamentals becomes important. Below is a chart showing RWT's trailing twelve month trading history, with the $17.5 strike highlighted in red: <p><\/p> <img width=\"450\" height=\"300\" src=\"http://www.tickertech.net/pics/thestreet/21497884183.gif\" alt=\"Loading+chart++2017+TickerTech.com\" border=\"0\"> <p><\/p> Considering the fact that the $17.5 strike represents an approximate 1% premium to the current trading price of the stock (in other words it is out-of-the-money by that percentage), there is also the possibility that the covered call contract would expire worthless, in which case the investor would keep both their shares of stock and the premium collected. The current analytical data (including greeks and implied greeks) suggest the current odds of that happening are 56%. On our website under the <a href=\"https://www.stockoptionschannel.com/symbol/?symbol=RWT&amp;month=20170818&amp;type=call&amp;contract=17.5\" rel=\"nofollow\">contract detail page for this contract<\/a>, Stock Options Channel will track those odds over time to see how they change and publish a chart of those numbers (the trading history of the option contract will also be charted). Should the covered call contract expire worthless, the premium would represent a 0.29% boost of extra return to the investor, or 1.76% annualized, which we refer to as the <i>YieldBoost<\/i>. <p><\/p> <div id=\"div-placement-para-0.16685654948655992\" data-image-at-index=\"184\" class=\"placement-para\" data-paragraph-word-count-total=\"10\" data-page-paragraph-middle=\"false\" data-page-word-count-so-far=\"48\" data-page-word-count-total=\"404\" data-page-paragraph-count-total=\"2\" data-page-paragraph-count-so-far=\"2\" data-article-word-count-so-far=\"48\" data-article-word-count-total=\"403\" data-article-paragraph-count-so-far=\"2\" data-article-paragraph-count-total=\"2\"><\/div><p style=\"margin-left: 4px; text-align: center; vertical-align: middle; height: 70px; padding: 5px; width:585px; background-color: #FFFF99; border: 1px dotted #666666; font-family: Trebuchet MS; size: 25px;\"><span id=\"nointelliTXT\"><a style=\"color: #222222; text-decoration: none;\" href=\"https://www.stockoptionschannel.com/slideshows/top-yieldboost-calls-of-mortgage-reits/\" rel=\"nofollow\"> <img src=\"https://www.dividendchannel.com/tslideshow.gif\" width=\"16\" height=\"16\" border=\"0\" style=\"margin:0; display:inline; padding-right: 4px\"> <b><u>START SLIDESHOW<\/u><\/b>:<br><b>Top YieldBoost Calls of the Mortgage REITs »<\/b><\/a><b> <\/b><\/span><\/p> <p><\/p>The implied volatility in the call contract example above is 23%. Meanwhile, we calculate the actual trailing twelve month volatility (considering the last 251 trading day closing values as well as today's price of $17.30) to be 20%. For more put and call options contract ideas worth looking at, visit <a href=\"https://www.stockoptionschannel.com/\" title=\"Stock Options Channel\" rel=\"nofollow\">StockOptionsChannel.com<\/a>. <div data-paragraph-count=\"2\" class=\"placement-fixed\" id=\"div-placement-fixed-0.406437066299134\" data-total-word-count=\"403\" data-article-has-video=\"false\" data-article-fixed-placement=\"pageEnd\"><\/div><div data-paragraph-count=\"2\" class=\"placement-fixed\" id=\"div-placement-fixed-0.422632299831462\" data-total-word-count=\"403\" data-article-has-video=\"false\" data-article-fixed-placement=\"articleEnd\"><\/div>","isFirstPage":true,"url":"/story/14185345/1/rwt-august-18th-options-begin-trading.html"}},"tier":{"code":-1,"name":"not_applicable"},"subcategoryId":1001600,"id":14185345,"relatedStories":{},"headline":"RWT August 18th Options Begin Trading","contentType":"Text","headlineTwitter":"RWT August 18th Options Begin Trading","smallThumbUrl":"null","siteCode":"TSC","isVideo":false,"authorId":1309409,"largeThumbUrl":"null","headlineFacebook":"RWT August 18th Options Begin Trading","url":"/story/14185345/1/rwt-august-18th-options-begin-trading.html","tags":"[{\"path\":\"investing\",\"name\":\"Investing\",\"id\":144,\"searchable\":true,\"categoryId\":10099},{\"path\":\"investing/stocks\",\"name\":\"Stocks\",\"id\":165,\"searchable\":true,\"categoryId\":2577491}]","publishDateAsString":"Jun<span> <\/span>19,<span> <\/span>2017<span> <\/span>11:38<span> <\/span>AM<span> <\/span>EDT","subcategorySlug":"general","channels":"[{\"name\":\"Investing\",\"id\":10099},{\"name\":\"Stocks\",\"id\":2577491}]","isBrandedView":false,"authorName":"DividendChannel.com","primaryTag":"Stocks","authors":"[{\"name\":\"DividendChannel.com\",\"id\":1309409}]"};
+                Keystone.articleModelData ={ article: articleModel };
+            })();
+        </script>
+
+
+
+<!-- *************************************************************************************************************** -->
+<!-- ******************************     END - ARTICLE BODY - DEFAULT - NUMBER OF ARTICLES -    ********************* -->
+<!-- *************************************************************************************************************** -->
+
+
+
+        </div>
+
+
+
+
+
+</div>
+
+
+
+
+</div>
+
+
+        </div>
+
+            </div>
+        </div>
+    </div>
+    </div> <!-- END CONTAINER -->
+
+
+
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - NAVIGATION - SIDEBAR LEFT *********** -->
+<!-- *************************************************************************************************************** -->
+
+
+<ul class="sidenav" id="navbar_hamburger__dropdown">
+    <li class="sidenav-inner">
+        <div class="sidenav__header">
+            <div class="sidnav__logo"></div>
+        </div>
+        <div data-type="promo" class="promo-unit" id="promo-div-hamburger-nav-premium"></div>
+        <ul class="panel-group" id="accordion-burger-menu">
+
+
+
+    <li class="sidenav__item--subnav panel panel-default">
+        <a class="sidenav__link collapsed" href="#burger-menu-0" data-toggle="collapse" data-parent="#accordion-burger-menu">
+            <span>Jim Cramer</span>
+            <div class="icon">
+                <div class="plus-minus"></div>
+            </div>
+        </a>
+        <div class="sidenav__subnav panel-collapse panel-collapse collapse" id="burger-menu-0">
+            <ul class="sidenav__subnav__list">
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=037527" id="0_1" title="Action Alerts PLUS"
+                           data-link-name="navigation" data-link-order="0" data-link-type="sidebar-dropdown-nav-link" data-link-title="Action Alerts PLUS" data-interaction="false"><span>Action Alerts PLUS</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="http://realmoney.thestreet.com/authors/jim-cramer" id="0_2" title="Cramers's Blog"
+                           data-link-name="navigation" data-link-order="0" data-link-type="sidebar-dropdown-nav-link" data-link-title="Cramers's Blog" data-interaction="false"><span>Cramers's Blog</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=037527" id="0_3" title="Cramer's Monthly Call"
+                           data-link-name="navigation" data-link-order="0" data-link-type="sidebar-dropdown-nav-link" data-link-title="Cramer's Monthly Call" data-interaction="false"><span>Cramer's Monthly Call</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=036741" id="0_4" title="Jim Cramer's Best Stocks"
+                           data-link-name="navigation" data-link-order="0" data-link-type="sidebar-dropdown-nav-link" data-link-title="Jim Cramer's Best Stocks" data-interaction="false"><span>Jim Cramer's Best Stocks</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="https://www.thestreet.com/author/269/jim-cramer/all.html" id="0_5" title="Cramer's Articles"
+                           data-link-name="navigation" data-link-order="0" data-link-type="sidebar-dropdown-nav-link" data-link-title="Cramer's Articles" data-interaction="false"><span>Cramer's Articles</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="https://www.thestreet.com/mad-money" id="0_6" title="Mad Money"
+                           data-link-name="navigation" data-link-order="0" data-link-type="sidebar-dropdown-nav-link" data-link-title="Mad Money" data-interaction="false"><span>Mad Money</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=021951" id="0_7" title="25 Rules for Investing"
+                           data-link-name="navigation" data-link-order="0" data-link-type="sidebar-dropdown-nav-link" data-link-title="25 Rules for Investing" data-interaction="false"><span>25 Rules for Investing</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033994" id="0_8" title="10 Commandments"
+                           data-link-name="navigation" data-link-order="0" data-link-type="sidebar-dropdown-nav-link" data-link-title="10 Commandments" data-interaction="false"><span>10 Commandments</span></a>
+                    </li>
+
+            </ul>
+        </div>
+    </li>
+
+
+
+
+
+    <li class="sidenav__item--subnav panel panel-default">
+        <a class="sidenav__link collapsed" href="#burger-menu-1" data-toggle="collapse" data-parent="#accordion-burger-menu">
+            <span>Investing</span>
+            <div class="icon">
+                <div class="plus-minus"></div>
+            </div>
+        </a>
+        <div class="sidenav__subnav panel-collapse panel-collapse collapse" id="burger-menu-1">
+            <ul class="sidenav__subnav__list">
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/investing/bitcoin" id="1_1" title="Bitcoin"
+                           data-link-name="navigation" data-link-order="1" data-link-type="sidebar-dropdown-nav-link" data-link-title="Bitcoin" data-interaction="false"><span>Bitcoin</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/investing/fixed-income" id="1_2" title="Fixed Income"
+                           data-link-name="navigation" data-link-order="1" data-link-type="sidebar-dropdown-nav-link" data-link-title="Fixed Income" data-interaction="false"><span>Fixed Income</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/investing/etfs" id="1_3" title="ETFs"
+                           data-link-name="navigation" data-link-order="1" data-link-type="sidebar-dropdown-nav-link" data-link-title="ETFs" data-interaction="false"><span>ETFs</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/investing/stocks" id="1_4" title="Stocks"
+                           data-link-name="navigation" data-link-order="1" data-link-type="sidebar-dropdown-nav-link" data-link-title="Stocks" data-interaction="false"><span>Stocks</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/investing/futures" id="1_5" title="Futures"
+                           data-link-name="navigation" data-link-order="1" data-link-type="sidebar-dropdown-nav-link" data-link-title="Futures" data-interaction="false"><span>Futures</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/investing/earnings" id="1_6" title="Earnings"
+                           data-link-name="navigation" data-link-order="1" data-link-type="sidebar-dropdown-nav-link" data-link-title="Earnings" data-interaction="false"><span>Earnings</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/investing/options" id="1_7" title="Options"
+                           data-link-name="navigation" data-link-order="1" data-link-type="sidebar-dropdown-nav-link" data-link-title="Options" data-interaction="false"><span>Options</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/investing/funds" id="1_8" title="Funds"
+                           data-link-name="navigation" data-link-order="1" data-link-type="sidebar-dropdown-nav-link" data-link-title="Funds" data-interaction="false"><span>Funds</span></a>
+                    </li>
+
+            </ul>
+        </div>
+    </li>
+
+
+
+
+
+    <li class="sidenav__item--subnav panel panel-default">
+        <a class="sidenav__link collapsed" href="#burger-menu-2" data-toggle="collapse" data-parent="#accordion-burger-menu">
+            <span>Personal Finance</span>
+            <div class="icon">
+                <div class="plus-minus"></div>
+            </div>
+        </a>
+        <div class="sidenav__subnav panel-collapse panel-collapse collapse" id="burger-menu-2">
+            <ul class="sidenav__subnav__list">
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/personal-finance/mortgages" id="2_1" title="Mortgages"
+                           data-link-name="navigation" data-link-order="2" data-link-type="sidebar-dropdown-nav-link" data-link-title="Mortgages" data-interaction="false"><span>Mortgages</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/personal-finance/credit-cards" id="2_2" title="Credit Cards"
+                           data-link-name="navigation" data-link-order="2" data-link-type="sidebar-dropdown-nav-link" data-link-title="Credit Cards" data-interaction="false"><span>Credit Cards</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/personal-finance/education" id="2_3" title="Education"
+                           data-link-name="navigation" data-link-order="2" data-link-type="sidebar-dropdown-nav-link" data-link-title="Education" data-interaction="false"><span>Education</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/personal-finance/debt-management" id="2_4" title="Debt Management"
+                           data-link-name="navigation" data-link-order="2" data-link-type="sidebar-dropdown-nav-link" data-link-title="Debt Management" data-interaction="false"><span>Debt Management</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/personal-finance/taxes" id="2_5" title="Taxes"
+                           data-link-name="navigation" data-link-order="2" data-link-type="sidebar-dropdown-nav-link" data-link-title="Taxes" data-interaction="false"><span>Taxes</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/personal-finance/real-estate" id="2_6" title="Real Estate"
+                           data-link-name="navigation" data-link-order="2" data-link-type="sidebar-dropdown-nav-link" data-link-title="Real Estate" data-interaction="false"><span>Real Estate</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/personal-finance/savings" id="2_7" title="Savings"
+                           data-link-name="navigation" data-link-order="2" data-link-type="sidebar-dropdown-nav-link" data-link-title="Savings" data-interaction="false"><span>Savings</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/personal-finance/insurance" id="2_8" title="Insurance"
+                           data-link-name="navigation" data-link-order="2" data-link-type="sidebar-dropdown-nav-link" data-link-title="Insurance" data-interaction="false"><span>Insurance</span></a>
+                    </li>
+
+            </ul>
+        </div>
+    </li>
+
+
+
+
+
+    <li class="sidenav__item--subnav panel panel-default">
+        <a class="sidenav__link collapsed" href="#burger-menu-3" data-toggle="collapse" data-parent="#accordion-burger-menu">
+            <span>Retirement</span>
+            <div class="icon">
+                <div class="plus-minus"></div>
+            </div>
+        </a>
+        <div class="sidenav__subnav panel-collapse panel-collapse collapse" id="burger-menu-3">
+            <ul class="sidenav__subnav__list">
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/retirement/social-security" id="3_1" title="Social Security"
+                           data-link-name="navigation" data-link-order="3" data-link-type="sidebar-dropdown-nav-link" data-link-title="Social Security" data-interaction="false"><span>Social Security</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/retirement/estate-planning" id="3_2" title="Estate Planning"
+                           data-link-name="navigation" data-link-order="3" data-link-type="sidebar-dropdown-nav-link" data-link-title="Estate Planning" data-interaction="false"><span>Estate Planning</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/retirement/401k" id="3_3" title="401k"
+                           data-link-name="navigation" data-link-order="3" data-link-type="sidebar-dropdown-nav-link" data-link-title="401k" data-interaction="false"><span>401k</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/retirement/ira" id="3_4" title="IRAs"
+                           data-link-name="navigation" data-link-order="3" data-link-type="sidebar-dropdown-nav-link" data-link-title="IRAs" data-interaction="false"><span>IRAs</span></a>
+                    </li>
+
+            </ul>
+        </div>
+    </li>
+
+
+
+
+
+    <li class="sidenav__item--subnav panel panel-default">
+        <a class="sidenav__link collapsed" href="#burger-menu-4" data-toggle="collapse" data-parent="#accordion-burger-menu">
+            <span>Technology</span>
+            <div class="icon">
+                <div class="plus-minus"></div>
+            </div>
+        </a>
+        <div class="sidenav__subnav panel-collapse panel-collapse collapse" id="burger-menu-4">
+            <ul class="sidenav__subnav__list">
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/technology/cybersecurity" id="4_1" title="Cybersecurity"
+                           data-link-name="navigation" data-link-order="4" data-link-type="sidebar-dropdown-nav-link" data-link-title="Cybersecurity" data-interaction="false"><span>Cybersecurity</span></a>
+                    </li>
+
+            </ul>
+        </div>
+    </li>
+
+
+
+
+
+    <li class="sidenav__item--subnav panel panel-default">
+        <a class="sidenav__link collapsed" href="#burger-menu-5" data-toggle="collapse" data-parent="#accordion-burger-menu">
+            <span>Markets</span>
+            <div class="icon">
+                <div class="plus-minus"></div>
+            </div>
+        </a>
+        <div class="sidenav__subnav panel-collapse panel-collapse collapse" id="burger-menu-5">
+            <ul class="sidenav__subnav__list">
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/markets/currencies" id="5_1" title="Currencies"
+                           data-link-name="navigation" data-link-order="5" data-link-type="sidebar-dropdown-nav-link" data-link-title="Currencies" data-interaction="false"><span>Currencies</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/markets/rates-bonds" id="5_2" title="Rates and Bonds"
+                           data-link-name="navigation" data-link-order="5" data-link-type="sidebar-dropdown-nav-link" data-link-title="Rates and Bonds" data-interaction="false"><span>Rates and Bonds</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/markets/commodities" id="5_3" title="Commodities"
+                           data-link-name="navigation" data-link-order="5" data-link-type="sidebar-dropdown-nav-link" data-link-title="Commodities" data-interaction="false"><span>Commodities</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/markets/emerging-markets" id="5_4" title="Emerging Markets"
+                           data-link-name="navigation" data-link-order="5" data-link-type="sidebar-dropdown-nav-link" data-link-title="Emerging Markets" data-interaction="false"><span>Emerging Markets</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/markets/mergers-acquisitions" id="5_5" title="Mergers and Acquisitions"
+                           data-link-name="navigation" data-link-order="5" data-link-type="sidebar-dropdown-nav-link" data-link-title="Mergers and Acquisitions" data-interaction="false"><span>Mergers and Acquisitions</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/markets/ipos" id="5_6" title="IPOs"
+                           data-link-name="navigation" data-link-order="5" data-link-type="sidebar-dropdown-nav-link" data-link-title="IPOs" data-interaction="false"><span>IPOs</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/markets/bankruptcy" id="5_7" title="Bankruptcy"
+                           data-link-name="navigation" data-link-order="5" data-link-type="sidebar-dropdown-nav-link" data-link-title="Bankruptcy" data-interaction="false"><span>Bankruptcy</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/markets/regulation" id="5_8" title="Regulation"
+                           data-link-name="navigation" data-link-order="5" data-link-type="sidebar-dropdown-nav-link" data-link-title="Regulation" data-interaction="false"><span>Regulation</span></a>
+                    </li>
+
+                    <li class="sidenav__subnav__item">
+                        <a class="sidenav__subnav__link" href="/markets/corporate-governance" id="5_9" title="Corporate Governance"
+                           data-link-name="navigation" data-link-order="5" data-link-type="sidebar-dropdown-nav-link" data-link-title="Corporate Governance" data-interaction="false"><span>Corporate Governance</span></a>
+                    </li>
+
+            </ul>
+        </div>
+    </li>
+
+
+
+
+
+    <li class="sidenav__item">
+        <a class="sidenav__link" href="/how-to" data-link-name="navigation" data-link-order="6" data-link-type="sidebar-nav-link" data-link-title="How-To"
+           data-interaction="false">How-To</a>
+    </li>
+
+
+
+
+
+    <li class="sidenav__item">
+        <a class="sidenav__link" href="/video" data-link-name="navigation" data-link-order="7" data-link-type="sidebar-nav-link" data-link-title="Video"
+           data-interaction="false">Video</a>
+    </li>
+
+
+
+        </ul>
+        <div class="social-links social-links--hamburger-dropdown">
+            <div class="social-links--hamburger-dropdown-inner">
+                <a target="_blank" href="https://www.facebook.com/TheStreet" title="Visit us on Facebook"><i class="social-links--hamburger-dropdown-item icon-facebook"></i></a>
+                <a target="_blank" href="https://plus.google.com/+TheStreet" title="Visit us on Google+"><i class="social-links--hamburger-dropdown-item icon-google2"></i></a>
+                <a target="_blank" href="https://twitter.com/TheStreet" title="Follow us on Twitter"><i class="social-links--hamburger-dropdown-item icon-twitter"></i></a>
+                <a target="_blank" href="https://www.linkedin.com/company/thestreet" title="LinkedIn"><i class="social-links--hamburger-dropdown-item icon-linkedin"></i></a>
+            </div>
+        </div>
+        <div class="rights-hamburger-footer"><a href="http://corporate.thestreet.com/privacy">Privacy Policy</a><span>|</span><a href="http://corporate.thestreet.com/terms">Terms of Use</a>
+            <div class="rights-hamburger-footer-inner">&#169; 1996-2018 TheStreet Inc. All rights reserved</div></div>
+    </li>
+</ul>
+
+
+
+
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - NAVIGATION - MAINNAV*********** -->
+<!-- *************************************************************************************************************** -->
+
+
+
+
+
+
+
+
+    <div class="main-nav__flyout" id="2607109">
+        <div class="main-nav__flyout__submenu">
+            <div class="main-nav__flyout__submenu-inner">
+                <ul class="lower-navbar__subitem-list">
+
+                        <li class="lower-navbar__subitem">
+                            <a href="https://secure2.thestreet.com/cap/prm.do?OID=037527" id="jim_cramer_1" title="Action Alerts PLUS" data-link-name="navigation" data-link-order="0" data-link-type="top-level-dropdown-nav-link" data-link-title="Action Alerts PLUS">Action Alerts PLUS</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="http://realmoney.thestreet.com/authors/jim-cramer" id="jim_cramer_2" title="Cramers's Blog" data-link-name="navigation" data-link-order="0" data-link-type="top-level-dropdown-nav-link" data-link-title="Cramers's Blog">Cramers's Blog</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="https://secure2.thestreet.com/cap/prm.do?OID=037527" id="jim_cramer_3" title="Cramer's Monthly Call" data-link-name="navigation" data-link-order="0" data-link-type="top-level-dropdown-nav-link" data-link-title="Cramer's Monthly Call">Cramer's Monthly Call</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="https://secure2.thestreet.com/cap/prm.do?OID=036741" id="jim_cramer_4" title="Jim Cramer's Best Stocks" data-link-name="navigation" data-link-order="0" data-link-type="top-level-dropdown-nav-link" data-link-title="Jim Cramer's Best Stocks">Jim Cramer's Best Stocks</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="https://www.thestreet.com/author/269/jim-cramer/all.html" id="jim_cramer_5" title="Cramer's Articles" data-link-name="navigation" data-link-order="0" data-link-type="top-level-dropdown-nav-link" data-link-title="Cramer's Articles">Cramer's Articles</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="https://www.thestreet.com/mad-money" id="jim_cramer_6" title="Mad Money" data-link-name="navigation" data-link-order="0" data-link-type="top-level-dropdown-nav-link" data-link-title="Mad Money">Mad Money</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="https://secure2.thestreet.com/cap/prm.do?OID=021951" id="jim_cramer_7" title="25 Rules for Investing" data-link-name="navigation" data-link-order="0" data-link-type="top-level-dropdown-nav-link" data-link-title="25 Rules for Investing">25 Rules for Investing</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="https://secure2.thestreet.com/cap/prm.do?OID=033994" id="jim_cramer_8" title="10 Commandments" data-link-name="navigation" data-link-order="0" data-link-type="top-level-dropdown-nav-link" data-link-title="10 Commandments">10 Commandments</a>
+                        </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    <div class="main-nav__flyout" id="2607106">
+        <div class="main-nav__flyout__submenu">
+            <div class="main-nav__flyout__submenu-inner">
+                <ul class="lower-navbar__subitem-list">
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/investing/bitcoin" id="investing_1" title="Bitcoin" data-link-name="navigation" data-link-order="1" data-link-type="top-level-dropdown-nav-link" data-link-title="Bitcoin">Bitcoin</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/investing/fixed-income" id="investing_2" title="Fixed Income" data-link-name="navigation" data-link-order="1" data-link-type="top-level-dropdown-nav-link" data-link-title="Fixed Income">Fixed Income</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/investing/etfs" id="investing_3" title="ETFs" data-link-name="navigation" data-link-order="1" data-link-type="top-level-dropdown-nav-link" data-link-title="ETFs">ETFs</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/investing/stocks" id="investing_4" title="Stocks" data-link-name="navigation" data-link-order="1" data-link-type="top-level-dropdown-nav-link" data-link-title="Stocks">Stocks</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/investing/futures" id="investing_5" title="Futures" data-link-name="navigation" data-link-order="1" data-link-type="top-level-dropdown-nav-link" data-link-title="Futures">Futures</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/investing/earnings" id="investing_6" title="Earnings" data-link-name="navigation" data-link-order="1" data-link-type="top-level-dropdown-nav-link" data-link-title="Earnings">Earnings</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/investing/options" id="investing_7" title="Options" data-link-name="navigation" data-link-order="1" data-link-type="top-level-dropdown-nav-link" data-link-title="Options">Options</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/investing/funds" id="investing_8" title="Funds" data-link-name="navigation" data-link-order="1" data-link-type="top-level-dropdown-nav-link" data-link-title="Funds">Funds</a>
+                        </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    <div class="main-nav__flyout" id="2607103">
+        <div class="main-nav__flyout__submenu">
+            <div class="main-nav__flyout__submenu-inner">
+                <ul class="lower-navbar__subitem-list">
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/personal-finance/mortgages" id="personal_finance_1" title="Mortgages" data-link-name="navigation" data-link-order="2" data-link-type="top-level-dropdown-nav-link" data-link-title="Mortgages">Mortgages</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/personal-finance/credit-cards" id="personal_finance_2" title="Credit Cards" data-link-name="navigation" data-link-order="2" data-link-type="top-level-dropdown-nav-link" data-link-title="Credit Cards">Credit Cards</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/personal-finance/education" id="personal_finance_3" title="Education" data-link-name="navigation" data-link-order="2" data-link-type="top-level-dropdown-nav-link" data-link-title="Education">Education</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/personal-finance/debt-management" id="personal_finance_4" title="Debt Management" data-link-name="navigation" data-link-order="2" data-link-type="top-level-dropdown-nav-link" data-link-title="Debt Management">Debt Management</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/personal-finance/taxes" id="personal_finance_5" title="Taxes" data-link-name="navigation" data-link-order="2" data-link-type="top-level-dropdown-nav-link" data-link-title="Taxes">Taxes</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/personal-finance/real-estate" id="personal_finance_6" title="Real Estate" data-link-name="navigation" data-link-order="2" data-link-type="top-level-dropdown-nav-link" data-link-title="Real Estate">Real Estate</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/personal-finance/savings" id="personal_finance_7" title="Savings" data-link-name="navigation" data-link-order="2" data-link-type="top-level-dropdown-nav-link" data-link-title="Savings">Savings</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/personal-finance/insurance" id="personal_finance_8" title="Insurance" data-link-name="navigation" data-link-order="2" data-link-type="top-level-dropdown-nav-link" data-link-title="Insurance">Insurance</a>
+                        </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    <div class="main-nav__flyout" id="2607115">
+        <div class="main-nav__flyout__submenu">
+            <div class="main-nav__flyout__submenu-inner">
+                <ul class="lower-navbar__subitem-list">
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/retirement/social-security" id="retirement_1" title="Social Security" data-link-name="navigation" data-link-order="3" data-link-type="top-level-dropdown-nav-link" data-link-title="Social Security">Social Security</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/retirement/estate-planning" id="retirement_2" title="Estate Planning" data-link-name="navigation" data-link-order="3" data-link-type="top-level-dropdown-nav-link" data-link-title="Estate Planning">Estate Planning</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/retirement/401k" id="retirement_3" title="401k" data-link-name="navigation" data-link-order="3" data-link-type="top-level-dropdown-nav-link" data-link-title="401k">401k</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/retirement/ira" id="retirement_4" title="IRAs" data-link-name="navigation" data-link-order="3" data-link-type="top-level-dropdown-nav-link" data-link-title="IRAs">IRAs</a>
+                        </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    <div class="main-nav__flyout" id="2607116">
+        <div class="main-nav__flyout__submenu">
+            <div class="main-nav__flyout__submenu-inner">
+                <ul class="lower-navbar__subitem-list">
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/technology/cybersecurity" id="technology_1" title="Cybersecurity" data-link-name="navigation" data-link-order="4" data-link-type="top-level-dropdown-nav-link" data-link-title="Cybersecurity">Cybersecurity</a>
+                        </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    <div class="main-nav__flyout" id="2607101">
+        <div class="main-nav__flyout__submenu">
+            <div class="main-nav__flyout__submenu-inner">
+                <ul class="lower-navbar__subitem-list">
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/markets/currencies" id="markets_1" title="Currencies" data-link-name="navigation" data-link-order="5" data-link-type="top-level-dropdown-nav-link" data-link-title="Currencies">Currencies</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/markets/rates-bonds" id="markets_2" title="Rates and Bonds" data-link-name="navigation" data-link-order="5" data-link-type="top-level-dropdown-nav-link" data-link-title="Rates and Bonds">Rates and Bonds</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/markets/commodities" id="markets_3" title="Commodities" data-link-name="navigation" data-link-order="5" data-link-type="top-level-dropdown-nav-link" data-link-title="Commodities">Commodities</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/markets/emerging-markets" id="markets_4" title="Emerging Markets" data-link-name="navigation" data-link-order="5" data-link-type="top-level-dropdown-nav-link" data-link-title="Emerging Markets">Emerging Markets</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/markets/mergers-acquisitions" id="markets_5" title="Mergers and Acquisitions" data-link-name="navigation" data-link-order="5" data-link-type="top-level-dropdown-nav-link" data-link-title="Mergers and Acquisitions">Mergers and Acquisitions</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/markets/ipos" id="markets_6" title="IPOs" data-link-name="navigation" data-link-order="5" data-link-type="top-level-dropdown-nav-link" data-link-title="IPOs">IPOs</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/markets/bankruptcy" id="markets_7" title="Bankruptcy" data-link-name="navigation" data-link-order="5" data-link-type="top-level-dropdown-nav-link" data-link-title="Bankruptcy">Bankruptcy</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/markets/regulation" id="markets_8" title="Regulation" data-link-name="navigation" data-link-order="5" data-link-type="top-level-dropdown-nav-link" data-link-title="Regulation">Regulation</a>
+                        </li>
+
+                        <li class="lower-navbar__subitem">
+                            <a href="/markets/corporate-governance" id="markets_9" title="Corporate Governance" data-link-name="navigation" data-link-order="5" data-link-type="top-level-dropdown-nav-link" data-link-title="Corporate Governance">Corporate Governance</a>
+                        </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class="footer " id="footer" role="contentinfo">
+    <div class="inner">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="row">
+
+
+
+
+
+                    <div class="col-sm-4">
+
+
+<!-- *************************************************************************************************************** -->
+<!-- ********* START - NAVIGATION - MAINNAV*********** -->
+<!-- *************************************************************************************************************** -->
+
+
+    <ul class="footer--all-headers__links">
+
+
+
+
+
+            <li class="footer--all-headers__item" data-menu-id="2607109" >
+                 <a class="footer--all-headers__link counter_0" id="jim_cramer" href="/jim-cramer" data-link-name="navigation" data-link-order="0" data-link-type="top-level-nav-link" data-link-title="Jim Cramer" data-interaction="false">Jim Cramer</a>
+            </li>
+
+
+
+
+
+            <li class="footer--all-headers__item" data-menu-id="2607106" >
+                 <a class="footer--all-headers__link counter_1" id="investing" href="/investing" data-link-name="navigation" data-link-order="1" data-link-type="top-level-nav-link" data-link-title="Investing" data-interaction="false">Investing</a>
+            </li>
+
+
+
+
+
+            <li class="footer--all-headers__item" data-menu-id="2607103" >
+                 <a class="footer--all-headers__link counter_2" id="personal_finance" href="/personal-finance" data-link-name="navigation" data-link-order="2" data-link-type="top-level-nav-link" data-link-title="Personal Finance" data-interaction="false">Personal Finance</a>
+            </li>
+
+
+
+
+
+            <li class="footer--all-headers__item" data-menu-id="2607115" >
+                 <a class="footer--all-headers__link counter_3" id="retirement" href="/retirement" data-link-name="navigation" data-link-order="3" data-link-type="top-level-nav-link" data-link-title="Retirement" data-interaction="false">Retirement</a>
+            </li>
+
+
+
+
+
+            <li class="footer--all-headers__item" data-menu-id="2607116" >
+                 <a class="footer--all-headers__link counter_4" id="technology" href="/technology" data-link-name="navigation" data-link-order="4" data-link-type="top-level-nav-link" data-link-title="Technology" data-interaction="false">Technology</a>
+            </li>
+
+
+
+
+
+            <li class="footer--all-headers__item" data-menu-id="2607101" >
+                 <a class="footer--all-headers__link counter_5" id="markets" href="/markets" data-link-name="navigation" data-link-order="5" data-link-type="top-level-nav-link" data-link-title="Markets" data-interaction="false">Markets</a>
+            </li>
+
+
+
+
+
+            <li class="footer--all-headers__item" data-menu-id="2607142" >
+                 <a class="footer--all-headers__link counter_6" id="how_to" href="/how-to" data-link-name="navigation" data-link-order="6" data-link-type="top-level-nav-link" data-link-title="How-To" data-interaction="false">How-To</a>
+            </li>
+
+
+
+
+
+            <li class="footer--all-headers__item" data-menu-id="2607118" >
+                 <a class="footer--all-headers__link counter_7" id="video" href="/video" data-link-name="navigation" data-link-order="7" data-link-type="top-level-nav-link" data-link-title="Video" data-interaction="false">Video</a>
+            </li>
+
+
+
+
+
+    </ul>
+
+
+
+                    </div>
+                    <div class="col-sm-4">
+                        <h2 class="navigation__title">Featured Topics</h2>
+                        <ul class="footerLinks">
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/mad-money">Mad Money</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/topic/47781/stock-market-today.html">Stock Market Today</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/quote/djia/dow-jones-industrial-average-today.html">Dow Jones Today</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/investing/stocks">Stocks</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/investing/funds">Funds</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/investing/etfs">ETFs</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/investing/bitcoin">Bitcoin</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/lifestyle/travel">Travel</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/lifestyle/sports">Sports</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/lifestyle/health">Health</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link textNoTrasform" href="https://www.thestreet.com/lifestyle/food-drink">Food and Drink</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-4">
+                        <ul class="footerLinks">
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/technology/cybersecurity">Cybersecurity</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/story/11260181/1/penny-stocks.html">Penny Stocks</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link textNoTrasform" href="https://www.thestreet.com/topic/47701/how-to-invest-in-stocks.html">How to Invest in Stocks</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/retirement/social-security">Social Security</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/personal-finance/taxes">Taxes</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/retirement/401k">401K</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/retirement/ira">IRAs</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/investing/funds/index-funds">Index Funds</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/retirement/ira/roth-ira">Roth IRAs</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/personal-finance/insurance/home-insurance">Home Insurance</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/personal-finance/insurance/health-insurance">Health Insurance</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/personal-finance/insurance/disability-insurance">Disability Insurance</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="footer__social">
+                            <a href="https://www.thestreet.com" class="footer__logo"></a>
+                            <div class="social-links social-links--footer">
+                                <a target="_blank" href="https://www.facebook.com/TheStreet" title="Visit us on Facebook"><i class="social-links__item icon-facebook"></i></a>
+                                <a target="_blank" href="https://plus.google.com/+TheStreet" title="Visit us on Google+"><i class="social-links__item icon-google2"></i></a>
+                                <a target="_blank" href="https://twitter.com/TheStreet" title="Follow us on Twitter"><i class="social-links__item icon-twitter"></i></a>
+                                <a target="_blank" href="https://www.linkedin.com/company/thestreet" title="LinkedIn"><i class="social-links__item icon-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="footer__legal">
+                            <a class="copy" href="https://www.thestreet.com" target="_blank">&copy; 1996-2018 TheStreet, Inc. All rights reserved.</a>
+                            <a class="copy" href="https://www.thestreet.com" target="_blank">Action Alerts PLUS is a registered trademark of TheStreet, Inc.</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <h2 class="navigation__title">Popular Pages</h2>
+                        <ul class="footerLinks">
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/topic/47501/stock-picks.html">Best Stocks</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link textNoTrasform" href="https://www.thestreet.com/topic/45162/best-stocks-to-buy-now.html">Best Stocks to Buy</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/event-calendar/index.html">Earnings Calendar</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/dividends/index.html">Ex Dividend Date</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/stock-market-news/10571219/top-rated-mutual-funds/top-rated-mutual-funds.html">Mutual Fund Ratings</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/online-trading/compare-best-online-brokers.html">Best Online Brokers</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link textNoTrasform" href="https://www.thestreet.com/markets/rates-bonds">Rates and Bonds</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/markets/commodities">Commodities</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/markets/rates-bonds/treasury-bonds">Treasury Bonds</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/markets/rates-bonds/junk-bonds">Junk Bonds</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/markets/rates-bonds/corporate-bonds">Corporate Bonds</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/markets/rates-bonds/municipal-bonds">Municipal Bonds</a></li>
+
+
+                        </ul>
+                    </div>
+                    <div class="col-sm-4">
+                        <h2 class="navigation__title">Subscriptions</h2>
+                        <ul class="footerLinks">
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033201" data-link-name="bottom footer" data-link-order="0" data-link-type="product-signup" data-oid="033201" data-product-name="Action Alerts PLUS">Action Alerts PLUS</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033206" data-link-name="bottom footer" data-link-order="2" data-link-type="product-signup" data-oid="033206" data-product-name="Quant Ratings">Quant Ratings</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033207" data-link-name="bottom footer" data-link-order="3" data-link-type="product-signup" data-oid="033207" data-product-name="Real Money">Real Money</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033208" data-link-name="bottom footer" data-link-order="4" data-link-type="product-signup" data-oid="033208" data-product-name="Real Money Pro">Real Money Pro</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=038329" data-link-name="bottom footer" data-link-order="11" data-link-type="product-signup" data-oid="038329" data-product-name="Retirement Daily">Retirement Daily</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033209" data-link-name="bottom footer" data-link-order="5" data-link-type="product-signup" data-oid="033209" data-product-name="Stocks Under $10">Stocks Under $10</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033210" data-link-name="bottom footer" data-link-order="6" data-link-type="product-signup" data-oid="033210" data-product-name="Top Stocks">Top Stocks</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=033211" data-link-name="bottom footer" data-link-order="7" data-link-type="product-signup" data-oid="033211" data-product-name="Trifecta Stocks">Trifecta Stocks</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=025907" data-link-name="bottom footer" data-link-order="9" data-link-type="product-signup" data-oid="025907" data-product-name="RMP Portfolio">RMP Portfolio</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/prm.do?OID=021809" data-link-name="bottom footer" data-link-order="10" data-link-type="product-signup" data-oid="021809" data-product-name="Chairman's Club">Chairman's Club</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-4">
+                        <h2 class="navigation__title">Stay Connected</h2>
+                        <ul class="footerLinks">
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/sections">Sitemap</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/contact-us">Feedback</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="http://corporate.thestreet.com">About Us</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="http://investor-relations.thestreet.com">Investor Relations</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/tsc/pdfs/Web_Media_Kit.pdf">Advertise</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="http://corporate.thestreet.com/reprints">Reprints</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://secure2.thestreet.com/cap/selfserve/SSMainMenu.jsp?site=tsc&amp;url=https://www.thestreet.com/index.html">Customer Service</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="http://corporate.thestreet.com/employment">Employment</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="http://corporate.thestreet.com/privacy">Privacy Policy</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="http://corporate.thestreet.com/terms">Terms of Use</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/topic/archive/a.html">Topic Archive</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/video/sitemap.html">Video Sitemap</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/staticFull/data-providers.html">Data</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="https://www.thestreet.com/staticFull/affiliates.html">Affiliate</a></li>
+                            <li class="footer__item"><a target="new" class="main-nav__link" href="http://pressroom.thestreet.com/press-home.cfm">Press Room</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+
+
+
+        <div class="print-footer visible-print">
+            <p><a class="copy" href="/" target="_blank">&copy;1996-2018 TheStreet, Inc. All rights reserved.</a><a class="copy" href="/" target="_blank">Action Alerts PLUS is a registered trademark of TheStreet, Inc.</a></p>
+        </div>
+
+</div>
+
+    <div id="lower-ad-banner" class="hidden-print">
+        <div id="lower-ad-banner-inner">
+            <div class="lower-ad-banner-compare lower-ad-banner-item"><a href="/online-trading/compare-best-online-brokers.html" class="compBrokers">Compare Brokers</a></div>
+            <div class="lower-ad-banner-item"><div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-brokerage1" data-ad-sizes="170,40"  data-ad-preload="" data-ad-load-in-view="" data-ad-targeting="ptn=brokerage-1"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div></div>
+            <div class="lower-ad-banner-item"><div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-brokerage2" data-ad-sizes="170,40"  data-ad-preload="" data-ad-load-in-view="" data-ad-targeting="ptn=brokerage-2"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div></div>
+            <div class="lower-ad-banner-item"><div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-brokerage3" data-ad-sizes="170,40"  data-ad-preload="" data-ad-load-in-view="" data-ad-targeting="ptn=brokerage-3"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div></div>
+            <div class="lower-ad-banner-item"><div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-brokerage4" data-ad-sizes="170,40"  data-ad-preload="" data-ad-load-in-view="" data-ad-targeting="ptn=brokerage-4"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div></div>
+            <div class="lower-ad-banner-item"><div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-brokerage5" data-ad-sizes="170,40"  data-ad-preload="" data-ad-load-in-view="" data-ad-targeting="ptn=brokerage-5"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div></div>
+            <div class="lower-ad-banner-item"><div data-type="gpt-ad" class="googleAd center-text    top-buffer-sm bottom-buffer-sm  " id="ad-div-brokerage6" data-ad-sizes="170,40"  data-ad-preload="" data-ad-load-in-view="" data-ad-targeting="ptn=brokerage-6"  data-ad-zone-override=""  data-custom-size-mapping=""  data-ad-label="" data-height="" data-width="" data-devices=""  data-is-placeholder="false" data-ad-defer="false"  > </div></div>
+        </div>
+    </div>
+
+<script src="//s.t.st/assets/thestreet-ngbeta/production/408/js/app-bottom-1a311d8aec6b10763537564a33980d9e.js" type="text/javascript" defer="defer"></script>
+
+</body>
+</html>

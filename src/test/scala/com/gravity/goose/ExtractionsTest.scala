@@ -755,6 +755,58 @@ class ExtractionsTest {
     assert(article.publishDate.isDefined)
     assert(article.canonicalLink.isDefined)
   }
+
+  @Test
+  def thestreet(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("thestreet.txt")
+    val url = "https://www.thestreet.com/story/14185345/1/rwt-august-18th-options-begin-trading.html"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Investors in Redwood Trust Inc saw new option")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def dallasnews2(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("dallasnews2.txt")
+    val url = "https://www.dallasnews.com/business/business/2014/03/05/exxon-mobil-suspends-ukraine-exploration"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Exxon Mobil Corp. has suspended talks")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def ndtv1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("ndtv1.txt")
+    val url = "https://www.ndtv.com/chennai-news/chennai-fire-blazes-for-second-day-4-floors-of-building-cave-in-1706535"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "A major market in the heart of Chennai")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def thehill2(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("thehill2.txt")
+    val url = "http://thehill.com/blogs/ballot-box/house-races/170525-rep-steve-king-iowa-caucus-still-matters"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Rep. Steve King (R-Iowa) has two words for anyone")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
   /*@Test
   def blogger1(): Unit ={
     // ld script

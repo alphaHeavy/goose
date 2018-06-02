@@ -39,6 +39,7 @@ class Goose(config: Configuration = new Configuration) {
     article.domain = url.host.getOrElse("")
     article.rawHtml = html
     article.doc = doc
+    article.rawDoc = doc.clone()
 
     article.title = extractor.getTitle(article)
     article.author = AuthorExtractor.extractAuthor(doc)
