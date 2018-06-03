@@ -807,6 +807,17 @@ class ExtractionsTest {
     assert(article.publishDate.isDefined)
     assert(article.canonicalLink.isDefined)
   }
+
+  @Test
+  def stltoday1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("stltoday1.txt")
+    val url = "http://thehill.com/blogs/ballot-box/house-races/170525-rep-steve-king-iowa-caucus-still-matters"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    assert(article.cleanedArticleText == "")
+  }
+
+
   /*@Test
   def blogger1(): Unit ={
     // ld script

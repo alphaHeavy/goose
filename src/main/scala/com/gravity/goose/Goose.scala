@@ -28,7 +28,7 @@ import org.jsoup.Jsoup
  * Date: 8/14/11
  */
 class Goose(config: Configuration = new Configuration) {
-  def extractArticle(html: String, url: Uri): Article ={
+  def extractArticle(html: String, url: Uri): Article = {
     val article = new Article()
 
     val extractor = config.contentExtractor
