@@ -46,12 +46,13 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
       try {
       if (item.nodeName() == "time") {
         PublishDateExtractor.safeParseISO8601Date(item.attr("datetime"), url)
+          .orElse(PublishDateExtractor.safeParseISO8601Date(item.html.trim, url))
       }
       else if(item.nodeName() == "abbr")
       {
         PublishDateExtractor.safeParseISO8601Date(item.attr("title"), url)
       }
-      else if(item.nodeName() == "script")
+      else if(item.nodeName() == "script" && item.attr("type") == "application/ld+json")
       {
         val json = parse(item.html,false)
 
@@ -74,15 +75,25 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
           None
         }
       }
+      else if(item.nodeName() == "script" && item.html.trim.startsWith("window.__data"))
+        {
+          val date = s"""date_gmt":"([^"]*)""".r
+          val matches = date.findAllIn(item.html)
 
-      else if(item.nodeName() == "span" && item.attr("class") == "timestamp")
+          matches.next()
+          val dt = Some(matches.group(1))
+
+          dt match {
+            case Some(x) => safeParseNoTimeZone(x, url, ZoneId.of("GMT"))
+            case _ => None
+          }
+        }
+      else if(item.nodeName() == "span")
         {
           PublishDateExtractor.safeParseISO8601Date(item.html(), url)
+            .orElse(PublishDateExtractor.safeParseISO8601Date(item.attr("content"), url))
+            .orElse(PublishDateExtractor.parseBusinessInsiderDate(item.attr("rel")))
         }
-      else if(item.nodeName() == "span" && item.attr("data-bi-format") == "date")
-      {
-        PublishDateExtractor.parseBusinessInsiderDate(item.attr("rel"))
-      }
       else {
         if(item.hasAttr("content")) {
           PublishDateExtractor.safeParseISO8601Date(item.attr("content"), url)
@@ -133,6 +144,10 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
               None
             }
         }
+        else if(item.nodeName() == "span")
+          {
+            safeParseNoTimeZone(item.html, url, zoneId)
+          }
         else {
           if(item.hasAttr("content")) {
             safeParseNoTimeZone(item.attr("content"), url, zoneId)
@@ -164,8 +179,11 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
       val date6 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy HH:mm a")
       val date7 = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm")
       val date8 = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm")
-      val date9 = DateTimeFormatter.ofPattern("MM/dd/yyyy',' HH:mma")
+      val date9 = DateTimeFormatter.ofPattern("MM/dd/yyyy',' hh:mma")
       val date10 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy hh:mm a")
+      val date11 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy 'at' hh:mm a")
+      val date12 = DateTimeFormatter.ofPattern("MMMM d',' yyyy 'at' hh:mm a")
+
       val parser = new DateTimeFormatterBuilder()
         .appendOptional(date1)
         .appendOptional(date2)
@@ -177,6 +195,8 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
         .appendOptional(date8)
         .appendOptional(date9)
         .appendOptional(date10)
+        .appendOptional(date11)
+        .appendOptional(date12)
         .toFormatter
 
       val result = LocalDateTime.parse(txt2, parser)
@@ -214,7 +234,11 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
     "span[class=timestamp]",
     "span[class=date-area-date]",
     "meta[name=sailthru.date]",
-    "span[class=post-relative-date top-date]"
+    "span[class=post-relative-date top-date]",
+    "script",
+    "span[class=published-date pull-right]",
+    "span[itemprop=dateCreated]",
+    "span[class=entry-date]"
   )
 
   final val modSelectors = Seq(
@@ -263,7 +287,9 @@ object PublishDateExtractor extends Logging {
     "english.yonhapnews.co.kr" -> ZoneId.of("Asia/Seoul"),
     "abcnews.go.com" -> ZoneId.of("America/New_York"),
     "chicago.suntimes.com" -> ZoneId.of("America/Chicago"),
-    "money.cnn.com" -> ZoneId.of("America/New_York"))
+    "money.cnn.com" -> ZoneId.of("America/New_York"),
+    "www.euronews.com" -> ZoneId.of("Etc/GMT-2"),
+    "www.etftrends.com" -> ZoneId.of("UTC"))
 
 
   val logPrefix = "PublishDateExtractor: "
@@ -316,6 +342,8 @@ object PublishDateExtractor extends Logging {
       val date14 = DateTimeFormatter.ofPattern("MMM d',' yyyy',' h:mm a z")
       val date15 = DateTimeFormatter.ofPattern("MMMM d',' yyyy h:mm a z")
       val date16 = DateTimeFormatter.ofPattern("E',' dd MMM yyyy HH:mm:ss X")
+      val date17 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy',' hh:mm:ss a z")
+      val date18 = DateTimeFormatter.ofPattern("HH:mm z',' MMM dd',' yyyy")
       val parser = new DateTimeFormatterBuilder()
         .appendOptional(date1)
         .appendOptional(date2)
@@ -333,6 +361,8 @@ object PublishDateExtractor extends Logging {
         .appendOptional(date14)
         .appendOptional(date15)
         .appendOptional(date16)
+        .appendOptional(date17)
+        .appendOptional(date18)
         .toFormatter
 
       val x = ZonedDateTime.from(parser.parse(txt2)).withZoneSameInstant(ZoneId.of("UTC").normalized())

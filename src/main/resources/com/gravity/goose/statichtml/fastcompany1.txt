@@ -1,0 +1,1507 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <link rel="shortcut icon" href="//assets.fastcompany.com/asset_files/-/2016/04/07/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="//assets.fastcompany.com/asset_files/-/2016/04/07/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="//a.fastcompany.net/asset_files/-/2016/04/01/fc-news-apple-touch-icon-76.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="//a.fastcompany.net/asset_files/-/2016/04/01/fc-news-apple-touch-icon-76.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="//c.fastcompany.net/asset_files/-/2016/04/01/fc-news-apple-touch-icon-120_360.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="//b.fastcompany.net/asset_files/-/2016/04/01/fc-news-apple-touch-icon-152_360.png">
+    <link href="//b.fastcompany.net/asset_files/-/2016/04/07/FastCo-News-Logo-SQUARE-48.png" rel="icon" sizes="48x48">
+    <link href="//c.fastcompany.net/asset_files/-/2016/04/07/FastCo-News-Logo-SQUARE-72.png" rel="icon" sizes="72x72">
+    <link href="//a.fastcompany.net/asset_files/-/2016/04/07/FastCo-News-Logo-SQUARE-96.png" rel="icon" sizes="96x96">
+    <link href="//a.fastcompany.net/asset_files/-/2016/04/07/FastCo-News-Logo-SQUARE-144.png" rel="icon" sizes="144x144">
+    <link href="//d.fastcompany.net/asset_files/-/2016/04/07/FastCo-News-Logo-SQUARE-192.png" rel="icon" sizes="192x192">
+
+    <title>A second federal appeals court has ruled against Trump’s travel ban</title>
+
+    <link rel="stylesheet" href="/css/main.css">
+
+    <meta name="description" content="The revised travel ban that President Trump ordered earlier this year, after his first one was blocked, has been ruled u"/>
+    <link rel="canonical" href="https://news.fastcompany.com/a-second-federal-appeals-court-has-ruled-against-trumps-travel-ban-4040556"/>
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="A second federal appeals court has ruled against Trump’s travel ban">
+    <meta property="og:url" content="https://news.fastcompany.com/a-second-federal-appeals-court-has-ruled-against-trumps-travel-ban-4040556">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:description" content="The revised travel ban that President Trump ordered earlier this year, after his first one was blocked, has been ruled u">
+    <meta property="og:image" content="https://assets.fastcompany.com/image/upload/q_auto,f_auto,fl_lossy/v1490195549/fcweb/FastCo-News-Logo-SHARE.png">
+    <meta property="og:site_name" content="FastCo News">
+
+    <meta property="fb:app_id" content="178479832213933">
+    <meta property="fb:admins" content="100000062710915">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="A second federal appeals court has ruled against Trump’s travel ban">
+    <meta name="twitter:description" content="The revised travel ban that President Trump ordered earlier this year, after his first one was blocked, has been ruled u">
+    <meta name="twitter:url" content="https://news.fastcompany.com/a-second-federal-appeals-court-has-ruled-against-trumps-travel-ban-4040556">
+    <meta name="twitter:site" content="">
+    <meta name="twitter:image" content="https://assets.fastcompany.com/image/upload/q_auto,f_auto,fl_lossy/v1490195549/fcweb/FastCo-News-Logo-SHARE.png">
+    <meta name="twitter:domain" content="news.fastcompany.com">
+
+    <meta itemprop="name" content="A second federal appeals court has ruled against Trump’s travel ban">
+    <meta itemprop="description" content="The revised travel ban that President Trump ordered earlier this year, after his first one was blocked, has been ruled u">
+    <meta itemprop="author" content="">
+    <meta itemprop="datePublished" content="">
+    <meta itemprop="headline" content="A second federal appeals court has ruled against Trump’s travel ban">
+    <script>
+    var _prum = [['id', '56f17ddbabe53db974df4a3a'],
+                ['mark', 'firstbyte', (new Date()).getTime()]];
+    (function() {
+       var s = document.getElementsByTagName('script')[0]
+         , p = document.createElement('script');
+       p.async = 'async';
+       p.src = '//rum-static.pingdom.net/prum.min.js';
+       s.parentNode.insertBefore(p, s);
+    })();
+    </script>
+
+    <script async>
+        (function() {
+            __mtm = [ '53207e84e7d4f9a55857560e', 'd36wtdrdo22bqa.cloudfront.net/mngr', 'tdi.mezzobit.com' ];
+            var s = document.createElement('script');
+            s.async = 1;
+            s.src = '//' + __mtm[1] + '/mtm.js';
+            var e = document.getElementsByTagName('script')[0];
+            (e.parentNode || document.body).insertBefore(s, e);
+        })();
+    </script>
+
+    <script type="text/javascript">
+        var _sf_startpt=(new Date()).getTime();
+    </script>
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-4300461-39', 'auto');
+        ga('create', 'UA-4300461-33', 'auto', {'name': 'rollup'});
+        ga('require', 'eventTracker');
+        ga('require', 'cleanUrlTracker');
+        ga('require', 'impressionTracker');
+        ga('require', 'mediaQueryTracker');
+        ga('require', 'outboundFormTracker');
+        ga('require', 'outboundLinkTracker');
+        ga('require', 'pageVisibilityTracker');
+        ga('require', 'socialWidgetTracker');
+        ga('require', 'urlChangeTracker');
+        ga('send', 'pageview');
+        ga('rollup.send', 'pageview');
+    </script>
+
+
+    <script type="text/javascript">
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+      (function() {
+        var gads = document.createElement("script");
+        gads.async = true;
+        gads.type = "text/javascript";
+        var useSSL = "https:" == document.location.protocol;
+        gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+        var node =document.getElementsByTagName("script")[0];
+        node.parentNode.insertBefore(gads, node);
+       })();
+    </script>
+
+</head>
+
+<body class="svg-container">
+    <div class="nav-bar-wrapper ">
+        <div class="overlay"></div>
+        <div class="no-ad-slug ad-wrapper ad-wrapper-large navbar-ad">
+            <div class="ad-unit leaderboard-ad large-ad" data-advertising="flexiblepushdown">
+                <div class="dart-ad"></div>
+            </div>
+        </div>
+        <div class="no-ad-slug ad-wrapper ad-wrapper-medium navbar-ad">
+            <div class="ad-unit leaderboard-ad medium-ad" data-advertising="flexibleleaderboard">
+                <div class="dart-ad"></div>
+            </div>
+        </div>
+        <div class="navbar-brands-container" style="position: static;">
+            <nav class="nav-bar">
+                <div class="nav-container">
+                    <div class="left brands">
+                        <div class="hamburger-click-area">
+                            <div class="hamburger-menu ">
+                                <a class="hamburger-title">Menu</a>
+                            </div>
+                        </div>
+                        <a href="//www.fastcompany.com" data-event-category="User Action" data-event-action="Link Clicked: Nav Logo" data-event-label="Navbar Homepage Click">
+                            <div class="brand-logo-img fc-logo-background  hidden-logo"></div>
+                        </a>
+
+                        <div class="ads-logo-nav show-for-small">
+                            <div class="nav-single-topic">
+                                <a href="//news.fastcompany.com" data-event-category="User Action" data-event-action="Link Clicked: Nav Mobile Logo" data-event-label="Navbar Homepage Click">
+                                    <div class="news-topic-img topic-img"></div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nav-search show-for-small">
+                        <form class="nav-search-form" method="GET" action="/search">
+                            <span class="search-icon " href="/search"></span>
+                            <input class="nav-search-input js-search-input" type="text" placeholder="SEARCH" name="q" autocomplete="off" value="">
+                            <i class="search-input-clear js-search-input-clear"></i>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="nav-topics hide-for-small">
+                    <ul class="nav-topic-list">
+                        <li class="nav-topic-item">
+                            <a class="nav-topic-link" href="//www.fastcompany.com/technology" data-event-category="Navbar Interaction" data-event-action="Link Clicked: Topic" data-event-label="Topic:">Technology</a>
+                        </li>
+                        <li class="nav-topic-item">
+                            <a class="nav-topic-link" href="//www.fastcompany.com/leadership" data-event-category="Navbar Interaction" data-event-action="Link Clicked: Topic" data-event-label="Topic:">Leadership</a>
+                        </li>
+                        <li class="nav-topic-item">
+                            <a class="nav-topic-link" href="//www.fastcompany.com/entertainment" data-event-category="Navbar Interaction" data-event-action="Link Clicked: Topic" data-event-label="Topic:">Entertainment</a>
+                        </li>
+                        <li class="nav-topic-item">
+                            <a class="nav-topic-link" href="//www.fastcompany.com/ideas" data-event-category="Navbar Interaction" data-event-action="Link Clicked: Topic" data-event-label="Topic:">Ideas</a>
+                        </li>
+                        <li class="nav-topic-item">
+                            <a class="nav-topic-link" href="//www.fastcompany.com/videos" data-event-category="Navbar Interaction" data-event-action="Link Clicked: Topic" data-event-label="Topic:">Video</a>
+                        </li>
+                        <li class="nav-topic-item active">
+                            <a class="nav-topic-link" href="//news.fastcompany.com" data-event-category="Navbar Interaction" data-event-action="Link Clicked: Topic" data-event-label="Topic:">News</a>
+                        </li>
+                    </ul>
+                    <div class="nav-single-topic tablet mobile">
+                        <a href="//news.fastcompany.com/" data-event-action="Link Clicked: Nav Topic" data-event-label="Navbar Homepage Topic Click Mobile and Tablet">
+                            <div class="news-topic-img topic-img"></div>
+                        </a>
+                    </div>
+                </div>
+
+                <ul class="nav-right hide-for-small">
+                    <li class="nav-search">
+                        <form class="nav-search-form" method="GET" action="/search">
+                            <span class="search-icon" href="/search"></span>
+                            <input class="nav-search-input js-search-input" type="text" placeholder="SEARCH" name="q" autocomplete="off" value="">
+                            <i class="search-input-clear js-search-input-clear"></i>
+                        </form>
+                    </li>
+                    <a class="nav-subscribe js-nav-subscribe" href="//store.fastcompany.com/sp/fast-company-subscription/">Subscribe</a>
+                </ul>
+
+            </nav>
+        </div>
+    </div>
+
+    <div class="hamburger-menu-body">
+        <div class="brands">
+            <div class="hamburger-click-area">
+                <div class="hamburger-menu">
+                    <a class=""></a>
+                </div>
+            </div>
+
+            <div class="letter-logo">
+                <a href="//www.fastcompany.com/"><img class="letter-logo-img"
+                                                      src="//a.fastcompany.net/asset_files/-/2016/07/11/fastcompany-logo.svg"/></a>
+            </div>
+        </div>
+        <div class="co-brands">
+            <section class="cosites">
+                <a href="//www.fastcodesign.com" title="Fastco Design" class="column codesign"></a>
+                <a href="//www.fastcoexist.com" title="Fastco Exist" class="column coexist"></a>
+            </section>
+            <section class="cosites">
+                <a href="//www.fastcocreate.com" title="Fastco Create" class="column cocreate"></a>
+                <a href="//www.fastcompany.com/videos" title="Fastco Studios" class="column costudios"></a>
+            </section>
+        </div>
+        <section class="expandable" data-name="featured-series">
+            Collections
+            <div class="caret"></div>
+        </section>
+        <ul class="expansion" data-name="featured-series">
+            <li>
+                <a href="//www.fastcompany.com/most-innovative-companies" title="The Most Innovative Companies">
+                    <h3>The Most Innovative Companies</h3>
+                    <p>The top 50 companies in entertainment, media, sports, technology, and more.</p>
+                </a>
+            </li>
+
+            <li>
+                <a href="//www.fastcompany.com/most-creative-people" title="Most Creative People">
+                    <h3>Most Creative People</h3>
+                    <p>Meet this year's inspiring leaders.</p>
+                </a>
+            </li>
+
+            <li>
+                <a href="//www.fastcodesign.com/innovation-by-design" title="Innovation By Design">
+                    <h3>Innovation By Design</h3>
+                    <p>A showcase for ingenious design solutions.</p>
+                </a>
+            </li>
+
+            <li>
+                <a href="//www.fastcoexist.com/section/world-changing-ideas" title="World Changing Ideas">
+                    <h3>World Changing Ideas</h3>
+                    <p>New workplaces, new food sources, new medicine—even an entirely new economic system.</p>
+                </a>
+            </li>
+
+            <li>
+                <a href="//www.fastcompany.com/section/out-of-office-with?icid=np205hamburger">
+                    <h3>Out of Office With</h3>
+                    <p>Industry leaders offer a glimpse of their lives outside of the office--and how these experiences have
+                        helped to get them where they are today.</p>
+                </a>
+            </li>
+
+            <li>
+                <a href="//www.fastcompany.com/section/creative-conversations?icid=np205hamburger">
+                    <h3>Creative Conversations</h3>
+                    <p>Creative dialogue can reinvent your business, your brand, and your career. Join Fast Company on a
+                        multi-platform exploration of the art of conversation.</p>
+                </a>
+            </li>
+
+            <li>
+                <a href="//www.fastcompany.com/section/mind-and-machine?icid=np205hamburger">
+                    <h3>Mind and Machine</h3>
+                    <p>Computers are getting smart--very smart. Fast Company explains the complex and increasingly
+                        influential world of artificial intelligence and machine learning.</p>
+                </a>
+            </li>
+
+            <li>
+                <a href="//www.fastcocreate.com/section/master-class" title="Master Class">
+                    <h3>Master Class</h3>
+                    <p>How the top talent from creative fields get work done.</p>
+                </a>
+            </li>
+
+            <li>
+                <a href="//www.fastcompany.com/section/startup-report" title="Startup Report">
+                    <h3>Startup Report</h3>
+                    <p>The up-and-coming companies that are disrupting industries.</p>
+                </a>
+            </li>
+
+            <li>
+                <a href="//www.fastcompany.com/section/innovation-agents" title="Startup Report">
+                    <h3>Innovation Agents</h3>
+                    <p>Profiles of the high-level business leaders behind progressive, creative, and innovative organizations</p>
+                </a>
+            </li>
+
+            <li>
+                <a href="//www.fastcompany.com/section/tech-forecast" title="Startup Report">
+                    <h3>Tech Forecast</h3>
+                    <p>A roundup of breaking tech news, products, and services featuring the most important takeaways.</p>
+                </a>
+            </li>
+        </ul>
+
+
+        <section class="not-expandable" data-name="events">
+            <a href="//www.fastcompany.com/magazine">
+                Current Issue
+                <div class="caret"></div>
+            </a>
+        </section>
+
+        <section class="magazine-subscribe">
+            <a href="//www.fastcompany.com/magazine/" title="This Month's Print Issue"><img
+                    src="https://www.fastcompany.com/magazine/latest-cover.jpg"
+                    alt="This Month's Print Issue" width="200"></a>
+            <a class="subscribe-button" href="https://magazine.fastcompany.com/loc/FST/topnav">Subscribe</a>
+        </section>
+        <div class="hamburger-social-icons">
+            <h3>Follow Fast Company</h3>
+            <p>We’ll come to you.</p>
+            <ul class="hamburger-social-icons-list">
+                <li><a href="//www.facebook.com/fastcompany" title="Fastcompany Facebook" class="icon-facebook"
+                       target="_blank"></a></li>
+                <li><a href="//www.twitter.com/fastcompany" title="Fastcompany Twitter" class="icon-twitter"
+                       target="_blank"></a></li>
+                <li><a href="https://plus.google.com/+FastCompany/about" class="icon-google" title="Fastcompany Google+"
+                       target="_blank"></a></li>
+                <li><a href="https://www.linkedin.com/company/fast-company" class="icon-linkedin"
+                       title="Fastcompany LinkedIn" target="_blank"></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="grid-row">
+        <div class="shade-bar">
+
+            <div class="new-news new-news-adjustment">
+                <div class="notifier-icon"></div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="main  ">
+
+
+<div class="grid grid-placement">
+
+
+            <div class="grid-row first-layout-adjustment">
+                <div class="grid-item first-item first-item-adjustment" data-nid="4040556" data-url="/a-second-federal-appeals-court-has-ruled-against-trumps-travel-ban-4040556" data-title="A second federal appeals court has ruled against Trump’s travel ban" data-post-index="0">
+                <div class="first-content first-content-adjustment">
+
+                    <div class="post-eyebrow post-eyebrow-spacing">
+
+                        <span>06.12.17</span> | <span>43 minutes ago</span>
+
+
+                    </div>
+
+                        <h1 class="first-title first-title-adjustment">A second federal appeals court has ruled against Trump’s travel ban</h1>
+                    <div class="grid-row">
+                        <div class="title-divider"></div>
+                    </div>
+                    <div class="first-post-content first-post-content-adjustment">
+                        <div class="grid-row">
+                            <p>The revised travel ban that President Trump ordered earlier this year, after his first one was blocked, has been ruled unconstitutional once again. It banned people from a list of countries&#x2014;all predominantly Muslim&#x2014;from entering the country for 90 days, with some exceptions. <b>The&#xA0;United States Court of Appeals for the Ninth Circuit, which resides in San Francisco, ruled that the executive order unconstitutionally focused on Muslim people traveling.&#xA0;</b></p>
+<p>The ruling affirmed a decision made last March by a federal judge in Hawaii, <a href="https://www.nytimes.com/2017/06/12/us/politics/trump-travel-ban-court-of-appeals.html">reports the <i>New York Times</i>.</a>&#xA0;Will it stop Trump from trying to continue his proposed ban? I mean, probably not.&#xA0; <a class="post-author author-initials author-initials-adjustment" data-event-category="User Action" data-event-action="Link Clicked: Author Byline" data-event-label="Author: Cale-Guthrie Weissman" href="https://www.fastcompany.com/user/cale-guthrie-weissman" target="_blank">CGW</a></p>
+
+                        </div>
+                    </div>
+                    <div class="grid-row">
+                        <div class="all-tags-container all-tags-container-adjustment">
+                            <ul class="all-tag-list all-tag-list-adjustment">
+                                <li class="tag">
+
+                                </li>
+                            </ul>
+                        </div>                        <!--If this is rendered on a sticky post, the share data must be from the tag page itself-->
+
+                            <!--Normal tag share-->
+                            <div class="all-share-container">
+                                    <ul class="all-social">
+                                        <li class="share-icon facebook">
+                                            <a class="share-link-facebook" href="http://www.facebook.com/sharer.php?u=https://news.fastcompany.com/a-second-federal-appeals-court-has-ruled-against-trumps-travel-ban-4040556&amp;app_id=178479832213933&amp;display=popup" data-event-category="Social" data-event-action="Share:Facebook" data-event-label="A second federal appeals court has ruled against Trump’s travel ban">
+                                                <span class="icon-facebook icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon twitter">
+                                            <a class="share-link-twitter" href="http://twitter.com/share?url=%2F&amp;text=A second federal appeals court has ruled against Trump’s travel ban https://news.fastcompany.com/a-second-federal-appeals-court-has-ruled-against-trumps-travel-ban-4040556" data-event-category="Social" data-event-action="Share:Twitter" data-event-label="A second federal appeals court has ruled against Trump’s travel ban">
+                                                <span class="icon-twitter icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon linkedin">
+                                            <a class="share-link-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://news.fastcompany.com/a-second-federal-appeals-court-has-ruled-against-trumps-travel-ban-4040556" data-event-category="Social" data-event-action="Share:Linkedin" data-event-label="A second federal appeals court has ruled against Trump’s travel ban">
+                                            <span class="icon-linkedin icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon email">
+                                            <a class="share-link-email" href="mailto:?body=A second federal appeals court has ruled against Trump’s travel ban https://news.fastcompany.com/a-second-federal-appeals-court-has-ruled-against-trumps-travel-ban-4040556&amp;subject=A second federal appeals court has ruled against Trump’s travel ban" data-event-category="Social" data-event-action="Share:Email" data-event-label="A second federal appeals court has ruled against Trump’s travel ban">
+                                                <span class="icon-share-email icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon whatsapp">
+                                            <a class="share-link-whatsapp" href="whatsapp://send?text=A%20second%20federal%20appeals%20court%20has%20ruled%20against%20Trump%E2%80%99s%20travel%20ban%0A%0Ahttps://news.fastcompany.com/a-second-federal-appeals-court-has-ruled-against-trumps-travel-ban-4040556" data-action="share/whatsapp/share" data-event-category="Social" data-event-action="Share:Whatsapp" data-event-label="A second federal appeals court has ruled against Trump’s travel ban">
+                                            <span class="icon-whatsapp icon-share"></span>
+                                            </a>
+                                        </li>
+
+
+                                </ul>
+
+                            </div>
+                    </div>
+
+                    </div>
+                </div>
+
+
+                    <div class="rectangle-ad-container first-item-ads">
+                        <div class="ad-wrapper ad-wrapper-large-rectangle">
+                            <div class="ad-unit large-ad ad-rectangle" data-advertising="fixedrectangle">
+                                <div class="dart-ad"></div>
+                            </div>
+                        </div>
+
+                        <div class="ad-wrapper ad-wrapper-medium rectangle-mobile">
+                            <div class="ad-unit medium-ad ad-rectangle" data-advertising="fixedrectangle">
+                                <div class="dart-ad"></div>
+                            </div>
+                        </div>
+
+                        <div class="ad-wrapper ad-wrapper-small">
+                            <div class="ad-unit small-ad ad-rectangle" data-advertising="fixedrectangle">
+                                <div class="dart-ad"></div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+
+            <div class="grid-row first-layout-adjustment">
+                <div class="grid-item first-item first-item-adjustment" data-nid="4040552" data-url="/can-the-ipad-pro-replace-a-laptop-wrong-question-4040552" data-title="“Can the iPad Pro replace a laptop?” Wrong question!" data-post-index="1">
+                <div class="first-content first-content-adjustment">
+
+                    <div class="post-eyebrow post-eyebrow-spacing">
+
+                        <span>06.12.17</span> | <span>an hour ago</span>
+
+
+                    </div>
+
+                        <a class="article-link" href ="/can-the-ipad-pro-replace-a-laptop-wrong-question-4040552"data-event-category="User Action" data-event-action="Link Clicked: Title" data-event-label="“Can the iPad Pro replace a laptop?” Wrong question!">
+                            <h2 class="first-title first-title-adjustment">“Can the iPad Pro replace a laptop?” Wrong question!</h2>
+                        </a>
+                    <div class="grid-row">
+                        <div class="title-divider"></div>
+                    </div>
+                    <div class="first-post-content first-post-content-adjustment">
+                        <div class="grid-row">
+                            <p>I spent a good chunk of the past few days <a href="https://www.fastcompany.com/40429655/10-5-inch-ipad-pro-review-a-better-window-into-the-world-of-apps">reviewing Apple&apos;s new 10.5-inch iPad Pro</a>. And really, I tried to judge whether it was a great iPad&#x2013;which it is, although it should be better still with the upcoming iOS 11&#x2013;rather than being fixated on whether it&apos;s something a typical person would buy to replace a laptop.</p>
+<p>If you take the latter approach, as people often do when reviewing iPads, you&apos;re likely to conclude that the iPad Pro should have a mouse. And that the lack of laptop staples like full-blown Microsoft Office is a problem. And that the fact that Apple&apos;s Smart Keyboard doesn&apos;t feel much like a classic notebook keyboard might be a deal-breaker.</p>
+<p>Listen, <b>if the iPad Pro had all the things a laptop has, it would <i>be a laptop</i></b>. And the world would be a little more boring for it. &#xA0;</p>
+<p><img class="post-image" data-original="https://assets.fastcompany.com/image/upload/v1497286572/fastconews/bke1cqmul2vqwka3yy2k.jpg"> <a class="post-author author-initials author-initials-adjustment" data-event-category="User Action" data-event-action="Link Clicked: Author Byline" data-event-label="Author: Harry McCracken" href="https://www.fastcompany.com/user/harry-mccracken" target="_blank">HM</a></p>
+
+                        </div>
+                    </div>
+                    <div class="grid-row">
+                        <div class="all-tags-container all-tags-container-adjustment">
+                            <ul class="all-tag-list all-tag-list-adjustment">
+                                <li class="tag">
+                                    <a class="news-tags" data-event-category="User Action" data-event-action="Link Clicked: Tagged Page" data-event-label="Link: Apple"  href = "/tag/apple"> Apple</a>
+                                </li>
+                            </ul>
+                        </div>                        <!--If this is rendered on a sticky post, the share data must be from the tag page itself-->
+
+                            <!--Normal tag share-->
+                            <div class="all-share-container">
+                                    <ul class="all-social">
+                                        <li class="share-icon facebook">
+                                            <a class="share-link-facebook" href="http://www.facebook.com/sharer.php?u=https://news.fastcompany.com/can-the-ipad-pro-replace-a-laptop-wrong-question-4040552&amp;app_id=178479832213933&amp;display=popup" data-event-category="Social" data-event-action="Share:Facebook" data-event-label="“Can the iPad Pro replace a laptop?” Wrong question!">
+                                                <span class="icon-facebook icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon twitter">
+                                            <a class="share-link-twitter" href="http://twitter.com/share?url=%2F&amp;text=“Can the iPad Pro replace a laptop?” Wrong question! https://news.fastcompany.com/can-the-ipad-pro-replace-a-laptop-wrong-question-4040552" data-event-category="Social" data-event-action="Share:Twitter" data-event-label="“Can the iPad Pro replace a laptop?” Wrong question!">
+                                                <span class="icon-twitter icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon linkedin">
+                                            <a class="share-link-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://news.fastcompany.com/can-the-ipad-pro-replace-a-laptop-wrong-question-4040552" data-event-category="Social" data-event-action="Share:Linkedin" data-event-label="“Can the iPad Pro replace a laptop?” Wrong question!">
+                                            <span class="icon-linkedin icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon email">
+                                            <a class="share-link-email" href="mailto:?body=“Can the iPad Pro replace a laptop?” Wrong question! https://news.fastcompany.com/can-the-ipad-pro-replace-a-laptop-wrong-question-4040552&amp;subject=“Can the iPad Pro replace a laptop?” Wrong question!" data-event-category="Social" data-event-action="Share:Email" data-event-label="“Can the iPad Pro replace a laptop?” Wrong question!">
+                                                <span class="icon-share-email icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon whatsapp">
+                                            <a class="share-link-whatsapp" href="whatsapp://send?text=%E2%80%9CCan%20the%20iPad%20Pro%20replace%20a%20laptop%3F%E2%80%9D%20Wrong%20question!%0A%0Ahttps://news.fastcompany.com/can-the-ipad-pro-replace-a-laptop-wrong-question-4040552" data-action="share/whatsapp/share" data-event-category="Social" data-event-action="Share:Whatsapp" data-event-label="“Can the iPad Pro replace a laptop?” Wrong question!">
+                                            <span class="icon-whatsapp icon-share"></span>
+                                            </a>
+                                        </li>
+
+
+                                </ul>
+
+                            </div>
+                    </div>
+
+                    </div>
+                </div>
+
+                    <div class="row">
+                        <div class="newsletter-container">
+                            <div class="newsletter-box">
+                                <div class="grid-row">
+                                    <h3 class="newsletter-cta-prompt">Seize the day!</h3>
+                                    <div class="-spacing">
+                                        <div class="newsletter-prompt -spacing">Get the FastCoNews daily newsletter and never miss out on the most important, compelling and thought-provoking news in the worlds of business, tech, and innovation.</div>
+                                    </div>
+
+                                    <div class="newsletter-signup-form">
+                                        <div class="newsletter-signup-message -spacing">
+                                            <span class="newsletter-signup__copy -spacing"></span>
+                                        </div>
+                                        <div id="mc_embed_signup">
+                                        <form class="js-newsletter-form validate" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                                            <div id="mc_embed_signup_scroll" class="input-fields">
+                                            <input class="email-signup" id="mce-EMAIL" name="email" type="email" placeholder="YOUR@EMAIL.COM" required/>
+                                            <button class="button newsletter-signup__submit" type="submit">Send</button>
+                                            </div>
+                                            <input class="js-mailchimp-groupname" type="hidden" name="Subscriptions:[9717644694]" value="true">
+                                        </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+            </div>
+
+            <div class="grid-row first-layout-adjustment">
+                <div class="grid-item first-item first-item-adjustment" data-nid="4040547" data-url="/spotify-is-turning-your-listening-binges-into-millions-for-artists-4040547" data-title="Spotify is turning your listening binges into millions for artists" data-post-index="2">
+                <div class="first-content first-content-adjustment">
+
+                    <div class="post-eyebrow post-eyebrow-spacing">
+
+                        <span>06.12.17</span> | <span>an hour ago</span>
+
+
+                    </div>
+
+                        <a class="article-link" href ="/spotify-is-turning-your-listening-binges-into-millions-for-artists-4040547"data-event-category="User Action" data-event-action="Link Clicked: Title" data-event-label="Spotify is turning your listening binges into millions for artists">
+                            <h2 class="first-title first-title-adjustment">Spotify is turning your listening binges into millions for artists</h2>
+                        </a>
+                    <div class="grid-row">
+                        <div class="title-divider"></div>
+                    </div>
+                    <div class="first-post-content first-post-content-adjustment">
+                        <div class="grid-row">
+                            <p>The next time you binge on a guilty pleasure on <a href="https://www.fastcompany.com/company/spotify">Spotify</a>, maybe you shouldn&apos;t feel so bad after all: Your streams could be helping artists in a new way. Fans First is a beta program at Spotify that targets super fans with concert ticket pre-sales, limited edition merchandise, and other exclusive perks. Not surprisingly, homing in on the music fans most likely to click a &quot;buy&quot; button is an effective strategy.&#xA0;</p>
+<p><b>&quot;We&apos;re generating tens of millions of dollars in gross revenue for these artists,&quot; says Shane Tobin, who runs Spotify&apos;s creator insights and activations.</b> A remarkable 40% of recipients are opening these Fans First emails on average, according to Tobin.&#xA0;</p>
+<p>So far, the pre-sales alone are generating an average of $40,000 per campaign. And many of the merch items&#x2013;like a green vinyl EP by The Strokes&#x2013;sell out quickly. Other artists who have tried the program include Vince Staples, Red Hot Chili Peppers, and Run The Jewels. And the list is growing.&#xA0;</p>
+<p>You can <a href="https://www.fastcompany.com/3068915/spotify-artists-streaming-playlists-data">learn more about Fans First&#x2014;and the other ways that Spotify is turning data into new revenue streams and promotional opportunities for anxious artists&#x2014;in our deep dive here</a>.&#xA0; <a class="post-author author-initials author-initials-adjustment" data-event-category="User Action" data-event-action="Link Clicked: Author Byline" data-event-label="Author: John Paul Titlow" href="https://www.fastcompany.com/user/john-paul-titlow" target="_blank">JPT</a></p>
+
+                        </div>
+                    </div>
+                    <div class="grid-row">
+                        <div class="all-tags-container all-tags-container-adjustment">
+                            <ul class="all-tag-list all-tag-list-adjustment">
+                                <li class="tag">
+                                    <a class="news-tags" data-event-category="User Action" data-event-action="Link Clicked: Tagged Page" data-event-label="Link: spotify"  href = "/tag/spotify"> spotify</a>
+                                </li>
+                            </ul>
+                        </div>                        <!--If this is rendered on a sticky post, the share data must be from the tag page itself-->
+
+                            <!--Normal tag share-->
+                            <div class="all-share-container">
+                                    <ul class="all-social">
+                                        <li class="share-icon facebook">
+                                            <a class="share-link-facebook" href="http://www.facebook.com/sharer.php?u=https://news.fastcompany.com/spotify-is-turning-your-listening-binges-into-millions-for-artists-4040547&amp;app_id=178479832213933&amp;display=popup" data-event-category="Social" data-event-action="Share:Facebook" data-event-label="Spotify is turning your listening binges into millions for artists">
+                                                <span class="icon-facebook icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon twitter">
+                                            <a class="share-link-twitter" href="http://twitter.com/share?url=%2F&amp;text=Spotify is turning your listening binges into millions for artists https://news.fastcompany.com/spotify-is-turning-your-listening-binges-into-millions-for-artists-4040547" data-event-category="Social" data-event-action="Share:Twitter" data-event-label="Spotify is turning your listening binges into millions for artists">
+                                                <span class="icon-twitter icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon linkedin">
+                                            <a class="share-link-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://news.fastcompany.com/spotify-is-turning-your-listening-binges-into-millions-for-artists-4040547" data-event-category="Social" data-event-action="Share:Linkedin" data-event-label="Spotify is turning your listening binges into millions for artists">
+                                            <span class="icon-linkedin icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon email">
+                                            <a class="share-link-email" href="mailto:?body=Spotify is turning your listening binges into millions for artists https://news.fastcompany.com/spotify-is-turning-your-listening-binges-into-millions-for-artists-4040547&amp;subject=Spotify is turning your listening binges into millions for artists" data-event-category="Social" data-event-action="Share:Email" data-event-label="Spotify is turning your listening binges into millions for artists">
+                                                <span class="icon-share-email icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon whatsapp">
+                                            <a class="share-link-whatsapp" href="whatsapp://send?text=Spotify%20is%20turning%20your%20listening%20binges%20into%20millions%20for%20artists%0A%0Ahttps://news.fastcompany.com/spotify-is-turning-your-listening-binges-into-millions-for-artists-4040547" data-action="share/whatsapp/share" data-event-category="Social" data-event-action="Share:Whatsapp" data-event-label="Spotify is turning your listening binges into millions for artists">
+                                            <span class="icon-whatsapp icon-share"></span>
+                                            </a>
+                                        </li>
+
+
+                                </ul>
+
+                            </div>
+                    </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="grid-row first-layout-adjustment">
+                <div class="grid-item first-item first-item-adjustment" data-nid="4040543" data-url="/emil-michael-is-out-at-uber-4040543" data-title="Emil Michael is out at Uber" data-post-index="3">
+                <div class="first-content first-content-adjustment">
+
+                    <div class="post-eyebrow post-eyebrow-spacing">
+
+                        <span>06.12.17</span> | <span>2 hours ago</span>
+
+
+                    </div>
+
+                        <a class="article-link" href ="/emil-michael-is-out-at-uber-4040543"data-event-category="User Action" data-event-action="Link Clicked: Title" data-event-label="Emil Michael is out at Uber">
+                            <h2 class="first-title first-title-adjustment">Emil Michael is out at Uber</h2>
+                        </a>
+                    <div class="grid-row">
+                        <div class="title-divider"></div>
+                    </div>
+                    <div class="first-post-content first-post-content-adjustment">
+                        <div class="grid-row">
+                            <p><a href="https://www.fastcompany.com/company/uber">Uber</a>&apos;s&#xA0;senior vice president of business, <a href="https://www.fastcompany.com/person/emil-michael">Emil Michael</a>, is no longer at the company, according to the<i>&#xA0;New York Times</i>. David Richter, SVP of strategic planning initiatives, will succeed him.&#xA0;The news comes after the company&apos;s board reviewed an investigation conducted by law firm Covington &amp; Burling into Uber&apos;s culture. <b>The report allegedly recommended that Michael depart</b>. Earlier today <a href="https://news.fastcompany.com/top-uber-exec-emil-michael-is-negotiating-his-exit-source-says-4040519">we reported that Michael was negotiating his exit</a> from Uber.&#xA0;<b>The exec was involved in three headline-making incidents at Uber that drew criticism</b>. The findings from the&#xA0;Covington &amp; Burling&#xA0;investigation are expected to be released to employees tomorrow.&#xA0; <a class="post-author author-initials author-initials-adjustment" data-event-category="User Action" data-event-action="Link Clicked: Author Byline" data-event-label="Author: Ruth Reader" href="https://www.fastcompany.com/user/ruth-reader" target="_blank">RR</a></p>
+
+                        </div>
+                    </div>
+                    <div class="grid-row">
+                        <div class="all-tags-container all-tags-container-adjustment">
+                            <ul class="all-tag-list all-tag-list-adjustment">
+                                <li class="tag">
+                                    <a class="news-tags" data-event-category="User Action" data-event-action="Link Clicked: Tagged Page" data-event-label="Link: Uber in Crisis"  href = "/tag/uber-in-crisis"> Uber in Crisis</a>
+                                </li>
+                            </ul>
+                        </div>                        <!--If this is rendered on a sticky post, the share data must be from the tag page itself-->
+
+                            <!--Normal tag share-->
+                            <div class="all-share-container">
+                                    <ul class="all-social">
+                                        <li class="share-icon facebook">
+                                            <a class="share-link-facebook" href="http://www.facebook.com/sharer.php?u=https://news.fastcompany.com/emil-michael-is-out-at-uber-4040543&amp;app_id=178479832213933&amp;display=popup" data-event-category="Social" data-event-action="Share:Facebook" data-event-label="Emil Michael is out at Uber">
+                                                <span class="icon-facebook icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon twitter">
+                                            <a class="share-link-twitter" href="http://twitter.com/share?url=%2F&amp;text=Emil Michael is out at Uber https://news.fastcompany.com/emil-michael-is-out-at-uber-4040543" data-event-category="Social" data-event-action="Share:Twitter" data-event-label="Emil Michael is out at Uber">
+                                                <span class="icon-twitter icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon linkedin">
+                                            <a class="share-link-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://news.fastcompany.com/emil-michael-is-out-at-uber-4040543" data-event-category="Social" data-event-action="Share:Linkedin" data-event-label="Emil Michael is out at Uber">
+                                            <span class="icon-linkedin icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon email">
+                                            <a class="share-link-email" href="mailto:?body=Emil Michael is out at Uber https://news.fastcompany.com/emil-michael-is-out-at-uber-4040543&amp;subject=Emil Michael is out at Uber" data-event-category="Social" data-event-action="Share:Email" data-event-label="Emil Michael is out at Uber">
+                                                <span class="icon-share-email icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon whatsapp">
+                                            <a class="share-link-whatsapp" href="whatsapp://send?text=Emil%20Michael%20is%20out%20at%20Uber%0A%0Ahttps://news.fastcompany.com/emil-michael-is-out-at-uber-4040543" data-action="share/whatsapp/share" data-event-category="Social" data-event-action="Share:Whatsapp" data-event-label="Emil Michael is out at Uber">
+                                            <span class="icon-whatsapp icon-share"></span>
+                                            </a>
+                                        </li>
+
+
+                                </ul>
+
+                            </div>
+                    </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="grid-row first-layout-adjustment">
+                <div class="grid-item first-item first-item-adjustment" data-nid="4040534" data-url="/lyft-just-cut-a-deal-with-jaguar-land-rover-to-test-self-driving-cars-4040534" data-title="Lyft just cut a deal with Jaguar Land Rover to test self-driving cars" data-post-index="4">
+                <div class="first-content first-content-adjustment">
+
+                    <div class="post-eyebrow post-eyebrow-spacing">
+
+                        <span>06.12.17</span> | <span>3 hours ago</span>
+
+
+                    </div>
+
+                        <a class="article-link" href ="/lyft-just-cut-a-deal-with-jaguar-land-rover-to-test-self-driving-cars-4040534"data-event-category="User Action" data-event-action="Link Clicked: Title" data-event-label="Lyft just cut a deal with Jaguar Land Rover to test self-driving cars">
+                            <h2 class="first-title first-title-adjustment">Lyft just cut a deal with Jaguar Land Rover to test self-driving cars</h2>
+                        </a>
+                    <div class="grid-row">
+                        <div class="title-divider"></div>
+                    </div>
+                    <div class="first-post-content first-post-content-adjustment">
+                        <div class="grid-row">
+                            <p>This morning Lyft announced a $25 million deal with Jaguar Land Rover to test its mobility services on Lyft&apos;s platform for on-demand cars. The financing was included in the<a href="https://news.fastcompany.com/lyft-raises-600m-as-it-pushes-to-catch-up-to-uber-4034542"> $600 million</a> round Lyft announced in April. <b>Jaguar Land Rover will supply the ride-hailing player with a fleet of cars</b>. Lyft has inked deals with several companies to test self-driving tech, including <a href="https://news.fastcompany.com/lyft-has-yet-another-partner-in-the-self-driving-car-race-4039974">Waymo and nuTonomy</a>. Lyft&apos;s progress in this space come as competitor Uber is <a href="https://news.fastcompany.com/tag/uber-in-crisis">under intense scrutiny</a>. In the last week, Uber has seen a flood of departures after the culmination of two reports into its corporate culture. It is also still mired in a legal battle with Waymo over intellectual property.&#xA0; <a class="post-author author-initials author-initials-adjustment" data-event-category="User Action" data-event-action="Link Clicked: Author Byline" data-event-label="Author: Ruth Reader" href="https://www.fastcompany.com/user/ruth-reader" target="_blank">RR</a></p>
+
+                        </div>
+                    </div>
+                    <div class="grid-row">
+                        <div class="all-tags-container all-tags-container-adjustment">
+                            <ul class="all-tag-list all-tag-list-adjustment">
+                                <li class="tag">
+                                    <a class="news-tags" data-event-category="User Action" data-event-action="Link Clicked: Tagged Page" data-event-label="Link: Uber Lyft"  href = "/tag/uber-lyft"> Uber Lyft</a>
+                                </li>
+                            </ul>
+                        </div>                        <!--If this is rendered on a sticky post, the share data must be from the tag page itself-->
+
+                            <!--Normal tag share-->
+                            <div class="all-share-container">
+                                    <ul class="all-social">
+                                        <li class="share-icon facebook">
+                                            <a class="share-link-facebook" href="http://www.facebook.com/sharer.php?u=https://news.fastcompany.com/lyft-just-cut-a-deal-with-jaguar-land-rover-to-test-self-driving-cars-4040534&amp;app_id=178479832213933&amp;display=popup" data-event-category="Social" data-event-action="Share:Facebook" data-event-label="Lyft just cut a deal with Jaguar Land Rover to test self-driving cars">
+                                                <span class="icon-facebook icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon twitter">
+                                            <a class="share-link-twitter" href="http://twitter.com/share?url=%2F&amp;text=Lyft just cut a deal with Jaguar Land Rover to test self-driving cars https://news.fastcompany.com/lyft-just-cut-a-deal-with-jaguar-land-rover-to-test-self-driving-cars-4040534" data-event-category="Social" data-event-action="Share:Twitter" data-event-label="Lyft just cut a deal with Jaguar Land Rover to test self-driving cars">
+                                                <span class="icon-twitter icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon linkedin">
+                                            <a class="share-link-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://news.fastcompany.com/lyft-just-cut-a-deal-with-jaguar-land-rover-to-test-self-driving-cars-4040534" data-event-category="Social" data-event-action="Share:Linkedin" data-event-label="Lyft just cut a deal with Jaguar Land Rover to test self-driving cars">
+                                            <span class="icon-linkedin icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon email">
+                                            <a class="share-link-email" href="mailto:?body=Lyft just cut a deal with Jaguar Land Rover to test self-driving cars https://news.fastcompany.com/lyft-just-cut-a-deal-with-jaguar-land-rover-to-test-self-driving-cars-4040534&amp;subject=Lyft just cut a deal with Jaguar Land Rover to test self-driving cars" data-event-category="Social" data-event-action="Share:Email" data-event-label="Lyft just cut a deal with Jaguar Land Rover to test self-driving cars">
+                                                <span class="icon-share-email icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon whatsapp">
+                                            <a class="share-link-whatsapp" href="whatsapp://send?text=Lyft%20just%20cut%20a%20deal%20with%20Jaguar%20Land%20Rover%20to%20test%20self-driving%20cars%0A%0Ahttps://news.fastcompany.com/lyft-just-cut-a-deal-with-jaguar-land-rover-to-test-self-driving-cars-4040534" data-action="share/whatsapp/share" data-event-category="Social" data-event-action="Share:Whatsapp" data-event-label="Lyft just cut a deal with Jaguar Land Rover to test self-driving cars">
+                                            <span class="icon-whatsapp icon-share"></span>
+                                            </a>
+                                        </li>
+
+
+                                </ul>
+
+                            </div>
+                    </div>
+
+                    </div>
+                </div>
+
+
+                    <div class="rectangle-ad-container ">
+                        <div class="ad-wrapper ad-wrapper-large-rectangle">
+                            <div class="ad-unit large-ad ad-rectangle" data-advertising="fixedrectangle">
+                                <div class="dart-ad"></div>
+                            </div>
+                        </div>
+
+                        <div class="ad-wrapper ad-wrapper-medium rectangle-mobile">
+                            <div class="ad-unit medium-ad ad-rectangle" data-advertising="fixedrectangle">
+                                <div class="dart-ad"></div>
+                            </div>
+                        </div>
+
+                        <div class="ad-wrapper ad-wrapper-small">
+                            <div class="ad-unit small-ad ad-rectangle" data-advertising="fixedrectangle">
+                                <div class="dart-ad"></div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+
+            <div class="grid-row first-layout-adjustment">
+                <div class="grid-item first-item first-item-adjustment" data-nid="4040519" data-url="/top-uber-exec-emil-michael-is-negotiating-his-exit-source-says-4040519" data-title="Top Uber exec Emil Michael is negotiating his exit, source says" data-post-index="5">
+                <div class="first-content first-content-adjustment">
+
+                    <div class="post-eyebrow post-eyebrow-spacing">
+
+                        <span>06.12.17</span> | <span>3 hours ago</span>
+
+
+                    </div>
+
+                        <a class="article-link" href ="/top-uber-exec-emil-michael-is-negotiating-his-exit-source-says-4040519"data-event-category="User Action" data-event-action="Link Clicked: Title" data-event-label="Top Uber exec Emil Michael is negotiating his exit, source says">
+                            <h2 class="first-title first-title-adjustment">Top Uber exec Emil Michael is negotiating his exit, source says</h2>
+                        </a>
+                    <div class="grid-row">
+                        <div class="title-divider"></div>
+                    </div>
+                    <div class="first-post-content first-post-content-adjustment">
+                        <div class="grid-row">
+                            <p><a href="https://www.fastcompany.com/company/uber">Uber</a> senior vice president <a href="https://www.fastcompany.com/person/emil-michael">Emil Michael</a> is in the hot seat. A report from law firm Covington &amp; Burling on Uber&apos;s company culture is recommending his removal, according to <i><a href="https://www.nytimes.com/2017/06/11/technology/uber-holder-report.html?smprod=nytcore-iphone&amp;smid=nytcore-iphone-share&amp;_r=0">the New York Times</a></i>. Today, a source close to the matter tells <i>Fast Company </i>that Michael is negotiating his exit. Yesterday, the <i><a href="https://www.wsj.com/articles/uber-chief-business-officer-emil-michael-to-resignmonday-1497197701">Wall Street Journal</a></i> reported Michael was planning to resign. Following that story, <a href="https://www.recode.net/2017/6/11/15778324/uber-svp-of-business-emil-michael-resign"><i>Recode</i> posted</a> a clarification, reporting that Michael was only considering a departure under pressure from the board. I reached out to Uber and will update the story if I hear back. Follow the latest on Uber&apos;s crisis <a href="https://news.fastcompany.com/tag/uber-in-crisis">here</a>. <a class="post-author author-initials author-initials-adjustment" data-event-category="User Action" data-event-action="Link Clicked: Author Byline" data-event-label="Author: Ruth Reader" href="https://www.fastcompany.com/user/ruth-reader" target="_blank">RR</a></p>
+
+                        </div>
+                    </div>
+                    <div class="grid-row">
+                        <div class="all-tags-container all-tags-container-adjustment">
+                            <ul class="all-tag-list all-tag-list-adjustment">
+                                <li class="tag">
+                                    <a class="news-tags" data-event-category="User Action" data-event-action="Link Clicked: Tagged Page" data-event-label="Link: Uber in Crisis"  href = "/tag/uber-in-crisis"> Uber in Crisis</a>
+                                </li>
+                            </ul>
+                        </div>                        <!--If this is rendered on a sticky post, the share data must be from the tag page itself-->
+
+                            <!--Normal tag share-->
+                            <div class="all-share-container">
+                                    <ul class="all-social">
+                                        <li class="share-icon facebook">
+                                            <a class="share-link-facebook" href="http://www.facebook.com/sharer.php?u=https://news.fastcompany.com/top-uber-exec-emil-michael-is-negotiating-his-exit-source-says-4040519&amp;app_id=178479832213933&amp;display=popup" data-event-category="Social" data-event-action="Share:Facebook" data-event-label="Top Uber exec Emil Michael is negotiating his exit, source says">
+                                                <span class="icon-facebook icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon twitter">
+                                            <a class="share-link-twitter" href="http://twitter.com/share?url=%2F&amp;text=Top Uber exec Emil Michael is negotiating his exit, source says https://news.fastcompany.com/top-uber-exec-emil-michael-is-negotiating-his-exit-source-says-4040519" data-event-category="Social" data-event-action="Share:Twitter" data-event-label="Top Uber exec Emil Michael is negotiating his exit, source says">
+                                                <span class="icon-twitter icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon linkedin">
+                                            <a class="share-link-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://news.fastcompany.com/top-uber-exec-emil-michael-is-negotiating-his-exit-source-says-4040519" data-event-category="Social" data-event-action="Share:Linkedin" data-event-label="Top Uber exec Emil Michael is negotiating his exit, source says">
+                                            <span class="icon-linkedin icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon email">
+                                            <a class="share-link-email" href="mailto:?body=Top Uber exec Emil Michael is negotiating his exit, source says https://news.fastcompany.com/top-uber-exec-emil-michael-is-negotiating-his-exit-source-says-4040519&amp;subject=Top Uber exec Emil Michael is negotiating his exit, source says" data-event-category="Social" data-event-action="Share:Email" data-event-label="Top Uber exec Emil Michael is negotiating his exit, source says">
+                                                <span class="icon-share-email icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon whatsapp">
+                                            <a class="share-link-whatsapp" href="whatsapp://send?text=Top%20Uber%20exec%20Emil%20Michael%20is%20negotiating%20his%20exit%2C%20source%20says%0A%0Ahttps://news.fastcompany.com/top-uber-exec-emil-michael-is-negotiating-his-exit-source-says-4040519" data-action="share/whatsapp/share" data-event-category="Social" data-event-action="Share:Whatsapp" data-event-label="Top Uber exec Emil Michael is negotiating his exit, source says">
+                                            <span class="icon-whatsapp icon-share"></span>
+                                            </a>
+                                        </li>
+
+
+                                </ul>
+
+                            </div>
+                    </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="grid-row first-layout-adjustment">
+                <div class="grid-item first-item first-item-adjustment" data-nid="4040493" data-url="/the-new-york-times-vows-to-stand-by-theater-despite-trump-julius-caesar-controversy-4040493" data-title="The New York Times vows to stand by theater despite Trump-“Julius Caesar” controversy" data-post-index="6">
+                <div class="first-content first-content-adjustment">
+
+                    <div class="post-eyebrow post-eyebrow-spacing">
+
+                        <span>06.12.17</span> | <span>10:01 am</span>
+
+
+                    </div>
+
+                        <a class="article-link" href ="/the-new-york-times-vows-to-stand-by-theater-despite-trump-julius-caesar-controversy-4040493"data-event-category="User Action" data-event-action="Link Clicked: Title" data-event-label="The New York Times vows to stand by theater despite Trump-“Julius Caesar” controversy">
+                            <h2 class="first-title first-title-adjustment">The New York Times vows to stand by theater despite Trump-“Julius Caesar” controversy</h2>
+                        </a>
+                    <div class="grid-row">
+                        <div class="title-divider"></div>
+                    </div>
+                    <div class="first-post-content first-post-content-adjustment">
+                        <div class="grid-row">
+                            <p>New York&apos;s venerated theater organization, the Public Theater, is facing a PR disaster over its long-running free &quot;Shakespeare in the Park&quot; series. The organization is mounting a production of&#xA0;<i>Julius Caesar</i>, which (spoiler alert!) ends with the Roman politician being assassinated. Many far-right online personas&#x2014;including Donald Trump Jr.&#x2014;consider this to be offensive given that Caesar appears Trump-like in this particular production. (It depicts him with blonde hair and modern attire.)</p>
+<p>A flurry of online trolling and hysteria over the show has resulted in <b>two corporate sponsors&#x2014;Bank of America and Delta&#x2014;<a href="https://www.nytimes.com/2017/06/11/arts/delta-airline-trump-public-theater-julius-caesar.html">cutting ties</a> with the Public Theater</b>.&#xA0;But not everyone is ready to cut and run. Today the <i>New York Times</i>, another corporate sponsor, confirmed to me that it will continue supporting the theater.&#xA0;</p>
+<p>Here&apos;s the <i>Times&apos; </i>statement:</p>
+<blockquote><p>&quot;We have sponsored Shakespeare in the Park for 20 years. As an institution that believes in free speech for the arts as well as the media, we support the right of the Public Theater to stage the production as they chose.&quot;&#xA0;</p>
+</blockquote>
+<p>Hopefully Delta and BofA will read it and learn something. This entire ordeal is sad and annoying because, one, free speech exists so that theater organizations can put on &quot;edgy&quot; shows, and, two, this show is not edgy&#x2014;it&apos;s a <a href="https://www.fastcompany.com/person/william-shakespeare">William Shakespeare</a> play where <i>everyone already knows the ending</i>. <a class="post-author author-initials author-initials-adjustment" data-event-category="User Action" data-event-action="Link Clicked: Author Byline" data-event-label="Author: Cale-Guthrie Weissman" href="https://www.fastcompany.com/user/cale-guthrie-weissman" target="_blank">CGW</a></p>
+
+                        </div>
+                    </div>
+                    <div class="grid-row">
+                        <div class="all-tags-container all-tags-container-adjustment">
+                            <ul class="all-tag-list all-tag-list-adjustment">
+                                <li class="tag">
+                                    <a class="news-tags"  data-event-category="User Action" data-event-action="Link Clicked: Tagged Page" data-event-label="Link: p:william shakespeare" href = "https://www.fastcompany.com/person/william-shakespeare"> william shakespeare</a>
+                                </li>
+                            </ul>
+                        </div>                        <!--If this is rendered on a sticky post, the share data must be from the tag page itself-->
+
+                            <!--Normal tag share-->
+                            <div class="all-share-container">
+                                    <ul class="all-social">
+                                        <li class="share-icon facebook">
+                                            <a class="share-link-facebook" href="http://www.facebook.com/sharer.php?u=https://news.fastcompany.com/the-new-york-times-vows-to-stand-by-theater-despite-trump-julius-caesar-controversy-4040493&amp;app_id=178479832213933&amp;display=popup" data-event-category="Social" data-event-action="Share:Facebook" data-event-label="The New York Times vows to stand by theater despite Trump-“Julius Caesar” controversy">
+                                                <span class="icon-facebook icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon twitter">
+                                            <a class="share-link-twitter" href="http://twitter.com/share?url=%2F&amp;text=The New York Times vows to stand by theater despite Trump-“Julius Caesar” controversy https://news.fastcompany.com/the-new-york-times-vows-to-stand-by-theater-despite-trump-julius-caesar-controversy-4040493" data-event-category="Social" data-event-action="Share:Twitter" data-event-label="The New York Times vows to stand by theater despite Trump-“Julius Caesar” controversy">
+                                                <span class="icon-twitter icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon linkedin">
+                                            <a class="share-link-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://news.fastcompany.com/the-new-york-times-vows-to-stand-by-theater-despite-trump-julius-caesar-controversy-4040493" data-event-category="Social" data-event-action="Share:Linkedin" data-event-label="The New York Times vows to stand by theater despite Trump-“Julius Caesar” controversy">
+                                            <span class="icon-linkedin icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon email">
+                                            <a class="share-link-email" href="mailto:?body=The New York Times vows to stand by theater despite Trump-“Julius Caesar” controversy https://news.fastcompany.com/the-new-york-times-vows-to-stand-by-theater-despite-trump-julius-caesar-controversy-4040493&amp;subject=The New York Times vows to stand by theater despite Trump-“Julius Caesar” controversy" data-event-category="Social" data-event-action="Share:Email" data-event-label="The New York Times vows to stand by theater despite Trump-“Julius Caesar” controversy">
+                                                <span class="icon-share-email icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon whatsapp">
+                                            <a class="share-link-whatsapp" href="whatsapp://send?text=The%20New%20York%20Times%20vows%20to%20stand%20by%20theater%20despite%20Trump-%E2%80%9CJulius%20Caesar%E2%80%9D%20controversy%0A%0Ahttps://news.fastcompany.com/the-new-york-times-vows-to-stand-by-theater-despite-trump-julius-caesar-controversy-4040493" data-action="share/whatsapp/share" data-event-category="Social" data-event-action="Share:Whatsapp" data-event-label="The New York Times vows to stand by theater despite Trump-“Julius Caesar” controversy">
+                                            <span class="icon-whatsapp icon-share"></span>
+                                            </a>
+                                        </li>
+
+
+                                </ul>
+
+                            </div>
+                    </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+             <div class="grid-row">
+                <div class="third-item-ads">
+                    <div class="ad-wrapper ad-wrapper-large">
+                        <div class="ad-unit  large-ad" data-advertising="flexiblepushdown">
+                            <div class="ad-slug"></div>
+                            <div class="dart-ad"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="grid-row first-layout-adjustment">
+                <div class="grid-item first-item first-item-adjustment" data-nid="4040486" data-url="/pakistani-man-gets-first-ever-death-sentence-for-a-facebook-post-4040486" data-title="Pakistani man gets first-ever death sentence for a Facebook post" data-post-index="7">
+                <div class="first-content first-content-adjustment">
+
+                    <div class="post-eyebrow post-eyebrow-spacing">
+
+                        <span>06.12.17</span> | <span>9:44 am</span>
+
+
+                    </div>
+
+                        <a class="article-link" href ="/pakistani-man-gets-first-ever-death-sentence-for-a-facebook-post-4040486"data-event-category="User Action" data-event-action="Link Clicked: Title" data-event-label="Pakistani man gets first-ever death sentence for a Facebook post">
+                            <h2 class="first-title first-title-adjustment">Pakistani man gets first-ever death sentence for a Facebook post</h2>
+                        </a>
+                    <div class="grid-row">
+                        <div class="title-divider"></div>
+                    </div>
+                    <div class="first-post-content first-post-content-adjustment">
+                        <div class="grid-row">
+                            <p>It started with a Facebook argument about Islam. Now 30-year-old&#xA0;Taimoor Raza is facing a death sentence, <b>convicted by a Pakistani counter-terrorism court for allegedly insulting the Prophet Mohammad</b>. It&apos;s thought to be the first time a person has been sentenced to death for a Facebook post. <a href="http://newsweekpakistan.com/man-sentenced-to-death-for-facebook-blasphemy/">According to <i>AFP</i></a>, the&#xA0;person Raza had an argument with turned out to be a&#xA0;counter-terrorism department official who brought charges against&#xA0;Raza for blasphemy&#x2014;a serious offense in Pakistan. Raza say he&apos;s innocent and plans to appeal the decision, <i>AFP</i> reports. Earlier this year, Pakistani officials <a href="https://www.usnews.com/news/world/articles/2017-03-28/pakistan-says-facebook-vows-to-tackle-concerns-over-blasphemous-content">told <i>Reuters</i></a> that Facebook had offered its cooperation to help control blasphemous content on the platform. <a class="post-author author-initials author-initials-adjustment" data-event-category="User Action" data-event-action="Link Clicked: Author Byline" data-event-label="Author: Christopher Zara" href="https://www.fastcompany.com/user/christopher-zara" target="_blank">CZ</a></p>
+
+                        </div>
+                    </div>
+                    <div class="grid-row">
+                        <div class="all-tags-container all-tags-container-adjustment">
+                            <ul class="all-tag-list all-tag-list-adjustment">
+                                <li class="tag">
+                                    <a class="news-tags" data-event-category="User Action" data-event-action="Link Clicked: Tagged Page" data-event-label="Link: Facebook"  href = "/tag/facebook"> Facebook</a>
+                                </li>
+                            </ul>
+                        </div>                        <!--If this is rendered on a sticky post, the share data must be from the tag page itself-->
+
+                            <!--Normal tag share-->
+                            <div class="all-share-container">
+                                    <ul class="all-social">
+                                        <li class="share-icon facebook">
+                                            <a class="share-link-facebook" href="http://www.facebook.com/sharer.php?u=https://news.fastcompany.com/pakistani-man-gets-first-ever-death-sentence-for-a-facebook-post-4040486&amp;app_id=178479832213933&amp;display=popup" data-event-category="Social" data-event-action="Share:Facebook" data-event-label="Pakistani man gets first-ever death sentence for a Facebook post">
+                                                <span class="icon-facebook icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon twitter">
+                                            <a class="share-link-twitter" href="http://twitter.com/share?url=%2F&amp;text=Pakistani man gets first-ever death sentence for a Facebook post https://news.fastcompany.com/pakistani-man-gets-first-ever-death-sentence-for-a-facebook-post-4040486" data-event-category="Social" data-event-action="Share:Twitter" data-event-label="Pakistani man gets first-ever death sentence for a Facebook post">
+                                                <span class="icon-twitter icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon linkedin">
+                                            <a class="share-link-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://news.fastcompany.com/pakistani-man-gets-first-ever-death-sentence-for-a-facebook-post-4040486" data-event-category="Social" data-event-action="Share:Linkedin" data-event-label="Pakistani man gets first-ever death sentence for a Facebook post">
+                                            <span class="icon-linkedin icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon email">
+                                            <a class="share-link-email" href="mailto:?body=Pakistani man gets first-ever death sentence for a Facebook post https://news.fastcompany.com/pakistani-man-gets-first-ever-death-sentence-for-a-facebook-post-4040486&amp;subject=Pakistani man gets first-ever death sentence for a Facebook post" data-event-category="Social" data-event-action="Share:Email" data-event-label="Pakistani man gets first-ever death sentence for a Facebook post">
+                                                <span class="icon-share-email icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon whatsapp">
+                                            <a class="share-link-whatsapp" href="whatsapp://send?text=Pakistani%20man%20gets%20first-ever%20death%20sentence%20for%20a%20Facebook%20post%0A%0Ahttps://news.fastcompany.com/pakistani-man-gets-first-ever-death-sentence-for-a-facebook-post-4040486" data-action="share/whatsapp/share" data-event-category="Social" data-event-action="Share:Whatsapp" data-event-label="Pakistani man gets first-ever death sentence for a Facebook post">
+                                            <span class="icon-whatsapp icon-share"></span>
+                                            </a>
+                                        </li>
+
+
+                                </ul>
+
+                            </div>
+                    </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="grid-row first-layout-adjustment">
+                <div class="grid-item first-item first-item-adjustment" data-nid="4040481" data-url="/no-more-fun-and-games-for-gymboree-4040481" data-title="No more fun and games for Gymboree" data-post-index="8">
+                <div class="first-content first-content-adjustment">
+
+                    <div class="post-eyebrow post-eyebrow-spacing">
+
+                        <span>06.12.17</span> | <span>9:30 am</span>
+
+
+                    </div>
+
+                        <a class="article-link" href ="/no-more-fun-and-games-for-gymboree-4040481"data-event-category="User Action" data-event-action="Link Clicked: Title" data-event-label="No more fun and games for Gymboree">
+                            <h2 class="first-title first-title-adjustment">No more fun and games for Gymboree</h2>
+                        </a>
+                    <div class="grid-row">
+                        <div class="title-divider"></div>
+                    </div>
+                    <div class="first-post-content first-post-content-adjustment">
+                        <div class="grid-row">
+                            <p>Another mall brand is in trouble.</p>
+<p>Kids clothing brand <a href="http://www.gymboree.com">Gymboree</a> has just filed for bankruptcy protection and is the latest in a long list of retail brands&#x2013;from Payless Shoe Source to The Limited&#x2013;that are suffering from declines in mall traffic and increased online competition. According to court filings, the brand plans to stay in business, but will close up t0 450 of its 1,281 stores. This means that thousands of workers will be losing their jobs.&#xA0;As <i></i><a href="https://www.usatoday.com/story/money/2017/06/12/childrens-apparel-chain-gymboree-files-chapter-11-bankruptcy/102772792/"><i>USA Today</i>&#xA0;points out</a>, Gymboree didn&apos;t innovate quickly enough: it was late to incorporate analytics, email newsletters, and in-store tablets for employees.&#xA0;</p>
+<p>Gymboree launched its first store in 1986 and operates three brands, Gymboree, Janie &amp; Jack, and Crazy 8. In 2010, Gymboree was acquired by Bain Capital Private Equity for $1.8 billion, which sought to expand it globally.&#xA0;</p>
+<p><img class="post-image" data-original="https://assets.fastcompany.com/image/upload/v1497276305/fastconews/k6uydeehumfbgekgrjbf.jpg"></p>
+<p>[Photo: Flickr user&#xA0;<a href="https://www.flickr.com/photos/southbeachcars/32181930143">Phillip Pessar</a>] <a class="post-author author-initials author-initials-adjustment" data-event-category="User Action" data-event-action="Link Clicked: Author Byline" data-event-label="Author: Elizabeth Segran" href="https://www.fastcompany.com/user/elizabeth-segran" target="_blank">ES</a></p>
+
+                        </div>
+                    </div>
+                    <div class="grid-row">
+                        <div class="all-tags-container all-tags-container-adjustment">
+                            <ul class="all-tag-list all-tag-list-adjustment">
+                                <li class="tag">
+
+                                </li>
+                            </ul>
+                        </div>                        <!--If this is rendered on a sticky post, the share data must be from the tag page itself-->
+
+                            <!--Normal tag share-->
+                            <div class="all-share-container">
+                                    <ul class="all-social">
+                                        <li class="share-icon facebook">
+                                            <a class="share-link-facebook" href="http://www.facebook.com/sharer.php?u=https://news.fastcompany.com/no-more-fun-and-games-for-gymboree-4040481&amp;app_id=178479832213933&amp;display=popup" data-event-category="Social" data-event-action="Share:Facebook" data-event-label="No more fun and games for Gymboree">
+                                                <span class="icon-facebook icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon twitter">
+                                            <a class="share-link-twitter" href="http://twitter.com/share?url=%2F&amp;text=No more fun and games for Gymboree https://news.fastcompany.com/no-more-fun-and-games-for-gymboree-4040481" data-event-category="Social" data-event-action="Share:Twitter" data-event-label="No more fun and games for Gymboree">
+                                                <span class="icon-twitter icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon linkedin">
+                                            <a class="share-link-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://news.fastcompany.com/no-more-fun-and-games-for-gymboree-4040481" data-event-category="Social" data-event-action="Share:Linkedin" data-event-label="No more fun and games for Gymboree">
+                                            <span class="icon-linkedin icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon email">
+                                            <a class="share-link-email" href="mailto:?body=No more fun and games for Gymboree https://news.fastcompany.com/no-more-fun-and-games-for-gymboree-4040481&amp;subject=No more fun and games for Gymboree" data-event-category="Social" data-event-action="Share:Email" data-event-label="No more fun and games for Gymboree">
+                                                <span class="icon-share-email icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon whatsapp">
+                                            <a class="share-link-whatsapp" href="whatsapp://send?text=No%20more%20fun%20and%20games%20for%20Gymboree%0A%0Ahttps://news.fastcompany.com/no-more-fun-and-games-for-gymboree-4040481" data-action="share/whatsapp/share" data-event-category="Social" data-event-action="Share:Whatsapp" data-event-label="No more fun and games for Gymboree">
+                                            <span class="icon-whatsapp icon-share"></span>
+                                            </a>
+                                        </li>
+
+
+                                </ul>
+
+                            </div>
+                    </div>
+
+                    </div>
+                </div>
+
+
+                    <div class="rectangle-ad-container ">
+                        <div class="ad-wrapper ad-wrapper-large-rectangle">
+                            <div class="ad-unit large-ad ad-rectangle" data-advertising="fixedrectangle">
+                                <div class="dart-ad"></div>
+                            </div>
+                        </div>
+
+                        <div class="ad-wrapper ad-wrapper-medium rectangle-mobile">
+                            <div class="ad-unit medium-ad ad-rectangle" data-advertising="fixedrectangle">
+                                <div class="dart-ad"></div>
+                            </div>
+                        </div>
+
+                        <div class="ad-wrapper ad-wrapper-small">
+                            <div class="ad-unit small-ad ad-rectangle" data-advertising="fixedrectangle">
+                                <div class="dart-ad"></div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+
+            <div class="grid-row first-layout-adjustment">
+                <div class="grid-item first-item first-item-adjustment" data-nid="4040464" data-url="/big-banks-take-on-apple-pay-and-venmo-with-the-launch-of-their-own-peer-to-peer-network-4040464" data-title="Big banks take on Apple Pay and Venmo with the launch of their own peer-to-peer network" data-post-index="9">
+                <div class="first-content first-content-adjustment">
+
+                    <div class="post-eyebrow post-eyebrow-spacing">
+
+                        <span>06.12.17</span> | <span>8:45 am</span>
+
+
+                    </div>
+
+                        <a class="article-link" href ="/big-banks-take-on-apple-pay-and-venmo-with-the-launch-of-their-own-peer-to-peer-network-4040464"data-event-category="User Action" data-event-action="Link Clicked: Title" data-event-label="Big banks take on Apple Pay and Venmo with the launch of their own peer-to-peer network">
+                            <h2 class="first-title first-title-adjustment">Big banks take on Apple Pay and Venmo with the launch of their own peer-to-peer network</h2>
+                        </a>
+                    <div class="grid-row">
+                        <div class="title-divider"></div>
+                    </div>
+                    <div class="first-post-content first-post-content-adjustment">
+                        <div class="grid-row">
+                            <p><b><a href="https://www.fastcompany.com/company/venmo">Venmo</a> used to be revolutionary. </b>Now, the PayPal-owned mobile app is just one of many peer-to-peer payment options, alongside <a href="https://www.fastcompany.com/company/apple">Apple</a> Pay, Facebook Messenger&#x2014;and Zelle.&#xA0;</p>
+<p>Uh, Zelle? Yes, you read that right. In a rare bout of big bank collaboration, players including JPMorgan Chase, Bank of America, and Wells Fargo <a href="http://www.reuters.com/article/us-usa-banks-payments-zelle-idUSKBN1931C2">teamed up</a> to enable instant money transfers. <b>Today they are going live, making Zelle available through the apps of more than 30 banking institutions. </b>If they succeed in winning converts, &quot;Send money with Zelle&quot; could become the new &quot;Venmo me.&quot;&#xA0;</p>
+<p>Zelle arrives just in time; digital-first competitors are beginning to pose a real threat to banks&apos; relationship with customers. In addition, <b>banks expect Zelle to reduce the costs associated with managing cash and checks</b>.</p>
+<p>So which service should you use? <a href="https://www.fastcodesign.com/90128304/the-subtle-psychology-of-apple-pay-and-how-it-could-cost-you">Over at <i>Co.Design</i></a>, <a href="https://www.fastcompany.com/person/mark-wilson">Mark Wilson</a> highlights a key difference between Zelle and Apple Pay:&#xA0;While Zelle will transfer funds directly into your checking or savings account, Apple Pay, like Venmo, will keep funds within its own ecosystem unless you take further action.&#xA0;</p>
+<p><img class="post-image" data-original="https://assets.fastcompany.com/image/upload/v1497273456/fastconews/k2wrjymp0y0uwvx2t0op.jpg"></p>
+<p>[Screenshot: Zelle] <a class="post-author author-initials author-initials-adjustment" data-event-category="User Action" data-event-action="Link Clicked: Author Byline" data-event-label="Author: Ainsley O&apos;Connell" href="https://www.fastcompany.com/user/ainsley-oconnell" target="_blank">AOC</a></p>
+
+                        </div>
+                    </div>
+                    <div class="grid-row">
+                        <div class="all-tags-container all-tags-container-adjustment">
+                            <ul class="all-tag-list all-tag-list-adjustment">
+                                <li class="tag">
+                                    <a class="news-tags"  data-event-category="User Action" data-event-action="Link Clicked: Tagged Page" data-event-label="Link: p:mark wilson" href = "https://www.fastcompany.com/person/mark-wilson"> mark wilson</a>
+                                </li>
+                            </ul>
+                        </div>                        <!--If this is rendered on a sticky post, the share data must be from the tag page itself-->
+
+                            <!--Normal tag share-->
+                            <div class="all-share-container">
+                                    <ul class="all-social">
+                                        <li class="share-icon facebook">
+                                            <a class="share-link-facebook" href="http://www.facebook.com/sharer.php?u=https://news.fastcompany.com/big-banks-take-on-apple-pay-and-venmo-with-the-launch-of-their-own-peer-to-peer-network-4040464&amp;app_id=178479832213933&amp;display=popup" data-event-category="Social" data-event-action="Share:Facebook" data-event-label="Big banks take on Apple Pay and Venmo with the launch of their own peer-to-peer network">
+                                                <span class="icon-facebook icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon twitter">
+                                            <a class="share-link-twitter" href="http://twitter.com/share?url=%2F&amp;text=Big banks take on Apple Pay and Venmo with the launch of their own peer-to-peer network https://news.fastcompany.com/big-banks-take-on-apple-pay-and-venmo-with-the-launch-of-their-own-peer-to-peer-network-4040464" data-event-category="Social" data-event-action="Share:Twitter" data-event-label="Big banks take on Apple Pay and Venmo with the launch of their own peer-to-peer network">
+                                                <span class="icon-twitter icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon linkedin">
+                                            <a class="share-link-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://news.fastcompany.com/big-banks-take-on-apple-pay-and-venmo-with-the-launch-of-their-own-peer-to-peer-network-4040464" data-event-category="Social" data-event-action="Share:Linkedin" data-event-label="Big banks take on Apple Pay and Venmo with the launch of their own peer-to-peer network">
+                                            <span class="icon-linkedin icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon email">
+                                            <a class="share-link-email" href="mailto:?body=Big banks take on Apple Pay and Venmo with the launch of their own peer-to-peer network https://news.fastcompany.com/big-banks-take-on-apple-pay-and-venmo-with-the-launch-of-their-own-peer-to-peer-network-4040464&amp;subject=Big banks take on Apple Pay and Venmo with the launch of their own peer-to-peer network" data-event-category="Social" data-event-action="Share:Email" data-event-label="Big banks take on Apple Pay and Venmo with the launch of their own peer-to-peer network">
+                                                <span class="icon-share-email icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon whatsapp">
+                                            <a class="share-link-whatsapp" href="whatsapp://send?text=Big%20banks%20take%20on%20Apple%20Pay%20and%20Venmo%20with%20the%20launch%20of%20their%20own%20peer-to-peer%20network%0A%0Ahttps://news.fastcompany.com/big-banks-take-on-apple-pay-and-venmo-with-the-launch-of-their-own-peer-to-peer-network-4040464" data-action="share/whatsapp/share" data-event-category="Social" data-event-action="Share:Whatsapp" data-event-label="Big banks take on Apple Pay and Venmo with the launch of their own peer-to-peer network">
+                                            <span class="icon-whatsapp icon-share"></span>
+                                            </a>
+                                        </li>
+
+
+                                </ul>
+
+                            </div>
+                    </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="grid-row first-layout-adjustment">
+                <div class="grid-item first-item first-item-adjustment" data-nid="4040459" data-url="/uber-shakeup-heres-everything-that-leaked-about-eric-holders-investigation-this-weekend-4040459" data-title="Uber shakeup: Here’s everything that leaked about Eric Holder’s investigation this weekend " data-post-index="10">
+                <div class="first-content first-content-adjustment">
+
+                    <div class="post-eyebrow post-eyebrow-spacing">
+
+                        <span>06.12.17</span> | <span>8:03 am</span>
+
+
+                    </div>
+
+                        <a class="article-link" href ="/uber-shakeup-heres-everything-that-leaked-about-eric-holders-investigation-this-weekend-4040459"data-event-category="User Action" data-event-action="Link Clicked: Title" data-event-label="Uber shakeup: Here’s everything that leaked about Eric Holder’s investigation this weekend ">
+                            <h2 class="first-title first-title-adjustment">Uber shakeup: Here’s everything that leaked about Eric Holder’s investigation this weekend </h2>
+                        </a>
+                    <div class="grid-row">
+                        <div class="title-divider"></div>
+                    </div>
+                    <div class="first-post-content first-post-content-adjustment">
+                        <div class="grid-row">
+                            <p><a href="https://www.fastcompany.com/company/uber">Uber</a>&apos;s board met for hours on Sunday to discuss and make a decision about the results of Eric Holder&apos;s investigation into the company&apos;s culture, according to the <i><a href="https://www.nytimes.com/2017/06/11/technology/uber-holder-report.html?smprod=nytcore-iphone&amp;smid=nytcore-iphone-share&amp;_r=0">New York Times</a></i>. Here&apos;s what we know so far:</p>
+<p>&#x2022; <b>The report recommends</b> <b>axing <a href="https://www.fastcompany.com/person/emil-michael">Emil Michael</a></b>, Uber SVP and crony to CEO Travis Kalanick. But the board hasn&apos;t made a final decision on whether to fire him. Michael has been involved in the mishandling of an Indian woman&apos;s medical records, was present at an outing to a South Korean escort bar with employees, and also once threatened to hire a team to dig up negative information on a journalist who had written unfavorable stories about Uber.</p>
+<p>&#x2022; <b>Kalanick has suggested he take leave of absence</b>&#xA0;to recover from a tragic event that took his mother&apos;s life. The board is allowing Kalanick to make this decision on his own.&#xA0;</p>
+<p>&#x2022; A board representative says that i<b>t will accept all the recommendations put forth in Holder&apos;s report</b>.&#xA0;</p>
+<p>The report follows a <a href="https://www.fastcompany.com/40426426/uber-x-odus-all-the-execs-who-have-left-the-company-in-2017">series of departures</a>, including <a href="https://news.fastcompany.com/ubers-latest-firing-an-exec-who-obtained-a-rape-victims-medical-records-4040199">Eric Alexander</a>, who <b>obtained the medical records of an Indian woman who was raped by an Uber driver</b>. As Uber attempts to clean up its act, it&apos;s facing a major decision in Egypt. The government is looking to pass a law that would require Uber to share its live ride-hailing data, also known as &quot;heaven,&quot; according to the <i><a href="https://www.nytimes.com/2017/06/10/world/middleeast/egypt-uber-sisi-surveillance-repression-careem.html?_r=1">New York Times</a></i>. If parliament passes a law requiring companies doing business in the country to keep servers on Egyptian soil and share data with law enforcement, it may need to make a major decision about whether or not to stay in the country.</p>
+<p>Stay tuned for lots more Uber news this week. &#xA0;</p>
+<p><img class="post-image" data-original="https://assets.fastcompany.com/image/upload/v1497273244/fastconews/xllrihyz6wavznzink5o.jpg"></p>
+<p>[Photo: Justin Sullivan/Getty Images] <a class="post-author author-initials author-initials-adjustment" data-event-category="User Action" data-event-action="Link Clicked: Author Byline" data-event-label="Author: Ruth Reader" href="https://www.fastcompany.com/user/ruth-reader" target="_blank">RR</a></p>
+
+                        </div>
+                    </div>
+                    <div class="grid-row">
+                        <div class="all-tags-container all-tags-container-adjustment">
+                            <ul class="all-tag-list all-tag-list-adjustment">
+                                <li class="tag">
+                                    <a class="news-tags" data-event-category="User Action" data-event-action="Link Clicked: Tagged Page" data-event-label="Link: Uber in Crisis"  href = "/tag/uber-in-crisis"> Uber in Crisis</a>
+                                </li>
+                            </ul>
+                        </div>                        <!--If this is rendered on a sticky post, the share data must be from the tag page itself-->
+
+                            <!--Normal tag share-->
+                            <div class="all-share-container">
+                                    <ul class="all-social">
+                                        <li class="share-icon facebook">
+                                            <a class="share-link-facebook" href="http://www.facebook.com/sharer.php?u=https://news.fastcompany.com/uber-shakeup-heres-everything-that-leaked-about-eric-holders-investigation-this-weekend-4040459&amp;app_id=178479832213933&amp;display=popup" data-event-category="Social" data-event-action="Share:Facebook" data-event-label="Uber shakeup: Here’s everything that leaked about Eric Holder’s investigation this weekend ">
+                                                <span class="icon-facebook icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon twitter">
+                                            <a class="share-link-twitter" href="http://twitter.com/share?url=%2F&amp;text=Uber shakeup: Here’s everything that leaked about Eric Holder’s investigation this weekend  https://news.fastcompany.com/uber-shakeup-heres-everything-that-leaked-about-eric-holders-investigation-this-weekend-4040459" data-event-category="Social" data-event-action="Share:Twitter" data-event-label="Uber shakeup: Here’s everything that leaked about Eric Holder’s investigation this weekend ">
+                                                <span class="icon-twitter icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon linkedin">
+                                            <a class="share-link-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://news.fastcompany.com/uber-shakeup-heres-everything-that-leaked-about-eric-holders-investigation-this-weekend-4040459" data-event-category="Social" data-event-action="Share:Linkedin" data-event-label="Uber shakeup: Here’s everything that leaked about Eric Holder’s investigation this weekend ">
+                                            <span class="icon-linkedin icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon email">
+                                            <a class="share-link-email" href="mailto:?body=Uber shakeup: Here’s everything that leaked about Eric Holder’s investigation this weekend  https://news.fastcompany.com/uber-shakeup-heres-everything-that-leaked-about-eric-holders-investigation-this-weekend-4040459&amp;subject=Uber shakeup: Here’s everything that leaked about Eric Holder’s investigation this weekend " data-event-category="Social" data-event-action="Share:Email" data-event-label="Uber shakeup: Here’s everything that leaked about Eric Holder’s investigation this weekend ">
+                                                <span class="icon-share-email icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon whatsapp">
+                                            <a class="share-link-whatsapp" href="whatsapp://send?text=Uber%20shakeup%3A%20Here%E2%80%99s%20everything%20that%20leaked%20about%20Eric%20Holder%E2%80%99s%20investigation%20this%20weekend%C2%A0%0A%0Ahttps://news.fastcompany.com/uber-shakeup-heres-everything-that-leaked-about-eric-holders-investigation-this-weekend-4040459" data-action="share/whatsapp/share" data-event-category="Social" data-event-action="Share:Whatsapp" data-event-label="Uber shakeup: Here’s everything that leaked about Eric Holder’s investigation this weekend ">
+                                            <span class="icon-whatsapp icon-share"></span>
+                                            </a>
+                                        </li>
+
+
+                                </ul>
+
+                            </div>
+                    </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="grid-row first-layout-adjustment">
+                <div class="grid-item first-item first-item-adjustment" data-nid="4040454" data-url="/chinas-biggest-bike-sharing-company-mobike-is-coming-to-europe-4040454" data-title="China’s biggest bike-sharing company, Mobike, is coming to Europe" data-post-index="11">
+                <div class="first-content first-content-adjustment">
+
+                    <div class="post-eyebrow post-eyebrow-spacing">
+
+                        <span>06.12.17</span> | <span>7:05 am</span>
+
+
+                    </div>
+
+                        <a class="article-link" href ="/chinas-biggest-bike-sharing-company-mobike-is-coming-to-europe-4040454"data-event-category="User Action" data-event-action="Link Clicked: Title" data-event-label="China’s biggest bike-sharing company, Mobike, is coming to Europe">
+                            <h2 class="first-title first-title-adjustment">China’s biggest bike-sharing company, Mobike, is coming to Europe</h2>
+                        </a>
+                    <div class="grid-row">
+                        <div class="title-divider"></div>
+                    </div>
+                    <div class="first-post-content first-post-content-adjustment">
+                        <div class="grid-row">
+                            <p>The company, whose 5 million orange-wheeled bikes can be seen everywhere in Chinese cities, has the potential to disrupt transportation in population-dense countries. The GPS-enabled smart bikes can be locked and unlocked anywhere with a smartphone app and <b>have become ubiquitous after launching just a year ago in China due to their popularity for &quot;last mile&quot; transportation for short trips, such as from the subway to a restaurant</b>, reports the <i>Financial Times</i>. Mobike launches first in Manchester and Salford in the U.K., but more European cities are expected in the next few months.</p>
+<p>Read the full story <a href="https://www.ft.com/content/03bbc5b4-4f39-11e7-bfb8-997009366969">here</a>. <a class="post-author author-initials author-initials-adjustment" data-event-category="User Action" data-event-action="Link Clicked: Author Byline" data-event-label="Author: Marcus Baram" href="https://www.fastcompany.com/user/marcus-baram" target="_blank">MB</a></p>
+
+                        </div>
+                    </div>
+                    <div class="grid-row">
+                        <div class="all-tags-container all-tags-container-adjustment">
+                            <ul class="all-tag-list all-tag-list-adjustment">
+                                <li class="tag">
+
+                                </li>
+                            </ul>
+                        </div>                        <!--If this is rendered on a sticky post, the share data must be from the tag page itself-->
+
+                            <!--Normal tag share-->
+                            <div class="all-share-container">
+                                    <ul class="all-social">
+                                        <li class="share-icon facebook">
+                                            <a class="share-link-facebook" href="http://www.facebook.com/sharer.php?u=https://news.fastcompany.com/chinas-biggest-bike-sharing-company-mobike-is-coming-to-europe-4040454&amp;app_id=178479832213933&amp;display=popup" data-event-category="Social" data-event-action="Share:Facebook" data-event-label="China’s biggest bike-sharing company, Mobike, is coming to Europe">
+                                                <span class="icon-facebook icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon twitter">
+                                            <a class="share-link-twitter" href="http://twitter.com/share?url=%2F&amp;text=China’s biggest bike-sharing company, Mobike, is coming to Europe https://news.fastcompany.com/chinas-biggest-bike-sharing-company-mobike-is-coming-to-europe-4040454" data-event-category="Social" data-event-action="Share:Twitter" data-event-label="China’s biggest bike-sharing company, Mobike, is coming to Europe">
+                                                <span class="icon-twitter icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon linkedin">
+                                            <a class="share-link-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://news.fastcompany.com/chinas-biggest-bike-sharing-company-mobike-is-coming-to-europe-4040454" data-event-category="Social" data-event-action="Share:Linkedin" data-event-label="China’s biggest bike-sharing company, Mobike, is coming to Europe">
+                                            <span class="icon-linkedin icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon email">
+                                            <a class="share-link-email" href="mailto:?body=China’s biggest bike-sharing company, Mobike, is coming to Europe https://news.fastcompany.com/chinas-biggest-bike-sharing-company-mobike-is-coming-to-europe-4040454&amp;subject=China’s biggest bike-sharing company, Mobike, is coming to Europe" data-event-category="Social" data-event-action="Share:Email" data-event-label="China’s biggest bike-sharing company, Mobike, is coming to Europe">
+                                                <span class="icon-share-email icon-share"></span>
+                                            </a>
+                                        </li>
+
+                                        <li class="share-icon whatsapp">
+                                            <a class="share-link-whatsapp" href="whatsapp://send?text=China%E2%80%99s%20biggest%20bike-sharing%20company%2C%20Mobike%2C%20is%20coming%20to%20Europe%0A%0Ahttps://news.fastcompany.com/chinas-biggest-bike-sharing-company-mobike-is-coming-to-europe-4040454" data-action="share/whatsapp/share" data-event-category="Social" data-event-action="Share:Whatsapp" data-event-label="China’s biggest bike-sharing company, Mobike, is coming to Europe">
+                                            <span class="icon-whatsapp icon-share"></span>
+                                            </a>
+                                        </li>
+
+
+                                </ul>
+
+                            </div>
+                    </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+</div>
+
+
+    </div>
+
+    <div class="loadmoreContent"></div>
+
+
+    <div class="footer">
+            <div id="page-footer" class="page-footer">
+                <div class="footer-container">
+                    <div class="footer-row">
+                        <div class="footer-left">
+                            <ul>
+                                <li><a href="//mediakit.fastcompany.com">Advertise</a></li>
+                                <li><a href="https://www.fastcompany.com/privacy-policy">Privacy Policy</a></li>
+                                <li><a href="https://www.fastcompany.com/terms-and-conditions">Terms</a></li>
+                                <li><a href="https://www.fastcompany.com/about-us">About Us</a></li>
+                                <li><a href="https://www.fastcompany.com/sitemap">Site Map</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="footer-right">
+                            <p class="footer-copyright">Fast Company & Inc ©  Mansueto Ventures, LLC
+                                <a href="http://www.aboutads.info/" target="_new" class="icon_adoption" rel="nofollow">
+                                    <img class="footer-image" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAANCAAAAAC4QtCeAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAJ0Uk5TAAB2k804AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAAAEgAAABIAEbJaz4AAACASURBVAjXYyir3PaDAQby09KL9/2FcjIWf1mbVX0Mwklfw8DwbF5awzkwZzXDjco/j/vTuq+COe93APXcLE5bCeKczvzOwPCoPG0xiHMq6/f9SWkdF4HK1jKcyepJazgFNnrBpwtpVUchRuempR17+htqaU/55l9w5xzf+RHOBgC94zlXyQTR6wAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0wMy0wOFQxOToxMDo0NC0wNTowMNnS5vEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMDMtMDhUMTk6MTA6NDQtMDU6MDCoj15NAAAAAElFTkSuQmCC" width="12" height="13" alt="">
+                                 </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+   </div>
+    <script>
+        // data exposed by express-state
+
+(function (root) {
+/* -- Data -- */
+root.App || (root.App = {});
+root.App.Data = {};
+root.App.templates = {};
+}(this));
+
+        window.bootstrap_obj = {"type":"homepage","name":"homepage","ads":{"path":"/4160/mv.fc/fastconews/fastconews"}};
+    </script>
+
+    <script src="/js/fastconews.js"></script>
+
+
+
+        <script type="text/javascript" src="https://a.fastcompany.net/multisite_files/fastcompany/static/sites/201603/1464/js/omniture-scode-prod.js"></script>
+        <script type="text/javascript"><!--
+
+
+                fastco_s.server="fastcompany";
+                fastco_s.pageName="fastcompany:4040556:a-second-federal-appeals-court-has-ruled-against-trumps-travel-ban";
+                fastco_s.events="event9";
+
+                fastco_s.prop1 = "fastconews";
+                fastco_s.prop2 = "fastconews";
+                fastco_s.prop3 = "A second federal appeals court has ruled against Trump’s travel ban";
+                fastco_s.prop4 = "https://news.fastcompany.com/a-second-federal-appeals-court-has-ruled-against-trumps-travel-ban-4040556";
+                fastco_s.prop5 = "fastco-news";
+                fastco_s.prop6 = "fastco-news";
+                fastco_s.prop8 = "Cale-Guthrie Weissman";
+                fastco_s.prop9 = "2017-06-12";
+                fastco_s.prop10 = "4040556";
+                fastco_s.prop11 = "Cale-Guthrie Weissman";
+                fastco_s.prop13 = "1";
+                fastco_s.prop21 = "anonymous";
+                fastco_s.prop22 = "anonymous:fastconews:4040556:a-second-federal-appeals-court-has-ruled-against-trumps-travel-ban";
+                fastco_s.prop23 = "anonymous";
+                fastco_s.prop28 = "article";
+                fastco_s.prop33 = "Fastco News";
+                fastco_s.eVar49 = "1";
+
+
+        var s_code=fastco_s.t();if(s_code)document.write(s_code)//--></script>
+        <script type="text/javascript"><!--
+        if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+        //--></script><noscript><img src="//grunerandjahr.112.2o7.net/b/ss/gjincfastcoprod/1/H.24.4--NS/0/5658306"
+        height="1" width="1" alt="" style="border:0;" /></noscript><!--/DO NOT REMOVE/-->
+
+
+
+    <!-- START Parse.ly Include: Standard -->
+    <div id="parsely-root" style="display: none">
+        <span id="parsely-cfg" data-parsely-site="fastcompany.com"></span>
+    </div>
+    <script>
+        (function(s, p, d) {
+            var h=d.location.protocol, i=p+"-"+s,
+                e=d.getElementById(i), r=d.getElementById(p+"-root"),
+                u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+                    :"static."+p+".com";
+            if (e) return;
+            e = d.createElement(s); e.id = i; e.async = true;
+            e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+        })("script", "parsely", document);
+    </script>
+    <!-- END Parse.ly Include: Standard -->
+</body>
+
+</html>

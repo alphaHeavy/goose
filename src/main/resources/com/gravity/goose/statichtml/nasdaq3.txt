@@ -1,0 +1,2424 @@
+
+<!doctype html>
+<html lang="en-us" class="inner  no-js" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<script>
+(function(){
+var is_chrome;
+if(typeof navigator.vendor!="undefined")
+	is_chrome = ((navigator.userAgent.toLowerCase().indexOf('chrome') > -1) &&(navigator.vendor.toLowerCase().indexOf("google") > -1));
+else
+	is_chrome = false;
+if(is_chrome)
+{
+//instart
+//copyright Wed May 31 2017 23:34:42 GMT+0000 (UTC)
+(function(d){(function(){var L="undefined"===typeof IXC_151_9286711792623572||"undefined"===typeof IXC_151_9286711792623572.CanRun||"_151_9286711792623572"!==IXC_151_9286711792623572._151_9286711792623572||IXC_151_9286711792623572.CanRun("abd");if(L)try{(d.IXC_151_9286711792623572=d.IXC_151_9286711792623572||{})._151_9286711792623572="_151_9286711792623572",d[atob("SU5TVEFSVA==")+"_TARGET_NAME"]="abd",d[atob("STExQw==")]=d[atob("STExQw==")]||{}}catch(w){console.error(w)}else{var X="abd"!==d[atob("SU5TVEFSVA==")+
+"_TARGET_NAME"],M="double nanovisor injection: abd after "+d[atob("SU5TVEFSVA==")+"_TARGET_NAME"];X&&console.log(M);"function"!==typeof d[atob("SU5TVEFSVA==")].Init&&(d[atob("SU5TVEFSVA==")].Init=function(){X&&console.error("ignored Init call after "+M)})}return L})()&&function(){function L(b,a){return"object"!==typeof a||Array.isArray(a)?a:Da(a,b,L)}function X(){var b=d.googletag;if((b=b&&b.pubads&&"function"===typeof b.pubads&&b.pubads())&&b.addEventListener&&"function"===typeof b.addEventListener)try{b.addEventListener("slotRenderEnded",
+function(a){a=a.slot&&a.slot.getSlotElementId();Ea.f(a)}),b.addEventListener("slotOnload",function(a){a=a.slot&&a.slot.getSlotElementId();Fa.f(a)}),d.clearInterval(Ga)}catch(a){}}function M(){return[]}function w(){return 1===x.c}function Ha(){return 4===x.c}function Y(){return 2===x.c}function Ia(){return 3===x.c}function Ja(){return 5===x.c}function Z(b){C=new Ka(b);x=C.U;N=C.O;return C}function g(b){return b.split("").filter(function(a,c){return 0===c%2}).reverse().join("")}function D(b,a,c){if(!b&&
+(console.error(a),(b=M(2))&&0<b.length&&console.log(b),La&&!c))throw a;}function l(b,a){function c(){this.constructor=b}Cb(b,a);b.prototype=null===a?Object.create(a):(c.prototype=a.prototype,new c)}function y(b,a){b=b.split(".");for(var c=d||{},f,e=0;e<b.length-1;++e){f=b[e];if(!c)return;var h=c[f]||{};try{c[f]=h}catch(q){}c=h}f=b[b.length-1];if(c){D(!!f,"In Export, name not defined");try{c[f]=a}catch(q){}}}function Db(b){b=b.split(".");for(var a=d,c,f=0;a&&f<b.length-1;++f)if(c=b[f],a=a[c],!a)return;
+c=b[b.length-1];D(!!a&&!!c,"In Deport, obj or name not defined");try{var e=Object.getOwnPropertyDescriptor(a,c);e&&e.writable&&delete a[c]||(a[c]=void 0)}catch(h){}}function qa(){return d.document.currentScript||d.document.scripts[document.scripts.length-1]}function Eb(){if(O&&P&&O.nextSibling===P)for(var b=P.nextSibling,a=O;a!=b;){var c=a,a=a.nextSibling;c.parentNode.removeChild(c)}Db(ra);y(ra+".Init",function(){})}function t(b,a,c){var f={};f.Type=b;f[u]=a;c&&(f[Ma]=c);return f}function Q(b,a,c){try{Object.defineProperty(b,
+a,c)}catch(f){}}function aa(b){var a=typeof b;if(b&&("object"===a||"function"===a)&&!Fb.call(b,"__ext")){if(b instanceof NodeList||b instanceof HTMLCollection){for(var a=b.length,c=0;c<a;c++)aa(b[c]);return b}a=void 0;c=b.nodeType,1===c&&(a=Na[b.nodeName]),a||(a=Oa[c]),a||(a=b.__pext);a&&(c={Td:{},Fc:a,cb:Gb++},Pa.value=c,Object.defineProperty(b,"__ext",Pa),a.fb(b))}return b}function ba(b,a){var c=b.__ext;c||(aa(b),c=b.__ext);return(b=c)&&b.Fc.ec(a)}function Hb(b,a){for(var c=Object.getOwnPropertyNames(b),
+f=0,e=c.length;f<e;++f){var h=c[f];if(!(h in a)){var q=Object.getOwnPropertyDescriptor(b,h);try{Object.defineProperty(a,h,q)}catch(m){}}}(c=b.prototype)&&(a.prototype=c);if(b=b.name)try{Object.defineProperty(a,"name",{value:b})}catch(m){}}function Ib(b){b.H.qa(function(){var a=ba(this,b.s);return a?a.Fd(this):b.H.v.call(this)});b.Set.qa(function(a){var c=ba(this,b.s);c?c.Set(this,a,!0,!1):b.Set.v.call(this,a);return a})}function Jb(b){var a;void 0===a&&(a=Kb);var c=new a.na;b.onload&&(c.onload=function(){return b.onload(new sa(c,
+b))});b.onerror&&(c.onerror=function(){return b.onload(new sa(c,b))});if(b.Ma)for(var f=0;f<b.Ma.length;f++)c.setRequestHeader(b.Ma[f].s,this.Ma[f].Sd);c.withCredentials=!!b.credentials;a.yc.call(c,b.method,b.url,!1!==b.async);f=b.body&&JSON.stringify(b.body);a.Qc.call(c,f);!1===b.async&&new sa(c,b)}function Qa(){for(var b=[],a=1;9>=a;a++)b[a]=E["$"+a];return b}function Ra(b){for(var a="",c="",f=1;b&&9>=f;f++)b[f]?(b[f]=b[f].replace(/[-[\]{}()*+?.,\\^$|#\s]/g,"\\$&"),a+="("+b[f]+")",c+=""+b[f]):a+=
+"()";c.match(a)}function F(b){return"string"===typeof b&&0<b.length?b:null}function Sa(b,a,c){var f=Object.getOwnPropertyDescriptor(b,a),e=f&&f.get,h=f&&f.set,q=f&&f.value;e||h?Object.defineProperty(b,a,{get:e,set:function(a){q=a;c(q);h.apply(this,arguments)},enumerable:f.enumerable,configurable:!0}):Object.defineProperty(b,a,{get:function(){return q},set:function(a){q=a;c(q)},enumerable:f&&f.enumerable||!0,configurable:!0})}function Lb(){function b(b){Array.isArray(b)&&!a(b)&&b.push(c)}function a(a){for(var b=
+!1,f=0;f<a.length;f++)if(a[f]===c){b=!0;break}return b}function c(){var a=d.googletag.display,c=[];d.googletag.display=function(b){b?(c.push({id:b}),Mb.push(b),Ta.f([b])):c.push({id:"unknown"});f++;a.apply(this,arguments)}}var f=0,e=d.googletag||{};d.googletag=e;e.cmd=e.cmd||[];e.cmd.push(c);Sa(d,"googletag",function(f){Array.isArray(f.cmd)&&!a(f.cmd)&&f.cmd.push(c);Sa(f,"cmd",b)})}function Nb(){d.pbjs=d.pbjs||{};d.pbjs.que=d.pbjs.que||[];d.pbjs.que.push(function(){d.pbjs.onEvent("bidResponse",function(b){Ua.push({SlotId:b.adUnitCode,
+ExchangeName:b.bidder,CPM:b.cpm,ResponseTime:b.timeToRespond})});d.pbjs.onEvent("auctionInit",function(){Va=!0})})}function Ob(){return new ta(function(b){function a(a){var f=!1;"load"===a.type?f=!1:"error"===a.type&&(f=!0);b(t(Pb,f,a.currentTarget.src));c&&(a=a.target)&&a.parentNode&&a.parentNode.removeChild(a)}var c=4===x.c&&3===N.c,f=document.createElement("img");f.onload=a;f.onerror=a;var e=Math.floor(Math.random()*R.length);f.src=R[e]+"?"+Wa[Math.floor(Math.random()*Wa.length)];c&&document.body.appendChild(f);
+1<R.length&&R.splice(e,1)})}function ua(b,a){return new ta(function(c){var f="script"===b?Qb:Rb,e=Ha();if(w()||e||Y()){var h;e&&(h=setTimeout(function(){c(t(f,!1,"Timed out on error"))},500));var q=!1,d=function(a){if(!q){q=!0;e&&clearTimeout(h);var b=!1;"load"===a.type?b=!1:"error"===a.type&&(b=!0);c(t(f,b,a.currentTarget.href));g&&g.parentNode&&g.parentNode.removeChild(g)}},g=document.createElement("link");g.onload=d;g.onerror=d;g.rel=Y()?"prefetch":"preload";g.as=b;d=Math.floor(Math.random()*a.length);
+g.href=a[d];ca&&ca.parentNode&&ca.parentNode.insertBefore(g,ca);1<a.length&&a.splice(d,1)}else c(t(f,!1,"Neither Chrome nor Safari"))})}function Sb(){return new ta(function(b){var a=Xa[Math.floor(Math.random()*Xa.length)],c=document.createElement(a[0]);c.id=a[1];c.style.width="1px";c.style.height="1px";c.style.top="-555px";c.style.left="-555px";c.style.display="block";var f=setInterval(function(){document&&document.body&&(document.body.appendChild(c),clearInterval(f),setTimeout(function(){var a=getComputedStyle(c),
+f,d=!1;if("none"===a.display||(f=a.getPropertyValue("-moz-binding"))&&-1!==f.indexOf("abp-elemhidehit"))d=!0;b(t(Tb,d));c&&c.parentNode&&c.parentNode.removeChild(c)},200))},10)})}function Ub(b){return b[u]||"BFRAME"===b.Type}function da(b,a){try{var c=[],c=a.Results&&(a[u]?a.Results:a.Results.filter(Ub));ea[u]&&c.push(ea);var f={adbType:[a[u]?"PRESENT":"NOT"],otherData:JSON.stringify(c),clientIpAddr:"",userAgent:navigator.userAgent,pageUrl:d.location.href,detectionTime:a[fa]},e={data_stream_type:"adb",
+json_data:JSON.stringify(f),generated_timestamp_msec:Date.now()};Ya.Da.v?Ya.Da.v.call(navigator,b,JSON.stringify(e)):Jb({method:"POST",url:b,body:e,async:!0,onload:void 0,onerror:void 0,onchange:void 0})}catch(h){}}function G(b,a){y(z+"."+b,a);y(ga+"."+b,a)}function va(b){wa?b(wa):Za.push(b)}function Vb(b){wa=b;var a=!0;Za.forEach(function(c){a=c(b)&&a});return a}function Wb(b){if("d3d3LmNuZXQuY29t"===d.btoa(d.location.hostname)){var a=function(a){document.cookie=z+"."+xa+"="+a+";max-age=2592000;path=/;"};
+G(b.a.T,b.a.ad);va(function(c){if(c[u]){if(-1<document.cookie.indexOf(z+"."+xa+"="+$a)||-1==document.cookie.indexOf(z+"."+xa+"="+Xb)&&.5<=Math.random())return a($a),!0;G(b.a.T,b.a.Fa)}else G(b.a.T,b.a.Ga);a(d[z][b.a.T]);a(d[ga][b.a.T]);return!1})}}function Yb(){"d3d3Lndhc2hpbmd0b25wb3N0LmNvbQ=="===d.btoa(d.location.hostname)&&va(function(b){if(b[u])try{if(d.localStorage.setItem("__iabcd","true"),"true"===d.localStorage.getItem("__iabcr")||-1<document.cookie.indexOf("__iabcr=true"))return!0}catch(a){}return!1})}
+function ab(b){var a="";try{a=b.location.protocol}catch(c){a="cross"}return a}function Da(b,a,c){if(!b)return a;if(a)for(var f=Object.keys(a),e=f.length-1;0<=e;--e){var h=f[e],d=a[h],g=b[h],d="undefined"===typeof g?d:c(g,d);b[h]=d}return b}function ha(b){return document[b]&&""===document[b].name?!0:!1}var Ka=function(){function b(a){this.U=this.eb(a,[{l:/MSIE\s([\d]+)(\.([\d]+))?(\.([\d]+))?/,c:3},{l:/Edge\/([\d]+)(\.([\d]+))?(\.([\d]+))?/,c:5},{l:/Trident.*rv:([\d]+)(\.([\d]+))?(\.([\d]+))?/,c:3},
+{l:/Chrome\/([\d]+)(\.([\d]+))?(\.([\d]+))?/,c:1},{l:/Firefox\/([\d]+)(\.([\d]+))?(\.([\d]+))?/,c:2},{l:/Version\/([\d]+)(\.([\d]+))?(\.([\d]+))?.*Safari/,c:4}])||{c:0,pa:0,jb:0,ib:0};this.O=this.eb(a,[{l:/Android\s([\d]+)(\.([\d]+))?(\.([\d]+))?/,c:1},{l:/CPU OS ([\d]+)(_([\d]+))?(_([\d]+))?/,c:2},{l:/CPU iPhone OS ([\d]+)(_([\d]+))?(_([\d]+))?/,c:2},{l:/Mac OS X ([\d]+)(_([\d]+))?(_([\d]+))?/,c:3},{l:/Windows NT ([\d]+)(.([\d]+))?(.([\d]+))?/,c:4},{l:/Linux [a-z]*([\d]+)(_([\d]+))?(_([\d]+))?/,
+c:5},{l:/CrOS [a-z]*([\d]+)(_([\d]+))?(_([\d]+))?/,c:5}])||{c:0,pa:0,jb:0,ib:0}}b.prototype.eb=function(a,c){for(var b,e=0;e<c.length;++e){var h=c[e],d=h.l.exec(a);if(null!=d){b={c:h.c,pa:parseInt(d[1])||0,jb:parseInt(d[3])||0,ib:parseInt(d[5])||0};break}}return b};return b}(),C,x,N;"undefined"!==typeof navigator&&navigator.userAgent?Z(navigator.userAgent):Z("");var S=Object.freeze({ia:Ka,get wa(){return C},get U(){return x},get O(){return N},Hd:w,Nd:Ha,Id:Y,Md:Ia,Ld:Ja,Kd:function(){return 3===N.c},
+Jd:function(){return 2===N.c},Gd:Z,Cd:function(b){switch(b){case 0:return"Unknown";case 1:return"Chrome";case 2:return"Firefox";case 3:return"Msie";case 4:return"Safari";case 5:return"Msedge"}},Ed:function(b){switch(b){case 0:return"Unknown";case 1:return"Android";case 2:return"IOS";case 3:return"Mac";case 4:return"Windows";case 5:return"Linux"}}}),ga=g("C01615I0"),z=g("C60312I5"),ra=g("T0R6A6T8S6N4I0"),ia=g("r1e8n1e7t9s6i7L3t7n4e7v8E4d4d7A2d7e1h8c1t7a9P6"),ja=g("r0o8r5r2E8n8O6d5e3h9c3t0a3P8"),bb=
+g("=6=0A6d0v498m5U83697G5Z5h7h521c9"),H=g("06V924Z9"),Zb=g("00V829a4j09623U2i5V120V5"),I=g("E3B6U5O5Y8");g("B8U9O2Y3");g("P3B9D4A0");var T=g("B4D8A8"),cb=g("S0T8A4T1S1B3D5A6");g("G5D3A0");g("P7C4X7E7");var $b=g("X3L8O5V4"),r=g("E3N9O1N1"),J=g("E6V0A9R2B0"),ac=g("d5e6r6i0f1_9d2a6o2l3n4o9_4e0l5g1o5o6g6"),bc=g("r9o7t0a6g2i3v0a2N6"),cc=g("k6c2a6r3T1t9o6N4o1d2"),dc=g("e5d9o8c3 2e0v5i5t7a7n6"),ec=g("k2c9a3b6l8l0a8C5d6b8A6r7e4t6s4i5g2e9R3"),Qb=g("T2P9I9R1C2S9B5"),Pb=g("G5M4I0B7"),Rb=g("L4M4T7H2B4"),Tb=g("T3N1E5M9E8L6E6");
+g("E1M1A1R1F8B9");var db=g("D8E9T4S4E9U5Q1E6R2D2A9P1F9D5"),eb=g("D6E9D9A2O5L0P4F9D5"),ya=g("D0E5R5E5D8N7E3R3P7F8D8"),fc=g("S6T9A0T9S3D2I0B1E1R1P2"),gc=g("D2F4"),fb=g("T2N8E6S1E2R2P8"),hc=g("T8O4N1"),gb=g("D6E7N6I7F2E0D1N4U9"),ic=g("e0t5u7o0r3.1h298r901m2"),jc=g("c90214i2h1p1r6o4m9"),kc=g("r7e3r1r2e7f5e4r4.1c50813i1"),lc=g("0005g1/7"),xa=g("e1t6a1t5S9h0p3r2o2M4"),Xb=g("d3e4k1c8o2l1b1"),$a=g("d0e4k9c8o6l3b5n7u1"),u=g("d3e0t3c9e4t6e2D1"),Ma=g("n2o7s9a8e0R1"),K=g("s2t4l5u8s3e1R5"),fa=g("y2c8n6e5t9a6L0n0o2i3t8c9e3t8e9D6"),
+hb=g("D9E3D7A6O5L3_1V3"),ib=g("D1E0D3A6O9L1T7O0N5_7V3"),jb=function(){function b(){}b.prototype={Ad:function(a,c){a=a||this.jd();c=c||this.mode(a);return c===this.Ka?this.Ka(arguments.callee):c.call(this,a)},jd:function(){try{this.Vd()}catch(a){return a}},mode:function(a){return"undefined"!==typeof d&&-1<d.navigator.userAgent.indexOf("PhantomJS")?this.yd:a.arguments&&a.stack?this.chrome:a.stack&&a.sourceURL?this.Bd:a.stack&&a.Ud?this.rd:a.stack&&a.fileName?this.md:a.message&&a["opera#sourceloc"]?
+!a.W||-1<a.message.indexOf("\n")&&a.message.split("\n").length>a.W.split("\n").length?this.xd:this.ud:a.message&&a.stack&&a.W?0>a.W.indexOf("called from line")?this.vd:this.wd:a.stack&&!a.fileName?this.chrome:this.Ka},chrome:function(a){return(a.stack+"\n").replace(/^[\s\S]+?\s+at\s+/," at ").replace(/^\s+(at eval )?at\s+/gm,"").replace(/^([^\(]+?)([\n$])/gm,"{anonymous}() ($1)$2").replace(/^Object.<anonymous>\s*\(([^\)]+)\)/gm,"{anonymous}() ($1)").replace(/^(.+) \((.+)\)$/gm,"$1@$2").split("\n").slice(0,
+-1)},Bd:function(a){return a.stack.replace(/\[native code\]\n/m,"").replace(/^(?=\w+Error\:).*$\n/m,"").replace(/^@/gm,"{anonymous}()@").split("\n")},rd:function(a){return a.stack.replace(/^\s*at\s+(.*)$/gm,"$1").replace(/^Anonymous function\s+/gm,"{anonymous}() ").replace(/^(.+)\s+\((.+)\)$/gm,"$1@$2").split("\n").slice(1)},md:function(a){return a.stack.replace(/(?:\n@:0)?\s+$/m,"").replace(/^(?:\((\S*)\))?@/gm,"{anonymous}($1)@").split("\n")},wd:function(a){var c=/^.*line (\d+), column (\d+)(?: in (.+))? in (\S+):$/;
+a=a.W.split("\n");for(var b=[],e=0,h=a.length;e<h;e+=2){var d=c.exec(a[e]);if(d){var g=d[4]+":"+d[1]+":"+d[2],d=d[3]||"global code",d=d.replace(/<anonymous function: (\S+)>/,"$1").replace(/<anonymous function>/,"{anonymous}");b.push(d+"@"+g+" -- "+a[e+1].replace(/^\s+/,""))}}return b},vd:function(a){var c=/^(.*)@(.+):(\d+)$/;a=a.W.split("\n");for(var b=[],e=0,h=a.length;e<h;e++){var d=c.exec(a[e]);d&&b.push((d[1]?d[1]+"()":"global code")+"@"+d[2]+":"+d[3])}return b},ud:function(a){var c=/Line (\d+).*script (?:in )?(\S+)(?:: In function (\S+))?$/i;
+a=a.W.split("\n");for(var b=[],e=0,h=a.length;e<h;e+=2){var d=c.exec(a[e]);d&&b.push((d[3]||"{anonymous}")+"()@"+d[2]+":"+d[1]+" -- "+a[e+1].replace(/^\s+/,""))}return b},xd:function(a){var c=/Line (\d+).*script (?:in )?(\S+)/i;a=a.message.split("\n");for(var b=[],e=2,h=a.length;e<h;e+=2){var d=c.exec(a[e]);d&&b.push("{anonymous}()@"+d[2]+":"+d[1]+" -- "+a[e+1].replace(/^\s+/,""))}return b},yd:function(a){var c=/(\S+) \((\S+)\)/i;a=a.stack.split("\n");for(var b=[],e=1,h=a.length;e<h;e++){a[e]=a[e].replace(/^\s+at\s+/gm,
+"");var d=c.exec(a[e]);d?b.push(d[1]+"()@"+d[2]):b.push("{anonymous}()@"+a[e])}return b},Ka:function(a){for(var c=/function(?:\s+([\w$]+))?\s*\(/,b=[],e,h,d=Array.prototype.slice;a&&10>b.length;){e=c.test(a.toString())?RegExp.$1||"{anonymous}":"{anonymous}";try{h=d.call(a.arguments||[])}catch(m){h=["Cannot access arguments: "+m]}b[b.length]=e+"("+this.ta(h)+")";try{a=a.caller}catch(m){b[b.length]="Cannot access caller: "+m;break}}return b},ta:function(a){for(var c=[],b=Array.prototype.slice,e=0;e<
+a.length;++e){var h=a[e];void 0===h?c[e]="undefined":null===h?c[e]="null":h.constructor&&(c[e]=h.constructor===Array?3>h.length?"["+this.ta(h)+"]":"["+this.ta(b.call(h,0,1))+"..."+this.ta(b.call(h,-1))+"]":h.constructor===Object?"#object":h.constructor===Function?"#function":h.constructor===String?'"'+h+'"':h.constructor===Number?h:"?")}return c.join(",")},Na:{},gd:function(a){var c=this.Ab();if(c)try{return c.open("GET",a,!1),c.send(null),c.responseText}catch(f){}return""},Ab:function(){for(var a,
+c=[function(){return new XMLHttpRequest},function(){return new ActiveXObject("Msxml2.XMLHTTP")},function(){return new ActiveXObject("Msxml3.XMLHTTP")},function(){return new ActiveXObject("Microsoft.XMLHTTP")}],b=0;b<c.length;b++)try{return a=c[b](),this.Ab=c[b],a}catch(e){}},td:function(a){return"undefined"!==typeof location&&-1!==a.indexOf(location.hostname)},nd:function(a){a in this.Na||(this.Na[a]=this.gd(a).split("\n"));return this.Na[a]},qd:function(a){for(var c=0;c<a.length;++c){var b=/^(.*?)(?::(\d+))(?::(\d+))?(?: -- .+)?$/,
+e=a[c],h=/\{anonymous\}\(.*\)@(.*)/.exec(e);if(h){var d=b.exec(h[1]);d&&(b=d[1],h=d[2],d=d[3]||0,b&&this.td(b)&&h&&(b=this.pd(b,h,d),a[c]=e.replace("{anonymous}",b)))}}return a},pd:function(a,c){var b;try{b=this.ld(this.nd(a),c)}catch(e){b="getSource failed with url: "+a+", exception: "+e.toString()}return b},ld:function(a,c){for(var b=/function\s+([^(]*?)\s*\(([^)]*)\)/,e=/['"]?([$_A-Za-z][$_A-Za-z0-9]*)['"]?\s*[:=]\s*function\b/,d=/['"]?([$_A-Za-z][$_A-Za-z0-9]*)['"]?\s*[:=]\s*(?:eval|new Function)\b/,
+g="",m,k=Math.min(c,20),l,n=0;n<k;++n)if(m=a[c-n-1],l=m.indexOf("//"),0<=l&&(m=m.substr(0,l)),m)if(g=m+g,(m=e.exec(g))&&m[1]||(m=b.exec(g))&&m[1]||(m=d.exec(g))&&m[1])return m[1];return"(?)"}};return function(a){a=a||{od:!0};var c=!!a.od,f=new b;a=f.Ad(a.e||null,a.mode||null);return c?f.qd(a):a}}(),La=!1,mc=function(){return function(){this.pc=[]}}(),Cb=Object.setPrototypeOf||{__proto__:[]}instanceof Array&&function(b,a){b.__proto__=a}||function(b,a){for(var c in a)a.hasOwnProperty(c)&&(b[c]=a[c])},
+ka=function(){function b(a,c){this.s=a;this.j=c}b.prototype.L=function(a){this.j=a};return b}(),nc=function(b){function a(){return null!==b&&b.apply(this,arguments)||this}l(a,b);a.prototype.L=function(a){b.prototype.L.call(this,"string"===typeof a?"true"===a:a)};return a}(ka),oc=function(b){function a(){return null!==b&&b.apply(this,arguments)||this}l(a,b);a.prototype.L=function(a){b.prototype.L.call(this,"string"===typeof a?parseInt(a):a)};return a}(ka),pc=function(b){function a(){return null!==
+b&&b.apply(this,arguments)||this}l(a,b);return a}(ka),kb=function(b){function a(){return null!==b&&b.apply(this,arguments)||this}l(a,b);return a}(ka),qc=function(b){function a(){return null!==b&&b.apply(this,arguments)||this}l(a,b);return a}(kb),lb=function(){function b(a){function c(a,b){return"undefined"!==typeof a?a:b}b.Ha("ver");b.ya("rId");b.ya("iframeCommunicationTimeout",3E3);b.bd();this.Ua=b.i("enableInterception");this.Rb=b.i("enableOptimizedInterceptors",!0);this.ua=b.i("enableCustomInterceptors",
+!0);this.Tb=b.i("useWrapper");this.Sb=b.i("partialImage");this.Pb=b.i("aisao");b.Ha("apiDomain");b.i("enableHtmlStreaming");b.Ha("htmlStreamingVersion");b.i("enableInstantLoad");b.i("itus");b.i("rum",!1);b.ya("m_meb",0);b.i("enableMonitorData");b.i("enableProfiling");this.Qb=b.i("enableHardAssert");b.wa=this;this.zc=a;this.Cc(a);for(var f=Object.getOwnPropertyNames(a),e=f.length-1;0<=e;--e){var d=f[e],g=a[d];(d=b.ba[d])&&d.L(g)}b.ba=null;this.Ta=c(this.Ta,this.Pb.j||this.Sb.j);this.Va=c(this.Va,this.Ta);
+this.ua.L(c(this.ua.j,this.Tb.j||this.Va));this.Ua.L(c(this.Ua.j,this.Rb.j||this.ua.j));La=this.Qb.j}b.Y=function(a){b.wa?a.L(b.wa.zc[a.s]):(b.ba||(b.ba={}),b.ba[a.s]=a);return a};b.i=function(a,c){return b.Y(new nc(a,c))};b.ya=function(a,c){b.Y(new oc(a,c))};b.Ha=function(a){b.Y(new pc(a,void 0))};b.Od=function(a,c){return b.Y(new kb(a,c))};b.bd=function(){b.Y(new qc("virtualizeDomains",void 0))};b.prototype.Dc=function(a,b){b=eval("(function(){return "+b+";})()");for(var c=Object.keys(b),e=0;e<
+c.length;++e){var d=c[e];a[d]=b[d]}};b.prototype.Ec=function(a,b){b=b.split(",");for(var c=0;c<b.length;++c){var e=b[c].split(/=|:/);2===e.length?a[e[0].trim()]=e[1].trim():console.error("invalid config value "+b[c])}};b.prototype.Cc=function(a){var b=a.devJsExtraFlags;b&&b.trim()&&("{"===b[0]?this.Dc(a,b):this.Ec(a,b),a.devJsExtraFlags="")};return b}(),M=function(b,a){return(a?jb({e:a}):jb()).slice(b+4)},O=O||qa(),P,za=new mc;y(ra+".Init",function(b){y(z+".CanRun",function(){return!1});y("IXC_151_9286711792623572.CanRun",
+function(){return!1});P=qa();D(!!O&&!!P,"Invalid situation");if(za){var a=za.pc;za=null;b=new lb(b);if(lb.i("skipInit").j)console.warn("Init is skipped by skipInit flag");else for(var c=a.length,f=0;f<c;++f)a[f](b)}else console.warn("No modules initialized.");Eb()});var v;(function(b){b[b.PENDING=0]="PENDING";b[b.FULLFILLED=1]="FULLFILLED";b[b.REJECTED=2]="REJECTED"})(v||(v={}));var sc=function(){function b(a){if(!a)throw"no executor provided";if("object"!==typeof this)throw"use new";if("function"!==
+typeof a)throw"not a function";this.state=v.sb;this.Ob(a)}b.prototype.Ob=function(a){var b=this;try{a(function(a){b.Ca(a)},function(a){b.wb(a)})}catch(f){b.wb(f)}};b.prototype.Ca=function(a){this.Db&&this.Db.call(this,a);this.state=v.Xa};b.prototype.wb=function(a){this.La&&this.La.call(this,a);this.state=v.ub};b.prototype.then=function(a,c){this.state===v.sb?(this.La=c,this.Db=a):this.state===v.Xa?a.call(this,void 0):this.state===v.ub&&c.call(this,void 0);return new b(function(){})};b.prototype.catch=
+function(a){this.state===v.sb?this.La=a:this.state!==v.Xa&&this.state===v.ub&&a.call(this,void 0);return new b(function(){})};b.prototype.all=function(a){var c=Array.prototype.slice.call(a);return new b(function(a,b){function f(d,h){try{if(h&&("object"===typeof h||"function"===typeof h)){var g=h.then;if("function"===typeof g){g.call(h,function(a){f(d,a)},b);return}}c[d]=h;0===--e&&a(c)}catch(rc){b(rc)}}if(0===c.length)return a([]);for(var e=c.length,d=0;d<c.length;d++)f(d,c[d])})};return b}(),A=function(){function b(){this.f=
+this.Ia}b.prototype.Ia=function(){};b.prototype.ab=function(){return this.f!=this.Ia};b.prototype.ma=function(a){return function(){for(var b=0,f=a.length;b<f;++b)a[b].apply(this,arguments)}};b.prototype.w=function(a){if(this.f===this.Ia)this.f=a;else if(this.f!==this.fd){var b=this.zb;b||(b=this.zb=[this.f,a],this.f=this.fd=this.ma(b))}else this.zb.push(a);return a};return b}(),la=function(b){function a(){var a=b.call(this)||this;a.Bb=!1;b.prototype.w.call(a,function(){});return a}l(a,b);a.prototype.ma=
+function(a){return function(){if(!this.Bb){for(var b=0,c=a.length;b<c;++b)a[b].apply(this,arguments);this.Bb=!0}}};return a}(function(b){function a(){var a=b.call(this)||this;b.prototype.w.call(a,function(){a.uc=this;a.kb=arguments});return a}l(a,b);a.prototype.w=function(a){b.prototype.w.call(this,a);this.kb&&a.apply(this.uc,this.kb);return a};return a}(A)),U=new la,V=new la,Aa=new la,Ba=new la,Ea=new A,Fa=new A,Ga,tc=0===S.U.c||0===S.O.c||1===S.U.c&&(1===S.O.c||2===S.O.c),B=function(){function b(a){this.tb=
+a;this.Wa=Object.create(a&&a.Wa);this.Oa=this.Ya=null;this.rb=new A;this.qb=new A}b.prototype.ec=function(a){return this.Wa[a]};b.prototype.$a=function(a,b){for(var c;a&&!c;){if(c=Object.getOwnPropertyDescriptor(a,b))c.Qa=a;a=Object.getPrototypeOf(a)}return c};b.prototype.nc=function(a,b){var c=b.s;if((a=this.$a(a,c))&&a.value)return b.ha(a.value),a.Qa[c]=b.D,b.m=a.writable?1:5,a.writable;b.m=3;return!1};b.prototype.mc=function(a,b){var c=b.s;if(a=this.$a(a,c)){a.get&&(b.H.ha(a.get),a.get=b.H.D);
+a.set&&(b.Set.ha(a.set),a.set=b.Set.D);if(a.get||a.set)return Q(a.Qa,c,a),b.m=a.configurable?1:4,a.configurable;a.hasOwnProperty("get")||a.hasOwnProperty("set")?(b.H.ha(function(){var a=Object.getOwnPropertyDescriptor(this,c);if(a){delete this[c];var b=this[c];Q(this,c,a);return b}return this[c]}),b.Set.ha(function(a){var b=Object.getOwnPropertyDescriptor(this,c);return b?(delete this[c],this[c]=a,Q(this,c,b),a):this[c]=a}),b.m=7):b.m=6;return!1}b.m=3;return tc||w()||Ia()||Y()||Ja()};b.prototype.V=
+function(a,b,f){if(b){for(var c=[],d=b.length-1;0<=d;--d){var g=b[d];2===g.m||this.nc(a,g)||3===g.m||c.push(g)}c.length&&(this.Ya=c)}if(f){b=[];for(d=f.length-1;0<=d;--d)c=f[d],2===c.m||this.mc(a,c)||3===c.m||b.push(c);b.length&&(this.Oa=b)}};b.prototype.fb=function(a){this.rb&&this.rb.f(a);var b=this.Ya;if(b)for(var f=b.length-1;0<=f;--f){var e=b[f];Q(a,e.s,{value:e.D,configurable:!0,enumerable:!0})}if(b=this.Oa)for(f=b.length-1;0<=f;--f)e=b[f],Q(a,e.s,{get:e.H.D,set:e.Set.D,configurable:!0,enumerable:!0});
+this.qb&&this.qb.f(a);this.tb&&this.tb.fb(a)};return b}(),Oa=[],Na={},Gb=0,Fb=Object.prototype.hasOwnProperty,Pa={enumerable:!1,writable:!1},mb=function(){return function(b){this.s=b;this.m=0}}();(function(b){function a(){return null!==b&&b.apply(this,arguments)||this}l(a,b);a.prototype.ma=function(a){return function(){for(var b=!1,c=0,d=a.length;c<d;++c)b=a[c].apply(this,arguments)||b;return b}};return a})(A);(function(b){function a(){return null!==b&&b.apply(this,arguments)||this}l(a,b);a.prototype.ma=
+function(a){return function(b){for(var c=0,f=a.length;c<f;++c)b=a[c].apply(this,arguments)||b;return b}};return a})(A);var k=function(b){function a(a,f){void 0===f&&(f=!1);var c=b.call(this,a)||this;c.D=f?function(){return aa(c.va.apply(this,arguments))}:function(){return c.va.apply(this,arguments)};return c}l(a,b);a.prototype.yb=function(){var a=this.fa&&this.fa.ab(),b=this.ea&&this.ea.ab(),a=this.$?a?b?7:5:b?6:4:a?b?3:1:b?2:0,b=this.oa&&this.oa[a];if(!b){var e=this;switch(a){case 0:b=this.v;break;
+case 1:b=function(){var a;e.fa.f.apply(this,arguments)||(a=e.v.apply(this,arguments));return a};break;case 2:b=function(){var a=e.v.apply(this,arguments);return a=e.ea.f.call(this,a)||a};break;case 3:b=function(){var a;e.fa.f.apply(this,arguments)||(a=e.v.apply(this,arguments),a=e.ea.f.call(this,a)||a);return a};break;case 4:b=this.$;break;case 5:b=function(){var a;e.fa.f.apply(this,arguments)||(a=e.$.apply(this,arguments));return a};break;case 6:b=function(){var a=e.$.apply(this,arguments);return a=
+e.ea.f.call(this,a)||a};break;case 7:b=function(){var a;e.fa.f.apply(this,arguments)||(a=e.$.apply(this,arguments),a=e.ea.f.call(this,a)||a);return a}}0!=a&&4!=a&&(this.oa||(this.oa=[]),this.oa[a]=b)}this.__=this.va=b};a.prototype.ha=function(a){this.v=a;Hb(a,this.D);this.D.toString=function(){return a.toString()};this.yb()};a.prototype.qa=function(a){this.$=a;this.yb()};return a}(mb);(function(b){function a(a){var c=b.call(this,a,!0)||this;c.D=function(){var a;a=c.va;switch(arguments.length){case 0:a=
+new a;break;case 1:a=new a(arguments[0]);break;case 2:a=new a(arguments[0],arguments[1]);break;case 3:a=new a(arguments[0],arguments[1],arguments[2]);break;case 4:a=new a(arguments[0],arguments[1],arguments[2],arguments[3]);break;default:throw"Unsupported case!";}return aa(a)};return c}l(a,b);return a})(k);var p=function(b){function a(a,f,d){void 0===f&&(f=!1);var c=b.call(this,a)||this;c.H=new k(a,f);c.Set=new k(a,f);d&&Ib(c);return c}l(a,b);return a}(mb),nb=function(b){function a(a){var c=b.call(this,
+a,!1)||this;c.H.qa(function(){var a=ba(this,c.s);return a&&(a=a.Za(this))?a.Pd:c.H.v.apply(this,arguments)});c.Set.qa(function(a){var b=ba(this,c.s);return b?(b.Za(this)||(b.Za(this,!0,a),c.Set.v.call(this,null)),b.Set(this,a,!0,!1),a):c.Set.v.apply(this,arguments)});return c}l(a,b);return a}(p),ob=new (function(b){function a(){return b.call(this,null)||this}l(a,b);return a}(B)),uc=new (function(b){function a(){var a=b.call(this,ob)||this;a.Fb=new k("addEventListener");a.Nc=new k("removeEventListener");
+a.Nb=new k("dispatchEvent");a.V(Object.getPrototypeOf(d.document.head),[a.Fb,a.Nc,a.Nb]);return a}l(a,b);return a}(B)),vc=new (function(b){function a(){var a=b.call(this,uc)||this;a.ELEMENT_NODE=d.Node.ELEMENT_NODE;a.DOCUMENT_NODE=d.Node.DOCUMENT_NODE;a.lc=new k("insertBefore",!0);a.Gb=new k("appendChild",!0);a.Oc=new k("replaceChild",!0);a.Jb=new k("cloneNode",!0);a.Mc=new k("removeChild",!0);a.rc=new p("nodeValue");a.dd=new p("textContent");a.V(Object.getPrototypeOf(d.document.head),[a.lc,a.Gb,
+a.Oc,a.Jb,a.Mc],[a.rc,a.dd]);return a}l(a,b);return a}(B)),wc=new (function(b){function a(){var a=b.call(this,vc)||this;a.Ub=new k("getAttribute");a.Rc=new k("setAttribute");a.Jc=new k("removeAttribute");a.Vb=new k("getAttributeNS");a.Sc=new k("setAttributeNS");a.Kc=new k("removeAttributeNS");a.Wb=new k("getAttributeNode",!0);a.Tc=new k("setAttributeNode",!0);a.Lc=new k("removeAttributeNode",!0);a.Xb=new k("getAttributeNodeNS",!0);a.Uc=new k("setAttributeNodeNS",!0);a.kc=new k("insertAdjacentHTML");
+a.Hc=new k("querySelector",!0);a.Ic=new k("querySelectorAll",!0);a.Dd=new k("getElementById",!0);a.Yb=new k("getElementsByClassName",!0);a.Zb=new k("getElementsByTagName",!0);a.$b=new k("getElementsByTagNameNS",!0);a.Kb=new k("createShadowRoot",!0);a.cb=new p("id",!1,!0);a.Ib=new p("className");a.Hb=new p("classList",!0);a.Ac=new p("outerHTML");a.ic=new p("innerHTML");a.jc=new p("innerText");a.ShadowRoot=new p("shadowRoot");a.xc=new nb("onload");a.wc=new nb("onclick");Oa[d.document.ELEMENT_NODE]=
+a;a.V(Object.getPrototypeOf(d.document.head),[a.Ub,a.Rc,a.Jc,a.Vb,a.Sc,a.Kc,a.Wb,a.Tc,a.Lc,a.Xb,a.Uc,a.kc,a.Hc,a.Ic,a.Yb,a.Zb,a.$b,a.Kb],[a.cb,a.Ib,a.Hb,a.Ac,a.ic,a.jc,a.wc,a.xc,a.ShadowRoot]);return a}l(a,b);return a}(B)),xc=new (function(b){function a(){var a=b.call(this,wc)||this;a.cd=new p("style",!0);a.V(Object.getPrototypeOf(d.document.head),[],[a.cd]);return a}l(a,b);return a}(B));new (function(b){function a(){var a=b.call(this,xc)||this;a.Zc=new p("src",!1,!0);a.$c=new p("srcset");Na.IMG=
+a;a.V(Object.getPrototypeOf(d.document.createElement("IMG")),null,[a.Zc,a.$c]);return a}l(a,b);return a}(B));var sa=function(){function b(a){this.Ja=a}b.prototype.m=function(){return 1223===this.Ja.status?204:this.Ja.status};b.prototype.Error=function(){return 100>this.m()||599<this.m()?"Network request failed":null};b.prototype.Text=function(){return this.Ja.responseText};return b}(),Kb={na:XMLHttpRequest,yc:XMLHttpRequest.prototype.open,Qc:XMLHttpRequest.prototype.send},E=RegExp,ma=function(){function b(a,
+c){this.vb=new b.S.na(a,c);c&&(this.ba=c)}b.Qd=function(a){b.S=a};b.Rd=function(){var a=b.S.aa,c=b.S.sa;b.S={na:E,aa:function(b){var c=Qa(),d=a.apply(this,arguments);Ra(c);return d},sa:function(a){var b=Qa(),d=c.apply(this,arguments);Ra(b);return d}}};b.prototype.aa=function(a){return b.S.aa.apply(this.vb,arguments)};b.prototype.sa=function(a){return b.S.sa.apply(this.vb,arguments)};return b}();ma.S={na:E,aa:E.prototype.exec,sa:E.prototype.test};var yc=new ma("^(?:([^:/?#]+):)?(?://(?:([^/?#]*)@)?([^/?#:@]*)(?::([0-9]+))?)?([^?#]+)?(?:\\?([^#]*))?(?:#(.*))?$"),
+pb=/[#\/\?@]/g,zc=/[#\/\?]/g,Ac=/[#\?]/g,Bc=/[#]/g,Cc=new E("(/|^)(?:[^./][^/]*|\\.{2,}(?:[^./][^/]*)|\\.{3,}[^/]*)/\\.\\.(?:/|$)"),qb=/^(?:\.\.\/)*(?:\.\.$)?/;new ma("[^.]+[.](?:([^.]{2}[.][^.]{2})|([^.]+)|com[.]au)$");new ma("^([^=]*)(?:=(.*))?$");var na=function(){function b(a){if(a){if("string"===typeof a)if(a=yc.aa(""+a)){var b=a[7];a={F:F(a[1]),Z:F(a[2]),A:F(a[3]),Port:F(a[4]),P:F(a[5]),R:F(a[6]),ca:"string"===typeof b?b:null}}else a=null}else a={F:null,Z:null,A:null,Port:null,P:null,R:null,
+ca:null};this.b=a;this.Cache={N:null,za:null,bb:null,Pc:null,ed:null,Gc:null}}b.prototype.gb=function(){return!!this.b.F&&!!this.b.A};b.prototype.oc=function(){var a=this.b.F;return a&&("http"===a||"https"===a||"ftp"===a)};b.prototype.Ea=function(a){if(pb.test(a))return this;this.b.F=a?a.toLowerCase():null;a=this.Cache;a.N=null;a.za=null;return this};b.prototype.dc=function(){var a=this.b.F;return a&&a+":"};b.prototype.Vc=function(a){pb.test(a)||(this.b.Z=a,this.Cache.N=null)};b.prototype.ra=function(a){if(zc.test(a))return this;
+this.b.A=a;a=this.Cache;a.N=null;a.za=null;a.bb=null;a.Pc=null;a.ed=null;return this};b.prototype.xb=function(a){if(a){a=Number(a);if(a!==(a&65535))return;this.b.Port=""+a}else this.b.Port=null;a=this.Cache;a.N=null;a.za=null;a.bb=null};b.prototype.bc=function(){var a="",b=this.b.P;b&&(a+=b);(b=this.b.R)&&(a+="?"+b);(b=this.b.ca)&&(a+="#"+b);return""!==a?a:null};b.prototype.Xc=function(a){if(a){if(Ac.test(a))return;this.b.P=!this.b.A||/^\//.test(a)?a:"/"+a}else this.b.P=null;this.Cache.N=null};b.prototype.Yc=
+function(a){Bc.test(a)||(this.b.R=a,a=this.Cache,a.N=null,a.Gc=null)};b.prototype.Wc=function(a){this.b.ca=a;this.Cache.N=null};b.tc=function(a){return a.replace(/(^|\/)\.(?:\/|$)/g,"$1").replace(/\/{2,}/g,"/")};b.Pa=function(a){if(null===a)return null;a=this.tc(a);for(var b;(b=a.replace(Cc,"$1"))!=a;a=b);return a};b.Ca=function(a,c){var d=new b;a=a instanceof b?a:new b(a);c=c instanceof b?c:new b(c);var e=!!c.b.F;d.Ea(e?c.b.F:a.b.F);e=e||!!c.b.Z;d.Vc(e?c.b.Z:a.b.Z);e=e||!!c.b.A;d.ra(e?c.b.A:a.b.A);
+e=e||!!c.b.Port;d.xb(e?c.b.Port:a.b.Port);var e=e||!!c.b.P,h,g=c.b.P,m=a.b.P,k=d.oc()||!d.b.F;e?(h=g,k&&g&&"/"!==g[0]&&m&&(h=m.lastIndexOf("/")+1,h=(h?m.substring(0,h):"")+g)):h=m;k&&h&&(h="/"===h[0]?"/"+b.Pa(h).substring(1).replace(qb,""):b.Pa(h).replace(qb,""));d.Xc(h);e=e||!!c.b.R;d.Yc(e?c.b.R:a.b.R);e=e||!!c.b.ca;d.Wc(e?c.b.ca:a.b.R);return d};return b}();(function(b){function a(c,d){c instanceof na&&c.gb()||(c=a.Ca(d,c),D(c.gb(),"Attempted to create a non-absolute url",!1));return b.call(this,
+c.b)||this}l(a,b);a.prototype.Ea=function(a){D(!!a,"Cannot assign an empty or null scheme to an absolute uri",!1);return b.prototype.Ea.call(this,a)};a.prototype.ra=function(a){D(!!a,"Cannot assign an empty or null domain to an absolute uri",!1);return b.prototype.ra.call(this,a)};return a})(na);var Ya=new (function(b){function a(){var a=b.call(this,ob)||this;a.Da=new k("sendBeacon");var d=Object.getPrototypeOf(navigator);d.__pext=a;a.V(d,[a.Da],null);return a}l(a,b);return a}(B)),Mb=[],Ta=new A,
+Va=!1,Ua=[],n;(function(b){b[b.NONE=0]="NONE";b[b.ABP=1]="ABP";b[b.AB=2]="AB";b[b.UBO=3]="UBO";b[b.UBOE=4]="UBOE";b[b.ADG=5]="ADG";b[b.BRAVE=6]="BRAVE"})(n||(n={}));var ca=qa(),ta=d.Promise||sc,Wa="&ad_box_ &ad_channel= &ad_classid= &ad_height= &ad_keyword= &ad_network_ &ad_number= &ad_type= &ad_type_ &ad_url= &ad_zones= &adbannerid= &adclient= &adcount= &adgroupid= &admeld_ &admid= &adname= &adnet= &adnum= &adpageurl= &adsafe= &adserver= &adsize= &adslot= &adslots= &adsourceid= &adspace= &adstype= &adType=PREROLL& &adunit= &adurl= &adv_keywords= &advert_ &advertiserid= &advid= &advtile= &adzone= &banner_id= &clicktag=http &customSizeAd= &displayads= &expandable_ad_ &gIncludeExternalAds= &googleadword= &jumpstartadformat= &largead= &maxads= &popunder= &program=revshare& &prvtof=*&poru= &show_ad_ &showad= &simple_ad_ &smallad= &smart_ad_ &strategy=adsense& &type=ad& &UrlAdParam= &video_ads_ &videoadid= &view=ad&".split(" "),
+R="aHR0cHM6Ly9wYWdlYWQyLmdvb2dsZXN5bmRpY2F0aW9uLmNvbS9mYXZpY29uLmljbw== aHR0cHM6Ly9zMC4ybWRuLm5ldC8xNjM1OTA5LzF4MWltYWdlLmpwZw== aHR0cHM6Ly93d3cueWFob28uY29tL3B4LmdpZg== aHR0cHM6Ly9jb25uZWN0LmZhY2Vib29rLm5ldC9mYXZpY29uLmljbw== aHR0cHM6Ly9hZHMudHdpdHRlci5jb20vZmF2aWNvbi5pY28= aHR0cHM6Ly93d3cuZ29vZ2xlLWFuYWx5dGljcy5jb20vX191dG0uZ2lm aHR0cHM6Ly90cGMuZ29vZ2xlc3luZGljYXRpb24uY29tL2Zhdmljb24uaWNv aHR0cHM6Ly9zZWN1cmUuZm9vdHByaW50Lm5ldC95aWVsZG1hbmFnZXIvYXBleC9tZWRpYXN0b3JlL2FkY2hvaWNlXzEucG5n".split(" "),
+W="aHR0cHM6Ly90YXMtc2kudG9ib2Fkcy5jb20vanMvYWRpLTk0OTEwMzliLmpz aHR0cHM6Ly9zeW5jLmFkYXAudHYvc3luYw== aHR0cHM6Ly9nb29nbGUtY20ucC52ZXJ1dGEuY29tL2Fkc2VydmVyL2Nvb2tpZW1hdGNo aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9wYWdlYWQvZHJ0L3Vp aHR0cHM6Ly9zLmRwbXNydi5jb20vbm9fanFfZHBtXzU5MTI5YWFjZmI2Y2ViYmUyYzUyZjMwZWYzNDI0MjA5ZjcyNTJlODIubWluLmpz aHR0cHM6Ly93d3cuY21iZXN0c3J2LmNvbS92cGFpZC91bml0cy8xM18xXzkxL2luZnJhL2NtVGFnSU5MSU5FX0lOU1RSRUFNLmpz aHR0cHM6Ly9iLmFkbnhzLmNvbS9hYg== aHR0cHM6Ly92dXB1bHNlLmNvbS9zdGF0aWMvd2lkZ2V0Lmpz aHR0cHM6Ly9hLXNzbC5saWdhdHVzLmNvbS8=".split(" ");
+"http:"===d.location.protocol&&(W.push("aHR0cDovL21iLnphbS5jb20vbWIvaD9jYj0="),W.push("aHR0cDovL2xlYWRiYWNrLmFkdmVydGlzaW5nLmNvbS9jcy5hc2h4"));var rb="aHR0cHM6Ly9pbWFzZGsuZ29vZ2xlYXBpcy5jb20vanMvc2RrbG9hZGVyL2ltYTMuanM= aHR0cHM6Ly91cy11Lm9wZW54Lm5ldC93LzEuMC9zZA== aHR0cHM6Ly9wYWdlYWQyLmdvb2dsZXN5bmRpY2F0aW9uLmNvbS9wYWdlYWQvanMvZ29vZ2xlX3RvcF9leHAuanM= aHR0cHM6Ly9zZWN1cmUuYWRueHMuY29tL3R0ag== aHR0cHM6Ly9iaC5jb250ZXh0d2ViLmNvbS9iaC9ydHNldA== aHR0cHM6Ly9hZHMucnViaWNvbnByb2plY3QuY29tL2hlYWRlci8xMTg3Mi5qcw== aHR0cHM6Ly9hYXguYW1hem9uLWFkc3lzdGVtLmNvbS9lL2R0Yi9iaWQ= aHR0cHM6Ly9qcy5yZXZzY2kubmV0L2dhdGV3YXkvZ3cuanM= aHR0cHM6Ly93d3cuemVyZ25ldC5jb20vb3V0cHV0Lmpz aHR0cHM6Ly9uYXRpdmUuc2hhcmV0aHJvdWdoLmNvbS9hc3NldHMvc2ZwLmpz aHR0cHM6Ly9hZHMucnViaWNvbnByb2plY3QuY29tL2hlYWRlci84NjY3Lmpz aHR0cHM6Ly9nMi5ndW1ndW0uY29tL2phdmFzY3JpcHRzL2dndjIuanM= aHR0cHM6Ly93d3cuaW5zdGljYXRvci5jb20vdmFzc2V0cy9qYXZhc2NyaXB0cy9zZXJ2aWNlL2luc3RpY2F0b3ItaGItdjE1Lmpz".split(" "),
+Xa=[["iframe","google_ads_frame"],["iframe","google_ads_iframe"],["div","ADV-SLOT-"],["div","YFBMSN"],["div","google_dfp_"],["div","MarketGid"]],Dc=function(){function b(a){this.ga={};this.g=a;this.J={da:0,xa:0,ob:0};this.sc=this.gc();this.Ba=[]}b.prototype.I=function(a){return this.ga[a]};b.prototype.cc=function(){var a=[];Va&&a.push(t(fc,!0,Ua.length.toString()));return a};b.prototype.gc=function(){for(var a=[],b=W.slice(),d=0;d<this.g.a.nb;d++)a.push(ua("script",b));for(d=0;d<this.g.a.lb;d++)a.push(ua("",
+rb));for(d=0;d<this.g.a.pb;d++)a.push(Sb());for(d=0;d<this.g.a.mb;d++)a.push(Ob());this.J.da=a.length;return a};b.prototype.hc=function(){for(var a=[],b=W.slice(),d=0;d<b.length;d++)a.push(ua("script",b));this.J.da+=a.length;return a};b.prototype.Lb=function(a){function b(b){e.J.xa++;b[u]&&e.J.ob++;a(b)}function f(b,c){e.ga[b]=c!==n[r];a(t(b,c!==n[r]))}var e=this;U.w(function(a,b){f(T,b)});Aa.w(function(a,b){f(J,b)});Ba.w(function(a,b){f(I,b)});V.w(function(a,b){f(cb,b)});for(var h=0;h<this.J.da;h++)this.sc[h].then(b);
+this.g.a.C&&(Ta.w(function(b){e.ga[db]=!0;a(t(db,!0,JSON.stringify(b)))}),Lb(),Fa.w(function(b){e.ga[eb]=!0;a(t(eb,!0,b))}),Ea.w(function(b){e.ga[ya]=!0;a(t(ya,!0,b))}),d===d.top&&(Ga=d.setInterval(X,1E3)),Nb(),this.Ba=this.hc(),d.addEventListener("load",function(){for(var a=0;a<e.Ba.length;a++)e.Ba[a].then(b)}))};return b}();[R,rb,W].forEach(function(b){return b.forEach(function(a,b,f){return f[b]=d.atob(a)})});var ea=t($b,!1);d.addEventListener("message",function(b){b=b.data;"string"!==typeof b||
+0!==b.lastIndexOf(hb,hb.length+1)&&0!==b.lastIndexOf(ib,ib.length+1)||(ea[u]=!0,ea[Ma]=b)});var Za=[],wa;G(ec,va);!d[z]&&y(z,{});!d[ga]&&y(ga,{});var Ec=function(){function b(a){this.h={};this.Mb=Date.now();this.ja=this.ka=!1;this.g=a;this.o=new Dc(a);this.h[K]=[];this.h[fa]=0;this.h[u]=!1}b.prototype.Bc=function(){var a=!0;try{G(this.g.a.T,this.ka?this.g.a.Fa:this.g.a.Ga);G(this.g.a.qc,this.h[fa]);var b=Vb(this.h);this.ka&&!this.o.I(J)&&!this.o.I(I)&&b&&this.g.a.G&&(this.la(),da(this.g.a.X,this.h),
+this.ja=!0,this.Aa());a=!1}catch(f){this.h[K].push(void 0),this.la(),da(this.g.a.X,this.h),this.ja=!0,this.g.a.G&&this.Aa(),a=!1}finally{a&&this.g.a.G&&this.Aa()}};b.prototype.la=function(){this.g.a.C&&(this.h[K].push({Type:gc,Detected:!0}),this.h[K]=this.h[K].concat(this.o.cc()))};b.prototype.Eb=function(){var a=this,b=!1,f=this.g.a.nb+this.g.a.pb+this.g.a.lb+this.g.a.mb;d.addEventListener("unload",function(){a.ja||(a.la(),da(a.g.a.X,a.h))});this.o.Lb(function(c){a.h[K].push(c);if(b){if(c=!a.ja)if(c=
+!1,b){var d=a.o.J;d.xa===d.da&&void 0!==a.o.I(cb)&&void 0!==a.o.I(ya)&&(c=!0)}c&&(a.la(),da(a.g.a.X,a.h),a.ja=!0)}else c=a.o.J,d=a.g.a.Ra,c=!0===a.o.I(T)||!0===a.o.I(J)||!0===a.o.I(I)||c.ob>=d?fb:f-c.xa<=d&&!1===a.o.I(T)?hc:gb,c!==gb&&(a.ka=c===fb,a.h[u]=a.ka,a.h[fa]=Date.now()-a.Mb,a.Bc(),b=!0)})};b.prototype.Aa=function(){document.cookie=ic+"="+Date.now()+";max-age=86400";document.cookie=jc+"=1;max-age=86400";document.cookie=kc+"="+document.referrer+";path=/;max-age=10";var a=d.location,b=lc;a.pathname&&
+("/"!==a.pathname[0]&&(b+="/"),b+=a.pathname);var f="i10c.referrer="+encodeURIComponent(document.referrer);a.search?(b+=a.search,b+="&"+f):b+="?"+f;a.hash&&(b+=a.hash);d.location.href=b;document.close()};return b}(),Fc=function(b){function a(){return null!==b&&b.apply(this,arguments)||this}l(a,b);return a}(function(){return function(){}}()),sb=function(b){function a(a){if(!a){a=void 0;try{a=document.cookie}catch(h){a=""}var c;c=d;for(var e=ab(c);"http:"!==e&&"https:"!==e&&"cross"!==e&&c!=c.parent;)c=
+c.parent,e=ab(c);c=c.location;a={url:c.href,headers:{host:c.host,cookie:a}}}return b.call(this,a)||this}l(a,b);return a}(function(){function b(a,b){this.B=a;this.K=b;this.B=this.B||{};this.B.headers=this.B.headers||{};this.ia=this.B.headers["user-agent"]?Z(this.B.headers["user-agent"]):C;this.K||(this.K=new na(this.B.url));this.K.b.A||(a=new na("//"+this.B.headers.host),this.K.ra(a.b.A),this.K.xb(a.b.Port))}b.prototype.ac=function(){return this.B.headers.host};b.prototype.hb=function(a,b,d){return a.pa>=
+b&&a.pa<=d};b.prototype.host=function(a){return this.ac()===a};b.prototype.domain=function(a){return this.K.b.A===a};b.prototype.M=function(a){return a.test(this.K.bc())};b.prototype.protocol=function(a){return this.K.dc().toLowerCase()===a.toLowerCase()};b.prototype.hd=function(a){return a.test(this.B.headers.cookie)};b.prototype.cookie=function(a,b){return this.hd(new RegExp(a+"s*=[^;]*"+b+"[^;]*"))};b.prototype.u=function(a,b){switch(a){case "ie":a=3;break;case "chrome":a=1;break;case "edge":a=
+5;break;case "firefox":a=2;break;case "safari":a=4;break;default:a=0}return this.ia.U.c==a&&this.hb(this.ia.U,b?b:Number.MIN_VALUE,1E3)};b.prototype.Cb=function(a){switch(a){case "android":a=1;break;case "ios":a=2;break;case "mac":a=3;break;case "windows":a=4;break;case "linux":a=5;break;default:a=0}return this.ia.O.c==a&&this.hb(this.ia.O,Number.MIN_VALUE,Number.MAX_VALUE)};return b}()),Gc=function(b){function a(){return null!==b&&b.apply(this,arguments)||this}l(a,b);a.prototype.a=function(a){return this.j.a=
+Da(this.j.a,a,L)};return a}(function(){return function(b){this.j=b}}()),tb,Ca=function(b,a){new Fc(b.kd);var c=new sb(b.zd);new sb(b.sd);b=new Gc(a);c.u("chrome",46)&&b.a({G:!0});(c.u("chrome",46)||c.u("firefox",38)||c.u("safari",10)||c.u("ie",10)&&document&&10>document.documentMode||c.u("edge",12))&&b.a({Sa:!0});b.a({T:"MorphState",Fa:"blocked",Ga:"not-blocked",qc:"Abdt",nb:4,vc:0,lb:4,pb:4,mb:4,Ra:3,C:!1,X:"/g00/2_d3d3LmJvc3Rvbi5jb20%3D_/TU9SRVBIRVVTOCRodHRwOi8vY3AtaW4ubmFub3Zpc29yLmlvL2NsaWVudHByb2ZpbGVyL2FkYj9pMTBjLm1hcmsuc2NyaXB0LnR5cGU%3D_$/$/$"});
+c.host(d.atob("d3d3LmNuZXQuY29t"))&&b.a({ad:"detecting"});c.host(d.atob("d3d3LmZvY3VzLmRl"))&&b.a({vc:4});(c.host(d.atob("d3d3Lm1zbi5jb20="))||c.host(d.atob("aW50MS5tc24uY29t")))&&b.a({T:"Abd",Fa:1,Ga:0,Ra:4,X:"//tu9srvbirvvtocrjcc1pbi5uyw5vdmlzb3iuaw80.g00.msn.com/g00/2_d3d3Lm1zbi5jb20%3D_/TU9SRVBIRVVTOCRodHRwOi8vY3AtaW4ubmFub3Zpc29yLmlvL2NsaWVudHByb2ZpbGVyL2FkYj9pMTBjLm1hcmsuc2NyaXB0LnR5cGU%3D_$/$/$"});c.host(d.atob("d3d3Lm1zbi5jb20="))&&(c.M(/\/(?:en-ca\/?(?:[?#]|$))/i)||c.M(/\/(?:en-ca\/(?:autos|news|money|sports|travel|health|lifestyle|entertainment|foodanddrink|weather|video))/i)||
+c.M(/\/(?:fr-ca\/?(?:[?#]|$))/i)||c.M(/\/(?:fr-ca\/(?:finances|voyage|actualites|sports|style-de-vie|divertissement|cuisine-et-vins|meteo|video))/i)||c.M(/\/(?:en-gb\/?(?:[?#]|$))/i)||c.M(/\/(?:en-gb\/(?:cars|news|money|sport|health|lifestyle|entertainment|foodanddrink|weather))/i)||c.M(/\/(?:en-us\/?(?:[?#]|$))/i)||c.M(/\/(?:en-us\/(?:autos|news|money|sports|travel|health|lifestyle|entertainment|tv|movies|music|foodanddrink|weather|video))/i))&&c.u("safari",10)&&c.Cb("ios")&&b.a({G:!0});c.host(d.atob("d3d3Lm1zbi5jb20="))&&
+c.u("safari",10)&&c.Cb("mac")&&b.a({G:!0});c.host(d.atob("aW50MS5tc24uY29t"))&&c.u("safari",10)&&b.a({G:!0});(c.host(d.atob("d3d3Lm1zbi5jb20="))||c.host(d.atob("aW50MS5tc24uY29t")))&&d&&1===d["ad-instart2"]&&b.a({G:!1});(c.host(d.atob("d2VhdGhlci5jb20="))||c.host(d.atob("c3RhZ2Uud2VhdGhlci5jb20=")))&&!c.u("chrome",46)&&b.a({Sa:!1});c.host(d.atob("d3d3LmVkbXVuZHMuY29t"))&&c.u("safari",10)&&b.a({G:!0});c.host(d.atob("d3d3LmVkbXVuZHMuY29t"))&&c.u("chrome",46)&&.1>=Math.random()&&b.a({C:!0});c.host(d.atob("d3d3LmVkbW9udG9uam91cm5hbC5jb20="))&&
+.1>=Math.random()&&b.a({C:!0});c.host(d.atob("d3d3LnNwb3JjbGUuY29t"))&&.1>=Math.random()&&b.a({C:!0});c.host(d.atob("d3d3Lndvd2hlYWQuY29t"))&&.1>=Math.random()&&b.a({C:!0});c.host(d.atob("d3d3LmxvbGtpbmcubmV0"))&&.1>=Math.random()&&b.a({C:!0});c.host(d.atob("d3d3LnNoZXJkb2cuY29t"))&&.1>=Math.random()&&b.a({C:!0});c.host(d.atob("d3d3Lm5hc2RhcS5jb20="))&&.1>=Math.random()&&b.a({C:!0});return b.j}({kd:{},sd:tb={url:d.location.href,headers:{host:d.location.host,cookie:document.cookie}},zd:tb},{}),ub=
+function(){var b=n.NONE,a=Object.getOwnPropertyDescriptor(Element.prototype,d.atob(bb));(a&&a[d.atob(H)]&&a[d.atob(H)].name)===d.atob(H)&&(b=n.AB);return b}();if(w()){var oa=document.createElement("link"),vb=!1;oa.rel="preload";oa.addEventListener("error",function(){vb=!0});ub!==n[r]&&ha("createElement")&&ha("createRange")?(d.setTimeout(function(){vb?U.f(ia,n[r]):U.f(ia,n[T])},500),document.head.appendChild(oa),oa.href=Math.random().toString(36).substr(2,5)+"://"):U.f(ia,n[r])}else U.f(ia,n[r]);if(w()){var pa=
+document.createElement("link");pa.rel="preload";var wb=!1;pa.onerror=function(){wb=!0};ub!==n[r]&&ha("createElement")&&ha("createRange")?(d.setTimeout(function(){wb?V.f(ja,n[r]):V.f(ja,n[T])},500),document.head.appendChild(pa),pa.href=Math.random().toString(36).substr(2,5)+"://"):V.f(ja,n[r])}else V.f(ja,n[r]);var xb=!1;if(w()&&Object.getOwnPropertyDescriptor(Element.prototype,d.atob(bb))[d.atob(H)].name!==d.atob(H)){var yb=0;try{new (d[d.atob(Zb)])({toString:function(){yb++}})}catch(b){}2<=yb&&(xb=
+!0)}xb?Ba.f(I,n[I]):Ba.f(I,n[r]);var zb=!1;if(w()){var Hc=d[ac],Ab=Object.getOwnPropertyDescriptor(d[bc].prototype,cc),Bb=Ab&&Ab[d.atob(H)],Ic=Bb&&-1===Bb.toString().indexOf(dc);Hc&&Ic&&(zb=!0)}zb?Aa.f(J,n[J]):Aa.f(J,n[r]);if(d===top&&Ca.a.Sa){var Jc=new Ec(Ca);Wb(Ca);Yb();Jc.Eb()}}(this.fc=this.fc||{})})(window);
+
+}
+})();
+</script>
+<!-- includes\2-column.master -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
+<meta name="viewport" content="width=device-width" />
+
+
+<!-- START  page level head content -->
+<script>
+var propVar = "Press Release Page";
+var propVar15 = "News";
+var myPage='companynewsstory';
+sectionId = 'liNews'; //section tab
+breadCrumbId = 'miHeadlines';//page
+is_dartSite = "mktsnews";
+is_dartZone = "article";
+googlechannel = 'news';
+googlehints = 'business news, financial news, breaking news';
+/*
+SRA ad definitions, this should always correspond with the ad calls on the page
+if an ad is removed from the page, it should be removed from here as well
+*/
+
+var useSRA = true;
+var premakeAds = [];
+premakeAds.push({'label':'ad', 'size':'300x250,300x600','site':is_dartSite,'zone':is_dartZone});
+premakeAds.push({'label':'ad', 'size':'300x250,300x600','site':'mop','zone':is_dartZone});
+premakeAds.push({'label':'ad', 'size':'300x250,300x600,160x600','site':'btf','zone':is_dartZone});
+function _NewsTicker(newsSymbol)
+{
+	var qtSymbol;
+	var pos;
+	var query = window.location.search.substring(1);
+	var params = query.split('&');
+	var parm;
+	var consumer = '';
+	var i;
+
+	for (i=0;i<params.length;i++)
+	{
+		parm = params[i].split('=');
+
+		if(parm[0].toLowerCase() == 'consumer')
+		{
+			consumer = parm[1];
+			break;
+		}
+	}
+
+	if (consumer.toLowerCase() != 'nol')
+	{
+		pos = newsSymbol.indexOf(':');
+
+		if(pos < 0)
+			qtSymbol = newsSymbol;
+		else
+			qtSymbol = newsSymbol.substr(pos+1);
+
+		top.document.location = 'http://www.nasdaq.com/symbol/' + qtSymbol.toLowerCase();
+	}
+	else
+		return;
+}
+
+</script>
+
+<title>AmTrust Financial Services, Inc. Appoints Adam Karkowsky as New Chief Financial Officer - NASDAQ.com</title>
+<!-- aspx\press-release-news-story.aspx -->
+<meta name="keywords" content="nasdaq&#32;news,&#32;market&#32;headlines,&#32;market&#32;news,&#32;stock&#32;market&#32;headlines,&#32;stock&#32;market&#32;news" />
+<meta name="news_keywords" content="AFSI,AFSI&#32;news,AFSI&#32;headlines,AFSI&#32;stock,AmTrust&#32;Financial&#32;Services&#32;Inc.,Market&#32;Headlines,Stocks,World&#32;Markets,Insurance" />
+<meta name="description" content="NEW&#32;YORK,&#32;June&#32;05,&#32;2017--&#32;AmTrust&#32;Financial&#32;Services,&#32;Inc.&#32;today&#32;announced&#32;that&#32;Adam&#32;Karkowsky,&#32;a&#32;seasoned&#32;finance&#32;executive&#32;and&#32;most&#32;recently." />
+<link rel="canonical" href="http://www.nasdaq.com/press-release/amtrust-financial-services-inc-appoints-adam-karkowsky-as-new-chief-financial-officer-20170605-00560" />
+<meta name="Robots" content="index,follow" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.nasdaq.com/article/amtrust-financial-services-inc-appoints-adam-karkowsky-as-new-chief-financial-officer-20170605-00560" />
+<meta itemprop="description" content="NEW&#32;YORK,&#32;June&#32;05,&#32;2017--&#32;AmTrust&#32;Financial&#32;Services,&#32;Inc.&#32;today&#32;announced&#32;that&#32;Adam&#32;Karkowsky,&#32;a&#32;seasoned&#32;finance&#32;executive&#32;and&#32;most&#32;recently." />
+<meta itemprop="inLanguage" content="en-US" />
+<!-- for FB Like -->
+<meta property="og:site_name" content="NASDAQ.com"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="AmTrust&#32;Financial&#32;Services,&#32;Inc.&#32;Appoints&#32;Adam&#32;Karkowsky&#32;as&#32;New&#32;Chief&#32;Financial&#32;Officer&#32;-&#32;NASDAQ.com" />
+<meta property="og:image" content="http://www.nasdaq.com/images/dreamit.jpg" />
+<meta property="og:url" content="http://www.nasdaq.com/press-release/amtrust-financial-services-inc-appoints-adam-karkowsky-as-new-chief-financial-officer-20170605-00560" />
+<!-- /for FB Like -->
+<!-- END page level head content -->
+
+
+<!--********************************* BEGIN includes/global-references.inc **************************-->
+<!-- global stylesheets -->
+<link rel="stylesheet" type="text/css" href="http://www.nasdaq.com/includes/global.min-05092017v1.css" />
+<!--[if lt IE 9]>
+<script src="http://www.nasdaq.com/includes/html5shiv-printshiv.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.nasdaq.com/includes/global-ie8.min-11212015v1.css" />
+<![endif]-->
+
+<!-- favicon and shortcut icons -->
+<link rel="apple-touch-icon" href="http://www.nasdaq.com/images/Q_apple.png"/>
+<link rel="shortcut icon" href="http://www.nasdaq.com/images/qfav.ico" type="image/ico" />
+<link rel="icon" href="http://www.nasdaq.com/images/qfav.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="http://www.nasdaq.com/images/qfav.ico" type="image/x-icon"/>
+<link rel="stylesheet" href="http://cdn.ideamelt.com/1.6/css/ideamelt.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+
+<!-- scripts -->
+
+<!-- district M -->
+<script type="text/javascript" src="//hi.districtm.ca/v3.0.103185.js"></script>
+<script type="text/javascript" src="//hi.districtm.ca/currency.js"></script>
+<script type="text/javascript" src="//cdn.districtm.ca/v4.1.header.min.js"></script>
+
+<!-- OpenX -->
+<script type="text/javascript" src="//ox-d.nasdaq.servedbyopenx.com/w/1.0/jstag?nc=3244-NASDAQ"></script>
+
+<!-- Casale -->
+<script>window.Headertag_defer_queue = [];</script>
+<script src="http://js.indexww.com/ht/headertag-nasdaq.js"></script>
+
+<!-- GPT -->
+<script async="true" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+
+<script src="http://www.nasdaq.com/dynamic_includes/marketstatus.js"></script>
+<script src="http://www.nasdaq.com/aspx/marketstatus.aspx"></script>
+
+<script src="http://www.nasdaq.com/includes/jquery.min.js"></script>
+<script src="http://www.nasdaq.com/includes/global.min-06022017v1.js"></script>
+
+<!-- the dynamic css container -->
+<style type="text/css" title="dynamic"></style>
+<script type="text/javascript">
+//<![CDATA[
+updateSiteTheme();
+nasdaqIndexRow.init("NasdaqDjiaspx");
+//]]>
+</script>
+<script type='text/javascript' src='//rndntpmgnj-a.akamaihd.net/NA2L50A6M.js' async></script>
+
+<!-- Begin Dynamic Yield -->
+<script type="text/javascript" src="//cdn.dynamicyield.com/api/8767356/api_dynamic.js"></script>
+<script type="text/javascript" src="//cdn.dynamicyield.com/api/8767356/api_static.js"></script>
+<!-- End Dynamic Yield -->
+
+<!--********************************* END includes/global-references.inc **************************-->
+
+
+    <!-- START page level style/script -->
+    <link rel="stylesheet" type="text/css" href="http://www.nasdaq.com/includes/video-thumbnail.css" />
+    <link rel="stylesheet" type="text/css" href="http://www.nasdaq.com/includes/stream-7222014v1.css" />
+    <!-- <link rel="stylesheet" type="text/css" href="http://cdn.realtidbits.com/libs/v1/comments/comments.css" id="realtidbits-comments-css">-->
+    <style type="text/css">
+        div#noreturnexp div ul{margin:0px}
+        .increaseFont, .decreaseFont, .resetFont {
+	        float: left;
+	        text-decoration: none;
+        }
+        .decreaseFont:hover, .resetFont:hover, .increaseFont:hover {
+	        color: #333;
+            text-decoration: none;
+        }
+        .decreaseFont {
+            font-size: 17px;
+            font-weight: bold;
+            height: 17px;
+            padding: 11px 0 0;
+            text-align: center;
+            width: 15px;
+        }
+        .resetFont {
+            font-size:23px;
+            font-weight:bold;
+            height:23px;
+            padding:4px 0 0;
+            text-align:center;
+            width:20px;
+        }
+        .increaseFont {
+            font-size: 28px;
+            font-weight: bold;
+            height: 26px;
+            text-align: center;
+            width: 21px;
+        }
+        .box-module-full {width: 200px; padding-left: 10px;margin-left: 15px;margin-bottom:15px;}
+        ul.related-articles li {list-style-type:none;}
+		img {max-width: 650px;}
+		h1.newsartsubtitle {display:none}
+    </style>
+    <script type="text/javascript" src="http://www.nasdaq.com/includes/modalbox.js"></script>
+    <script type="text/javascript">
+
+    $(function(){ // document ready
+
+	    if (!!$('.sticky').offset()) { // make sure ".sticky" element exists
+            var stickyTop = $('.sticky').offset().top; // returns number
+		    //var stickyTop2 = $('#sticky-container').offset().top;
+		    //var stickyLeft2 = $('#sticky-container').offset().left;
+		    //var sheight = $('#sticky-container').height();
+		    //var bottom = $('footer').offset().top;
+		    //var distance = bottom - stickyTop2 - sheight;
+	        $(window).scroll(function(){ // scroll event
+		          var windowTop = $(window).scrollTop(); // returns number
+		          if (stickyTop < windowTop)
+			      {
+		            $('.sticky').css({ position: 'fixed', top: 0 });
+		          }
+		          else
+			      {
+		            $('.sticky').css('position','static');
+		          }
+    /*
+   		          if (stickyTop2 < windowTop)
+			      {
+				    if((windowTop + sheight) < bottom)
+					    $('#sticky-container').css({ position: 'fixed', top: '0px', left: stickyLeft2+"px" });
+				    else
+				    {
+					    $('#sticky-container').css({ position: 'relative', top: distance+"px" });
+				    }
+			      }
+			      else
+			      {
+				    $('#sticky-container').css('position','static');
+			      }
+    */
+            });
+        }
+
+	    //$('#sign_in_modal').css({ top: $('#stocial-log-in').offset().top+"px" });
+
+      // Reset Font Size
+      var originalFontSize = $('#articlebody p').css('font-size');
+      $(".resetFont").click(function(){
+      $('#articlebody p').css('font-size', originalFontSize);
+      });
+      // Increase Font Size
+      $(".increaseFont").click(function(){
+  	    var currentFontSize = $('#articlebody p').css('font-size');
+ 	    var currentFontSizeNum = parseFloat(currentFontSize, 10);
+        var newFontSize = currentFontSizeNum*1.2;
+	    $('#articlebody p').css('font-size', newFontSize);
+	    return false;
+      });
+      // Decrease Font Size
+      $(".decreaseFont").click(function(){
+  	    var currentFontSize = $('#articlebody p').css('font-size');
+ 	    var currentFontSizeNum = parseFloat(currentFontSize, 10);
+        var newFontSize = currentFontSizeNum*0.8;
+	    $('#articlebody p').css('font-size', newFontSize);
+	    return false;
+      });
+
+	    //StreetAuthority banner
+
+	    if($("#ArticleBodyDate .dateCreated span a").text()=="StreetAuthority")
+	    {
+		    dynamicHTMLManager.addSingleComponent("a", "SABannerLink", [{"href":"http://web.streetauthority.com/m/hyi/2012/ehya27/hyi-sample.asp?TC=HY2255","target":"_blank"}], "", "articleText");
+		    dynamicHTMLManager.addSingleComponent("img", "SABanner", [{"src":"http://www.nasdaq.com/images/10-retirement-savings-stock.png","width":"630"}], "", "SABannerLink");
+	    }
+
+    });
+
+	    function current(tab) {
+		    document.getElementById("most-popular").getElementsByTagName("a")[0].className = "tab-feature-a";
+		    document.getElementById("highest-rated").getElementsByTagName("a")[0].className = "tab-feature-a";
+		    document.getElementById("latest-articles").getElementsByTagName("a")[0].className = "tab-feature-a";
+
+		    switch (tab) {
+			    case "most-popular":
+				    document.getElementById('_popular').style.display = "block";
+				    document.getElementById('_highest').style.display = "none";
+				    document.getElementById('_latest').style.display = "none";
+				    break;
+
+			    case "highest-rated":
+				    document.getElementById('_popular').style.display = "none";
+				    document.getElementById('_highest').style.display = "block";
+				    document.getElementById('_latest').style.display = "none";
+				    break;
+
+			    case "latest-articles":
+				    document.getElementById('_popular').style.display = "none";
+				    document.getElementById('_highest').style.display = "none";
+				    document.getElementById('_latest').style.display = "block";
+				    break;
+		    }
+		    document.getElementById(tab).getElementsByTagName("a")[0].className = "tab-feature-a-mo on";
+	    }
+
+
+    function articleUser()
+    {
+	    defaultUserBase.call(this);
+    }
+
+    articleUser.prototype = new defaultUserBase();
+
+    articleUser.prototype.constructor = articleUser;
+
+    articleUser.prototype.onEchoEventSubscription = function()
+    {
+	    Echo.Events.subscribe({
+	        "topic": "Echo.StreamServer.Controls.Submit.onPostComplete",
+	        "handler": function(topic, data) {
+	    	    setTimeout('triggerAsyncOmnitureEvent("event7", "community:comment:write")',200);
+			    //alert("comment submitted");
+	        }
+	    });
+    }
+
+    articleUser.prototype.onEchoInitApps = function()
+    {
+	    //notifier
+	    Echo.Loader.initApplication({
+		    'script': 'http://ideamelt.com/static/apps/nasdaq/im.thenotifier.js',
+		    'component': 'IdeaMelt.Apps.TheNotifier',
+		    'config': {
+			    "target": document.getElementById("notifier"),
+                "appkey": 'echo.ideamelt.notifier.nasdaq.prod',
+                "imAppkey": IMAPIKey,
+                "baseDomain": 'http://www.nasdaq.com/',
+                "useSecureAPI": true,
+                "ready": function() {
+	          	    notifier = this;
+				    setTimeout(bindNotifierTracking,200);
+               }
+                //"debug": true
+		    }
+	    });
+
+	    //RTB comments
+
+	    if(document.location.href.indexOf("RTBoff=true")==-1)
+	    {
+	    Echo.Loader.initApplication({
+			    "script": "http://cdn.realtidbits.com/libs/v3/comments/comments.min.js",
+			    "component": "RTB.Apps.Comments",
+			    "config": {
+				    "cssURL": "http://realtidbits.com/libs/v3/comments/comments.css",
+				    "streamQuery": 'childrenof:'+document.location.href+' -user.state:ModeratorBanned -state:SystemFlagged,ModeratorFlagged,ModeratorDeleted,ModeratorBanned -source:Twitter sortOrder:reverseChronological itemsPerPage:15 safeHTML:permissive children:1 -state:SystemFlagged,ModeratorFlagged,ModeratorDeleted,ModeratorBanned -source:Twitter',
+				    "target": document.getElementById('articlecomments'),
+				    "appkey": 'echo.realtidbits.commenting.nasdaq.prod',
+				    "ready": function() {
+					    comments = this;
+					    IdeaMelt.EventHooks.RTBComments.notifications(comments, true, true);
+					    IdeaMelt.EventHooks.RTBComments.stories(comments, 'article', document.location.href);
+				    },
+				    "components": {
+					    "Submit": {
+						    "plugins": [{
+							    "name": "PostButtonTypeChange",
+							    "url": "http://ideamelt.com/static/apps/nasdaq/postbutton.plugin.js"
+						    }]
+					    }
+				    },
+				    "settings": {
+					    "plugins": {
+						    "reply": [{
+							    "name": "PostButtonTypeChange",
+							    "url": "http://ideamelt.com/static/apps/nasdaq/postbutton.plugin.js"
+						    }]
+					    },
+					    "sharing": {"enabled": true},
+					    "auth": {"loginButton": false},
+					    "pageLike": {"enabled": false},
+					    "emailSubscribe": {"enabled": false},
+					    "tabs": {
+						    "social": false,
+						    "community": false
+					    },
+					    "tokbox": {"enabled": false},
+					    "topComments": {
+						    "enabled": false
+					    }
+				    }
+			    }
+		    });
+	    }
+    }
+
+    articleUser.prototype.onEchoNotLoggedIn = function()
+    {
+	    $("#comment-log-in").css("display","block");
+    };
+
+    articleUser.prototype.onNASDAQUserNotLoggedIn = function()
+    {
+	    if(document.location.href.indexOf("RTBoff=true")==-1)
+	    {
+		    addScript("http://cdn.echoenabled.com/sdk/v3/loader.js", false, "initRTB()");
+	    }
+    }
+
+    function initRTB()
+    {
+	    $(document).ready(function() {
+
+    Echo.Loader.initEnvironment(function() {
+
+    Echo.Loader.download([
+		    {'url': 'https://community.nasdaq.com/common/scripts/jquery.cookie.js'},
+		    {'url': 'https://community.nasdaq.com/common/templates/backplane-channel.ashx'},
+		    {'url': 'http://ideamelt.com/static/apps/nasdaq/im.library.js'},
+		    {'url': 'http://ideamelt.com/static/apps/nasdaq/postbutton.plugin.js'}
+	    ], function() {
+
+	    $.get(Backplane.getChannelID(), {}, function (data) {
+		    if (!data || !data.length) return;
+		    if (data.pop().message.type == "identity/login") {
+			    Backplane.expectMessagesWithin(5, ["identity/ack"]);
+		    }
+	    }, "jsonp");
+
+        $.cookie('bp_channel_id', Backplane.getChannelID(), { path: '/', domain: '.nasdaq.com'});
+
+        // disabling AJAX transport for IE
+        if ($.browser && $.browser.msie && Echo && Echo.API) {
+            Echo.API.Transports.AJAX.available = function() {
+                return false;
+            };
+        }
+
+        Echo.Events.subscribe({
+	        "topic": "Echo.UserSession.onInit",
+	        "handler": function(topic, data) {
+	    	    if(Echo.UserSession.data.identities.length != 0) {
+	    		    ndaqUser.onEchoLoggedIn();
+	    	    }
+	    	    else if (Echo.UserSession.data.identities.length == 0) {
+	    		    ndaqUser.onEchoNotLoggedIn();
+	    	    }
+	        }
+	    });
+
+	    ndaqUser.onEchoEventSubscription();
+
+        // init UserSession via HTTPS
+        Echo.UserSession({
+            "appkey": "echo.ideamelt.notifier.nasdaq.prod",
+            "useSecureAPI": true
+        });
+
+	    IdeaMelt.init({api_key: 'dev.nasdaq'});
+
+        // now init all IdeaMelt apps
+
+		    Echo.Loader.initApplication({
+			    "script": "http://cdn.realtidbits.com/libs/v3/comments/comments.min.js",
+			    "component": "RTB.Apps.Comments",
+			    "config": {
+				    "cssURL": "http://realtidbits.com/libs/v3/comments/comments.css",
+				    "streamQuery": 'childrenof:'+document.location.href+' -user.state:ModeratorBanned -state:SystemFlagged,ModeratorFlagged,ModeratorDeleted,ModeratorBanned -source:Twitter sortOrder:reverseChronological itemsPerPage:15 safeHTML:permissive children:1 -state:SystemFlagged,ModeratorFlagged,ModeratorDeleted,ModeratorBanned -source:Twitter',
+				    "target": document.getElementById('articlecomments'),
+				    "appkey": 'echo.realtidbits.commenting.nasdaq.prod',
+				    "ready": function() {
+					    comments = this;
+					    IdeaMelt.EventHooks.RTBComments.notifications(comments, true, true);
+					    IdeaMelt.EventHooks.RTBComments.stories(comments, 'article', document.location.href);
+				    },
+				    "components": {
+					    "Submit": {
+						    "plugins": [{
+							    "name": "PostButtonTypeChange",
+							    "url": "http://ideamelt.com/static/apps/nasdaq/postbutton.plugin.js"
+						    }]
+					    }
+				    },
+				    "settings": {
+					    "plugins": {
+						    "reply": [{
+							    "name": "PostButtonTypeChange",
+							    "url": "http://ideamelt.com/static/apps/nasdaq/postbutton.plugin.js"
+						    }]
+					    },
+					    "sharing": {"enabled": true},
+					    "auth": {"loginButton": false},
+					    "pageLike": {"enabled": false},
+					    "emailSubscribe": {"enabled": false},
+					    "tabs": {
+						    "social": false,
+						    "community": false
+					    },
+					    "tokbox": {"enabled": false},
+					    "topComments": {
+						    "enabled": false
+					    }
+				    }
+			    }
+		    });
+
+    });
+    });
+    });
+    }
+    ndaqUser = new articleUser();
+
+    </script>
+    <!-- END page level style/script -->
+
+
+<script type="text/javascript">
+    var server_time = new Date(1496682223233);
+</script>
+<style type="text/css">
+#container.wrap {background-color:#ffffff}
+</style>
+</head>
+
+<body id="body">
+
+<script src="http://www.nasdaq.com/includes/advertisement.js"></script>
+<script type="text/javascript">checkABDetected();</script>
+
+<!--[if IE 8]> <script src="http://www.nasdaq.com/includes/respond.js"></script> <![endif]-->
+<!--[if IE 7]> <script src="http://www.nasdaq.com/includes/zindex.js"></script> <![endif]-->
+
+
+
+	<!--*************************************** BEGIN includes/global-masthead.inc ****************************************-->
+
+<header id="global_header" data-role="header">
+	<!--// Begin Hot Topics -->
+    <div id="hot_topics">
+        <div><span>Hot Topics:</span></div>
+        <a href="http://www.nasdaq.com/etfs" onclick="triggerAsyncOmnitureClickEvent('nav:hot-topics:ETFs')">ETFs</a> <span>|</span>
+        <a href="https://stocktracker.nasdaq.com/smart-portfolio/welcome" onclick="triggerAsyncOmnitureClickEvent('nav:hot-topics:SmartPT')">Smart Portfolio</a> <span>|</span>
+        <a href="http://www.nasdaq.com/forex/" onclick="triggerAsyncOmnitureClickEvent('nav:hot-topics:Currencies')">Currencies</a> <span>|</span>
+        <a href="http://www.nasdaq.com/investing/online-brokers/" onclick="triggerAsyncOmnitureClickEvent('nav:hot-topics:Broker')">Online Broker Center</a>
+    </div>
+	<!--// End Hot Topics -->
+    <nav id="global_nav">
+        <div id="header_wrap">
+            <div class="logo">
+                <a href="http://www.nasdaq.com/" target="_self" onclick="triggerAsyncOmnitureClickEvent('nav:links:homepage')">
+                    <span></span>
+                </a>
+            </div>
+            <div id="nasdaq_login">
+                <div id="nWelcome" class="floatR">
+                &nbsp;
+                </div>
+                <!--// Begin notifier placeholder -->
+                <div id="global_notifier" class="floatR">
+					<div class='ideaMelt' melt-notifier></div>
+				</div>
+                <!--// End notifier placeholder -->
+            </div>
+        </div>
+        <div class="clearB"></div>
+        <ul class="js-nav-toggle primary" id="js-nav-toggle">
+            <li id="site-nav-company">
+                <a href="http://business.nasdaq.com" data-click-event="nav:company:company-hub" onclick="triggerAsyncOmnitureClickEvent('nav:company:company-hub')">
+					<span>Our Businesses</span>
+				</a>
+                <div class="global_dropdown">
+                    <div class="floatL half">
+                        <ul class="company-drop">
+                            <li>
+                                <a href="http://business.nasdaq.com/tech" onclick="triggerAsyncOmnitureClickEvent('nav:company:tech')">
+								  <span>
+                                    <strong>Tech</strong>
+                                  </span>
+                                </a>
+                                <div class="clearB"></div>
+                                <a href="http://business.nasdaq.com/tech" onclick="triggerAsyncOmnitureClickEvent('nav:company:tech')">
+									Differentiate With <br />Technology
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://business.nasdaq.com/trade" onclick="triggerAsyncOmnitureClickEvent('nav:company:trade')">
+								  <span>
+                                    <strong>Trade</strong>
+                                  </span>
+                                </a>
+                                <div class="clearB"></div>
+                                <a href="http://business.nasdaq.com/trade" onclick="triggerAsyncOmnitureClickEvent('nav:company:trade')">
+                                    Trade Multiple <br />Asset Classes
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://business.nasdaq.com/track" onclick="triggerAsyncOmnitureClickEvent('nav:company:track')">
+								<span>
+                                  <strong>Track</strong>
+                                </span>
+                                </a>
+                                <div class="clearB"></div>
+                                <a href="http://business.nasdaq.com/track" onclick="triggerAsyncOmnitureClickEvent('nav:company:track')">
+                                    Track the Markets
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="displayIB half">
+                        <ul class="company-drop">
+                            <li>
+                                <a href="http://business.nasdaq.com/intel" onclick="triggerAsyncOmnitureClickEvent('nav:company:intel')">
+								  <span>
+                                    <strong>Intel</strong>
+                                  </span>
+								</a>
+                                <div class="clearB"></div>
+                                <a href="http://business.nasdaq.com/intel" onclick="triggerAsyncOmnitureClickEvent('nav:company:intel')">
+									Leverage Actionable <br />Intelligence
+								</a>
+                            </li>
+                            <li>
+                                <a href="http://business.nasdaq.com/list" onclick="triggerAsyncOmnitureClickEvent('nav:company:list')">
+								  <span>
+                                    <strong>List</strong>
+                                  </span>
+								</a>
+                                <div class="clearB"></div>
+                                <a href="http://business.nasdaq.com/list" onclick="triggerAsyncOmnitureClickEvent('nav:company:list')">
+									Access Capital
+								</a>
+								<div class="clearB"></div>
+                                <a href="https://listingcenter.nasdaq.com/" onclick="triggerAsyncOmnitureClickEvent('nav:company:list')">
+									Listing Center
+								</a>
+                            </li>
+                            <li>
+                                <a href="http://business.nasdaq.com/discover" onclick="triggerAsyncOmnitureClickEvent('nav:company:discover')">
+								  <span>
+                                    <strong>Discover</strong>
+                                  </span>
+								</a>
+                                <div class="clearB"></div>
+                                <a href="http://business.nasdaq.com/discover" onclick="triggerAsyncOmnitureClickEvent('nav:company:discover')">
+									Discover Nasdaq
+								</a>
+                              <div class="clearB"></div>
+                              <a href="http://business.nasdaq.com/marketinsite" onclick="triggerAsyncOmnitureClickEvent('nav:company:discover')">
+                                Nasdaq Blog
+                              </a>
+                            </li>
+                        </ul>
+                    </div>
+					<!--// START includes/main-nav-company-featured.inc -->
+<table>
+  <tbody>
+    <tr>
+      <td valign="top" width="100" class="paddingT5px">
+        <a href="http://business.nasdaq.com/cnbc-d50" onclick="triggerAsyncOmnitureClickEvent('nav:company:featured')">
+          <img src="http://www.nasdaq.com/images/cnbcdisruptor_100x100v2.png" width="100" height="100" alt="corporate featured" />
+        </a>
+      </td>
+      <td valign="top" class="floatL paddingL15px marginL5px">
+        <a href="http://business.nasdaq.com/cnbc-d50" onclick="triggerAsyncOmnitureClickEvent('nav:company:featured')">
+          <span>
+            <strong>2017 CNBC Disruptor 50</strong>
+          </span>
+        </a>
+        <div class="clearB"></div>
+        <a href="http://business.nasdaq.com/cnbc-d50" onclick="triggerAsyncOmnitureClickEvent('nav:company:featured')">
+          Learn more about the CNBC</br> Disruptor 50
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!--// END includes/main-nav-company-featured.inc -->
+                </div>
+            </li>
+            <li id="site-nav-quotes">
+                <a href="http://www.nasdaq.com/quotes" data-click-event="nav:quotes:quotes-hub" onclick="triggerAsyncOmnitureClickEvent('nav:quotes:quotes-hub')">
+					<span>Quotes</span>
+				</a>
+                <div class="global_dropdown">
+                    <div class="floatL half">
+                        <ul class="first-drop">
+                            <li>
+                                <span>
+									<i class="fa fa-suitcase" style="margin-left:-18px"></i>
+									<span>Quotes</span>
+                                </span>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/" onclick="triggerAsyncOmnitureClickEvent('nav:quotes:quotes-hub')">Quotes &amp; Research</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/aspx/flashquotes.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:quotes:flash-quotes')">Flash Quotes</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/aspx/infoquotes.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:quotes:info-quotes')">InfoQuotes</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/stock-quotes.aspx" onclick="handleNQClick(this,'nav:quotes:summary-quotes')">Summary Quotes</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/real-time.aspx" onclick="handleNQClick(this,'nav:quotes:real-time')">Real-time Quotes</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/extended-trading/" onclick="handleNQClick(this,'nav:quotes:extended-trading')">Extended Trading</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/options/" onclick="handleNQClick(this,'nav:quotes:options')">Options Trading Center</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/historical-quotes.aspx" onclick="handleNQClick(this,'nav:quotes:historical-quotes')">Historical Quotes</a>
+                            </li>
+                        </ul>
+                        <ul class="first-drop">
+                            <li>
+                                <span>
+                                  <i class="fa fa-bar-chart-o" style="margin-left:-18px"></i>
+                                  <span>Charts</span>
+                                </span>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/stock-charts.aspx" onclick="handleNQClick(this,'nav:quotes:basic-charts')">Basic Charts</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/interactive-charts.aspx" onclick="handleNQClick(this,'nav:quotes:interactive-charts')">Interactive Charts</a>
+                            </li>
+                        </ul>
+                        <ul class="first-drop">
+                            <li>
+                                <span>
+									<i class="fa fa-newspaper-o" style="margin-left:-18px"></i>
+									<span>Companies</span>
+                                </span>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/company-news.aspx" onclick="handleNQClick(this,'nav:quotes:news')">Company News</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/press-releases.aspx" onclick="handleNQClick(this,'nav:quotes:press-releases')">Press Releases</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/marketstream/" onclick="handleNQClick(this,'nav:quotes:market-stream')">Market Stream</a>
+                            </li>
+                            <li>
+								<a href="http://www.nasdaq.com/screening/company-list.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:quotes:company-list')">Company List</a>
+                            </li>
+                            <li>
+								<a href="http://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=NASDAQ" onclick="handleNQClick(this,'nav:quotes:nasdaq')">Nasdaq Companies</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="floatR half">
+                        <ul class="first-drop">
+                            <li>
+                                <span>
+									<i class="fa fa-list" style="margin-left:-18px"></i>
+									<span>Stock Analysis</span>
+                                </span>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/analyst-research.aspx" onclick="handleNQClick(this,'nav:quotes:analyst-research')">Analyst Research</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/stock-guru-analysis.aspx" onclick="handleNQClick(this,'nav:quotes:guru-analysis')">Guru Analysis</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/stock-reports.aspx" onclick="handleNQClick(this,'nav:quotes:stock-reports')">Stock Reports</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/business-competitors.aspx" onclick="handleNQClick(this,'nav:quotes:competitors')">Competitors</a>
+                            </li>
+                        </ul>
+                        <ul class="first-drop">
+                            <li>
+                                <span>
+									<i class="fa fa-money" style="margin-left:-18px"></i>
+									<span>Fundamentals</span>
+                                </span>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/company-financials.aspx" onclick="handleNQClick(this,'nav:quotes:financials')">Financials</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/revenue-eps.aspx" onclick="handleNQClick(this,'nav:quotes:revenue-eps')">Revenue/EPS</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/sec-filings.aspx" onclick="handleNQClick(this,'nav:quotes:sec-filings')">SEC Filings</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/short-interest.aspx" onclick="handleNQClick(this,'nav:quotes:short-interest')">Short Interest</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/dividend-history.aspx" onclick="handleNQClick(this,'nav:quotes:dividend-history')">Dividend History</a>
+                            </li>
+                        </ul>
+                        <ul class="first-drop">
+                            <li>
+                                <span>
+									<i class="fa fa-table" style="margin-left:-18px"></i>
+									<span>Holdings</span>
+                                </span>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/ownership.aspx" onclick="handleNQClick(this,'nav:quotes:ownership')">Ownership Summary</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/institutional-holdings.aspx" onclick="handleNQClick(this,'nav:quotes:institutional-holdings')">Institutional Holdings</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/insider-trades.aspx" onclick="handleNQClick(this,'nav:quotes:insider-trades')">Insiders Form 4</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </li>
+            <li id="site-nav-markets">
+                <a href="http://www.nasdaq.com/markets/" data-click-event="nav:markets:markets-hub" onclick="triggerAsyncOmnitureClickEvent('nav:markets:markets-hub')">
+					<span>Markets</span>
+				</a>
+              <div class="global_dropdown">
+                <div class="floatL half">
+                  <ul class="primary-drop">
+                    <li>
+                      <a href="http://www.nasdaq.com/extended-trading/" onclick="triggerAsyncOmnitureClickEvent('nav:markets:extended')">
+                        <span class="blue">Extended Hours</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/extended-trading/premarket-mostactive.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:pre-market')">Pre-Market Activity</a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/extended-trading/afterhours-mostactive.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:after-hours')">After Hours Activity</a>
+                    </li>
+                  </ul>
+                  <ul class="primary-drop">
+                    <li>
+                      <span>Stocks</span>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/aspx/mostactive.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:most-active')">Most Active</a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/markets/unusual-volume.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:unusual-volume')">Unusual Volume</a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/aspx/52-week-high-low.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:52-week-high-low')">52 Week High/Low</a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/markets/upcoming-splits.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:upcoming-splits')">Upcoming Splits</a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/markets/sec-filings-n.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:sec-filings')">New SEC Filings</a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/markets/ipos" onclick="triggerAsyncOmnitureClickEvent('nav:markets:ipo-summary')">IPO Summary</a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/earnings/earnings-calendar.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:earnings-calendar')">Earnings Calendar</a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/dividend-stocks/" onclick="triggerAsyncOmnitureClickEvent('nav:markets:dividend-stocks')">Dividend Stocks</a>
+                    </li>
+                  </ul>
+                  <ul class="primary-drop">
+                    <li>
+                      <a href="http://www.nasdaq.com/markets/barchart-sectors.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:sector-analysis')">
+                        <span class="blue">Sector Analysis</span>
+                      </a>
+                    </li>
+                   </ul>
+                </div>
+                <div class="floatR half">
+                  <ul class="primary-drop">
+                    <li>
+						<a href="http://www.nasdaq.com/markets/commodities.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:commodities')">
+							<span class="blue">Commodities</span>
+						</a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/markets/gold.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:gold')">Gold</a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/markets/crude-oil.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:crude-oil')">Oil</a>
+                    </li>
+                  </ul>
+                  <ul class="primary-drop">
+                    <li>
+                      <span>Analyst Activity</span>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/earnings/daily-analyst-recommendations.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:upgrades-downgrades')">Upgrades/Downgrades</a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/earnings/analyst-forecast-change.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:analyst-forecast-change')">Forecast Changes</a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/earnings/daily-earnings-surprise.aspx" class="a-mega" onclick="triggerAsyncOmnitureClickEvent('nav:markets:daily-earnings-surprise')">Earning Surprises</a>
+                    </li>
+                  </ul>
+                  <ul class="primary-drop">
+                    <li>
+                      <a href="http://www.nasdaq.com/markets/indices/" onclick="triggerAsyncOmnitureClickEvent('nav:markets:indices')">
+                        <span class="blue">Indices</span>
+     				  </a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/markets/indices/major-indices.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:market-indices')">Major Stock Indices</a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/markets/indices/sector-indices.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:sector-indices')">Market Sector Indices</a>
+                    </li>
+                    <li>
+                      <a href="http://www.nasdaq.com/markets/index-highs" onclick="triggerAsyncOmnitureClickEvent('nav:markets:statistical-milestones')">Statistical Milestones</a>
+                    </li>
+                  </ul>
+                  <ul class="primary-drop">
+                    <li>
+                      <a href="http://www.nasdaq.com/markets/global-markets.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:markets:global-markets')">
+                        <span class="blue">Global Markets</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+            <li id="site-nav-news">
+                <a href="http://www.nasdaq.com/news/" data-click-event="nav:news:news-hub" onclick="triggerAsyncOmnitureClickEvent('nav:news:news-hub')">
+					<span>News</span>
+				</a>
+                <div class="global_dropdown">
+                    <div class="floatL half">
+                        <ul class="primary-drop">
+                            <li>
+                                <a href="http://www.nasdaq.com/quotes/company-news.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:news:company-news')">
+                                    <span class="blue">Company News</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/news/market-headlines.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:news:market-headlines')">
+                                    <span class="blue">Market Headlines</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/marketstream/" onclick="triggerAsyncOmnitureClickEvent('nav:news:marketstream')">
+                                    <span class="blue">Market Stream</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="floatR half">
+                        <ul class="primary-drop">
+                            <li>
+                                <a href="http://www.nasdaq.com/markets/us-economic-calendar.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:news:economic-calendar')">
+                                    <span class="blue">Economic Calendar</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/video/video.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:news:video')">
+                                    <span class="blue">Business Video</span>
+                                </a>
+                            </li>
+                            <li>
+                              <a href="http://www.nasdaq.com/tech/" onclick="triggerAsyncOmnitureClickEvent('nav:news:technology')">
+                                <span class="blue">Technology News</span>
+                              </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="clearB"></div>
+                    <div class="paddingL10px paddingR10px paddingB10px">
+                        <!-- START includes/main-navigation-featured-video.inc -->
+
+<div class="marginB5px">
+  <h4>Featured Article</h4>
+</div>
+<table>
+  <tr>
+    <td valign="top" width="100">
+      	<a href="http://www.nasdaq.com/article/3-reasons-amazon-isnt-done-growing-yet-cm798459" class="floatL paddingT5px">
+        <img src="http://www.nasdaq.com/images/0605amzn.jpg" width="100" height="100" alt="news featured image" />
+      	</a>
+    </td>
+    <td valign="top" class="floatL paddingL15px">
+		<a href="http://www.nasdaq.com/article/3-reasons-amazon-isnt-done-growing-yet-cm798459" class="fontS14px">
+     	3 Reasons Amazon Isn't Done Growing Yet
+    	</a>
+		<br />
+		<p>AMZN still has major catalysts</p>
+    </td>
+  </tr>
+</table>
+
+<!-- END includes/main-navigation-featured-video.inc -->
+                    </div>
+                </div>
+            </li>
+            <li id="site-nav-investing">
+                <a href="http://www.nasdaq.com/investing/" data-click-event="nav:investing:investing-hub" onclick="triggerAsyncOmnitureClickEvent('nav:investing:investing-hub')">
+					<span>Investing</span>
+				</a>
+                <div class="global_dropdown">
+                    <div class="floatL half">
+                        <ul class="primary-drop">
+                            <li>
+								<span>How to Invest</span>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/investing/how-to-invest.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:investing:investing-basics')">Investing Basics</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/investing/online-brokers/" onclick="triggerAsyncOmnitureClickEvent('nav:investing:online-brokers')">Broker Comparison</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/investing/glossary/" onclick="triggerAsyncOmnitureClickEvent('nav:investing:glossary')">Glossary</a>
+                            </li>
+                        </ul>
+                        <ul class="primary-drop">
+                            <li>
+                                <a href="http://www.nasdaq.com/investing/stocks.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:investing:stocks')">
+                                    <span class="blue">Stocks</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/investing/mutual-funds.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:investing:mutual-funds')">
+                                    <span class="blue">Mutual Funds</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="floatR half">
+                        <ul class="primary-drop">
+                            <li>
+                                <a href="http://www.nasdaq.com/investing/tools.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:investing:tools')">
+                                    <span class="blue">Investing Tools</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/reference/stock-screener.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:investing:stock-screener')">Stock Screener</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/investing/guru/guru-stock-screener.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:investing:guru-screener')">Guru Screener</a>
+                            </li>
+                            <li>
+                                <a>&nbsp;</a>
+                            </li>
+                        </ul>
+                        <ul class="primary-drop">
+                            <li>
+                                <a href="http://www.nasdaq.com/advisor/" onclick="triggerAsyncOmnitureClickEvent('nav:investing:advisor')">
+                                    <span class="blue">
+                                        Financial Advisor <br />Center
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </li>
+            <li id="site-nav-advanced">
+                <a href="http://www.nasdaq.com/investing/advanced-investing.aspx" data-click-event="nav:advanced:advanced-investing" onclick="triggerAsyncOmnitureClickEvent('nav:advanced:advanced-investing')">
+					<span>Advanced Investing</span>
+				</a>
+                <div class="global_dropdown">
+                    <div class="floatL half">
+                        <ul class="primary-drop">
+                            <li>
+                                <a href="http://www.nasdaq.com/etfs" onclick="triggerAsyncOmnitureClickEvent('nav:advanced:etfs')">
+                                    <span class="blue">ETFs</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/forex/" onclick="triggerAsyncOmnitureClickEvent('nav:advanced:forex')">
+                                    <span class="blue">Forex</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/forex/forex-brokers.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:advanced:forex:brokercomparison')">Forex Broker Comparison</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="floatR half">
+                        <ul class="primary-drop">
+                            <li>
+                                <a href="http://www.nasdaq.com/wealth-management/" onclick="triggerAsyncOmnitureClickEvent('nav:advanced:wealth-management')">
+                                    <span class="blue">Wealth Management</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/options/" onclick="triggerAsyncOmnitureClickEvent('nav:advanced:options')">
+                                    <span class="blue">Options</span>
+                                </a>
+                            </li>
+                            <li>
+                              <a href="http://www.nasdaq.com/investing/bonds.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:advanced:bonds')">
+                                <span class="blue">Bonds</span>
+                              </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </li>
+            <li id="site-nav-pf">
+                <a href="http://www.nasdaq.com/personal-finance/" data-click-event="nav:personal-finance:pf-hub" onclick="triggerAsyncOmnitureClickEvent('nav:personal-finance:pf-hub')">
+					<span>Personal Finance</span>
+				</a>
+                <div class="global_dropdown">
+                    <div class="floatL half">
+                        <ul class="primary-drop">
+                            <li>
+                                <a href="http://www.nasdaq.com/personal-finance/retirement.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:personal-finance:retirement')">
+                                    <span class="blue">Retirement</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/personal-finance/real-estate.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:personal-finance:real-estate')">
+                                    <span class="blue">Real Estate</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/personal-finance/banking.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:personal-finance:banking')">
+                                    <span class="blue">Banking</span>
+                                </a>
+                            </li>
+                            <li>
+                              <a href="http://www.nasdaq.com/personal-finance/insurance.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:personal-finance:insurance')">
+                                <span class="blue">Insurance</span>
+                              </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="floatR half">
+                        <ul class="primary-drop">
+                            <li>
+                                <a href="http://www.nasdaq.com/personal-finance/saving-money/" onclick="triggerAsyncOmnitureClickEvent('nav:personal-finance:saving-money')">
+                                    <span class="blue">Saving Money</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/personal-finance/taxes.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:personal-finance:taxes')">
+                                    <span class="blue">Taxes</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/personal-finance/investments.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:personal-finance:investments')">
+                                    <span class="blue">Investments</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.nasdaq.com/personal-finance/small-business.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:personal-finance:small-business')">
+                                    <span class="blue">Small Business</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="clearB"></div>
+                    <div class="paddingL10px paddingR10px paddingB10px">
+                        <!--// START includes/main-navigation-featured-article.inc -->
+
+<div class="marginB5px">
+  <h4>Featured Article</h4>
+</div>
+<table>
+  <tr>
+    <!--
+		<td valign="top" width="355">
+			<a href="https://mh214.isrefer.com/go/NASW/NDQCA/?utm_source=nasdaq-promotion-web&utm_medium=nasdaq-618sandy-website&utm_campaign=nasdaq-618sandy-website" target="_blank" rel="nofollow" class="floatL paddingT5px" onclick="triggerAsyncOmnitureClickEvent('nav:personal-finance:featured-article')">
+				<img src="http://www.nasdaq.com/images/Webinar_Betner355x100_7202015.jpg" width="355" height="100" border="0" />
+			</a>
+		</td>
+-->
+
+    <td valign="top" width="100">
+      	<a href="http://www.nasdaq.com/article/age-to-start-drawing-social-security-cm798533" class="floatL paddingT5px" onclick="triggerAsyncOmnitureClickEvent('nav:personal-finance:featured-article')">
+        <img src="http://www.nasdaq.com/images/0605soc.jpg" width="100" height="100" border="0" />
+      	</a>
+    </td>
+    <td valign="top" class="floatL paddingL15px">
+		<a href="http://www.nasdaq.com/article/age-to-start-drawing-social-security-cm798533" class="fontS14px" onclick="triggerAsyncOmnitureClickEvent('nav:personal-finance:featured-article')">
+      	Age to Start Drawing Social Security
+    	</a>
+      	<br />
+		<p>Knowing when to start is essential</p>
+    </td>
+
+  </tr>
+</table>
+
+<!--// END includes/main-navigation-featured-article.inc -->
+                    </div>
+                </div>
+            </li>
+            <li id="site-nav-nasdaq">
+                <a href="https://community.nasdaq.com/" data-click-event="nav:my-nasdaq:my-nasdaq-hub" onclick="triggerAsyncOmnitureClickEvent('nav:my-nasdaq:my-nasdaq-hub')">
+					<span>My Nasdaq</span>
+				</a>
+				<div class="global_dropdown">
+					<div class="floatL half">
+						<ul class="primary-drop">
+							<li>
+								<span>Stock Ratings</span>
+							</li>
+							<li>
+								<a href="https://community.nasdaq.com/MyRatings.aspx" onclick="triggerAsyncOmnitureClickEvent('nav:my-nasdaq:stock-ratings')">
+									My Ratings
+								</a>
+							</li>
+						</ul>
+						<ul class="primary-drop">
+							<li>
+								<span>Smart Portfolio</span>
+							</li>
+							<li>
+								<a href="https://stocktracker.nasdaq.com/smart-portfolio/welcome" onclick="triggerAsyncOmnitureClickEvent('nav:my-nasdaq:overview')">Overview</a>
+							</li>
+							<li>
+								<a href="https://stocktracker.nasdaq.com/smart-portfolio/holdings/holdings" onclick="triggerAsyncOmnitureClickEvent('nav:my-nasdaq:holdings')">My Holdings</a>
+							</li>
+							<li>
+								<a href="https://stocktracker.nasdaq.com/smart-portfolio/analysis/overview" onclick="triggerAsyncOmnitureClickEvent('nav:my-nasdaq:portfolio-analysis')">My Portfolio Analysis</a>
+							</li>
+							<li>
+								<a href="https://stocktracker.nasdaq.com/smart-portfolio/insights" onclick="triggerAsyncOmnitureClickEvent('nav:my-nasdaq:insights')">Crowd Insights</a>
+							</li>
+							<li>
+								<a href="https://stocktracker.nasdaq.com/smart-portfolio/performance" onclick="triggerAsyncOmnitureClickEvent('nav:my-nasdaq:performance')">My Performance</a>
+							</li>
+						</ul>
+						<ul class="primary-drop">
+							<li>
+								<a href="#stock-searches" title="Configure your experience" class="lightbox-call" onclick="triggerAsyncOmnitureClickEvent('nav:my-nasdaq:customize')">
+									<span aria-hidden="true" data-icon="g" id="search-preferences" class="search-preferences blue">
+										Customize Your <br /> Experience
+									</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<div id="communitynav" class="floatR half">
+						<ul class="primary-drop">
+							<li>
+								<p>Join the NASDAQ Community today and get free, instant access to portfolios, stock ratings, real-time alerts, and more!</p>
+								<a href="https://community.nasdaq.com/" onclick="triggerAsyncOmnitureClickEvent('nav:my-nasdaq:register')">
+									<span class="blue">Join Today</span>
+								</a>
+							</li>
+						</ul>
+						<ul class="primary-drop">
+							<li>
+								<div class="marginB10px">
+									<h4>Already a member?</h4>
+								</div>
+								<a href="https://community.nasdaq.com/login.aspx" class="blue-button" onclick="triggerAsyncOmnitureClickEvent('nav:my-nasdaq:login')">Login</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+            </li>
+	    </ul>
+    </nav>
+	<div id="global_nav_placeholder"></div>
+    <div class="global_search" id="global_search">
+        <div class="wrapper">
+            <div class="left-ad-unit120">
+                <script type="text/javascript" language="javascript">
+                    makeAd('','120x60','bookend_left',is_dartZone,'','');
+                </script>
+                <script type="text/javascript" language="javascript">
+                    makeAd('','120x60','Bookend_Left_In',is_dartZone,'','');
+                </script>
+            </div>
+            <!--//End 120x60 Ad Unit -->
+            <form method="post" action="/" id="stock-search" class="stock-search" onsubmit="return false;">
+				<div id="stock-search-wrap">
+					<label for="stock-search-text">
+						<input type="text" name="stock-search-text" id="stock-search-text" class="ajax-search" placeholder="Enter symbol, name or keyword" />
+						<button type="submit" id="stock-search-submit"><span>Search</span></button>
+					</label>
+				</div>
+            </form>
+            <script type="text/javascript">
+				if(!isIEBrowser() && !isMobileBrowser() && !isTabletBrowser())
+				{
+	                $(function(){
+		                $('#stock-search-text').focus();
+	                });
+				}
+                Nasdaq_Quotesearch.init();
+            </script>
+            <div class="right-ad-unit120">
+                <script type="text/javascript" language="javascript">
+                    makeAd('','120x60','Bookend_Right',is_dartZone,'','');
+                </script>
+                <script type="text/javascript" language="javascript">
+                    makeAd('','120x60','Bookend_Right_In',is_dartZone,'','');
+                </script>
+            </div>
+            <!--//End 120x60 Ad Unit -->
+        </div>
+    </div>
+
+    <div id="global_banner" class="wrapper">
+        <script type="text/javascript" language="JavaScript">
+            makeAd('','728x90,970x90,970x250',is_dartSite,is_dartZone,'','');
+        </script>
+    </div>
+
+	<script>initNav();</script>
+</header><!--//End global_header-->
+
+<!--*************************************** END includes/global-masthead.inc ******************************************-->
+
+
+
+<script type="text/javascript">
+    displayLoginStatus(false, null, null, null, "https\x3a\x2f\x2fcommunity.nasdaq.com");
+</script>
+
+
+	<div id="container" class="wrap cf">
+		<!--
+        <div class="highlight">
+            <center>
+                <script src="http://www.nasdaq.com/aspx/indexrowhtml.aspx?indexname=NASDAQDJIASPXWITHOUTIMAGE"></script>
+            </center>
+        </div>
+		-->
+
+		<div class="breadcrumb-div-2-column">
+			<span id="breadcrumb-text" class="breadcrumb-text">
+
+<!--BREADCRUMB-->
+
+			</span>
+		</div>
+
+
+		<script type="text/javascript">defineABHC('start');</script>
+        <!-- START 2 column main content -->
+<form method="post" action="./amtrust-financial-services-inc-appoints-adam-karkowsky-as-new-chief-financial-officer-20170605-00560?storyid=amtrust-financial-services-inc-appoints-adam-karkowsky-as-new-chief-financial-officer-20170605-00560" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="cckhswuQCpnLo5/vGfB5CVrkHpUHiAU7r6wWzg2cL5FvYrdAapZFbS0vlTCaPgbJDmoRLcGwFPpyNXn6FfBfDWOl5LRbq0qw4noyvptfR+1uA9s/PDttV190LyhT8DR7AJY16vbE5EuaE5vsDpLgXQsY1AddkToCjSti7gGdLFBllOq5f4H0NH5UwuAPkDFFvXwIrZ9Z+Sgg5E6XsWQUDuflFiD6yGc8OrqTMgDnipDIKdqFus8mrq61UV3XQ754eUYbZa/NpPfRxxXE9gwUGD8CCOxghUARGp1osuj803Q4enGA1cU/xva7fv1pyZwqAcwwQqJNms8Gw1Rg0/DRw6U/7rrHMmMMXM4OWq7+pnyHpi3QEl5GQCb9UAhMRAI6ESmmgaQXIt3RcMkMymSkDzX71RWellbt1OrO1kY2sGQidCc0wHzS7TV1TtFvpx34zS/lFfl4ZKwPvCH2jGndOcJTuyhYsqt0I3HGP9zpYQKihzR26VXgCXFfDPo6LBG9Sjnrf9TopsCqsaKiBny8OX9fZR/aXvKCdwPc5vZrrbcKpa+OcWT4blyMjwPBzv5+Vxi3RKEFAIZmbQ9cRGPR1qSYl0IhvXNuTO/C0BOj2H1CpWyMPhGCR0L/u6qDGHF0VdG0bDTBrrxqHTgBMEZUcbljSJeU7Ci9un7e1kK31BFQ3StczN6fxl0o+pM/TCKJ7KbMqEqjw9q1HiOGCavh39Wq9tObXfeyvEUHj5lOo0qVtSc5C/+/8bwMMom1bTB61LnbFt8TK34ig5TTJuk3gA47neKk7LZd57dpIPZULUbQCCrTZ+owlexbWhY3ln1DSKFgGHuEw0lx/18fzoCynYQLj17MmJc2QWeKDSuTXhF6sCLUcqYi5DXEBB9E52IctTr5UsAf732SZdQMiTftTIC+e4y+ckL8sNbVgTuYYeRKCiX1YnGuCg3tyDRh5mZaOo9yUwP3jEqb9Oji4VpMtONOghpgZz1YmAEvTAoZOfwyV2YeYPkwLE0WTaxKMfB4cF1AKOe7fzJAQUntYbdIe/FoBVWtoocgyUC7v+4/U1X5RRRerUdEICFzGx5ApnL0yYlAUDvek3yJsO7OO8J39M2q0Wm1HM3rmqouTmBL0cZj01oiB4wyFt7ZfO45Bg/H+r6M0Izo8VdN17iWmEATXp4tHhIaE+4IsQ+T4S+0CqSdFuu5vrCf5GHTpMfZ7ZgMYpwjWudHi2PU1soG2M+Y54c6DQ/kJkT5DtzhH7MllSEG1uvVRV/YL+Oaol7vwE/Y33zgZwD7WRb9rgcqxDQneccfkgTU0/wLma/iQa9a+0zdrXFAABzA9cp/QufWSmDk9knDd5oub+T4H/YVB59HsYpGUdJuK4nO1D3DYiaNrWav7eG3oFZuyUIHN4KJQ5IM63RfWtsbQsEZIvCAnVHR6uNhBzqYCoe0IqRCcVJWWoxdhUFTtRaixdArG06sSdr1k01Filn/DARDrsrnsIn8+1VlbebBTKJDKCOCBHtQZrrwViDwyooyalXGrwEWGwyjyviSksg2JbeV2+l4DQVTF3TPrhNpTfovfXuoR2yLGJ+sea/5ebgbR8KzUmssCklSxmlmX4/i4wi1UpzuuR54N7hunlxLDB1rqtWMgJPfG9/gS13Ky8BmhVA54KVCkWWTrjPQTN26sNDjBnpyznlFT0Osgft8JdwtIhv6BfH5xsFy/jmLftR5pRr+Ivv/SKtglZneh/HT/w2OeTgFRG3j79Qo8Ks8sB0d/+k8R+X3kvAZWh8QO/SdlvUZby8+N2+Nmlf0emqa1PA1fzS8Bh2gu/PZmmg+lVSOEQDoV+NbPNxf/cGm5crK3ou6rSpSsa7IVPsAwqqXHJVcEKYeMZcvhGCFEWGjrFqLNRxv0mN7ifAU0UsUBmWocfqNM93pC+4OPobXmD5zNE9F10ZRbkOLe4jrpBC18RH8AmGTjtnSNUggQqPUrUXdX2CiDdkjVRr+Fjufe7IQIUNktwk74MasYbl7Enxfh3D/lhxbm34pbfjDTuLZzWXozlnBaO0dXT0ejooptj+QSNxeEi4HN9sGbhm+YR2F/VqQsuQItU5NGLyfWYy63y92XieYcqJYVPWIfDQn0ksepb6qaGipR+CRrGp17CBfNFsivu8lg8WxXG7PglG3FCBNUrOPCfSeYYeQSCKhK+Bdv7yI222fH2cbRA2ZsBnLwEo/QLp48SKfu2B/UyGf7vZ5fcRyupQAc5wVxwNNhew1ARmUX3e1aJ70Fz30Ih3PAaBm/i7Ass6kpegqVE3ddAWgFsJF/VvQzxGopqwVzDGUdWrvhStrp6/LHll+2foR7jAewNOB7kBjoK/MCTYW0J5njQ4h71iQr8SfR4PiO6dZahhElnxgxS6EFYZ0NuzBX2HrvvFt5x2iNZI4fHATCZzga8zUQ6A/2fZ8rKaGn2m4bcN9M1kOYmwli4PK+N+YsbnRw2CSu1RzvDybH0BB2PMzUOgMES+CqPWXWRDfeH8gE6Eui5olvjW5OWybXiMHrkF07WqgEoWt2sZwK+gFzyobwFbc2yVGb/bXuFbyvGR3Ha7q57j5Gk4UMhZu6egnd572hU8S8sYr8iv1u0DAQoUCb6h5VI1tqU+OaNIwOC5qGSTZUttv942YGDxNfNavsuMjcw+FgiQMjYhVf0JJZvzBqaOFarRaSPs3sHDgXdcwkPOYnLxItT2JYJOkiyntX5SIdxhotVyJpXjwvqbng4Ca9z4diDPUesm6Wo30Pf6/DIN4Va24Eo+OW0zWRBF22ga6712A+Igx5netsNNwBl1SSoVL68ul+2PBHVwPeChJM5sWUKc8j8plZ9CJD3hO8SonhIi3jqbrMhR/C5OzxbVg+HrFWv1MhUyhVDB1Jwb63SyqA4AR5wHHOWn3kAQCS0Lx0r3Zcr9oK6N4FPNxaVkf62cY7OMbgPOuzxpuADsSzhXFaDZag6ipdN/W0vOQbpN7+QiER4B41h/NvXV10juS/3hXJ07KOGTjXFdnnCdzBYKtvZJSmVUzisOv0CJYydTvY9ynH4yGnyopFX7/gkL7yzXzNZQdiqOQhixV4Xg2w94jL2k5x9sN/6tACddC+OGczSIgJdxFADt8WZPt/dWbm5q+hoKO8zSxEb30cBhNj1d6OF7pzHuLF2Bp22VVShc8YEIi8YDLmuMmYj2Vf81QS/d0PxfKhrmdwo6MARI5EOpEwZBtfETHMa8jBRVXqzmclp8AP5eKk7jzoifPjrPl0kaf30qgPI7ESanEobVtFQcNnH0+kIwE6cCjnELeqANUaPSnmxVPbmhHsSJXDUgVZVf98I1xRBq4lcqCyWmdbw5eHg/Rq2OPZ0jlXKfGeQ/tflHpvIkRGyqvJT+PSfNk8ZHgPhUoIXY8bisjOattdjm2YBUMXkf8Ykk2IoIGLUaqGNp2hu8DTsIfjoVrzEzVhJXXbNsTvMR4AyKdTBVmNS5NIMJFwGpUYXv2KFPYLHYaa7oyIOo8xsC2qKvs29wq2h4AA6JREGLSRKf0ZJjLVgmKpGYMhpo2zfCdY9DeKuUfMCIhWHH3b0nIHIRjtOpXk3UvzBOvr64DExinvPATnRMCveti69tEYKk0ahbub307CydbBOuqasb/L0sm7/JUfqY4hHOewfk4AC05ygI08jmXqVcuL/2l0WGxxU8/OY2mBjRPqInKpg9gjLL+WstvSEufI3lXgkxhdJ2AdvgSzwmjPt4eBm9XeNCisPqtQFUwIqL2Krnpv9B1oO+D2Z8d1nxBsB4WC+E3WfotmVXhIiewMEVurj4hy/lfkvN7XN2lQALieg+lsnWr97GjeP4sb5kVF//yAPQI" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZCSacx0VP1V9A_vLHKIvqZebo0jS8pIQ1TA4HKa34RYPGwnJJgePXeyGyoY_DeNq7w2&amp;t=636151820148059492" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvm-uzE6_E4RvZWJXCzUlGAzasdMppSEi4UENzPgJe1ICMYiKM02I7NA45hOgw0ukRTWGLN1FxsC93dxskYNhsZkYnBqcy1P9OGp1jzYO5i-QYfvtMgFCuUGLogUjvrmEQL1bHL6aSfDw2Tjk5mma47Y1&amp;t=ffffffffd416f7fc" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OHJ4KWKKahltOwIPKODT820P4qkscnPw_Xb09-Q0d-55H0nIVULwcYqHmh83BCO-1AaBzY99ZXMfzGyJTcViddAHAvKXIIG-SLQH3xQptJTo39pgfPIA5nOd4S127IDsnkLKR_1CHgDXjYCvIZ7bMpE1&amp;t=ffffffffd416f7fc" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3A79FD52" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="fEcwCD1q1SavsX8rvVtta3Ub7LTPbNQtg+CVvV+hCeKSt/2KtuAmw0k+04V8wQpxkV8cWLgZE/4ymjn0N/Fubl1CAsi5QhbSyLU4p0/5me99HwXDRn7PXq0SXZUWEiQN" />
+</div>
+	<div id="content" class="three-hundred-wide-right-rail"><!--change class if right rail is different width-->
+		<div id="left-column-div">
+<!-- *********************************************** START Left-column **********************************************-->
+            <div id="moreArticleInfo" class="box-module-full floatR fontS14px">
+                <div id="moreFromSponsor">
+                    <p class="marginB0px">
+                        <a href="http://www.nasdaq.com/symbol/afsi/news-headlines">See headlines for AFSI</a>
+                        <br />
+                        <!--<a href="http://www.nasdaq.com/symbol/afsi/news-headlines">Back to Headlines</a>-->
+                        <a rel="nofollow" href='http://www.nasdaq.com/aspx/stockmarketnewsstoryprint.aspx?storyid=amtrust-financial-services-inc-appoints-adam-karkowsky-as-new-chief-financial-officer-20170605-00560'>View</a> Print Version
+                        <br />
+                        <b>More from GlobeNewswire</b>
+                    </p>
+
+
+<!-- start Company News By Source -->
+<ul class="listpartnerlinks orange-ordered-list marginL10px marginR10px marginT5px marginB10px">
+    <li><a target="_blank" href="http://www.nasdaq.com/press-release/amtrust-financial-services-inc-appoints-adam-karkowsky-as-new-chief-financial-officer-20170605-00560">AmTrust Financial Services, Inc. Appoints Adam Karkowsky as New Chief Financial Officer</a></li>
+
+    <li><a target="_blank" href="http://www.nasdaq.com/press-release/amtrust-financial-services-inc-announces-closing-of-300-million-private-placement-20170526-00658">AmTrust Financial Services, Inc. Announces Closing of $300 Million Private Placement</a></li>
+
+    <li><a target="_blank" href="http://www.nasdaq.com/press-release/amtrust-financial-services-inc-to-receive-proceeds-of-300-million-of-common-equity-capital-from-20170525-01229">AmTrust Financial Services, Inc. to Receive Proceeds of $300 million of Common Equity Capital From Private Placement</a></li>
+</ul>
+                </div>
+
+		<div id="referencedStocks">
+			<strong>Referenced Stocks</strong>
+			<ul class="orange-ordered-list marginL10px marginR10px marginT5px marginB10px">
+
+		<li>
+			<span itemprop="mentions" itemscope itemtype="http://schema.org/Corporation"><a id="two_column_main_content_referencestock_ReferencedStocks_sq_0" class="ticker" itemprop="tickersymbol" href="http://www.nasdaq.com/symbol/afsi">AFSI</a></span>
+			<span class="bullRating">75%</span>
+			<a id="two_column_main_content_referencestock_ReferencedStocks_rateit_0" class="rateIt" href="https://community.nasdaq.com/community-ratings.aspx?stockticker=AFSI">Rate It</a>
+		</li>
+
+			</ul>
+		</div>
+
+            </div>
+
+		    <strong></strong>
+		    <h1 itemprop="headline">AmTrust Financial Services, Inc. Appoints Adam Karkowsky as New Chief Financial Officer</h1>
+            <div id="ArticleBodyDate">
+                <small>
+                    <span>By GlobeNewswire,&nbsp;</span>  <span itemprop="dateCreated" content="2017-06-05">June 05, 2017, 08:30:00 AM EDT</span>
+                </small>
+            </div>
+            <div id="ArticleControlPanel">
+                <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$two_column_main_content$scriptmanager1', 'form1', ['tctl00$two_column_main_content$upd1','two_column_main_content_upd1'], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+                <span id="two_column_main_content_upd1">
+		                <div id="article-comments-ratings">
+			                <span id="ratings" class="floatL marginT5px marginR15px">
+				                <a id="two_column_main_content_ilikedit" class="rating like" href="javascript:__doPostBack(&#39;ctl00$two_column_main_content$ilikedit&#39;,&#39;&#39;)">
+							            <span>Vote up</span>
+					                </a>
+
+			                </span>
+			                <div id="ratings-progress" class="floatL">
+				                <div id="two_column_main_content_UpdateProgress" style="display:none;">
+	<img src="https://community.nasdaq.com/common/images/ajax-loader.gif" alt="loading" />
+</div>
+			                </div>
+                            <a href="javascript:void(0)" class="decreaseFont">A</a>
+                            <a href="javascript:void(0)" class="resetFont">A</a>
+                            <a href="javascript:void(0)" class="increaseFont">A</a>
+		                </div>
+	                </span>
+            </div>
+
+            <br />
+
+            <div id="articlebody" itemprop="articleBody">
+		        <style type="text/css">.gnw_table_border_collapse td.gnw_heading, .gnw_heading {font: 16px Arial; text-align: center; vertical-align: bottom;}
+ .gnw_table_border_collapse td.gnw_subhead, .gnw_subhead {font: 12px Arial; text-align: center; vertical-align: bottom;}
+ .gnw_table_border_collapse td.gnw_colhead, .gnw_colhead {font: 12px Arial; text-align: center; vertical-align: bottom;}
+ .gnw_table_border_collapse td.gnw_colhead_uline, .gnw_colhead_uline {font: 12px Arial; text-align: center; border-bottom: solid black 1.0pt; vertical-align: bottom;}
+ .gnw_table_border_collapse td.gnw_colhead_dline, .gnw_colhead_dline {font: 12px Arial; text-align: center; border-bottom: double black 2.5pt; vertical-align: bottom;}
+ .gnw_table_border_collapse td.gnw_label, .gnw_label    {font: 12px Arial; vertical-align: bottom; text-align: left }
+ .gnw_table_border_collapse td.gnw_label_uline, .gnw_label_uline {font: 12px Arial; vertical-align: bottom; text-align: left; border-bottom: solid black 1.0pt;}
+ .gnw_table_border_collapse td.gnw_label_uline_i10, .gnw_label_uline_i10 {font: 12px Arial; vertical-align: bottom; text-align: left; border-bottom: solid black 1.0pt; padding-left: 10.0px;}
+ .gnw_table_border_collapse td.gnw_label_uline_i15, .gnw_label_uline_i15 {font: 12px Arial; vertical-align: bottom; text-align: left; border-bottom: solid black 1.0pt; padding-left: 15.0px;}
+ .gnw_table_border_collapse td.gnw_label_uline_i20, .gnw_label_uline_i20 {font: 12px Arial; vertical-align: bottom; text-align: left; border-bottom: solid black 1.0pt; padding-left: 20.0px;}
+ .gnw_table_border_collapse td.gnw_label_uline_i25, .gnw_label_uline_i25 {font: 12px Arial; vertical-align: bottom; text-align: left; border-bottom: solid black 1.0pt; padding-left: 25.0px;}
+ .gnw_table_border_collapse td.gnw_label_uline_i30, .gnw_label_uline_i30 {font: 12px Arial; vertical-align: bottom; text-align: left; border-bottom: solid black 1.0pt; padding-left: 30.0px;}
+ .gnw_table_border_collapse td.gnw_label_dline_i10, .gnw_label_dline_i10 {font: 12px Arial; vertical-align: bottom; text-align: left; border-bottom: double black 2.5pt; padding-left: 10.0px;}
+ .gnw_table_border_collapse td.gnw_label_dline_i15, .gnw_label_dline_i15 {font: 12px Arial; vertical-align: bottom; text-align: left; border-bottom: double black 2.5pt; padding-left: 15.0px;}
+ .gnw_table_border_collapse td.gnw_label_dline_i20, .gnw_label_dline_i20 {font: 12px Arial; vertical-align: bottom; text-align: left; border-bottom: double black 2.5pt; padding-left: 20.0px;}
+ .gnw_table_border_collapse td.gnw_label_dline_i25, .gnw_label_dline_i25 {font: 12px Arial; vertical-align: bottom; text-align: left; border-bottom: double black 2.5pt; padding-left: 25.0px;}
+ .gnw_table_border_collapse td.gnw_label_dline_i30, .gnw_label_dline_i30 {font: 12px Arial; vertical-align: bottom; text-align: left; border-bottom: double black 2.5pt; padding-left: 30.0px;}
+ .gnw_table_border_collapse td.gnw_label_ulinetop, .gnw_label_ulinetop {font: 12px Arial; vertical-align: bottom; text-align: left; border-top: solid black 1.0pt;}
+ .gnw_table_border_collapse td.gnw_label_dline, .gnw_label_dline {font: 12px Arial; vertical-align: bottom; text-align: left; border-bottom: double black 2.5pt;}
+ .gnw_table_border_collapse td.gnw_label_i10, .gnw_label_i10 {font: 12px Arial; vertical-align: bottom; text-align: left; padding-left: 10.0px;}
+ .gnw_table_border_collapse td.gnw_label_i15, .gnw_label_i15 {font: 12px Arial; vertical-align: bottom; text-align: left; padding-left: 15.0px;}
+ .gnw_table_border_collapse td.gnw_label_i20, .gnw_label_i20 {font: 12px Arial; vertical-align: bottom; text-align: left; padding-left: 20.0px;}
+ .gnw_table_border_collapse td.gnw_label_i25, .gnw_label_i25 {font: 12px Arial; vertical-align: bottom; text-align: left; padding-left: 25.0px;}
+ .gnw_table_border_collapse td.gnw_label_i30, .gnw_label_i30 {font: 12px Arial; vertical-align: bottom; text-align: left; padding-left: 30.0px;}
+ .gnw_table_border_collapse td.gnw_num, .gnw_num   {font: 12px Arial; vertical-align: bottom; text-align: right; white-space: nowrap;}
+ .gnw_table_border_collapse td.gnw_num_uline, .gnw_num_uline {font: 12px Arial; vertical-align: bottom; text-align: right; white-space: nowrap; border-bottom: solid black 1.0pt;}
+ .gnw_table_border_collapse td.gnw_num_ulinetop, .gnw_num_ulinetop {font: 12px Arial; vertical-align: bottom; text-align: right; white-space: nowrap; border-top: solid black 1.0pt;}
+ .gnw_table_border_collapse td.gnw_num_dline, .gnw_num_dline {font: 12px Arial; vertical-align: bottom; text-align: right; white-space: nowrap; border-bottom: double black 2.5pt;}
+ .gnw_table_border_collapse td.gnw_num_dlinetop, .gnw_num_dlinetop {font: 12px Arial; vertical-align: bottom; text-align: right; white-space: nowrap; border-top: double black 2.5pt;}
+ .gnw_table_border_collapse td.gnw_data, .gnw_data   {font: 12px Arial; vertical-align: bottom; text-align: left; white-space: nowrap;}
+ .gnw_table_border_collapse td.gnw_data_uline, .gnw_data_uline {font: 12px Arial; vertical-align: bottom; text-align: left; border-bottom: solid black 1.0pt;}
+ .gnw_table_border_collapse td.gnw_data_dline, .gnw_data_dline {font: 12px Arial; vertical-align: bottom; text-align: left; border-bottom: double black 2.5pt;}
+ .gnw_news_media_box { margin-top: 15px; margin-left: 6px; margin-bottom: 6px; margin-right: 6px; border-width: 1px; border-color: #A9A9A9; border-style: solid; }
+ .gnw_table_border_collapse td.gnw_media_caption, .gnw_media_caption { font-size: 8pt; font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+ .gnw_media_bgcolor { background-color: transparent }
+ .gnw_table { border-collapse: separate; border-spacing: 6px }
+ .gnw_table_border_collapse td.gnw_videotitle, .gnw_videotitle {font: bold 12px Arial; color: #1d5296;}
+
+ .gnw_border_top_solid {border-top: solid black 1px !important;}
+ .gnw_border_right_solid {border-right: solid black 1px !important;}
+ .gnw_border_bottom_solid {border-bottom: solid black 1px !important;}
+ .gnw_border_left_solid {border-left: solid black 1px !important;}
+
+ .gnw_border_top_double {border-top: double black 3px !important;}
+ .gnw_border_right_double {border-right: double black 3px !important;}
+ .gnw_border_bottom_double {border-bottom: double black 3px !important;}
+ .gnw_border_left_double {border-left: double black 3px !important;}
+
+ .gnw_table_border_collapse {border-collapse: collapse !important;}
+ .gnw_table_border_collapse td {font-size: 12px;}
+/*.gnw_table_border_collapse td {padding-left: 3px!important; padding-right: 3px!important;}*/
+
+ .gnw_align_left {text-align: left !important; vertical-align: bottom;}
+ .gnw_align_center {text-align: center !important; vertical-align: bottom;}
+ .gnw_align_right {text-align: right !important; vertical-align: bottom;}
+ .gnw_align_justify {text-align: justify !important; vertical-align: bottom;}
+
+ .gnw_vertical_align_top {vertical-align: top !important;}
+ .gnw_vertical_align_middle {vertical-align: middle !important;}
+ .gnw_vertical_align_bottom {vertical-align: bottom !important;}
+
+ .gnw_padding_left_none {padding-left: 0 !important;}
+ .gnw_padding_right_none {padding-right: 0 !important;}
+ .gnw_table_border_spacing{ border-spacing: 0; border-collapse: separate !important;}</style><p />
+      <span class="newsarttitle">
+
+        <br />
+      </span>
+      <p>NEW YORK, June  05, 2017  (GLOBE NEWSWIRE) -- AmTrust Financial Services, Inc.(Nasdaq:<a href="http://www.nasdaq.com/symbol/afsi">AFSI</a>) (the "Company" or "AmTrust") today announced that Adam Karkowsky, a seasoned finance executive and most recently AmTrust's Executive Vice President, Strategic Development and Mergers &amp; Acquisitions, has been appointed Executive Vice President and Chief Financial Officer, succeeding Ronald Pipoly, Jr.  Mr. Karkowsky's appointment follows a comprehensive search process, which included internal and external candidates, to identify a successor to Mr. Pipoly.<br></br></p>
+      <p>Mr. Pipoly, who has served as Chief Financial Officer since 2005, will work with Mr. Karkowsky to ensure an effective and seamless transition of responsibilities.</p>
+      <p>Mr. Karkowsky has been AmTrust's Executive Vice President of Strategic Development and Mergers &amp; Acquisitions since March 2011. In that role, he led the Company's merger and acquisition initiatives and oversaw the implementation of AmTrust's corporate development and corporate strategy. Mr. Karkowsky directed the Company's strategic expansion in the U.S. and internationally.</p>
+      <p>"Adam, with his leadership and knowledge of AmTrust and demonstrated financial expertise, is uniquely qualified to assume the role of CFO," said Barry Zyskind, Chairman and Chief Executive Officer. "Adam is an important leader in guiding the strategic growth of the Company, both domestically and internationally. He has a deep understanding of AmTrust and the property and casualty insurance industry. We look forward to benefitting from Adam's knowledge of our industry and our company in his new role as we work to capitalize on AmTrust's size and scale to achieve meaningful organic growth and significantly increase operational efficiencies across our business."</p>
+      <p>Mr. Karkowsky said, "As part of our focus on operational excellence across the organization, we will be building on the progress that has been made to strengthen AmTrust's financial reporting capabilities and expertise, while also further enhancing our disclosure regarding the Company's business and financial performance."</p>
+      <p>Mr. Zyskind concluded, "On behalf of the entire Board and management team, I want to thank Ron for his many contributions and hard work as CFO over the past twelve years. We look forward to continuing to benefit from Ron's experience and capabilities."</p>
+      <p>Mr. Karkowsky is based at AmTrust's New York City headquarters.</p>
+      <p>About Adam Karkowsky</p>
+      <p>Adam Karkowsky joined the Company in March 2011 as Executive Vice President—Strategic Development and Mergers &amp; Acquisitions. Mr. Karkowsky also serves as an officer and director of several of AmTrust subsidiaries. Previously, Mr. Karkowsky served in various finance and strategy roles in the private equity and insurance industries, including as Vice President, Mergers &amp; Acquisitions Insurance Group, at AIG. He began his career as a corporate associate at Katten Muchin Rosenman following his graduation from Georgetown University Law Center in 1999.</p>
+      <p>About Ronald Pipoly, Jr.</p>
+      <p>Ronald Pipoly, Jr. joined AmTrust in 2001 and was appointed Chief Financial Officer in 2005.  From 1993 to 2001, Mr. Pipoly served as Financial Analyst, Assistant Controller, and ultimately, Controller at PRS Group, Inc., a property and casualty insurance holding company in Beachwood, Ohio. Mr. Pipoly began his career at Coopers and Lybrand, an accounting firm, where he worked from 1988 through 1993.</p>
+      <p>About AmTrust Financial Services, Inc.</p>
+      <p>AmTrust Financial Services, Inc., a multinational insurance holding company headquartered in New York City, offers specialty property and casualty insurance products, including workers' compensation, commercial automobile, general liability and extended service and warranty coverage through its primary insurance subsidiaries rated "A" (Excellent) by A.M. Best. For more information about AmTrust visit <a rel="nofollow" href="https://www.globenewswire.com/Tracker?data=tuneUMGsBzn5cg-IDwz34rTp4EH9mKK3tcDvrakr_iqK_MucdBgeM0suQv9Fy8YNDdI5qAhJtM8Q9ES1OQ1zn-XneQb17c8MaEw25UATqCM=">www.amtrustgroup.com</a>. </p>
+      <p>Forward-Looking Statements</p>
+      <p>This news release contains certain forward-looking statements that are intended to be covered by the safe harbors created by the Private Securities Litigation Reform Act of 1995. When we use words such as "anticipate," "intend," "plan," "believe," "estimate," "expect," or similar expressions, we do so to identify forward-looking statements. Examples of forward-looking statements include the plans and objectives of management for future operations, including those relating to future growth of our business activities and availability of funds, projections of the impact of potential errors or misstatements in our financial statements, and estimates of the impact of material weaknesses in our internal control over financial reporting, and are based on current expectations that involve assumptions that are difficult or impossible to predict accurately and many of which are beyond our control. Actual results may differ materially from those expressed or implied in these statements as a result of significant risks and uncertainties, including, but not limited to, non-receipt of expected payments from insureds or reinsurers, changes in interest rates, a downgrade in the financial strength ratings of our insurance subsidiaries, the effect of the performance of financial markets on our investment portfolio, the amounts, timing and prices of any share repurchases made by us under our share repurchase program, development of claims and the effect on loss reserves, accuracy in projecting loss reserves, the cost and availability of reinsurance coverage, the effects of emerging claim and coverage issues, changes in the demand for our products, our degree of success in integrating acquired businesses, the effect of general economic conditions, state and federal legislation, regulations and regulatory investigations into industry practices, the impact of known or potential errors or misstatements in our financial statements, our ability to timely and effectively remediate the material weaknesses in our internal control over financial reporting and implement effective internal control over financial reporting and disclosure controls and procedures in the future, risks associated with conducting business outside the United States, the impact of Brexit, developments relating to existing agreements, disruptions to our business relationships with Maiden Holdings, Ltd. or National General Holdings Corp., breaches in data security or other disruptions with our technology, heightened competition, changes in pricing environments, and changes in asset valuations. Additional information about these risks and uncertainties, as well as others that may cause actual results to differ materially from those projected, is contained in our filings with the SEC, including our Annual Report on Form 10-K and our quarterly reports on Form 10-Q. The projections and statements in this news release speak only as of the date of this release and we undertake no obligation to update or revise any forward-looking statement, whether as a result of new information, future developments or otherwise, except as may be required by law.</p>
+      <p>
+      </p>
+      <pre>For more information, please contact:
+
+AmTrust Financial Services, Inc.Chaya Cooperberg
+Chief Communications Officer &amp; SVP Corporate Affairs
+<a rel="nofollow" href="mailto:chaya.cooperberg@amtrustgroup.com">chaya.cooperberg@amtrustgroup.com</a>
+646.458.3332</pre>
+      <p>
+        <a rel="nofollow" href="https://www.globenewswire.com/NewsRoom/AttachmentNg/53c01d47-7a7f-4a03-9a0b-9f1cdf4c51c9">
+          <img src="https://resource.globenewswire.com/Resource/Download/53c01d47-7a7f-4a03-9a0b-9f1cdf4c51c9?size=1">
+          </img>
+        </a>
+      </p>
+      <p>
+      </p>
+Source: AmTrust Financial Services, Inc.<br /><span class="copyright"></span>
+            </div>
+
+            <!-- START Article Appears in ... -->
+	        <div class="clearB"></div>
+            <br />
+
+	        <p>
+
+  		            This article appears in:
+
+                            <a href="http://www.nasdaq.com/symbol/afsi/news-headlines">News Headlines</a>
+
+	        </p>
+            <!-- END Article Appears in ... -->
+            <!--START Referenced stocks -->
+	        <p>
+
+                    Referenced Stocks:
+
+                            <span itemprop="mentions" itemscope itemtype="http://schema.org/Corporation"><a itemprop="tickerSymbol" href="http://www.nasdaq.com/symbol/afsi">AFSI</a></span>
+
+	        </p>
+            <br />
+            <!--END Referenced stocks -->
+
+            <!-- latest videos -->
+            <h2>Latest News Video</h2>
+            <div style="height:140px;width:640px">
+	            <div class='video-thumbnail' style='width:150px'><a class='video-thumbnail-url' title="Colorado Bear Wanders Into Home, Plays Piano" href="http://www.nasdaq.com/video/59358e011de5a176690d6a1c"><img alt="Colorado Bear Wanders Into Home, Plays Piano" src="http://img.vidible.tv/prod/2017-06/05/59358e011de5a176690d6a1c/59358e010c2aff28716c4f54_o_F_v0.jpg" height="100" width="150"/></a><br /><a title="Colorado Bear Wanders Into Home, Plays Piano" href="http://www.nasdaq.com/video/59358e011de5a176690d6a1c">Colorado Bear Wanders Into Home, Pl...</a> <div class='play-button' style='top:36px;left:58px'><a title="Colorado Bear Wanders Into Home, Plays Piano" href="http://www.nasdaq.com/video/59358e011de5a176690d6a1c"><img width='36' height='34' src='http://www.nasdaq.com/images/play-button.png' /></a></div></div><div class='video-thumbnail' style='width:150px'><a class='video-thumbnail-url' title="Barbas, Nuñez, Sanders, Butler &amp; Hovsepian" href="http://www.nasdaq.com/video/59358e01b90afb2783e16822"><img alt="Barbas, Nuñez, Sanders, Butler &amp; Hovsepian" src="" height="100" width="150"/></a><br /><a title="Barbas, Nuñez, Sanders, Butler &amp; Hovsepian" href="http://www.nasdaq.com/video/59358e01b90afb2783e16822">Barbas, Nuñez, Sanders, Butler &amp; Ho...</a> <div class='play-button' style='top:36px;left:58px'><a title="Barbas, Nuñez, Sanders, Butler &amp; Hovsepian" href="http://www.nasdaq.com/video/59358e01b90afb2783e16822"><img width='36' height='34' src='http://www.nasdaq.com/images/play-button.png' /></a></div></div><div class='video-thumbnail' style='width:150px'><a class='video-thumbnail-url' title="Women's Health &amp; Confidence Boosters" href="http://www.nasdaq.com/video/59358e01c214e323a7506b44"><img alt="Women's Health &amp; Confidence Boosters" src="" height="100" width="150"/></a><br /><a title="Women's Health &amp; Confidence Boosters" href="http://www.nasdaq.com/video/59358e01c214e323a7506b44">Women's Health &amp; Confidence Booster...</a> <div class='play-button' style='top:36px;left:58px'><a title="Women's Health &amp; Confidence Boosters" href="http://www.nasdaq.com/video/59358e01c214e323a7506b44"><img width='36' height='34' src='http://www.nasdaq.com/images/play-button.png' /></a></div></div><div class='video-thumbnail' style='width:150px'><a class='video-thumbnail-url' title="Summer Getaways with Vegas Seven Magazine" href="http://www.nasdaq.com/video/59358e01f3bdc946b9a320c7"><img alt="Summer Getaways with Vegas Seven Magazine" src="" height="100" width="150"/></a><br /><a title="Summer Getaways with Vegas Seven Magazine" href="http://www.nasdaq.com/video/59358e01f3bdc946b9a320c7">Summer Getaways with Vegas Seven Ma...</a> <div class='play-button' style='top:36px;left:58px'><a title="Summer Getaways with Vegas Seven Magazine" href="http://www.nasdaq.com/video/59358e01f3bdc946b9a320c7"><img width='36' height='34' src='http://www.nasdaq.com/images/play-button.png' /></a></div></div>
+
+            </div>
+
+            <div class="clearB"></div>
+            <br />
+            <br />
+
+            <!-- START Comments-->
+
+	        <div id="comment-log-in" class="realtidbits-comments" style="display:none;width:650px;z-index:10;">
+		        <div class="echo-submit-auth echo-ui">
+			        <div class="echo-auth-anonymous echo-primaryFont" onclick="showSignIn()" id="stocial-log-in">
+				        <span class="lightgreen-button">Login</span>
+			        </div>
+		        </div>
+	        </div>
+
+	        <div id="articlecomments" style="width:650px"></div>
+
+		    <noscript>Please enable JavaScript to view the <a href="http://realtidbits.com/?ref_noscript">Comments powered by RealTidbits</a></noscript>
+
+            <!-- END Comments-->
+
+            <div class="clearB"></div>
+
+            <div>
+
+<div id="related-articles">
+	<div id="related-articles-inner">
+
+                <div>
+			        <div class="floatL">
+			            <h3>Related stocks Articles</h3>
+			        </div>
+                    <div class="related-articles-subscribe">
+                        <img src="http://www.nasdaq.com/images/feed-16x16.png" width="16" height="16" alt="" class="ValignM" />
+                        <a id="two_column_main_content_RelatedArticles1_lvStories_RSS_Category_Subscribe" href="http://articlefeeds.nasdaq.com/nasdaq/categories?category=stocks">
+                            <span><b>Subscribe</b></span>
+                        </a>
+                    </div>
+                    <div class="clearB"></div>
+                </div>
+				<ul class="orange-ordered-list marginT5px">
+				<li>
+					<!--<img id="two_column_main_content_RelatedArticles1_lvStories_imgavatar_0" src="http://community.nasdaq.com/common/images/mtnw_40.png" alt="MT Newswires" />-->
+					<a id="two_column_main_content_RelatedArticles1_lvStories_article_0" href="http://www.nasdaq.com/article/middle-east-shares-mixed-qatar-tumbles-as-countries-cut-ties-with-country-cm798839">Middle East Shares Mixed, Qatar Tumbles As Countries Cut Ties With Country</a>
+					<div class="clearB"></div>
+					<small>
+						6/05/2017 12:04 PM
+					</small>
+				</li>
+
+				<li>
+					<!--<img id="two_column_main_content_RelatedArticles1_lvStories_imgavatar_1" src="http://community.nasdaq.com/common/images/TMFJester40x40.png" alt="Motley Fool" />-->
+					<a id="two_column_main_content_RelatedArticles1_lvStories_article_1" href="http://www.nasdaq.com/article/zogenix-could-this-be-the-greatest-threat-to-gw-pharmaceuticals-cm798771">Zogenix: Could This Be The Greatest Threat to GW Pharmaceuticals?</a>
+					<div class="clearB"></div>
+					<small>
+						6/05/2017 11:41 AM
+					</small>
+				</li>
+
+				<li>
+					<!--<img id="two_column_main_content_RelatedArticles1_lvStories_imgavatar_2" src="http://community.nasdaq.com/common/images/TMFJester40x40.png" alt="Motley Fool" />-->
+					<a id="two_column_main_content_RelatedArticles1_lvStories_article_2" href="http://www.nasdaq.com/article/why-buffett-wont-increase-the-buyback-threshold-from-12-times-book-value-cm798777">Why Buffett Won't Increase the Buyback Threshold From 1.2 Times Book Value</a>
+					<div class="clearB"></div>
+					<small>
+						6/05/2017 11:40 AM
+					</small>
+				</li>
+			</ul>
+
+	</div>
+</div>
+            </div>
+
+            <div class="clearB"></div>
+            <!--<a href="https://community.nasdaq.com/login.aspx?returnurl=http%3a%2f%2fwww.nasdaq.com%2farticle%2fcds-chart-could-portend-more-pain-for-argentina-etf-cm193070" id="ctl00_ContentPlaceHolder_add_comment">Add a Comment</a>-->
+
+            <!-- brafton/infocus
+            <div style="width: 625px;margin-top:40px;padding-bottom:25px"><script src="http://feedproxy.google.com/infocus-news-headlines?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to In Focus RSS headline updates from: <a href="http://feedproxy.google.com/infocus-news-headlines"></a></p></noscript></div>
+            end brafton/infocus -->
+
+            <!-- no content_main -->
+                            <!-- BEGIN includes/ad-550.inc
+
+<div class="clearB"></div>
+<br />
+
+<script type="text/javascript" language="JavaScript">//makeAd('4','550x75','mktsnews','article_dianomi','','');</script>
+
+END includes/ad-550.inc -->
+
+
+
+
+            <div id="sign_in_modal" class="modal_content" style="width:410px;height:205px;left:50%;">
+	            <!-- close button-->
+				<span class="close" onclick="popmodal()">CLOSE<span class="x">X</span></span>
+	            <!-- header -->
+	            <div id="stream-signin-heading">
+                    <h4>Sign-in</h4>
+	            </div>
+
+                <div class="displayB marginT5px" id="noreturnexp">
+
+                <div class="floatL" style="width:202px;">
+                    <ul>
+                        <li onclick="janrain.engage.signin.triggerFlow('facebook')" class="noreturnexp-signin" href="javascript:void(0);"><img src="http://www.nasdaq.com/images/stream-facebook.png" /></li>
+                        <li onclick="janrain.engage.signin.triggerFlow('twitter')" class="noreturnexp-signin" href="javascript:void(0);"><img src="http://www.nasdaq.com/images/stream-twitter.png" /></li>
+                        <li onclick="janrain.engage.signin.triggerFlow('yahoo')" class="noreturnexp-signin" href="javascript:void(0);"><img src="http://www.nasdaq.com/images/stream-yahoo.png" /></li>
+                    </ul>
+                </div>
+
+                <div class="floatL" style="width:197px;">
+                    <ul>
+                        <li onclick="janrain.engage.signin.triggerFlow('google')" class="noreturnexp-signin" href="javascript:void(0);"><img src="http://www.nasdaq.com/images/stream-google.png" /></li>
+                        <li onclick="janrain.engage.signin.triggerFlow('linkedin')" class="noreturnexp-signin" href="javascript:void(0);"><img src="http://www.nasdaq.com/images/stream-linkedin.png" /></li>
+                        <li onclick="janrain.engage.signin.triggerFlow('aol')" class="noreturnexp-signin" href="javascript:void(0);"><img src="http://www.nasdaq.com/images/stream-aol.png" /></li>
+                    </ul>
+                </div>
+
+                <div style="clear:left;"></div>
+
+                <div id="noreturnexp-existing">
+                    <p>
+                        Existing NASDAQ.com member? <a href="https://community.nasdaq.com/login.aspx?turl=http://www.nasdaq.com/press-release/amtrust-financial-services-inc-appoints-adam-karkowsky-as-new-chief-financial-officer-20170605-00560">Log in here</a>.
+                    </p>
+                </div>
+
+                <small>
+                By signing into to the site using any of the third-party services above, you agree to NASDAQ.com's <a href="http://www.nasdaq.com/about/terms.aspx">Terms of Use</a>.
+                </small>
+
+                </div>
+
+                <div id="returnexp" style="display:none">
+                Welcome back: <span id="returnName"></span>
+
+                <div id="returnexp-login" onclick="RELogin()" style="cursor:pointer">
+                Log in using your:&nbsp;
+                <span id="providername"></span><a id="returnexplink" href="javascript:void(0)" onclick="RELogin()"><img id="providerimg" style="vertical-align:middle;"/></a>
+                &nbsp;Account
+                </div>
+
+                <a href="javascript:void(0)" onclick="switchAccounts()" id="returnexp-switch">Switch Accounts</a>
+                </div>
+
+            </div>
+
+            <script type="text/javascript">
+            setRE();
+            </script>
+            <!-- *********************************************** END left-column **********************************************-->
+	    </div><!--end left-column-div-->
+
+	    <div id="right-column-div" class="margin0px">
+            <!-- *********************************************** START Right-column **********************************************-->
+
+            <!--<h2>Videos Trending Now</h2>
+	            <div style="width:300px;height:250px;margin-top:5">
+            <script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=1076&amp;width=300&amp;height=250&amp;videoGroupID=140662&amp;hasCompanion=false&amp;sequential=1&amp;shuffle=1"></script>
+	            </div>
+	            <br />-->
+            <script type="text/javascript">makeAd('3', '300x250,300x600', is_dartSite, is_dartZone, '', '');</script>
+
+            <div class="clearB"></div>
+            <br />
+            <div class="divider"></div>
+            <div class="clearB"></div>
+            <br />
+
+            <div>
+
+            <div id="_highest" style="display: block;">
+
+
+<div class="rail-module">
+    <h2>
+		<a id="two_column_main_content_HighestRatedArticles_lnkHRA1" href="https://community.nasdaq.com/highest-rated-articles.aspx">Highest Rated Articles of Last Week</a>
+    </h2>
+    <!-- Begin HighestRatedArticles.inc -->
+<ul>
+<li><a href="http://www.nasdaq.com/article/chinas-interest-and-investment-in-ethereums-blockchain-expands-cm796241">China's Interest and Investment in Ethereum's Blockchain Expands</a></li>
+<li><a href="http://www.nasdaq.com/press-release/pain-therapeutics-announces-research-publication-on-alzheimers-disease-20170601-00788">Pain Therapeutics Announces Research Publication on Alzheimer’s...</a></li>
+<li><a href="http://www.nasdaq.com/press-release/worlds-24-top-curlers-set-to-go-head-to-head-in-first-ever-everest-curling-challenge-august-25-27-20170601-00933">World’s 24 Top Curlers Set To Go Head-to-Head in First Ever Everest...</a></li>
+<li><a href="http://www.nasdaq.com/press-release/rexahn-pharmaceuticals-presents-preliminary-efficacy-data-from-the-ongoing-phase-iia-clinical-tria-20170604-00010">Rexahn Pharmaceuticals Presents Preliminary Efficacy Data from the...</a></li>
+<li><a href="http://www.nasdaq.com/article/nation21-loans-shakes-up-private-lending-with-new-products-20170602-00023">Nation21 Loans Shakes Up Private Lending With New Products</a></li>
+</ul>
+<!-- End HighestRatedArticles.inc -->
+
+    <div class="clearB"></div>
+    <div class="view-all-anchor floatR">
+        <a id="two_column_main_content_HighestRatedArticles_lnkHRA2" href="https://community.nasdaq.com/highest-rated-articles.aspx">
+            <span>View All Highest Rated</span>
+        </a>
+    </div>
+    <div class="clearB"></div>
+</div>
+            </div>
+
+
+            </div>
+
+            <div class="clearB"></div>
+            <br />
+            <div class="divider"></div>
+            <div class="clearB"></div>
+            <br />
+
+            <script type="text/javascript">
+                makeAd('3', '300x250,300x600', 'mop', is_dartZone, '', '');
+            </script>
+
+            <div class="clearB"></div>
+            <br />
+            <div class="divider"></div>
+            <div class="clearB"></div>
+            <br />
+
+            <!-- end MOST ACTIVE widget -->
+            <!--// Begin Inner Index Table Widget -->
+            <div id="RailIndexTable" class="genTable">
+                <h3 class="table-headtag">Today's Market Activity</h3>
+
+<!--// Begin markets/MarketActivityIndex.ascx -->
+<table>
+    <tbody>
+
+            <tr>
+                <td width="75" class="indexname">
+                    <strong>NASDAQ</strong>
+                </td>
+                <td><b>6299.54</b></td>
+                <td class="red">
+                    <div class="floatR">
+                        <span><b>-6.26</b></span>
+                        <span class="indexArrow"><b>&nbsp;&#9660;&nbsp;</b></span>
+                        <span><b>0.10%</b></span>
+                    </div>
+                </td>
+            </tr>
+
+            <tr>
+                <td width="75" class="indexname">
+                    <strong>DJIA</strong>
+                </td>
+                <td><b>21207.49</b></td>
+                <td class="green">
+                    <div class="floatR">
+                        <span><b>1.20</b></span>
+                        <span class="indexArrow"><b>&nbsp;&#9650;&nbsp;</b></span>
+                        <span><b>0.01%</b></span>
+                    </div>
+                </td>
+            </tr>
+
+            <tr>
+                <td width="75" class="indexname">
+                    <strong>S&P 500</strong>
+                </td>
+                <td><b>2438.34</b></td>
+                <td class="red">
+                    <div class="floatR">
+                        <span><b>-0.73</b></span>
+                        <span class="indexArrow"><b>&nbsp;&#9660;&nbsp;</b></span>
+                        <span><b>0.03%</b></span>
+                    </div>
+                </td>
+            </tr>
+
+    </tbody>
+</table>
+<!--// End markets/MarketActivityIndex.ascx -->
+            </div>
+            <div class="floatL paddingT10px">
+
+<table id="homepageIndexRow" border="0" cellpadding="0" cellspacing="0">
+<tr>
+    <td id="homepageIndexRowTime" class="paddingL5px small" itemprop="dateModified" content="2017-06-05T13:03:00-05:00">Data as of&nbsp;Jun&nbsp;5,&nbsp;2017&nbsp;|&nbsp;1:03PM</td>
+</tr>
+</table>
+<a href="http://www.esignal.com/livequotes/">Try for Free: NASDAQ LiveQuotes Platform</a>
+
+            </div>
+            <div class="view-all-anchor floatR">
+                <a href="http://www.nasdaq.com/markets/indices/major-indices.aspx" onclick="triggerAsyncOmnitureClickEvent('right-rail:module:indices')">
+                    <span>View All</span>
+                </a>
+            </div>
+            <!--// End Inner Index Table Widget -->
+
+            <div class="clearB"></div>
+            <br />
+            <div class="divider"></div>
+            <div class="clearB"></div>
+            <br />
+
+            <script type="text/javascript">
+                makeAd('', '300x250,300x600,160x600', 'btf', is_dartZone, '', '');
+            </script>
+
+            <div class="clearB"></div>
+            <br />
+            <div class="divider"></div>
+            <div class="clearB"></div>
+            <br />
+
+            <!-- begin Earnings widget \includes\EarningsExpected-by-Week.inc -->
+
+<div class="genTable">
+    <h3 class="table-headtag">Upcoming Earnings</h3>
+	<table>
+		<thead>
+			<tr>
+				<th>Company</th>
+				<th>Expected Report Date</th>
+			</tr>
+		</thead>
+		<tbody>
+            <tr>
+                <td><a href="http://www.nasdaq.com/symbol/aapl" title="Apple Inc."><b>AAPL</b></a></td>
+                <td><a href="http://www.nasdaq.com/earnings/report/aapl" title="AAPL earnings date">Jul 25, 2017</a></td>
+            </tr>
+            <tr>
+                <td><a href="http://www.nasdaq.com/symbol/ddc" title="Dominion Diamond"><b>DDC</b></a></td>
+                <td><a href="http://www.nasdaq.com/earnings/report/ddc" title="DDC earnings date">Jun 12, 2017</a></td>
+            </tr>
+            <tr>
+                <td><a href="http://www.nasdaq.com/symbol/hlne" title="Hamilton Lane"><b>HLNE</b></a></td>
+                <td><a href="http://www.nasdaq.com/earnings/report/hlne" title="HLNE earnings date">Jun 12, 2017</a></td>
+            </tr>
+            <tr>
+                <td><a href="http://www.nasdaq.com/symbol/saic" title="SCIENCE APPLICATIONS INTERNATIONAL CORPORATION"><b>SAIC</b></a></td>
+                <td><a href="http://www.nasdaq.com/earnings/report/saic" title="SAIC earnings date">Jun 12, 2017</a></td>
+            </tr>
+            <tr>
+                <td><a href="http://www.nasdaq.com/symbol/leju" title="Leju Holdings"><b>LEJU</b></a></td>
+                <td><a href="http://www.nasdaq.com/earnings/report/leju" title="LEJU earnings date">Jun 14, 2017</a></td>
+            </tr>
+            <tr>
+                <td><a href="http://www.nasdaq.com/symbol/fnsr" title="Finisar"><b>FNSR</b></a></td>
+                <td><a href="http://www.nasdaq.com/earnings/report/fnsr" title="FNSR earnings date">Jun 15, 2017</a></td>
+            </tr>
+            <tr>
+                <td><a href="http://www.nasdaq.com/symbol/hrb" title="H&R Block"><b>HRB</b></a></td>
+                <td><a href="http://www.nasdaq.com/earnings/report/hrb" title="HRB earnings date">Jun 13, 2017</a></td>
+            </tr>
+            <tr>
+                <td><a href="http://www.nasdaq.com/symbol/kr" title="Kroger"><b>KR</b></a></td>
+                <td><a href="http://www.nasdaq.com/earnings/report/kr" title="KR earnings date">Jun 15, 2017</a></td>
+            </tr>
+		</tbody>
+	</table>
+    <div class="clearB marginT5px"></div>
+    <div class="floatR view-all-anchor">
+        <a href="http://www.nasdaq.com/earnings/earnings-calendar.aspx"><span>Earnings Calendar</span></a>
+    </div>
+</div>
+
+<!-- end Earnings widget \includes\EarningsExpected-by-Week.inc -->
+
+            </div><!-- end sticky -->
+
+            <!-- *********************************************** END Right-column **********************************************-->
+	    </div><!--end right-column-div-->
+    </div><!--end content-->
+
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"two_column_main_content_upd1","displayAfter":0,"dynamicLayout":true}, null, null, $get("two_column_main_content_UpdateProgress"));
+});
+//]]>
+</script>
+</form>
+
+
+		<script type="text/javascript">defineABHC('end');</script>
+	  <!-- START Google Ads includes/footer_googAd.inc-->
+
+  <div class="clearB"></div>
+  <br /><br />
+
+  <div class="footer_googAd marginLAuto marginRAuto" style="width:728px;">
+    <script type="text/javascript" language="javascript">
+		google_ad_client = "pub-1861191755926748";
+		google_ad_width = 728;
+		google_ad_height = 90;
+		google_ad_region= "test";//allow for more than 3 google ads
+		googleSetFooterAdSlotAndHints();//set ad slot and hints fields
+	</script>
+	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+
+
+
+  </div>
+
+  <!-- END Google Ads includes/footer_googAd.inc-->
+
+
+
+
+		<div id="back-to-top" title="Scroll back to top" onclick="triggerAsyncOmnitureClickEvent('master:global-object:back-to-top')"><span></span></div>
+	</div><!--end wrap-->
+
+	<!-- begin includes/fixedFooter.inc-->
+<!--// begin footer -->
+<footer class="site__footer">
+	<div class="site__footer--primary">
+		<div class="wrapper">
+			<a href="http://www.nasdaq.com/" class="logo">
+				<div></div>
+			</a>
+			<div class="floatR">
+				<a href="https://www.facebook.com/NASDAQ" class="icon icon-facebook">
+					<span></span>
+				</a>
+				<a href="https://twitter.com/nasdaq" class="icon icon-twitter">
+					<span></span>
+				</a>
+				<a href="https://plus.google.com/+nasdaq" class="icon icon-google-plus">
+					<span></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="site__footer--secondary">
+		<div class="wrapper">
+			<nav class="site__footer__nav">
+				<ul>
+					<li><a href="http://www.nasdaq.com/" title="Nasdaq"><strong>NASDAQ.com</strong></a></li>
+					<li><a href="http://www.nasdaq.com/quotes/company-news.aspx" title="Company News">Company News</a><span>&#47;</span></li>
+					<li><a href="http://www.nasdaq.com/services/annual-reports.aspx" title="Annual Report">Annual Report</a><span>&#47;</span></li>
+					<li><a href="http://www.nasdaq.com/help/contact-information.aspx" title="Contact">Contact</a><span>&#47;</span></li>
+          <li><a href="http://business.nasdaq.com/discover/careers/index.html" title="Careers">Careers</a><span>&#47;</span></li>
+					<li><a href="http://www.nasdaq.com/help/nasdaq-advertising.aspx" title="Advertise on Nasdaq.com">Advertise on Nasdaq.com</a></li>
+				</ul>
+				<ul class="lighter">
+					<li><a href="http://www.nasdaq.com/about/terms.aspx" title="Terms of Use">Terms of Use</a><span>&#47;</span></li>
+					<li><a href="http://www.nasdaq.com/sitespecific/privacy.aspx" title="Privacy Policy">Privacy Policy</a><span>&#47;</span></li>
+					<li><a href="http://www.nasdaq.com/help/sitemap.aspx" title="Sitemap">Sitemap</a><span>&#47;</span></li>
+					<li><a href="http://www.nasdaq.com/investing/glossary/" title="Glossary">Glossary</a><span>&#47;</span></li>
+					<li><a href="http://www.nasdaq.com/feedback/" title="General Feedback">General Feedback</a><span>&#47;</span></li>
+					<li>
+						<!--*************************OpinionLab Begin*****************-->
+						<script language="javascript" type="text/javascript" src="http://www.nasdaq.com/services/onlineopinionS3tS/oo_engine.js"></script>
+						<script language="javascript" type="text/javascript">
+						O_GoT('<span></span>Feedback');
+						</script>
+						<!--*************************OpinionLab End*****************-->
+					</li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+</footer>
+<!--// end footer -->
+<!-- begin lightbox backdrop -->
+<table class="backdrop" id="backdrop">
+	<tr>
+		<td>
+			<!-- begin lightboxness -->
+			<div class="lightbox edit-stocks" id="edit-stocks">
+				<!-- close button-->
+				<span class="close">CLOSE<span class="x">X</span></span>
+				<div class="floatL">
+					<h2><center>Edit Favorites</center></h2>
+					<!-- text -->
+					<p>Enter up to 25 symbols separated by commas or spaces in the text box below. These symbols will be available during your session for use on applicable pages.</p>
+					<!-- input box -->
+					<div class="floatL">
+						<textarea onkeypress="if(event.keyCode ==13){nasdaqIndexRow.myListGo()}else if(event.keyCode == 27){$('.close').click();}" id="myListInput" name="myListInput" cols="35" rows="3" class="fontS14px"></textarea>
+					</div>
+					<!-- right side controls -->
+					<div class="floatL marginL10px">
+						<a href="javascript:void(0)" class="lightgreen-button marginB5px TalignC" onclick="nasdaqIndexRow.myListGo();">Update</a>
+						<br />
+						<a href="javascript:void(0)" class="red-button" onclick="nasdaqIndexRow.clearMyList();">Clear List</a>
+					</div>
+				</div>
+			</div>
+			<!-- end lightboxness -->
+			<!-- begin lightboxness -->
+			<div class="lightbox stock-searches" id="stock-searches">
+				<!-- close button-->
+				<span class="close">CLOSE<span class="x">X</span></span>
+				<h2>Customize your NASDAQ.com experience</h2>
+				<b>Background Color Selector</b>
+				<br />
+				<span>Select the background color of your choice:</span>
+				<div class="clearB"></div>
+				<div id="BgSelector">
+					<div>
+						<div class="BgSelector-1">
+							<div class="floatL">
+								<input type="radio" name="themepreference" value="blackg" onclick="updateSiteTheme(this.value)">&nbsp;Black
+							</div>
+							<div class="BgSelector-color"></div>
+						</div>
+						<div class="clearB"></div>
+						<div class="BgSelector-2">
+							<div class="floatL">
+								<input type="radio" name="themepreference" value="slateg" onclick="updateSiteTheme(this.value)">&nbsp;Slate Gray
+							</div>
+							<div class="BgSelector-color"></div>
+						</div>
+					</div>
+					<div>
+						<div class="BgSelector-3">
+							<div class="floatL">
+								<input type="radio" name="themepreference" value="lightg" onclick="updateSiteTheme(this.value)">&nbsp;Light Gray
+							</div>
+							<div class="BgSelector-color"></div>
+						</div>
+						<div class="clearB"></div>
+						<div class="BgSelector-4">
+							<div class="floatL">
+								<input type="radio" name="themepreference" value="grayb" onclick="updateSiteTheme(this.value)">&nbsp;Gray Blue
+							</div>
+							<div class="BgSelector-color"></div>
+						</div>
+					</div>
+				</div>
+				<div class="clearB"></div>
+				<hr /><br />
+				<b>Quote Search</b>
+				<br />
+				<span>Select a default target page for your quote search:</span>
+				<div id="QuoteSetting">
+					<div>
+						<input type="radio" name="quotepreference" value="realtime" onclick="Nasdaq_Quotesearch.confirmUserPref(this.value)">
+						&nbsp;Real-Time<br />
+						<input type="radio" name="quotepreference" value="afthours" onclick="Nasdaq_Quotesearch.confirmUserPref(this.value)">
+						&nbsp;After Hours<br />
+						<input type="radio" name="quotepreference" value="premkt" onclick="Nasdaq_Quotesearch.confirmUserPref(this.value)">
+						&nbsp;Pre-Market<br />
+						<input type="radio" name="quotepreference" value="compnews" onclick="Nasdaq_Quotesearch.confirmUserPref(this.value)">&nbsp;News
+					</div>
+					<div>
+						<input type="radio" name="quotepreference" value="flash" onclick="Nasdaq_Quotesearch.confirmUserPref(this.value)">
+						&nbsp;Flash Quote<br />
+						<input type="radio" name="quotepreference" value="summary" onclick="Nasdaq_Quotesearch.confirmUserPref(this.value)">
+						&nbsp;Summary Quote<br />
+						<input type="radio" name="quotepreference" value="dyncharts" onclick="Nasdaq_Quotesearch.confirmUserPref(this.value)">
+						&nbsp;Interactive Charts<br />
+						<input type="radio" name="quotepreference" value="default" onclick="Nasdaq_Quotesearch.confirmUserPref(this.value)">
+						&nbsp;Default Setting<br />
+					</div>
+				</div>
+				<div class="clearB"></div>
+				<span>
+					Please note that once you make your selection, it will apply to all future visits to NASDAQ.com.
+					If, at any time, you are interested in reverting to our default settings, please select Default Setting above.
+					<br /><br />
+					If you have any questions or encounter any issues in changing your default settings, please email <a href="mailto:isfeedback@nasdaq.com?Subject=Default%20Settings%20Inquiry">isfeedback@nasdaq.com</a>.
+				</span>
+			</div>
+			<!-- end lightboxness -->
+			<!-- begin lightboxness -->
+			<div class="lightbox" id="confirm">
+				<!-- close button-->
+				<span class="close">CLOSE<span class="x">X</span></span>
+				<h4>Please confirm your selection:</h4>
+				<p>
+					You have selected to change your default setting for the Quote Search. This will now be your default target page;
+					unless you change your configuration again, or you delete your
+					cookies. <b>Are you sure you want to change your settings?</b>
+				</p>
+				<div>
+					<button class="floatL"  onclick="Nasdaq_Quotesearch.confirmHandler('defaultQuote', true)">YES</button>
+					<button class="floatR"  onclick="Nasdaq_Quotesearch.confirmHandler('defaultQuote', false)">NO</button>
+				</div>
+			</div>
+			<!-- end lightboxness -->
+		</td>
+	</tr>
+</table>
+<!-- end lightbox backdrop -->
+<table class="backdrop" id="globalCustomModal">
+	<tr>
+		<td>
+            <!-- begin lightboxness -->
+            <div class="lightbox" id="adBlockMsg">
+				<!-- close button-->
+				<span class="close" onclick="close_global_modal()">CLOSE<span class="x">X</span></span>
+				<!-- <h2><center>We have a favor to ask</center></h2> -->
+				<!-- text -->
+				<p id="adBlockMsgText">Please disable your ad blocker (or <a href="http://www.nasdaq.com/help/adblock-instructions.aspx">update your settings</a> to ensure that javascript and cookies are enabled), so that we can continue to provide you with the first-rate market news and data you've come to expect from us.</p>
+			</div>
+            <!-- end lightboxness -->
+			<!-- begin lightboxness -->
+            <div class="lightbox" id="interstitialAdContainer" style="width:705px;height:575px">
+				<!-- close button-->
+				<span class="close" onclick="close_global_modal()">CLOSE<span class="x">X</span></span>
+				<!-- <h2><center>Sponsor Message</center></h2> -->
+				<!-- text -->
+				<p id="interstitialContainer"></p>
+			</div>
+            <!-- end lightboxness -->
+         </td>
+	</tr>
+</table>
+
+<!-- Omniture code -->
+
+<!--********************BEGIN  ../includes/omniture.inc***********************-->
+
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="http://www.nasdaq.com/includes/s_code-072016v1.js?v=03012016"></script>
+
+
+<script type="text/javascript" language="JavaScript">
+
+<!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+
+<noscript><img
+src="http://nasdaq.122.2O7.net/b/ss/nasdaqprod/1/H.1--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.1. -->
+<!-- setSectionName() moved to js file: masthead_default.js -->
+
+
+<!--*********************End  ../includes/omniture.inc*******************************-->
+
+
+<script type="text/javascript">
+//<![CDATA[
+setSectionName(propVar);
+//]]>
+</script>
+
+<!-- Begin Tynt-->
+<script type="text/javascript">
+if(document.location.protocol=='http:'){
+var Tynt=Tynt||[];Tynt.push('apOVCYiV0r35wBadbiUzgI');
+(function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>
+<!-- End Tynt-->
+
+<!-- ideamelt resources -->
+<script>
+addScript(ideameltJS,true,"initIMApps()");
+</script>
+
+<!-- DataPoint Media tracking pixel -->
+<script>
+(function() {
+var d=document,h=d.getElementsByTagName('head')[0],s=d.createElement('script'),sc = 'https:' == document.location.protocol ? 'https://' : 'http://';
+s.type='text/javascript';
+s.async=true;
+s.src=sc+'s.dpmsrv.com/dpm_58f0744907ea8bd8e0f51e568f1536289ceb40a5.min.js';
+h.appendChild(s);
+})();
+</script>
+
+<!-- Begin BlueKai Tag -->
+<iframe name="__bkframe" height="0" width="0" frameborder="0" style="display:none;position:absolute;clip:rect(0px 0px 0px 0px)" src="about:blank"></iframe>
+<script type="text/javascript" src="http://tags.bkrtx.com/js/bk-coretag.js"></script>
+<script type="text/javascript">
+
+bk_addPageCtx('is_dartSite', (typeof(is_dartSite)!=='undefined')?is_dartSite:'');
+bk_addPageCtx('is_dartZone', (typeof(is_dartZone)!=='undefined')?is_dartZone:'');
+bk_addPageCtx('propVar', (typeof(propVar)!=='undefined')?propVar:'');
+bk_addPageCtx('propVar15', (typeof(propVar15)!=='undefined')?propVar15:'');
+bk_addPageCtx('SymbolType', (typeof(SymbolType)!=='undefined')?SymbolType:'');
+bk_addPageCtx('StockIndustry', (typeof(StockIndustry)!=='undefined')?StockIndustry:'');
+bk_addPageCtx('ArticlePrimaryCategory', (typeof(ArticlePrimaryCategory)!=='undefined')?ArticlePrimaryCategory:'');
+
+bk_doJSTag(31843, 1);
+</script>
+<!-- End BlueKai Tag -->
+<!-- Foresee  -->
+<script type="text/javascript" async src="http://www.nasdaq.com/includes/foresee/foresee-trigger.js"></script>
+
+<!--  Quantcast Tag -->
+<script>
+
+ var ezt = ezt ||[];
+
+ (function(){
+   var elem = document.createElement('script');
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-kGNZ2CXTUFYyw";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem,scpt);
+ }());
+
+
+(function(){
+   var label;
+   if(typeof propVar3=='undefined')
+ 		propVar3 = "";
+   if(typeof propVar15=='undefined')
+ 		propVar15 = "";
+   if(typeof propVar=='undefined')
+		propVar = "";
+   label = 'Author.'+propVar3+',Category.'+propVar15+'.'+propVar;
+ ezt.push({qacct: 'p-kGNZ2CXTUFYyw',
+	   uid: '',
+	   labels:label
+           });
+}());
+
+</script>
+<noscript>
+  <img src="//pixel.quantserve.com/pixel/p-kGNZ2CXTUFYyw.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast Tag -->
+
+<!-- begin Enerprise Florida survey -->
+<script>
+/*
+(function(){
+if(document.referrer=="http://www"+host_Extension+".nasdaq.com/markets/ipos/"
+	&& document.location.href!="http://www"+host_Extension+".nasdaq.com/markets/ipos/"
+	&& get_cookie_value("EnterpriseFloridaSurvey")==false)
+{
+	set_cookie_value("EnterpriseFloridaSurvey","true",3);
+	(function(t,e,s,n){var o,c,a;t.SMCX=t.SMCX||[],e.getElementById(n)||(o=e.getElementsByTagName(s),c=o[o.length-1],a=e.createElement(s),a.type="text/javascript",a.async=!0,a.id=n,a.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/DrqdalJhvDd5ACgCO0mDpO1m7_2FEv_2BICPaYzBfwyQJ8_2BsY6t3mPJl0hh2FGypTiFu.js"].join(""),c.parentNode.insertBefore(a,c))})(window,document,"script","smcx-sdk");
+}
+else if(document.location.href=="http://www"+host_Extension+".nasdaq.com/markets/gold.aspx"
+	&& get_cookie_value("EnterpriseFloridaSurvey")==false)
+{
+	set_cookie_value("EnterpriseFloridaSurvey","true",7);
+	(function(e,t,n,o){var s,c,i;e.SMCX=e.SMCX||[],t.getElementById(o)||(s=t.getElementsByTagName(n),c=s[s.length-1],i=t.createElement(n),i.type="text/javascript",i.async=!0,i.id=o,i.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/zlERY9yXVqREVYHr6ZdqhDNMqk2NLii_2Fefbn4hZPEGkz2TEDYuhOlBtXpQe_2FgiXz.js"].join(""),c.parentNode.insertBefore(i,c))})(window,document,"script","smcx-sdk");
+}
+})();
+*/
+</script>
+<!-- end Enterprise Florida survey -->
+
+<!-- end includes/fixedFooter.inc-->
+
+
+    <!-- START page bottom script -->
+    <script type="text/javascript" src="http://www.nasdaq.com/includes/jquery-textFill-0.1.js" ></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.jtextfill').textfill({ maxFontPixels: 70 });
+            $('#dyntext').keyup(function () {
+                $('.dyntextval').html(this.value);
+                $('.jtextfill').textfill({ maxFontPixels: 70 });
+            });
+        });
+    </script>
+    <!-- END page bottom script -->
+
+
+</body>
+</html>

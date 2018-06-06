@@ -817,6 +817,135 @@ class ExtractionsTest {
     assert(article.cleanedArticleText == "")
   }
 
+  @Test
+  def fortune4(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("fortune4.html")
+    val url = "https://www.reuters.com/article/mongolia-riotinto-idUSL3N1JH3LP"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "British Prime Minister")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def time3(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("time3.html")
+    val url = "https://www.reuters.com/article/mongolia-riotinto-idUSL3N1JH3LP"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "This video")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def miamiherald3(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("miamiherald3.txt")
+    val url = "http://www.miamiherald.com/sports/spt-columns-blogs/fish-bytes/article155268444.html"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "PITTSBURGH -- Derek Dietrich")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def euronews1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("euronews1.txt")
+    val url = "http://www.euronews.com/2017/06/08/how-to-follow-the-uk-election?utm_term=Autofeed&utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter#link_time=1496959566"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Britain’s snap general")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def nasdaq3(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("nasdaq3.txt")
+    val url = "http://www.nasdaq.com/press-release/amtrust-financial-services-inc-appoints-adam-karkowsky-as-new-chief-financial-officer-20170605-00560"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "NEW YORK, June 05, 2017 (GLOBE NEWSWIRE) -- AmTrust Financial Services")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def chicagosuntimes1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("chicagosuntimes1.txt")
+    val url = "http://chicago.suntimes.com/news/comey-to-say-trump-asked-for-loyalty-told-him-to-let-flynn-probe-go/"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Former Director James Comey")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def rt1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("rt1.txt")
+    val url = "https://www.rt.com/business/392454-outage-british-airways-eighty-million/"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "The IT meltdown that left thousands of passengers")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def etftrends1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("etftrends1.txt")
+    val url = "https://www.etftrends.com/etf-investing/nushares-international-etf-options-to-diversify-esg-exposure/?utm_source=dlvr.it&utm_medium=twitter"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Nuveen has expanded upon its NuShares")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  /*@Test
+  def fastcompany1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("fastcompany1.txt")
+    val url = "https://news.fastcompany.com/a-second-federal-appeals-court-has-ruled-against-trumps-travel-ban-4040556"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "The IT meltdown that left thousands of passengers")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }*/
+
+  /*@Test
+  def ktvu1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("ktvu1.html")
+    val url = "http://www.ktvu.com/news/258694056-story"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "The IT meltdown that left thousands of passengers")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }*/
 
   /*@Test
   def blogger1(): Unit ={

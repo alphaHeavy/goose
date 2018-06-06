@@ -33,8 +33,15 @@ class DateParserTests {
   }
 
   @Test
-  def maimiherald(): Unit = {
+  def maimiherald2(): Unit = {
     val string = "June 12, 2017 07:16 PM"
+    val dateFormat = DateTimeFormatter.ofPattern("MMMM dd',' yyyy hh:mm a")
+    val result = LocalDateTime.parse(string, dateFormat)
+    assert(result != null)
+  }
+
+  def miamiherald2(): Unit = {
+    val string = "June 09, 2017 10:54 AM"
     val dateFormat = DateTimeFormatter.ofPattern("MMMM dd',' yyyy hh:mm a")
     val result = LocalDateTime.parse(string, dateFormat)
     assert(result != null)
@@ -48,4 +55,27 @@ class DateParserTests {
     assert(result != null)
   }
 
+  @Test
+  def nasdaq(): Unit = {
+    val string = "June 05, 2017, 08:30:00 AM EDT"
+    val dateFormat = DateTimeFormatter.ofPattern("MMMM dd',' yyyy',' hh:mm:ss a z")
+    val result = LocalDateTime.parse(string, dateFormat)
+    assert(result != null)
+  }
+
+  @Test
+  def rt(): Unit = {
+    val string = "21:05 GMT, Jun 15, 2017"
+    val dateFormat = DateTimeFormatter.ofPattern("HH:mm z',' MMM dd',' yyyy")
+    val result = LocalDateTime.parse(string, dateFormat)
+    assert(result != null)
+  }
+
+  @Test
+  def etftrends1(): Unit = {
+    val string = "June 7, 2017 at 11:16 AM"
+    val dateFormat = DateTimeFormatter.ofPattern("MMMM d',' yyyy 'at' hh:mm a")
+    val result = LocalDateTime.parse(string, dateFormat)
+    assert(result != null)
+  }
 }
