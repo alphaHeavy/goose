@@ -78,4 +78,21 @@ class DateParserTests {
     val result = LocalDateTime.parse(string, dateFormat)
     assert(result != null)
   }
+
+
+  @Test
+  def usatoday1(): Unit = {
+    val string = "2016-06-06T06:38:55.8470000"
+    val dateFormat = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.nnnnnnn")
+    val result = LocalDateTime.parse(string, dateFormat)
+    assert(result != null)
+  }
+
+  @Test
+  def nbcnews1(): Unit = {
+    val string = "Tue May 01 2018 05:55:14 GMT"
+    val dateFormat = DateTimeFormatter.ofPattern("E MMM dd yyyy HH:mm:ss z")
+    val result = LocalDateTime.parse(string, dateFormat)
+    assert(result != null)
+  }
 }

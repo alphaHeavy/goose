@@ -1,0 +1,2338 @@
+
+
+
+
+
+
+
+
+<!doctype html>
+
+<html class="no-js" lang="en" prefix="og: http://ogp.me/ns#">
+
+<head data-template-set="html5-reset" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+
+    <meta charset="utf-8">
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Ta-Nehisi Coates: Kanye West in the Age of Donald Trump - The Atlantic</title>
+
+
+
+
+        <link rel="shortcut icon" href="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/favicon.ico">
+        <link rel="apple-touch-icon" href="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/apple-touch-icon-iphone.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/apple-touch-icon-ipad.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/apple-touch-icon-iphone-retina.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/apple-touch-icon-ipad-retina.png">
+        <link rel="mask-icon" href="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/apple-mask-icon.svg" color="#000000">
+
+        <meta name="application-name" content="">
+        <meta name="msapplication-TileColor" content="">
+        <meta name="msapplication-TileImage" content="">
+
+        <meta name="apple-itunes-app" content="app-id=397599894">
+
+
+        <link rel="alternate" type="application/rss+xml" title="The Atlantic" href="/feed/all/" />
+        <link rel="alternate" type="application/rss+xml" title="Best of The Atlantic" href="/feed/best-of/" />
+
+
+
+
+
+        <meta name="keywords" content="The Atlantic, The Atlantic Magazine, TheAtlantic.com, Atlantic, news, opinion, breaking news, analysis, commentary, business, politics, culture, international, science, technology, national and life">
+        <meta name="description" content="Kanye West wants freedom—white freedom.">
+        <link rel="image_src" href="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/glennharvey_theatlantic_2018_05_06_final/facebook.jpg?1525687701">
+
+
+        <meta name="referrer" content="unsafe-url" />
+
+        <meta property="og:site_name" content="The Atlantic">
+        <meta property="og:locale" content="en_US">
+        <meta property="fb:admins" content="577048155,17301937">
+        <meta property="fb:app_id" content="100770816677686">
+
+
+        <meta property="fb:pages" content="1061579677251147,370457103090695,29259828486,1631141167169115,236061986423933,1468531833474495,457711054591520,148681772342453,1510507419185410,128344747344340,128377530562508" />
+
+        <link href="https://plus.google.com/109258622984321091629" rel="publisher" />
+        <meta name="p:domain_verify" content="68e1a0361a557708fefc992f3309ed70"/>
+
+        <meta property="og:title" content="I’m Not Black, I’m Kanye">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://www.theatlantic.com/entertainment/archive/2018/05/im-not-black-im-kanye/559763/" />
+
+
+            <link rel="canonical" href="https://www.theatlantic.com/entertainment/archive/2018/05/im-not-black-im-kanye/559763/" />
+
+
+        <meta property="og:image" content="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/glennharvey_theatlantic_2018_05_06_final/facebook.jpg?1525687701">
+        <meta property="og:description" content="Kanye West wants freedom—white freedom.
+">
+
+
+
+
+
+        <meta name="author" content="Ta-Nehisi Coates" />
+
+
+        <meta name="twitter:site" content="@theatlantic" />
+        <meta name="twitter:domain" content="theatlantic.com" />
+
+        <meta name="twitter:card" content="summary_large_image" />
+
+        <meta name="twitter:image:src" content="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/glennharvey_theatlantic_2018_05_06_final/facebook.jpg?1525687701" />
+
+
+
+
+        <script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "The Atlantic",
+          "url": "https://www.theatlantic.com",
+          "logo": "https://cdn.theatlantic.com/assets/media/files/atlantic-logo--224x224.png",
+          "sameAs" : [
+            "https://www.facebook.com/TheAtlantic",
+            "https://twitter.com/theatlantic",
+            "https://plus.google.com/109258622984321091629/posts"]
+        }
+        </script>
+        <script type="application/ld+json">
+        {
+          "@context" : "http://schema.org",
+          "@type" : "WebSite",
+          "name" : "The Atlantic",
+          "url" : "https://www.theatlantic.com",
+          "potentialAction" : {
+            "@type" : "SearchAction",
+            "target" : "https://www.theatlantic.com/search/?q={search_term}",
+            "query-input" : "required name=search_term"
+          }
+        }
+        </script>
+
+
+
+
+                <meta name="ROBOTS" content="INDEX, FOLLOW">
+
+
+
+
+
+
+<meta property="krux:title" content="I’m Not Black, I’m Kanye">
+<meta property="krux:description" content="Kanye West wants freedom—white freedom.">
+
+
+    <link rel="amphtml" href="/amp/article/559763/" />
+
+
+
+    <link rel="standout" href="https://www.theatlantic.com/entertainment/archive/2018/05/im-not-black-im-kanye/559763/">
+
+
+
+
+
+
+
+    <link href="https://cdn.theatlantic.com/assets/static/b/theatlantic/css/site.min.6535694c6a2f.css" rel="stylesheet" type="text/css" />
+
+
+
+
+    <style type="text/css" media="screen">
+        #article .lead-img .img {
+            padding-bottom: 56.25%;
+        }
+
+        .article-wide #article .article-cover,
+        .article-wide #article .ad-article-wrapper {
+            padding-top: 56.25%;
+            padding-top: -webkit-calc(56.25% + 35px);
+            padding-top: calc(56.25% + 35px);
+
+        }
+
+        .article-wide #article .boxtop-most-popular {
+            margin-top: 56.25%;
+            margin-top: -webkit-calc(56.25% + 35px);
+            margin-top: calc(56.25% + 35px);
+        }
+
+        @media (max-width: 680px) {
+            .article-wide #article .article-cover,
+            .article-wide #article .ad-article-wrapper {
+                padding-top: 56.25%;
+                padding-top: -webkit-calc(56.25% + 20px);
+                padding-top: calc(56.25% + 20px);
+            }
+
+            .article-wide #article .boxtop-most-popular {
+                margin-top: 56.25%;
+                margin-top: -webkit-calc(56.25% + 20px);
+                margin-top: calc(56.25% + 20px);
+            }
+        }
+
+        @media (max-width: 1010px) {
+
+            .article-full #article .article-cover {
+                padding-top: 56.25%;
+            }
+        }
+    </style>
+
+
+
+
+
+
+    <script>
+        var Atlantic = {};
+        Atlantic.page_meta = {
+  "grapeshot_last_updated": "2018-05-07T12:06:17.652785+00:00",
+  "adtargeting": {
+    "watson_categories": [
+      "/art and entertainment/music",
+      "/family and parenting/children",
+      "/art and entertainment/music/music genres/hip hop"
+    ],
+    "grapeshot_segments": [
+      "gs_entertain",
+      "an_jpmc_safe",
+      "gs_entertain_music",
+      "gs_fashion",
+      "gs_entertain_celeb",
+      "gs_politics"
+    ]
+  },
+  "article_last_updated": "2018-05-07T07:17:36-04:00",
+  "watson": {
+    "top_category": {
+      "four": null,
+      "full": "/art and entertainment/music",
+      "one": "art and entertainment",
+      "three": null,
+      "two": "music"
+    },
+    "entities": [
+      "Kanye West",
+      "Michael Jackson"
+    ],
+    "categories": [
+      "/art and entertainment/music",
+      "/family and parenting/children",
+      "/art and entertainment/music/music genres/hip hop"
+    ],
+    "keywords": [
+      "Michael Jackson",
+      "Kanye West",
+      "celebrity Kanye West",
+      "Donald Trump",
+      "small fame",
+      "Michael Jackson moonwalk",
+      "Jackson mediated gang",
+      "Michael Jackson glide",
+      "black god",
+      "Michael Jackson sought\u2014liberation",
+      "murder capital",
+      "Charlamagne Tha God",
+      "freedom",
+      "god Kanye",
+      "time",
+      "long public slumber",
+      "black artists",
+      "brilliant black artists",
+      "older black writer",
+      "drugged-out West",
+      "Friday Night Videos",
+      "white freedom",
+      "West samples",
+      "way",
+      "truly black face",
+      "gallant General Lee",
+      "biggest apparel company",
+      "physical destruction",
+      "black freedom",
+      "golden age",
+      "past American unity",
+      "fact American unity",
+      "black man",
+      "Harriet Tubman",
+      "travel ban",
+      "people",
+      "Billie Jean",
+      "solely righteous anger",
+      "funny self-deprecating segment",
+      "green Air-Force Ones",
+      "Jim Brown",
+      "apocryphal Harriet Tubman",
+      "black men",
+      "black women",
+      "John C. Calhoun",
+      "black boy",
+      "bottled iced tea",
+      "Madison Square Garden",
+      "Trump\u2019s response",
+      "black writers"
+    ],
+    "concepts": [
+      "Michael Jackson",
+      "The Jackson 5",
+      "Kanye West"
+    ]
+  },
+  "source_cache_hit": "2018-05-07T12:08:04.319538+00:00",
+  "article_word_count": 4867
+};
+        Atlantic.page_info = {"domain": "www.theatlantic.com", "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/05/glennharvey_theatlantic_2018_05_06_final/facebook.jpg?1525687701", "channels": ["politics", "entertainment"], "article_type": "blog", "is_features": false, "trump_channel": "entertainment", "twitter_image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/05/glennharvey_theatlantic_2018_05_06_final/facebook.jpg?1525687701", "canonical_url": "https://www.theatlantic.com/entertainment/archive/2018/05/im-not-black-im-kanye/559763/", "layout": "feature", "is_amp": false, "is_freelance": false, "original_url": "https://www.theatlantic.com/entertainment/archive/2018/05/im-not-black-im-kanye/559763/", "seo_title": "Ta-Nehisi Coates: Kanye West in the Age of Donald Trump", "site_url": "http://www.theatlantic.com", "primary_channel": "entertainment", "version": "1.0.0", "share_dek": "Kanye West wants freedom\u2014white freedom.\r\n", "is_instant": false, "date": "2018-05-07T07:03:55-04:00", "share_title": "I\u2019m Not Black, I\u2019m Kanye", "description": "Kanye West wants freedom\u2014white freedom.", "tags": [], "is_404": false, "kicker": "", "authors": ["Ta-Nehisi Coates"], "hours_since_published": 0, "path": "/entertainment/archive/2018/05/im-not-black-im-kanye/559763/", "article_id": 559763, "categories": [], "share_text": "Here's Ta-Nehisi Coates on Kanye West championing a kind of freedom\u2014\"a white freedom, freedom without consequence, freedom without criticism, freedom to be proud and ignorant\"\u2014in the age of Donald Trump.", "url": "http://www.theatlantic.com/entertainment/archive/2018/05/im-not-black-im-kanye/559763/", "is_sponsored": false, "title": "I\u2019m Not Black, I\u2019m Kanye", "og_type": "article", "report": "", "is_magazine": false, "view": "article", "days_since_published": 0};
+        Atlantic.STATIC_URL = "https://cdn.theatlantic.com/assets/static/b/";
+        Atlantic.MEDIA_URL = "https://cdn.theatlantic.com/assets/media/";
+        Atlantic.PROFILES_STATICFILES = {
+  "CSS": [
+    "https://cdn.theatlantic.com/assets/static/b/theatlantic/css/profiles.min.b5773bf7c74e.css"
+  ],
+  "JS": "https://cdn.theatlantic.com/assets/static/b/janrain/profiles.bc96b6d2156e.js"
+};
+        Atlantic.PROFILES_URL = "https://accounts.theatlantic.com/"
+        Atlantic.SESSION_URLS = {
+            "session_start": "https://accounts.theatlantic.com/api/1.0/session_start/",
+            "session_end": "https://accounts.theatlantic.com/api/1.0/session_end/"
+        };
+        Atlantic.GTM = {
+            quantcastLabels: ["The Atlantic.Editorial.Title.I\u2019m Not Black I\u2019m Kanye", "The Atlantic.Editorial.Author.Ta-Nehisi Coates", "The Atlantic.Editorial.Channel.politics", "The Atlantic.Editorial.Channel.entertainment"],
+            simplereach: {"is_404": false, "conf": {"channels": ["politics", "entertainment"], "date": "2018-05-07T07:03:55-04:00", "title": "I\u2019m Not Black, I\u2019m Kanye", "url": "http://www.theatlantic.com/entertainment/archive/2018/05/im-not-black-im-kanye/559763/", "authors": ["ta-nehisi-coates"], "tags": [], "page_url": "https://www.theatlantic.com/entertainment/archive/2018/05/im-not-black-im-kanye/559763/"}}
+        };
+
+
+
+        var s_account = "atlanticprod";
+
+    </script>
+
+
+
+
+<link rel="preload" as="script" href="https://www.googletagservices.com/tag/js/gpt.js" onload="performance.mark('atl:gpt_preloaded');">
+
+<link rel="preload" as="script" href="https://z.moatads.com/thewire746082389130/moatad.js" onload="performance.mark('atl:moat_preloaded');">
+
+
+        <link rel="preload" as="script" href="https://contextual.media.net/bidexchange.js?cid=8CUD82U22&version=3.3&https=1" onload="performance.mark('atl:medianet_preloaded');">
+
+
+
+        <link rel="preload" as="script" href="https://c.amazon-adsystem.com/aax2/apstag.js" onload="performance.mark('atl:amazon_preloaded');">
+
+
+
+        <link rel="preload" as="script" href="https://static.criteo.net/js/ld/publishertag.js" onload="performance.mark('atl:criteo_preloaded');">
+
+
+
+
+
+    <script type="text/javascript" src="https://cdn.theatlantic.com/assets/static/b/theatlantic/js/head.min.82caef83c29a.js" charset="utf-8"></script>
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-56LJR35');</script>
+
+
+
+
+
+</head>
+
+<body
+    id=""
+    class="article-full header-extended header-flag "
+    data-page-type="article"
+
+>
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-56LJR35" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+<div class="u-hidden"><?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg"><symbol id="icon-arrow-right" viewBox="0 0 11 18"><path d="M1 1l8 7.928L1.267 17" fill-rule="evenodd"/></symbol><symbol id="icon-logo-a" viewBox="0 0 15 17"><path d="M11.435 3.13v5.913H7.609l3.826-5.913zM12.826 0L2.391 15.652H1V16h3.826v-.348H3.087l4.174-6.26h4.174v6.26h-1.74V16h4.522v-.348h-1.39V0z" fill-rule="evenodd"/></symbol><symbol id="icon-logo-atl" viewBox="0 0 82 25"><g><path d="M25.509.349h-.669L9.297 23.188H7.976l-.21.845h4.406l.212-.845H10.36l5.62-8.258h5.152l-.934 8.258h-1.803l-.212.845h6.185l.208-.845h-1.642L25.509.349zm-3.35 5.503l-.928 8.205h-4.656l5.584-8.205zM70.052 8.578c.812 0 1.423-.662 1.423-1.54 0-.811-.562-1.422-1.308-1.422-.825 0-1.424.659-1.424 1.567 0 .795.563 1.395 1.309 1.395zM29.809 20.791c-.421.962-1.131 2.084-1.747 2.084-.174 0-.352-.052-.352-.438 0-.2.053-.521.137-.823l2.641-10.29h2.205l.212-.842h-2.202l1.145-4.409H29.27l-1.145 4.409h-1.689l-.212.842h1.687l-2.408 9.445-.048.18c-.135.501-.275 1.02-.275 1.688 0 .764.485 1.653 1.853 1.653 1.438 0 2.605-1.028 3.467-3.058l.165-.359-.759-.305-.097.223zM35.675 20.797c-.279.678-1.073 2.078-1.744 2.078-.207 0-.323-.021-.323-.438 0-.287.031-.525.106-.823L39.118.807h-4.497l-.21.843h1.858l-4.9 19.124-.047.188c-.136.534-.276 1.086-.276 1.68 0 .799.487 1.651 1.853 1.651 2.263 0 3.335-2.664 3.527-3.198l.081-.227-.739-.299-.093.228zM77.5 13.191c0 .671.513 1.193 1.167 1.193.777 0 1.279-.625 1.279-1.593 0-1.199-.792-2.599-3.025-2.599-2.252 0-3.8 1.357-4.731 4.147-.444 1.311-1.272 3.747-1.272 6.406 0 1.712.908 3.542 3.456 3.542 1.238 0 2.98-.668 4.25-3.854l.14-.33-.829-.381-.1.238c-.32.762-1.293 3.081-2.889 3.081-.974 0-1.468-.744-1.468-2.211 0-2.229.673-4.556 1.332-6.534.797-2.386 1.245-3.233 2.168-3.233.56 0 .951.226.951.549 0 .284-.097.497-.2.723-.107.242-.229.51-.229.856zM70.573 10.48H64.79l1.117-4.409h-2.576l-1.117 4.409h-1.889l-.209.842h1.886l-2.41 9.447-.045.172c-.136.513-.277 1.041-.277 1.638 0 .789.5 1.71 1.91 1.71 2.166 0 3.246-2.664 3.441-3.197l.083-.228-.736-.296-.098.222c-.57 1.305-1.223 2.084-1.746 2.084-.189 0-.323-.031-.323-.438 0-.229.041-.475.136-.822l2.615-10.289 3.258.001-2.437 9.442c-.137.492-.324 1.168-.324 1.756 0 .814.507 1.768 1.938 1.768 2.157 0 3.245-2.663 3.441-3.197l.083-.228-.741-.274-.1.215c-.84 1.803-1.432 2.069-1.71 2.069-.281 0-.352-.055-.352-.466 0-.254.049-.483.135-.797l2.83-11.134zM58.158 20.88c-.27.546-.988 1.995-1.674 1.995-.297 0-.378-.088-.378-.408 0-.238.045-.523.134-.854l1.832-7.101.047-.18c.156-.593.304-1.151.304-1.886 0-1.094-.759-2.197-2.454-2.197-1.026 0-1.937.428-2.718 1.275l.261-1.045H49.09l-.279.842h1.884L47.431 24.03h2.577l2.281-8.802c.495-1.871 1.633-3.765 2.851-3.765.692 0 .837.44.837.809 0 .363-.102.762-.22 1.224l-1.872 7.306c-.117.477-.314 1.271-.314 1.83 0 .799.502 1.653 1.911 1.653.958 0 2.33-.538 3.428-3.103l.143-.315-.743-.3-.152.313zM47.765 20.866l-.743-.298-.097.223c-.789 1.812-1.432 2.083-1.745 2.083-.164 0-.217-.058-.235-.074-.069-.073-.101-.229-.088-.448 0-.158.045-.404.135-.737l2.857-11.133h-2.58l-.202.828c-.418-.74-1.128-1.114-2.12-1.114-2.718 0-3.95 2.378-4.641 4.167-.39 1.022-1.415 4.151-1.477 6.32-.047 1.209.25 2.183.857 2.812.5.521 1.201.796 2.026.796 1.22 0 2.087-.83 2.617-1.567.03.389.186.743.449 1.018.348.361.851.552 1.456.552 1.436 0 2.65-1.116 3.439-3.19l.092-.238zm-7.564 2.238c-.312 0-.538-.076-.69-.229-.208-.213-.305-.606-.291-1.171.072-2.161 1.23-6.062 1.904-8.028.385-1.136 1.073-2.491 2.167-2.491h.001c.299 0 .546.099.735.293.261.269.402.715.388 1.222-.053 1.295-.642 3.936-1.535 6.888-.692 2.2-1.693 3.516-2.679 3.516zM6.992 3.046l-.052.294h.721L8.322.75H2.71l-.658 2.59h.719l.062-.158c.582-1.478.76-1.665 1.593-1.665h.132L2.519 9.494h-.832l-.215.767h3.33l.225-.767H4.1l2.041-7.977h.186c.383 0 .622.02.707.121.153.184.058.849-.042 1.408zM9.119 6.277c.257-.957.775-1.679 1.204-1.679.163 0 .245.069.245.206 0 .204-.076.497-.144.736L9.67 8.45c-.039.116-.166.639-.166.954 0 .599.373.972.973.972.729 0 1.31-.506 1.745-1.547.089.996.686 1.546 1.713 1.546 1.378 0 2.041-1.46 2.211-1.908l.081-.211-.666-.336-.105.244c-.202.468-.642 1.253-1.329 1.253-.126 0-.511 0-.511-.699 0-.351.058-.703.113-.973 1.376-.358 3.193-1.427 3.193-2.829 0-.799-.519-1.276-1.389-1.276-1.643 0-3.315 2.465-3.329 4.896l-.528-.217-.097.225c-.248.576-.508.838-.613.876 0-.001-.01-.023-.01-.093 0-.156.069-.507.106-.656l.765-2.872c.076-.309.154-.627.154-.995 0-.578-.395-1.162-1.276-1.162a1.72 1.72 0 0 0-1.002.337l.829-3.228H8.424l-.217.768h.655l-2.243 8.742h1.466l1.034-3.984zm4.83.567c.392-1.402 1.132-2.437 1.585-2.437.184 0 .203.019.203.207.001.742-.715 1.759-1.788 2.23z"/></g></symbol><symbol id="icon-nav-latest" viewBox="0 0 24 24"><path d="M12 24c6.627 0 12-5.373 12-12S18.627 0 12 0 0 5.373 0 12s5.373 12 12 12zm0-2C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm1-18.003a1 1 0 1 0-2 .006l.024 9c.002.893 1.085 1.335 1.712.7l3.976-4.034a1 1 0 0 0-1.424-1.404l-2.27 2.303L13 3.998z" fill-rule="evenodd"/></symbol><symbol id="icon-nav-magazine" viewBox="0 0 24 23"><path d="M22 19.108l-9 1.03V3.163l9-1.03v16.974zM2 2.134l9 1.03v16.973l-9-1.029V2.134zM23.001.006L12 1.266.999.005C.447-.057 0 .337 0 .887v19.01c0 .544.447 1.046.999 1.11l10.586 1.21a.928.928 0 0 0 .414.048h.002a.928.928 0 0 0 .414-.048l10.586-1.21c.552-.064.999-.566.999-1.11V.887c0-.55-.447-.944-.999-.88z" fill-rule="evenodd"/></symbol><symbol id="icon-nav-more" viewBox="0 0 22 22"><path d="M10 10V1a1 1 0 0 1 2 0v9h9a1 1 0 0 1 0 2h-9v9a1 1 0 0 1-2 0v-9H1a1 1 0 0 1 0-2h9z" fill-rule="evenodd"/></symbol><symbol id="icon-nav-popular" viewBox="0 0 24 22"><path d="M20.297 3.566l-7.198 12.602a1 1 0 0 1-1.695.068l-2.9-4.251-6.693 9.27a1 1 0 1 1-1.622-1.172L7.716 9.66a1 1 0 0 1 1.637.022l2.802 4.107L18.59 2.52l-4.365 1.007a1 1 0 0 1-.45-1.948l6.73-1.554a1 1 0 0 1 1.2.75l1.596 6.914a1 1 0 1 1-1.948.45l-1.056-4.574z" fill-rule="evenodd"/></symbol><symbol id="icon-nav-sections" viewBox="0 0 20 20"><path d="M1 20h18a1 1 0 0 0 0-2H1a1 1 0 0 0 0 2zm0-6h18a1 1 0 0 0 0-2H1a1 1 0 0 0 0 2zm0-6h18a1 1 0 0 0 0-2H1a1 1 0 1 0 0 2zm0-6h18a1 1 0 0 0 0-2H1a1 1 0 1 0 0 2z" fill-rule="evenodd"/></symbol><symbol id="icon-nav-writers" viewBox="0 0 24 23"><path d="M2.013 21.042l3.288.041h16.663c-.279-2.07-1.549-6.83-7.332-7.951a.956.956 0 0 1-.272-1.785c1.611-.865 2.613-2.564 2.613-4.435 0-2.755-2.174-4.995-4.845-4.995s-4.844 2.24-4.844 4.995c0 1.836.974 3.52 2.54 4.395a.957.957 0 0 1-.3 1.781c-5.827 1.03-7.192 5.857-7.51 7.954M23 23H5.289l-4.342-.055A.963.963 0 0 1 0 21.97c.002-.085.245-7.823 7.252-10.268a6.995 6.995 0 0 1-1.885-4.79C5.367 3.102 8.401 0 12.128 0c3.728 0 6.762 3.1 6.762 6.912 0 1.859-.721 3.596-1.961 4.87 6.942 2.543 7.03 10.176 7.03 10.26 0 .53-.43.958-.96.958" fill-rule="evenodd"/></symbol><symbol id="icon-social-email" viewBox="0 0 21 16"><path d="M21 2.254l-10.5 7.72L0 2.196A2 2 0 0 1 2 .222h17a2 2 0 0 1 2 2v.032zm0 2.369v9.155a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-9.21c6.081 4.581 9.297 7.004 9.65 7.268.477.359.591.428.855.426.258-.001.372-.07.834-.415L21 4.623z" fill-rule="evenodd"/></symbol><symbol id="icon-social-facebook" viewBox="0 0 16 16"><path d="M15.117 0H.883A.883.883 0 0 0 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.461V7.389h2.085V5.61c0-2.067 1.262-3.192 3.106-3.192.883 0 1.642.065 1.863.095v2.16h-1.279c-1.002 0-1.196.476-1.196 1.176v1.541h2.39l-.31 2.415h-2.08V16h4.077a.883.883 0 0 0 .883-.883V.883A.883.883 0 0 0 15.117 0" fill-rule="evenodd"/></symbol><symbol id="icon-social-google" viewBox="0 0 16 16"><path d="M8.163 6.857V9.6h4.63c-.187 1.177-1.4 3.451-4.63 3.451-2.787 0-5.061-2.262-5.061-5.051s2.274-5.051 5.061-5.051c1.586 0 2.647.662 3.254 1.234l2.216-2.092C12.21.79 10.367 0 8.163 0 3.65 0 0 3.577 0 8s3.65 8 8.163 8C12.875 16 16 12.754 16 8.183c0-.526-.058-.926-.128-1.326H8.163z" fill-rule="evenodd"/></symbol><symbol id="icon-social-instagram" viewBox="0 0 16 16"><path d="M8 0C5.827 0 5.555.01 4.702.048 3.85.087 3.269.222 2.76.42a3.921 3.921 0 0 0-1.417.923c-.445.444-.719.89-.923 1.417-.198.509-.333 1.09-.372 1.942C.01 5.555 0 5.827 0 8s.01 2.445.048 3.298c.039.852.174 1.433.372 1.942.204.526.478.973.923 1.417.444.445.89.719 1.417.923.509.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.445-.01 3.298-.048c.852-.039 1.433-.174 1.942-.372a3.921 3.921 0 0 0 1.417-.923c.445-.444.719-.89.923-1.417.198-.509.333-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.298c-.039-.852-.174-1.433-.372-1.942a3.921 3.921 0 0 0-.923-1.417A3.921 3.921 0 0 0 13.24.42c-.509-.198-1.09-.333-1.942-.372C10.445.01 10.173 0 8 0zm0 1.442c2.136 0 2.39.008 3.233.046.78.036 1.203.166 1.485.276.374.145.64.318.92.598.28.28.453.546.598.92.11.282.24.705.276 1.485.038.844.046 1.097.046 3.233s-.008 2.39-.046 3.233c-.036.78-.166 1.203-.276 1.485-.145.374-.318.64-.598.92-.28.28-.546.453-.92.598-.282.11-.705.24-1.485.276-.844.038-1.097.047-3.233.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.478 2.478 0 0 1-.598-.92c-.11-.282-.24-.705-.276-1.485-.038-.844-.047-1.097-.047-3.233s.009-2.39.047-3.233c.036-.78.166-1.203.276-1.485.145-.374.318-.64.598-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.844-.038 1.097-.046 3.233-.046zM7.9 3.8a4.1 4.1 0 1 0 0 8.2 4.1 4.1 0 0 0 0-8.2zm0 6.761a2.661 2.661 0 1 1 0-5.322 2.661 2.661 0 0 1 0 5.322zM13.4 3.8a1 1 0 1 1-2 0 1 1 0 0 1 2 0z" fill-rule="evenodd"/></symbol><symbol id="icon-social-linkedin" viewBox="0 0 16 16"><path d="M3.502 15.925H.343V5.085h3.09v10.84h.07zM1.854 3.738C.687 3.738 0 2.916 0 1.87 0 .822.755 0 1.923 0 3.09 0 3.777.822 3.777 1.87c0 .971-.756 1.868-1.923 1.868zM16 15.925h-3.57v-5.607c0-1.496-.55-2.468-1.786-2.468-.962 0-1.442.673-1.717 1.346-.069.225-.069.598-.069.897V16H5.356s.069-9.944 0-10.916h3.502v1.72c.206-.748 1.305-1.795 3.09-1.795 2.198 0 3.983 1.57 3.983 4.935v5.981H16z" fill-rule="evenodd"/></symbol><symbol id="icon-social-pinterest" viewBox="0 0 16 16"><path d="M16 8c0-4.417-3.583-8-8-8a8.002 8.002 0 0 0-3.208 15.333c-.021-.562-.01-1.24.135-1.843 0 0 .156-.646 1.031-4.355-.26-.51-.26-1.27-.26-1.27 0-1.188.687-2.073 1.542-2.073.729 0 1.083.552 1.083 1.208 0 .73-.469 1.823-.708 2.833-.198.855.427 1.542 1.26 1.542 1.52 0 2.542-1.948 2.542-4.25 0-1.76-1.188-3.073-3.334-3.073-2.427 0-3.937 1.813-3.937 3.833 0 .698.208 1.188.531 1.573.146.177.167.24.115.448-.042.146-.125.5-.167.636-.052.208-.219.28-.396.208-1.114-.458-1.635-1.687-1.635-3.062 0-2.271 1.916-5 5.708-5 3.063 0 5.073 2.218 5.073 4.583 0 3.146-1.75 5.49-4.323 5.49-.865 0-1.677-.47-1.948-1a345.426 345.426 0 0 1-.562 2.197c-.167.615-.51 1.23-.813 1.709C6.46 15.885 7.21 16 8 16c4.417 0 8-3.583 8-8z" fill-rule="evenodd"/></symbol><symbol id="icon-social-rss" viewBox="0 0 16 16"><path d="M2.74 16a2.74 2.74 0 1 0 0-5.48 2.74 2.74 0 0 0 0 5.48zm11.89 0a1.37 1.37 0 0 1-1.37-1.37c0-7.335-4.556-11.89-11.89-11.89a1.37 1.37 0 0 1 0-2.74c4.331 0 8 1.384 10.625 4.005C14.62 6.625 16 10.3 16 14.63A1.37 1.37 0 0 1 14.63 16zm-5.185 0a1.37 1.37 0 0 1-1.37-1.37c0-4.449-2.256-6.705-6.705-6.705a1.37 1.37 0 0 1 0-2.74c6.001 0 9.445 3.442 9.445 9.444A1.37 1.37 0 0 1 9.445 16z" fill-rule="evenodd"/></symbol><symbol id="icon-social-twitter" viewBox="0 0 16 14"><path d="M14.115 2.13A3.393 3.393 0 0 0 15.558.25a6.437 6.437 0 0 1-2.085.825A3.226 3.226 0 0 0 11.077 0C9.265 0 7.795 1.523 7.795 3.401c0 .267.029.527.085.776C5.152 4.035 2.733 2.68 1.114.623a3.48 3.48 0 0 0-.445 1.71c0 1.18.58 2.22 1.46 2.83a3.183 3.183 0 0 1-1.486-.425v.043c0 1.648 1.131 3.023 2.633 3.335a3.18 3.18 0 0 1-1.483.059c.418 1.351 1.63 2.334 3.067 2.362A6.442 6.442 0 0 1 0 11.946a9.057 9.057 0 0 0 5.032 1.528c6.038 0 9.34-5.183 9.34-9.678 0-.148-.004-.294-.01-.44A6.811 6.811 0 0 0 16 1.595a6.385 6.385 0 0 1-1.885.536z" fill-rule="evenodd"/></symbol><symbol id="icon-social-youtube" viewBox="0 0 16 12"><path d="M11.428 6a.589.589 0 0 1-.267.506l-4.572 3a.508.508 0 0 1-.303.094.585.585 0 0 1-.277-.075A.613.613 0 0 1 5.714 9V3c0-.216.116-.422.295-.525a.542.542 0 0 1 .58.019l4.572 3c.17.103.268.3.268.506zM16 6c0-1.34 0-2.766-.277-4.069-.196-.919-.893-1.594-1.732-1.697C12.01 0 10 0 8 0 6 0 3.991 0 2.009.234 1.169.338.482 1.013.286 1.931 0 3.234 0 4.66 0 6c0 1.34 0 2.766.277 4.069.196.919.893 1.594 1.732 1.697C3.99 12 6 12 8 12c2 0 4.009 0 5.991-.234.84-.104 1.536-.779 1.723-1.697C16 8.766 16 7.34 16 6z" fill-rule="evenodd"/></symbol><symbol id="icon-ui-ellipses" viewBox="0 0 16 4"><g fill-rule="evenodd"><circle cx="2" cy="2" r="2"/><circle cx="8" cy="2" r="2"/><circle cx="14" cy="2" r="2"/></g></symbol><symbol id="icon-ui-lock" viewBox="0 0 12 14"><path d="M10 5h1.5a.5.5 0 0 1 .5.5v8a.5.5 0 0 1-.5.5H.5a.5.5 0 0 1-.5-.5v-8A.5.5 0 0 1 .5 5H2V4a4 4 0 0 1 4-4 4 4 0 0 1 4 4zM8 5V4a2 2 0 0 0-2-2 2 2 0 0 0-2 2v1z"/></symbol><symbol id="icon-ui-search" viewBox="0 0 16 16"><path d="M16 14.783l-4.896-4.83c.866-1.065 1.237-2.28 1.237-3.763C12.34 2.771 9.578 0 6.17 0 2.762 0 0 2.771 0 6.19c0 3.419 2.763 6.19 6.17 6.19 1.486 0 2.613-.33 3.678-1.207L14.742 16 16 14.783zM1.234 6.189c0-2.735 2.21-4.953 4.936-4.953 2.727 0 4.937 2.218 4.937 4.953a4.943 4.943 0 0 1-4.937 4.952c-2.726 0-4.936-2.217-4.936-4.952z" fill-rule="evenodd"/></symbol><symbol id="icon-ui-x" viewBox="0 0 16 16"><path d="M9.525 8l6.159 6.159a1.078 1.078 0 1 1-1.525 1.525L8 9.524l-6.159 6.16a1.076 1.076 0 0 1-1.525 0 1.078 1.078 0 0 1 0-1.525L6.476 8 .315 1.841A1.078 1.078 0 1 1 1.841.316L8 6.476l6.16-6.16a1.078 1.078 0 1 1 1.524 1.525L9.524 8z" fill-rule="evenodd"/></symbol></svg></div>
+
+
+
+<div id="site" class="">
+
+
+
+        <nav id="main-navigation" class="c-nav c-nav--main u-border-box u-smooth-font" role="navigation" aria-label="Main menu" data-omni-click="r'article',r'',d,r'header',r'',@href"><div class="c-nav__container"><ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="c-nav__list c-nav__list--main" role="menubar" aria-hidden="false" id="main-navigation-top-level"><li class="c-nav__item c-nav__item--main c-nav__item--logo"><a href="#main-content" class="c-skip-link">Skip to content</a> <a href="/" class="c-nav__link c-nav__link--main c-logo c-logo--nav" data-omni-click="r'article',r'logo',d,r'',r'',@href"><span class="u-element-invisible c-logo__name">The Atlantic</span> <svg class="c-logo__icon o-icon" viewBox="0 0 256 84"><use xlink:href="#icon-logo-atl"></use></svg></a></li><li class="c-nav__item c-nav__item--main c-nav__item--popular js-nav-item" role="menuitem"><a itemprop="url" href="/most-popular/" class="c-nav__link c-nav__link--main" data-omni-click="inherit"><svg class="c-nav__icon o-icon"><use xlink:href="#icon-nav-popular"></use></svg> <span itemprop="name" class="c-nav__title c-nav__title--popular">Popular</span></a></li><li class="c-nav__item c-nav__item--main js-nav-item" role="menuitem"><a itemprop="url" href="/latest/" class="c-nav__link c-nav__link--main c-nav__link--latest" data-omni-click="inherit"><svg class="c-nav__icon o-icon"><use xlink:href="#icon-nav-latest"></use></svg> <span itemprop="name" class="c-nav__title c-nav__title--latest">Latest</span></a></li>  <li itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="c-nav__item c-nav__item--main has-children js-nav-item" role="menuitem" aria-haspopup="true"><a href="javascript:void(0)" class="c-nav__link c-nav__link--main c-nav__link--sections has-children js-expandable-menu" data-omni-click="inherit"><svg class="c-nav__icon c-nav__icon--sections o-icon"><use xlink:href="#icon-nav-sections"></use></svg> <span class="c-nav__title c-nav__title--sections">Sections</span></a><div class="c-nav__menu c-menu c-menu--expandable" role="menu" aria-hidden="true"><strong class="c-menu__title"><span class="c-menu__name">Sections</span> <svg class="c-menu__close o-icon c-icon--sections"><use xlink:href="#icon-ui-x"></use></svg></strong><section class="c-menu__section" id="main-navigation-sections-menu-0"><ul class="c-menu__list" aria-hidden="true" role="menu">  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/politics/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Politics &amp; Policy</a></li>  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/entertainment/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Culture</a></li>  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/science/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Science</a></li>  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/technology/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Technology</a></li>  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/business/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Business</a></li>  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/health/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Health</a></li>  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/family/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Family</a></li>  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/education/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Education</a></li>  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/international/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Global</a></li>  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/notes/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Notes</a></li>  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/letters/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Letters</a></li>  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/membership/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">The Masthead</a></li>  </ul></section><section class="c-menu__section c-menu__section--secondary" id="main-navigation-sections-menu-1"><ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="c-menu__list c-menu__list--secondary" aria-hidden="true" role="menu">  <li itemprop="name" class="c-menu__item c-menu__item--secondary" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/photo/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Photo</a></li>  <li itemprop="name" class="c-menu__item c-menu__item--secondary" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/podcasts/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Podcasts</a></li>  <li itemprop="name" class="c-menu__item c-menu__item--secondary" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/video/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Video</a></li>  <li itemprop="name" class="c-menu__item c-menu__item--secondary" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/events/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Events</a></li>  <li itemprop="name" class="c-menu__item c-menu__item--secondary" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/writers/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Writers</a></li>  <li itemprop="name" class="c-menu__item c-menu__item--secondary" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/projects/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Projects</a></li>  </ul></section></div></li><li itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="c-nav__item c-nav__item--main has-children js-nav-item" role="menuitem" aria-haspopup="true"><a href="javascript:void(0)" class="c-nav__link c-nav__link--main c-nav__link--magazine has-children js-expandable-menu" data-omni-click="inherit"><svg class="c-nav__icon c-nav__icon--magazine o-icon"><use xlink:href="#icon-nav-magazine"></use></svg> <span class="c-nav__title c-nav__title--magazine">Magazine</span></a><div class="c-nav__menu c-menu c-menu--expandable" role="menu" aria-hidden="true"><strong class="c-menu__title"><span class="c-menu__name">Magazine</span> <svg class="c-menu__close o-icon"><use xlink:href="#icon-ui-x"></use></svg></strong><section class="c-menu__section" id="main-navigation-magazine-menu-0"><ul class="c-menu__list" aria-hidden="true" role="menu">  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/magazine/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Current issue</a></li>  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/magazine/backissues/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">All issues</a></li>  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://accounts.theatlantic.com/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Manage subscription</a></li>  <li itemprop="name" class="c-menu__item" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/locator/navdropdown/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Subscribe</a></li>  </ul></section></div></li><li class="c-nav__item c-nav__item--main has-children js-nav-item" role="menuitem" aria-haspopup="true"><a href="javascript:void(0)" class="c-nav__link c-nav__link--main has-children c-nav__link--more js-expandable-menu js-load-janrain" data-omni-click="inherit"><svg class="c-nav__icon c-nav__icon--more o-icon"><use xlink:href="#icon-nav-more"></use></svg> <span class="c-nav__title c-nav__title--more">More</span></a><div class="c-nav__menu c-menu c-menu--expandable" role="menu" aria-hidden="true"><strong class="c-menu__title"><span class="c-menu__name">More</span> <svg class="c-menu__close o-icon"><use xlink:href="#icon-ui-x"></use></svg></strong><section class="c-menu__section" id="main-navigation-more-menu-0"><ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="c-menu__list" aria-hidden="true" role="menu"><li class="c-menu__item"><a itemprop="url" href="https://accounts.theatlantic.com/register/" class="c-menu__link captureSignInLink signed-out-utils" tabindex="-1" data-omni-click="inherit"><span itemprop="name">Create account</span></a> <a itemprop="url" href="https://accounts.theatlantic.com/" class="c-menu__link captureProfileLink signed-in-utils" tabindex="-1" data-omni-click="inherit"><span itemprop="name">Your account</span></a></li><li class="c-menu__item"><a itemprop="url" href="https://accounts.theatlantic.com/" class="c-menu__link captureSignInLink signed-out-utils" tabindex="-1" data-omni-click="inherit"><span itemprop="name">Sign in</span></a> <a itemprop="url" href="javascript:void(0)" class="c-menu__link captureSignOutLink signed-in-utils" tabindex="-1" data-omni-click="inherit"><span itemprop="name">Sign out</span></a></li></ul></section><section class="c-menu__section c-menu__section--secondary" id="main-navigation-more-menu-1"><ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="c-menu__list c-menu__list--secondary" aria-hidden="true" role="menu">  <li itemprop="name" class="c-menu__item c-menu__item--secondary" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/newsletters/sign-up/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Newsletters</a></li>  <li itemprop="name" class="c-menu__item c-menu__item--secondary" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/app/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">iOS App</a></li>  <li itemprop="name" class="c-menu__item c-menu__item--secondary" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/timeline/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Life Timeline</a></li>  <li itemprop="name" class="c-menu__item c-menu__item--secondary" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/events/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Events</a></li>  <li itemprop="name" class="c-menu__item c-menu__item--secondary" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/ebooks/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Books</a></li>  <li itemprop="name" class="c-menu__item c-menu__item--secondary" role="menuitem"><a itemprop="url" href="https://www.theatlantic.com/store/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Shop</a></li>  </ul></section><section class="c-menu__section c-menu__section--tertiary" aria-hidden="true" role="menu" id="main-navigation-more-menu-2"><span class="c-menu__section__icon"><a href="https://www.facebook.com/TheAtlantic" target="_blank" rel="noopener" tabindex="-1" data-omni-click="inherit"><svg class="o-icon"><use xlink:href="#icon-social-facebook"></use></svg></a></span><span class="c-menu__section__icon"><a href="https://www.instagram.com/theatlantic/" target="_blank" rel="noopener" tabindex="-1" data-omni-click="inherit"><svg class="o-icon"><use xlink:href="#icon-social-instagram"></use></svg></a></span><span class="c-menu__section__icon"><a href="https://twitter.com/TheAtlantic" target="_blank" rel="noopener" tabindex="-1" data-omni-click="inherit"><svg class="o-icon"><use xlink:href="#icon-social-twitter"></use></svg></a></span><span class="c-menu__section__icon"><a href="http://www.theatlantic.com/follow-the-atlantic/#follow-rssfeeds" target="_blank" rel="noopener" tabindex="-1" data-omni-click="inherit"><svg class="o-icon"><use xlink:href="#icon-social-rss"></use></svg></a></span><span class="c-menu__section__view-all"><a href="/follow-the-atlantic/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">View all</a></span></section></div></li>  <li class="c-nav__item c-nav__item--main c-nav__item--upper-shelf c-nav__item--subscribe js-nav-item" role="menuitem"><a itemprop="url" href="/locator/subscribe-magazine/" class="c-nav__link c-nav__link--main c-nav__link--subscribe" data-omni-click="inherit"><span itemprop="name" class="c-nav__title c-nav__title--subscribe">Subscribe</span></a></li><li class="c-nav__item c-nav__item--main c-nav__item--upper-shelf c-nav__item--search has-children"><div class="c-search__container--mobile"><a href="javascript:void(0)" class="c-nav__link has-children js-expandable-menu"><span class="u-element-invisible">Search</span> <svg class="c-search__icon"><use xlink:href="#icon-ui-search"></use></svg></a><div class="c-nav__menu c-menu c-menu--expandable"><strong class="c-menu__title"><span class="c-menu__name">Search</span> <svg class="c-menu__close o-icon"><use xlink:href="#icon-ui-x"></use></svg></strong><section class="c-menu__section" id="main-navigation-search-menu-mobile"><form action="/search/" class="c-search__form c-search__form--mobile"><input type="search" name="q" class="c-search c-search--mobile js-search--mobile" placeholder="The Atlantic..."> <input type="submit" class="c-search__submit c-search__submit--mobile"> <svg class="c-search__icon c-search__icon--inline c-search__icon--inline--mobile o-icon"><use xlink:href="#icon-ui-search"></use></svg></form><strong class="c-menu__title--secondary">Quick Links</strong><ul class="c-menu__list"><li class="c-menu__item c-menu__item--quick-link"><a href="/author/james-fallows/" class="c-menu__link" data-omni-click="inherit">James Fallows</a></li><li class="c-menu__item c-menu__item--quick-link"><a href="/author/ta-nehisi-coates/" class="c-menu__link" data-omni-click="inherit">Ta Nehisi Coates</a></li><li class="c-menu__item c-menu__item--quick-link"><a href="https://accounts.theatlantic.com/" class="c-menu__link" data-omni-click="inherit">Manage subscription</a></li></ul></section></div></div><div class="c-search__container__container js-search-container"><div class="c-search__container"><a href="javascript:void(0)" class="js-search-button c-search__open c-nav__search-icon-container"><svg class="c-search__icon"><use xlink:href="#icon-ui-search"></use></svg></a><form class="c-search__form" action="/search/"><input type="submit" class="c-search__submit" tabindex="-1" value="Submit"><label class="u-element-invisible" for="search">Search The Atlantic</label><input type="search" name="q" id="search" class="c-search js-search" placeholder="Search The Atlantic..." autocomplete="off" disabled="disabled"></form><a href="javascript:void(0)" class="js-close c-search__close" tabindex="-1"><svg class="c-search__icon" stroke-width="2"><use xlink:href="#icon-ui-x"></use></svg></a><div class="c-search__menu c-menu is-open"><section class="c-menu__section" id="main-navigation-search-menu-desktop"><strong class="c-menu__title--secondary">Quick Links</strong><ul class="c-menu__list"><li class="c-menu__item c-menu__item--quick-link"><a href="/author/james-fallows/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">James Fallows</a></li><li class="c-menu__item c-menu__item--quick-link"><a href="/author/ta-nehisi-coates/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Ta Nehisi Coates</a></li><li class="c-menu__item c-menu__item--quick-link"><a href="https://accounts.theatlantic.com/" class="c-menu__link" tabindex="-1" data-omni-click="inherit">Manage subscription</a></li></ul></section></div></div></div></li></ul></div></nav><div class="c-overlay js-overlay is-hidden"></div>
+
+
+
+
+
+
+<article id="article" data-omni-click="r'article',r' ',d,r' ',r' ',r'559763'" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+
+    <!-- Google Microdata -->
+    <div class="article-microdata" style="display: none;">
+        <meta itemprop="mainEntityOfPage" content="https://www.theatlantic.com/entertainment/archive/2018/05/im-not-black-im-kanye/559763/" />
+        <meta itemprop="dateModified" content="2018-05-07T07:17:36" />
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+            <meta itemprop="name" content="The Atlantic" />
+            <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                <meta itemprop="url" content="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/logo-black.c2cba3f6478a.png" />
+                <meta itemprop="width" content="150" />
+                <meta itemprop="height" content="50" />
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Mobile only ad -->
+
+
+    <gpt-ad id="ad-boxonly"
+        targeting-pos="boxonly"
+        class="ad ad-boxonly"
+
+        lazy-load="0"
+
+
+
+
+        data-object-pk="2"
+        data-object-name="boxonly"
+        >
+
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250]]"></gpt-sizeset>
+
+            <gpt-sizeset viewport-size="[680, 0]" sizes="[]"></gpt-sizeset>
+
+    </gpt-ad>
+
+
+
+    <!-- Article "Cover" -->
+    <div class="article-above fluid-container">
+
+
+<div class="article-cover">
+    <div class="article-cover-content-wrapper">
+        <div class="article-cover-content" id="main-content">
+            <h1 class="hed" itemprop="headline">I’m Not Black, I’m Kanye</h1>
+
+            <p class="dek" itemprop="description">Kanye West wants freedom—white freedom.</p>
+
+        </div>
+    </div>
+
+
+
+
+        <figure class="lead-img "  itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+            <div class="img-wrapper">
+                <picture class="img">
+
+                    <img src="https://cdn.theatlantic.com/assets/media/img/2018/05/07/glennharvey_theatlantic_2018_05_06_final/1920.jpg?1525690818" alt="" />
+
+                    <!-- Google Metadata -->
+                    <meta itemprop="url" content="https://cdn.theatlantic.com/assets/media/img/2018/05/07/glennharvey_theatlantic_2018_05_06_final/1920.jpg?1525690818" />
+                    <meta itemprop="height" content="1080" />
+                    <meta itemprop="width" content="1920" />
+                </picture>
+            </div>
+
+                <figcaption>
+
+
+                        <span class="credit">Glenn Harvey</span>
+
+                </figcaption>
+
+        </figure>
+
+
+</div>
+
+
+        <div class="ad-article-wrapper">
+
+
+
+    <gpt-ad id="ad-boxtop"
+        targeting-pos="boxtop"
+        class="ad ad-article"
+
+        lazy-load="1.5"
+
+
+
+
+        data-object-pk="25"
+        data-object-name="boxtop"
+        >
+
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[]"></gpt-sizeset>
+
+            <gpt-sizeset viewport-size="[1010, 0]" sizes="[[300, 250], [300, 251], [300, 351], [300, 600], [300, 850]]"></gpt-sizeset>
+
+    </gpt-ad>
+
+
+
+        </div>
+        <div class="article-cover-extra-wrapper show-share">
+
+
+
+
+
+
+
+
+<aside class="boxtop-most-popular" data-omni-click="r'article',r' ',d,r'mostpop-noads',$li,@data-article-id">
+    <h2 class="boxtop-most-popular__label">Most Popular</h2>
+    <ol class="boxtop-most-popular__list">
+
+        <li class="boxtop-most-popular__item">
+            <h3 class="boxtop-most-popular__hed">
+                <a class="boxtop-most-popular__link" href="/entertainment/archive/2018/05/im-not-black-im-kanye/559763/" data-omni-click="inherit">
+                    I’m Not Black, I’m Kanye
+                </a>
+            </h3>
+            <ul class="metadata">
+                <li><a href="/author/ta-nehisi-coates/" title="Ta-Nehisi Coates">Ta-Nehisi Coates</a></li>
+                <li>7:03 AM ET</li>
+            </ul>
+        </li>
+
+        <li class="boxtop-most-popular__item">
+            <h3 class="boxtop-most-popular__hed">
+                <a class="boxtop-most-popular__link" href="/health/archive/2018/05/the-obesity-cure-is-out-of-reach-in-the-heaviest-states/559700/" data-omni-click="inherit">
+                    The Obesity Cure Is Out of Reach in the Heaviest States
+                </a>
+            </h3>
+            <ul class="metadata">
+                <li><a href="/author/olga-khazan/" title="Olga Khazan">Olga Khazan</a></li>
+                <li>6:00 AM ET</li>
+            </ul>
+        </li>
+
+        <li class="boxtop-most-popular__item">
+            <h3 class="boxtop-most-popular__hed">
+                <a class="boxtop-most-popular__link" href="/technology/archive/2018/05/smartphone-stories-snapchat-instagram-facebook/559517/" data-omni-click="inherit">
+                    Why 'Stories' Took Over Your Smartphone
+                </a>
+            </h3>
+            <ul class="metadata">
+                <li><a href="/author/ian-bogost/" title="Ian Bogost">Ian Bogost</a></li>
+                <li>May 3, 2018</li>
+            </ul>
+        </li>
+
+        <li class="boxtop-most-popular__item">
+            <h3 class="boxtop-most-popular__hed">
+                <a class="boxtop-most-popular__link" href="/photo/2018/05/photos-of-kilaueas-newest-lava-fissures-on-hawaiis-big-island/559751/" data-omni-click="inherit">
+                    Photos of Kilauea's Newest Lava Fissures on Hawaii's Big Island
+                </a>
+            </h3>
+            <ul class="metadata">
+                <li><a href="/author/alan-taylor/" title="Alan Taylor">Alan Taylor</a></li>
+                <li>May 6, 2018</li>
+            </ul>
+        </li>
+
+        <li class="boxtop-most-popular__item">
+            <h3 class="boxtop-most-popular__hed">
+                <a class="boxtop-most-popular__link" href="/magazine/archive/2018/05/reinventing-america/556856/" data-omni-click="inherit">
+                    The Reinvention of America
+                </a>
+            </h3>
+            <ul class="metadata">
+                <li><a href="/author/james-fallows/" title="James Fallows">James Fallows</a></li>
+                <li>Apr 23, 2018</li>
+            </ul>
+        </li>
+
+    </ol>
+</aside>
+
+
+
+
+            <div class="article-cover-extra">
+                <ul class="metadata">
+
+                    <li class="byline" data-omni-click="r'article',r' ',d,r'author',r' ',@href"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/author/ta-nehisi-coates/" itemprop="url" title="Ta-Nehisi Coates" data-omni-click="inherit"><span itemprop="name">Ta-Nehisi Coates</span></a></span></li>
+
+                    <li class="date">
+
+                            <time itemprop="datePublished" datetime="2018-05-07T07:03:55">7:03 AM ET</time>
+
+                    </li>
+
+
+                    <li class="category">
+                        <a href="/entertainment/" class="rubric" data-omni-click="r'article',r' ',d,r'rubric',r' ',@href">
+                        Culture</a>
+                    </li>
+
+
+                        <li class="secondary-byline"></li>
+
+                </ul>
+
+
+
+<ul class="social-kit-top">
+    <li class="social-kit__item">
+        <a class="btn btn--social btn--facebook" href="#" data-share="facebook" data-omni-click="r'article',r' ',d,r'fb-top',r' ',r'559763 '">Share</a>
+    </li>
+    <li class="social-kit__item">
+        <a class="btn btn--social btn--twitter" href="#" data-share="twitter" data-omni-click="r'article',r' ',d,r'tw-top',r' ',r'559763 '">Tweet</a>
+    </li>
+    <li class="social-kit__item c-dropdown">
+        <button class="btn btn--sharekit js-dropdown-btn">&#x2026</button>
+        <div class="c-dropdown__menu js-dropdown-menu" role="menu">
+            <section class="c-dropdown__section">
+                <ul class="c-dropdown__list">
+                    <li class="c-dropdown__item" role="menuitem">
+                        <a class="c-dropdown__link" href="#" data-share="linkedin" data-omni-click="r'article',r' ',d,r'lnkd-top',r' ',r'559763 '">LinkedIn</a>
+                    </li>
+                    <li class="c-dropdown__item" role="menuitem">
+                        <a class="c-dropdown__link" href="mailto:?&subject=I’m Not Black, I’m Kanye&body=Kanye West wants freedom—white freedom.%0A%0ARead More:%0Ahttp://www.theatlantic.com/entertainment/archive/2018/05/im-not-black-im-kanye/559763/?utm_source=eb" data-omni-click="r'article',r' ',d,r'email',r' ',r'559763 '">Email</a>
+                    </li>
+                    <li class="c-dropdown__item" role="menuitem">
+                        <a class="c-dropdown__link" href="#" data-share="print" data-omni-click="r'article',r' ',d,r'print',r' ',r'559763 '">Print</a>
+                    </li>
+                </ul>
+            </section>
+        </div>
+    </li>
+    <div class="text-resizer">
+        <div class="resizer-title">Text Size</div>
+        <div data-omni-click="r'decrease-text-size',d" class="minus"></div>
+        <div data-omni-click="r'increase-text-size',d" class="plus"></div>
+    </div>
+</ul>
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="article-body" itemprop="articleBody">
+
+        <div class="injector-promo-wrapper--article-top js-inject-promo"></div>
+
+
+        <section id="article-section-1"><p class="dropcap">I could only have seen it there, on the waxed hardwood floor of my elementary-school auditorium, because I was young then, barely seven years old, and cable had not yet come to the city, and if it had, my father would not have believed in it. Yes, it had to have happened like this, like folk wisdom, because when I think of that era, I do not think of MTV, but of the futile attempt to stay awake and navigate the yawning whiteness of <em>Friday Night Videos</em>, and I remember that there were no VCRs among us then, and so it would have had to have been there that I saw it, in the auditorium which adjoined the cafeteria, where after the daily serving of tater tots and chocolate milk, a curtain divider was pulled back and all the kids stormed the stage. And I would have been there among them, awkwardly uprocking, or worming in place, or stiffly snaking, or back-spinning like a broken rotor, and I would have looked up and seen a kid, slightly older, facing me, smiling to himself, then moving across the floor by popping up alternating heels, gliding in reverse, walking on the moon.</p></section><div class="ad-boxinjector-wrapper"><gpt-ad id="boxinjector1" targeting-pos="boxinjector1" class="ad ad-boxinjector" lazy-load="2" data-object-pk="1" data-object-name="boxinjector"><gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250], [320, 350], [300, 350], [1, 3], [320, 520], [320, 430], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[760, 0]" sizes="[[728, 90], [728, 350], [1, 3], [768, 350], [768, 520], [640, 360], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[1010, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1, 3], [768, 350], [768, 520], [640, 360], [970, 350], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[1050, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1024, 350], [1, 3], [970, 350], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset></gpt-ad></div><section id="article-section-2"><p dir="ltr">Nothing happens that way anymore. Nothing can. But this was 1982, and Michael Jackson was God, but not just God in scope and power, though there was certainly that, but God in his great mystery; God in how a child would hear tell of him, God in how he lived among the legend and lore; God because the Walkman was still uncommon, and I was young and could not count on the car radio, because my parents lived between NPR and WTOP. So the legends were all I had—tales of remarkable feats and fantastic deeds: Michael Jackson mediated gang wars; Michael Jackson was the zombie king; Michael Jackson tapped his foot and stones turned to light. Even his accouterment felt beyond me—the studded jacket, the sparkling glove, the leather pants—raiment of the divine, untouchable by me, a mortal child who squinted to see past Saturday, who would not even see <em>Motown 25</em> until it was past 30, who would not even own a copy of <em>Thriller</em> until I was a grown man, who no longer believed in miracles, and knew in my heart that if the black man’s God was not dead, he surely was dying.</p><p>And he had always been dying—dying to be white. That was what my mother said, that you could see the dying all over his face, the decaying, the thinning, that he was disappearing into something white, desiccating into something white, erasing himself, so that we would forget that he had once been Africa beautiful and Africa brown, and we would forget his pharaoh’s nose, forget his vast eyes, his dazzling smile, and Michael Jackson was but the extreme of what felt in those post-disco years to be a trend. Because when I think of that time, I think of black men on album covers smiling back at me in Jheri curls and blue contacts and I think of black women who seemed, by some mystic edict, to all be the color of manila folders. Michael Jackson might have been dying to be white, but he was not dying alone. There were the rest us out there, born, as he was, in the muck of this country, born in The Bottom. We knew that we were tied to him, that his physical destruction was our physical destruction, because if the black God, who made the zombies dance, who brokered great wars, who transformed stone to light, if he could not be beautiful in his own eyes, then what hope did we have—mortals, children—of ever escaping what they had taught us, of ever escaping what they said about our mouths, about our hair and our skin, what hope did we ever have of escaping the muck? And he was destroyed. It happened right before us. God was destroyed, and we could not stop him, though we did love him, we could not stop him, because who can really stop a black god dying to be white?</p><figure style="max-width: 672.0px;"><picture style="display: block; position:relative; width:100%; height:0; overflow:hidden; padding-bottom:56.25%;"><img alt="" data-srcset="https://cdn.theatlantic.com/assets/media/img/posts/2018/05/glennharvey_theatlantic_2018_05_06_final2_1/e0ccb489d.jpg" class="lazyload" style="position:absolute; width:100%; height:100%; top:0; left:0; border:0;"></picture><figcaption class="credit">Glenn Harvey</figcaption></figure><p class="dropcap">Kanye West, a god in this time, awakened, recently, from a long public slumber to embrace Donald Trump. He hailed Trump, as a “<a href="https://www.washingtonpost.com/news/post-politics/wp/2018/04/25/rapper-kanye-west-calls-trump-my-brother-says-they-share-dragon-energy/?utm_term=.60652da1cb67" data-omni-click="r'article',r'',d,r'intext',r'0',r'559763'">brother</a>,” a fellow bearer of “dragon energy,” and impugned those who objected as suppressors of “unpopular questions,” “thought police” whose tactics were “based on fear.” It was Trump, West argued, not Obama, who gave him hope that a black boy from the South Side of Chicago could be president. “Remember like when I said I was gonna run for president?,” said Kanye in interview with the radio host Charlamagne Tha God. “I had people close to me, friends of mine, making jokes, making memes, talking shit, now it’s like oh, that was proven that that could have happened.”</p></section><div class="ad-boxright-wrapper" data-pos="boxright"><gpt-ad id="boxright1" targeting-pos="boxright1" class="ad ad-boxright" lazy-load="2" data-object-pk="3" data-object-name="boxright"><gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250]]"></gpt-sizeset><gpt-sizeset viewport-size="[1010, 0]" sizes="[[300, 250], [300, 600]]"></gpt-sizeset></gpt-ad></div><section id="article-section-3"><p dir="ltr">There is an undeniable logic here. Like Trump, West is a persistent bearer of slights large and small—but mostly small. (Jay-Z, Beyoncé, Barack Obama, and Nike all came in for a harangue.) Like Trump, West is a narcissist, “the greatest artist of all time,” he claimed, helming what would soon be “the biggest apparel company in human history.” And, like Trump, West is shockingly ignorant. Chicago was “the murder capital of the world,” West asserted, when in fact Chicago <a href="https://www.thetrace.org/2017/01/chicago-not-most-dangerous-city-america/" data-omni-click="r'article',r'',d,r'intext',r'1',r'559763'">is not even the murder capital of America</a>. West’s ignorance is not merely deep but also dangerous. For if Chicago truly is “the murder capital of the world,” then perhaps it is in need of the <a href="https://www.washingtonpost.com/news/post-politics/wp/2017/01/24/trump-threatens-to-send-in-the-feds-to-address-chicago-carnage/?utm_term=.943241a4a253" data-omni-click="r'article',r'',d,r'intext',r'2',r'559763'">federal occupation</a> threatened by Trump.</p><p>It is so hard to honestly discuss the menace without forgetting. It is hard because what happened to America in 2016 has long been happening in America, before there was an America, when the first Carib was bayoneted and the first African delivered up in chains. It is hard to express the depth of the emergency without bowing to the myth of past American unity, when in fact American unity has always been the unity of conquistadors and colonizers—unity premised on Indian killings, land grabs, noble internments, and the gallant General Lee. Here is a country which specializes in defining its own deviancy down so that the criminal, the immoral, and the absurd become the baseline, so that even now, amidst the long tragedy and this lately disaster, the guardians of truth rally to the liar’s flag.</p></section><div class="ad-boxinjector-wrapper"><gpt-ad id="boxinjector2" targeting-pos="boxinjector2" class="ad ad-boxinjector" lazy-load="2" data-object-pk="1" data-object-name="boxinjector"><gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250], [320, 350], [300, 350], [1, 3], [320, 520], [320, 430], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[760, 0]" sizes="[[728, 90], [728, 350], [1, 3], [768, 350], [768, 520], [640, 360], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[1010, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1, 3], [768, 350], [768, 520], [640, 360], [970, 350], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[1050, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1024, 350], [1, 3], [970, 350], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset></gpt-ad></div><section id="article-section-4"><p>Nothing is new here. The tragedy is so old, but even within it there are actors—some who’ve chosen resistance, and some, like West, who, however blithely, have chosen collaboration.</p><p dir="ltr">West might plead ignorance—“I don’t have all the answers that a celebrity is supposed to have,” he told Charlamagne. But no citizen claiming such a large portion of the public square as West can be granted reprieve. The planks of Trumpism are clear—<a href="http://www.bbc.com/news/av/world-us-canada-35036567/outcry-as-donald-trump-calls-for-us-muslim-ban" data-omni-click="r'article',r'',d,r'intext',r'3',r'559763'">the better banning of Muslims</a>, <a href="https://www.cnn.com/2018/04/05/politics/trump-west-virginia-immigration-comments/index.html" data-omni-click="r'article',r'',d,r'intext',r'4',r'559763'">the improved</a> <a href="https://twitter.com/realdonaldtrump/status/771294347501461504?lang=en" data-omni-click="r'article',r'',d,r'intext',r'5',r'559763'">scapegoating</a> <a href="https://www.usatoday.com/story/news/politics/onpolitics/2016/06/07/paul-ryan-rips-trump-comments-textbook-definition-racist/85548042/" data-omni-click="r'article',r'',d,r'intext',r'6',r'559763'">of Latinos</a>, <a href="https://www.vox.com/policy-and-politics/2017/11/29/16713664/trump-obama-birth-certificate" data-omni-click="r'article',r'',d,r'intext',r'7',r'559763'">the endorsement of racist conspiracy</a>, <a href="https://twitter.com/realdonaldtrump/status/265895292191248385?lang=en" data-omni-click="r'article',r'',d,r'intext',r'8',r'559763'">the denialism of science</a>, <a href="http://nymag.com/daily/intelligencer/2018/03/new-trump-economist-kudlow-has-been-wrong-about-everything.html" data-omni-click="r'article',r'',d,r'intext',r'9',r'559763'">the cheering of economic charlatans</a>,<a href="https://www.nytimes.com/2017/07/29/nyregion/trump-police-too-nice.html" data-omni-click="r'article',r'',d,r'intext',r'10',r'559763'"> the urging on of barbarian cops</a> <a href="https://www.theguardian.com/sport/2017/sep/22/donald-trump-nfl-national-anthem-protests" data-omni-click="r'article',r'',d,r'intext',r'11',r'559763'">and barbarian bosses</a>, <a href="https://www.nytimes.com/2018/03/13/us/politics/gina-haspel-cia-director-nominee-trump-torture-waterboarding.html" data-omni-click="r'article',r'',d,r'intext',r'12',r'559763'">the cheering of torture</a>, <a href="https://www.nbcnews.com/politics/white-house/trump-referred-haiti-african-countries-shithole-nations-n836946" data-omni-click="r'article',r'',d,r'intext',r'13',r'559763'">and the condemnation of whole countries</a>. The pain of these policies is not equally distributed. Indeed the rule of Donald Trump is predicated on the infliction of maximum misery of West’s most ardent parishioners, the portions of America, the muck, that made the god Kanye possible.</p><p dir="ltr">And he is a god, though one born of a different time and a different need. Jackson rose in the last days of enigma and wonder; West, in an accessible age, when every fuck is a tweet and every defecation a status update. And perhaps, in that way, West has done something more remarkable, more amazing than Jackson, because he is a man of no mystery, overexposed, who holds the world’s attention through simply the consistent, amazing, near-peerless quality of his work.</p></section><div class="ad-boxright-wrapper" data-pos="boxright"><gpt-ad id="boxright2" targeting-pos="boxright2" class="ad ad-boxright" lazy-load="2" data-object-pk="3" data-object-name="boxright"><gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250]]"></gpt-sizeset><gpt-sizeset viewport-size="[1010, 0]" sizes="[[300, 250], [300, 600]]"></gpt-sizeset></gpt-ad></div><section id="article-section-5"><p>He arrived to us with Bin Laden, on September 11, 2001—life emerging out of mass death—and I guess it is more accurate to say here that he arrived to me on that day,  since West had been producing since at least five years before. All I know is when I heard his production on <em>The Blueprint</em>, I felt that he was the one I had been waiting for. I was then, still, an aesthetic conservative, a vulgar backpacker who truly and absurdly believed that shiny suits had broken the cypher, scratched the record, and killed my beloved hip-hop. My theme music alternated between Common’s “I Used To Love H.E.R.,” The Roots’ “What They Do,” and O.C.’s “Time’s Up.” Slick Rick’s admonition—“Their time’s limited, hard-rocks too”—was my mantra, so that on that day of mass murder, when Kanye West greeted me, chopping up the Jackson Five, drawing from Bobby “Blue” Bland, pulling from David Ruffin, arrived with Jay-Z, an MC who dated back to the Golden Age, I did not see myself simply in the presence of a great album, but bearing witness to the fulfillment of prophecy. This was insane, and it has been the great boon of my life that Twitter did not exist back then, to come of age in the last days of mystery, because Lord knows how many times I would have told you hip-hop was dead, and Lord knows how many times I would have said “Incarcerated Scarfaces” was the peak of civilization. Forgive me, but that is who I was, an old man before my time, and all I can say is that when I heard Kanye, I felt myself back in communion with something that I felt had been lost, a sense of ancestry in every sample, a sound that went back to the separated and unequal, that went back to the slave.</p></section><div class="ad-boxinjector-wrapper"><gpt-ad id="boxinjector3" targeting-pos="boxinjector3" class="ad ad-boxinjector" lazy-load="2" data-object-pk="1" data-object-name="boxinjector"><gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250], [320, 350], [300, 350], [1, 3], [320, 520], [320, 430], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[760, 0]" sizes="[[728, 90], [728, 350], [1, 3], [768, 350], [768, 520], [640, 360], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[1010, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1, 3], [768, 350], [768, 520], [640, 360], [970, 350], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[1050, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1024, 350], [1, 3], [970, 350], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset></gpt-ad></div><section id="article-section-6"><p dir="ltr">That was almost 20 years ago. It is easy to forget just how long West has been at this, that he’s been excellent for so long, that there are adults out there, now, who have never seen the sun set on the empire of Kanye West. And he made music for them, for the young and futuristic, not for the old and conservative like me, and so avoided the tempting rut of nostalgia, of soul samples and visions of what hip-hop had been. And so to those who had been toddlers in the era of <em>The Blueprint</em>, he became a god, by pulling from that generation raised in hip-hop’s golden age, and yet never being shackled by it. (Even after the events of the week, it would shock no one if West’s impending was the best of the year.)</p><p dir="ltr">West is 40 years old, a product of the Crack era and Reaganomic Years, a man who remembers the Challenger crash and <em>The Cosby Show</em> before syndication. But he never fell into the bitterness of his peers. He could not be found chasing ghosts, barking at Soulja Boy, hectoring Lil Yachty, and otherwise yelling at clouds. To his credit, West seemed to remember rappers having to defend their music as music against the withering fire of their elders. And so while, today, you find some of these same artists, once targets, adopting the sanctimonious pose of the arthritic jazz-men whom they vanquished, you will not find Yeezy among them, because Yeezy never got old.</p><p dir="ltr">Maybe that was the problem.</p></section><div class="ad-boxright-wrapper" data-pos="boxright"><gpt-ad id="boxright3" targeting-pos="boxright3" class="ad ad-boxright" lazy-load="2" data-object-pk="3" data-object-name="boxright"><gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250]]"></gpt-sizeset><gpt-sizeset viewport-size="[1010, 0]" sizes="[[300, 250], [300, 600]]"></gpt-sizeset></gpt-ad></div><section id="article-section-7"><p>Everything is darker now and one is forced to conclude that an ethos of “light-skinned girls and some Kelly Rowlands,” of “mutts” and “thirty white bitches,” deserved more scrutiny, that <a href="http://people.com/celebrity/kanye-west-wears-a-confederate-flag-says-react-how-you-want/" data-omni-click="r'article',r'',d,r'intext',r'14',r'559763'">the embrace of a slaveholder’s flag</a> warranted more inquiry, that <a href="https://verysmartbrothas.theroot.com/kanyes-politics-are-what-happens-when-you-dont-read-boo-1825475113" data-omni-click="r'article',r'',d,r'intext',r'15',r'559763'">a blustering illiteracy</a> should have given pause, that <a href="https://www.youtube.com/watch?v=9pVTrnxCZaQ" data-omni-click="r'article',r'',d,r'intext',r'16',r'559763'">the telethon</a> was not wholly born of keen insight, and the bumrushing of Taylor Swift was not solely righteous anger, but was something more spastic and troubling, evidence of an emerging theme—a paucity of wisdom, and more, a paucity of loved ones powerful enough to perform the most essential function of love itself, protecting the beloved from destruction.</p><figure style="max-width: 672.0px;"><picture style="display: block; position:relative; width:100%; height:0; overflow:hidden; padding-bottom:56.25%;"><img alt="" data-srcset="https://cdn.theatlantic.com/assets/media/img/posts/2018/05/glennharvey_theatlantic_2018_05_06_final3/f5c84593e.jpg" class="lazyload" style="position:absolute; width:100%; height:100%; top:0; left:0; border:0;"></picture><figcaption class="credit">Glenn Harvey</figcaption></figure><p class="dropcap">I want to tell you a story about the time, still ongoing as of this writing, when I almost lost my mind. In the summer of 2015, I published a book, and in so doing, became the unlikely recipient of a mere fraction of the kind of celebrity Kanye West enjoys. It was small literary fame, not the kind of fame that accompanies Grammys and Oscars, and there may not have been a worst candidate for it. I was the second youngest of seven children. My life had been inconsequential, if slightly amusing. I had never stood out for any particular reason, save my height, and even that was wasted on a lack of skills on the basketball court. But I learned to use this ordinariness to my advantage. I was a journalist. There was something soft and unthreatening about me that made people want to talk. And I had a capacity for disappearing into events and thus, in that way, reporting out a scene. At home, I built myself around ordinary things—family, friends, and community. I might never be a celebrated writer. But I was a good father, a good partner, a decent friend.</p></section><div class="ad-boxinjector-wrapper"><gpt-ad id="boxinjector4" targeting-pos="boxinjector4" class="ad ad-boxinjector" lazy-load="2" data-object-pk="1" data-object-name="boxinjector"><gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250], [320, 350], [300, 350], [1, 3], [320, 520], [320, 430], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[760, 0]" sizes="[[728, 90], [728, 350], [1, 3], [768, 350], [768, 520], [640, 360], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[1010, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1, 3], [768, 350], [768, 520], [640, 360], [970, 350], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[1050, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1024, 350], [1, 3], [970, 350], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset></gpt-ad></div><section id="article-section-8"><p dir="ltr">Fame fucked with all of that. I would show up to do my job, to report, and become, if not the scene, then part of it. I would take my wife out to lunch to discuss some weighty matter in our lives, and come home, only to learn that the couple next to us had covertly taken a photo and tweeted it out. The family dream of buying a home, finally achieved, became newsworthy. My kid’s Instagram account was scoured for relevant quotes. And when I moved to excise myself, to restrict access, this would only extend the story.</p><p>It was the oddest thing. I felt myself to be the same as I had always been, but everything around me was warping. My sense of myself as part of a community of black writers disintegrated before me.  Writers, whom I loved, who had been mentors, claimed tokenism and betrayal. Writers, whom I knew personally, whom I felt to be comrades in struggle, took to Facebook and Twitter to announce my latest heresy. No one enjoys criticism, but by then I had taken my share. What was new was criticism that I felt to originate as much in what I had written, as how it had been received. One of my best friends, who worked in radio, came up with the idea of a funny self-deprecating segment about me and my weird snobbery. But when it aired, the piece was mostly concerned with this newfound fame, how it had changed me, and how it all left him feeling a type of way. I was unprepared. The work of writing had always been, for me, the work of enduring failure. It had never occurred to me that one would, too, have to work to endure success.</p></section><div class="ad-boxright-wrapper" data-pos="boxright"><gpt-ad id="boxright4" targeting-pos="boxright4" class="ad ad-boxright" lazy-load="2" data-object-pk="3" data-object-name="boxright"><gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250]]"></gpt-sizeset><gpt-sizeset viewport-size="[1010, 0]" sizes="[[300, 250], [300, 600]]"></gpt-sizeset></gpt-ad></div><section id="article-section-9"><p dir="ltr">The incentives toward a grand ego were ever-present. I was asked to speak on matters which my work evidenced no knowledge of. I was invited to do a speaking tour via private jet. I was asked to direct a music video. I began to understand how and why famous writers falter, because writing is hard and there are “writers” who only do that work because they have to. But it was now clear there was another way—a life of lectures, visiting-writer gigs, galas, prize committees. There were dark expectations. I remember going with a friend to visit an older black writer, an elder statesman. He sized me up and the first thing he said to me was, “You must be getting all the pussy now.”</p><p dir="ltr">What I felt, in all of this, was a profound sense of social isolation. I would walk into a room, knowing that some facsimile of me, some mix of interviews, book clubs and private assessment, had preceded me. The loss of friends, of comrades, of community, was gut-wrenching. I grew skeptical and distant. I avoided group dinners. In conversation, I sized everyone up, convinced that they were trying to extract something from me. And this is where the paranoia began, because the vast majority of people were kind and normal. But I never knew when that would fail to be the case.</p><aside class="callout" data-omni-click="r'article',r' ',d,r'related',#data-omni-index,@data-article-id"><hr><h4>
+
+            Related Stories
+
+    </h4>
+
+
+
+    <div>
+        <a href="/technology/archive/2017/06/solving-the-mystery-of-whose-laughter-is-on-the-golden-record/532197/" data-omni-index="0" data-article-id="968627" data-omni-click="inherit">
+            <img width="242" src="https://cdn.theatlantic.com/assets/media/img/mt/2017/06/image2stscihp1726bf4000x1750/thumb_wide_medium.png?1522774883" alt=""></a>
+    </div>
+
+
+
+    <ul><li><a href="/technology/archive/2017/06/solving-the-mystery-of-whose-laughter-is-on-the-golden-record/532197/" data-omni-index="0" data-article-id="968627" data-omni-click="inherit">Solving the Mystery of Whose Laughter Is On the Golden Record</a>
+        </li>
+
+        <li><a href="/magazine/archive/2016/07/the-unbelievable-tale-of-jesus-wife/485573/" data-omni-index="1" data-article-id="968630" data-omni-click="inherit">The Unbelievable Tale of Jesus’s Wife</a>
+        </li>
+
+        <li><a href="/entertainment/archive/2017/07/the-story-of-jay-z/532896/" data-omni-index="2" data-article-id="968582" data-omni-click="inherit">The Story of Jay-Z</a>
+        </li>
+
+        <li><a href="/magazine/archive/2017/04/pleistocene-park/517779/" data-omni-index="3" data-article-id="968633" data-omni-click="inherit">Welcome to Pleistocene Park</a>
+        </li>
+
+    </ul><hr></aside><p>On top of the skewed incentives, the wrecked friendships, the paranoia, the ruin of community, there was a part of me that I was left to confront. I was the loneliest I’d ever felt in my life—and part of me loved it, loved the way I’d walk into a restaurant in New York and make the wait disappear, loved the random swag, the green Air-Force Ones, the blue joggers. I loved the movie stars, rappers, and ballplayers who cited my work, and there was so much more out there waiting to be loved. I loved my small fame because, though I had brokered a peace with all my Baltimore ordinariness, with how I faded into a crowd, with how unremarkable I really was—and though I decided to till, as Emerson says, my own plot of ground, whole other acres now appeared before me. It almost didn’t matter whether I claimed those acres or not, because who are you if, even as you do good, you feel the desire to do evil? The terrible thing about that small fame was how it undressed me, stripped me of self-illusion, and showed how easily I could be swept away, how part of me wanted to be swept away, and even if no one ever saw it, even if I never acted on it, I now knew it, knew that I could love that small fame in the same terrible way that I want to live forever, in that way, to paraphrase Walcott, that drowned sailors loved the sea.</p><p>But I did not drown. I felt the gravity of that small fame, feel its gravity even now, and it revealed securities as sure as it did insecurities, reasons to preserve the peace. I really did love to write—the irreplaceable thrill of transforming a blank page, the search for the right word, like pieces of a puzzle, the surgery of stitching together odd paragraphs. I loved how it belonged to me, a private act of creation, a fact that dissipated the moment I stepped in front of a crowd. So, that really was me. But more importantly, I think, were things beyond me, the pre-fame web of connections around me—child, spouse, brothers, sisters, friends—the majority of whom held fast and remained.</p></section><div class="ad-boxinjector-wrapper"><gpt-ad id="boxinjector5" targeting-pos="boxinjector5" class="ad ad-boxinjector" lazy-load="2" data-object-pk="1" data-object-name="boxinjector"><gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250], [320, 350], [300, 350], [1, 3], [320, 520], [320, 430], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[760, 0]" sizes="[[728, 90], [728, 350], [1, 3], [768, 350], [768, 520], [640, 360], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[1010, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1, 3], [768, 350], [768, 520], [640, 360], [970, 350], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[1050, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1024, 350], [1, 3], [970, 350], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset></gpt-ad></div><section id="article-section-10"><p>What would I be both without that web and with a larger, more menacing fame? I think of Michael Jackson, whose father beat him and called him “big nose.” I think of the sad tale of West’s rumored stolen laptop. (“And as far as real friends, tell my cousins I love ‘em / Even the one that stole the laptop, you dirty motherfucker.”) I think of West confessing to an opioid addiction, which had its origins in his decision to get liposuction out of fear of being seen as fat. And I wonder what private pain would drive a man to turn to the same procedure that ultimately led to the death of his mother.</p><p>There’s nothing original in this tale and there’s ample evidence, beyond West, that humans were not built to withstand the weight of celebrity. But for black artists who rise to the heights of Jackson and West, the weight is more, because they come from communities in desperate need of champions. Kurt Cobain’s death was a great tragedy for his legions of fans. Tupac’s was a tragedy for an entire people. When brilliant black artists fall down on the stage, they don’t fall down alone. The story of West “drugged out,” as he put it, reduced by the media glare to liposuction, is not merely about how he feels about his body. It was that drugged-out West who appeared in that gaudy lobby, dead-eyed and blonde-haired, and by his very presence endorsed the agenda of Donald Trump.</p><hr class="c-section-divider"><p class="dropcap">I finally saw Michael Jackson moonwalk in 2001, finally watched the myth descend into the real, though “finally” overstates the matter. I had, by then of course, seen the legendary tape of his performance at <em>Motown 25</em>, but somehow it was not yet real to me, because I had not shared in the actual moment, at that moment, because I still, after all those years, remembered the longing of having missed a great event, and having experienced it secondhand. But this time I really was there, live as it was airing—the 30th anniversary of Jackson’s entrance into the pop-music world—and I am thankful that it happened then, at the end of that era of myth and legend, when the internet was still embryonic, and DVRs were not omnipresent, and the world had not yet been YouTubed, and reality television had just begun to peak over the horizon. This was a world still filled with the mysteries, secrets, and crank theories of my childhood, where the Klan manufactured tennis shoes and bottled iced tea, and shipped it all into the ghetto. What I am saying is that this was still a time, as in my childhood, when you mostly had to see things as they happened, and if you had not seen them that way there still was a gnawing disbelief as to whether they had happened at all.</p></section><div class="ad-boxright-wrapper" data-pos="boxright"><gpt-ad id="boxright5" targeting-pos="boxright5" class="ad ad-boxright" lazy-load="2" data-object-pk="3" data-object-name="boxright"><gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250]]"></gpt-sizeset><gpt-sizeset viewport-size="[1010, 0]" sizes="[[300, 250], [300, 600]]"></gpt-sizeset></gpt-ad></div><section id="article-section-11"><p dir="ltr">I think this, in part, explains the screaming and fainting. Jackson cranked up “Billie Jean” and I felt it too. For when I saw Michael Jackson glide across the stage that night at Madison Square Garden, mere days before the Twin Towers fell, I did not imagine him so much walking on the moon, as walking on water. And the moonwalk was the least of things. He whipped his mop of hair and, cuffing the mic, stomped with the drums, spun, grabbed the air. I was astounded. There was the matter of his face, which took me back to the self-hatred of the ’80s, but this seemed not to matter because I was watching a miracle—a man had been born to a people who controlled absolutely nothing, and yet had achieved absolute control over the thing that always mattered most—his body.</p><p dir="ltr">And then the song climaxed. He screamed and all the music fell away, save one solitary drum, and boneless Michael seemed to break away, until it was just him and that “Billie Jean” beat, carnal, ancestral. He rolled his shoulders, snaked to the ground, and then backed up, pop-locked, seemed to slow time itself, and I saw him pull away from his body, from the ravished face, which wanted to be white, and all that remained was the soul of him, the gift given onto him, carried in the drum.</p><p dir="ltr">I like to think I thought of Zora while watching Jackson. But if not, I am thinking of her now:</p><blockquote>
+<p dir="ltr">It was said, “He will serve us better if we bring him from Africa naked and thing-less.” So the bukra reasoned. They tore away his clothes so that Cuffy might bring nothing away, but Cuffy seized his drum and hid it in his skin under the skull bones. The shin-bones he bore openly, for he thought, “Who shall rob me of shin-bones when they see no drum?” So he laughed with cunning and said, “I, who am borne away, to become an orphan, carry my parents with me. For rhythm is she not my mother, and Drama is her man?” So he groaned aloud in the ships and hid his drum and laughed.</p>
+</blockquote><p dir="ltr">There is no separating the laughter from the groans, the drum from the slave ships, the tearing away of clothes, the being borne away, from the cunning need to hide all that made you human. And this is why the gift of black music, of black art, is unlike any other in America, because it is not simply a matter of singular talent, or even of tradition, or lineage, but of something more grand and monstrous. When Jackson sang and danced, when West samples or rhymes, they are tapping into a power formed under all the killing, all the beatings, all the rape and plunder that made America. The gift can never wholly belong to a singular artist, free of expectation and scrutiny, because the gift is no more solely theirs than the suffering that produced it. Michael Jackson did not invent the moonwalk. When West raps, “And I basically know now, we get racially profiled / Cuffed up and hosed down, pimped up and ho’d down,” the we is instructive.</p></section><div class="ad-boxinjector-wrapper"><gpt-ad id="boxinjector6" targeting-pos="boxinjector6" class="ad ad-boxinjector" lazy-load="2" data-object-pk="1" data-object-name="boxinjector"><gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250], [320, 350], [300, 350], [1, 3], [320, 520], [320, 430], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[760, 0]" sizes="[[728, 90], [728, 350], [1, 3], [768, 350], [768, 520], [640, 360], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[1010, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1, 3], [768, 350], [768, 520], [640, 360], [970, 350], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[1050, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1024, 350], [1, 3], [970, 350], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset></gpt-ad></div><section id="article-section-12"><p>What Kanye West seeks is what Michael Jackson sought—liberation from the dictates of that “we.” In his visit with West, the rapper T.I. was stunned to find that West, despite his endorsement of Trump, had never heard of the travel ban. “He don’t know the things that we know because he’s removed himself from society to a point where it don’t reach him,” T.I. said. West calls his struggle the right to be a “free thinker,” and he is, indeed, championing a kind of freedom—a white freedom, freedom without consequence, freedom without criticism, freedom to be proud and ignorant; freedom to profit off a people in one moment and abandon them in the next; a Stand Your Ground freedom, freedom without responsibility, without hard memory; a Monticello without slavery, a Confederate freedom, the freedom of John C. Calhoun, not the freedom of Harriet Tubman, which calls you to risk your own; not the freedom of  Nat Turner, which calls you to give even more, but a conqueror’s freedom, freedom of the strong built on antipathy or indifference to the weak, the freedom of rape buttons, pussy grabbers, and <em>fuck you anyway, bitch</em>; freedom of oil and invisible wars, the freedom of suburbs drawn with red lines, the white freedom of Calabasas.</p><p>It would be nice if those who sought to use their talents as entrée into another realm would do so with the same care which they took in their craft. But the Gods are fickle and the history of this expectation is mixed. Stevie Wonder fought apartheid. James Brown endorsed a racist Nixon. There is a Ray Lewis for every Colin Kaepernick, an O.J. Simpson for every Jim Brown, or, more poignantly, <a href="https://deadspin.com/jim-brown-did-great-things-he-also-beat-woman-1784269329" data-omni-click="r'article',r'',d,r'intext',r'17',r'559763'">just another </a><a href="https://www.thenation.com/article/understanding-jim-browns-ugly-support-of-donald-trump/" data-omni-click="r'article',r'',d,r'intext',r'18',r'559763'">Jim Brown</a>. And we suffer for this, because we are connected. Michael Jackson did not just destroy his own face, but endorsed the destruction of all those made in similar fashion.</p></section><div class="ad-boxinjector-wrapper"><gpt-ad id="boxinjector7" targeting-pos="boxinjector7" class="ad ad-boxinjector" lazy-load="2" data-object-pk="1" data-object-name="boxinjector"><gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250], [320, 350], [300, 350], [1, 3], [320, 520], [320, 430], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[760, 0]" sizes="[[728, 90], [728, 350], [1, 3], [768, 350], [768, 520], [640, 360], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[1010, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1, 3], [768, 350], [768, 520], [640, 360], [970, 350], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset><gpt-sizeset viewport-size="[1050, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1024, 350], [1, 3], [970, 350], [760, 350], [1, 4], [1, 5]]"></gpt-sizeset></gpt-ad></div><section id="article-section-13"><p>The consequences of Kanye West’s unlettered view of America and its history are, if anything, more direct. For his fans, it is the quality of his art that ultimately  matters, not his pronouncements. If his upcoming album is great, the dalliance with Trump will be prologue. If it’s bad, then it will be foreshadowing. In any case what will remain is this—West lending  his imprimatur, as well as his Twitter platform of some 28 million people, to the racist rhetoric of the conservative movement. West’s thoughts are not original—the apocryphal Harriet Tubman quote and the notion that slavery was a “choice” echoes <a href="http://buchanan.org/blog/pjb-a-brief-for-whitey-969" data-omni-click="r'article',r'',d,r'intext',r'19',r'559763'">the ancient</a> <a href="https://www.vox.com/policy-and-politics/2017/12/7/16748038/roy-moore-slavery-america-great" data-omni-click="r'article',r'',d,r'intext',r'20',r'559763'">trope</a> <a href="https://www.huffingtonpost.com/2010/02/26/gop-rep-blacks-worse-off_n_478744.html" data-omni-click="r'article',r'',d,r'intext',r'21',r'559763'">that slavery wasn’t that bad</a>; <a href="https://www.theatlantic.com/national/archive/2012/04/why-dont-black-people-protest-black-on-black-violence/255329/" data-omni-click="r'article',r'',d,r'intext',r'22',r'559763'">the myth</a> that blacks do not protest crime in their community<a href="http://insider.foxnews.com/2016/07/11/rudy-giuliani-black-lives-matter-violence-chicago-fox-and-friends" data-omni-click="r'article',r'',d,r'intext',r'23',r'559763'"> is pure Giulianism</a>; and West’s desire to “go to Charlottesville and talk to people on both sides” is an extension of <a href="https://www.theatlantic.com/politics/archive/2017/08/trump-defends-white-nationalist-protesters-some-very-fine-people-on-both-sides/537012/" data-omni-click="r'article',r'',d,r'intext',r'24',r'559763'">Trump’s response to the catastrophe</a>. These are not stray thoughts. They are the propaganda that justifies voter suppression, and feeds police brutality, and minimizes the murder of Heather Heyer. And Kanye West is now a mouthpiece for it.</p><p>It is the young people among the despised classes of America who will pay a price for this—the children parted from their parents at the border, the women warring to control the reproductive organs of their own bodies, the transgender soldier fighting for his job, the students who dare not return home for fear of a “travel ban,” which West is free to have never heard of. West, in his own way, will likely pay also for his thin definition of freedom, as opposed to one that experiences history, traditions, and struggle, not as a burden, but as an anchor in a chaotic world.</p><p>It is often easier to walk the path of self-destruction when you don’t consider who you are taking along for the ride, to die drunk in the street if you experience the deprivation as your own, and not the deprivation of family, friends, and community. And maybe this, too, is naïve, but I wonder how different his life might have been if Michael Jackson knew how much his truly black face was tied to all of our black faces, if he knew that when he destroyed himself, he was destroying part of us, too. I wonder if his life would have been different, would have been longer. And so for Kanye West, I wonder what he might be, if he could find himself back into connection, back to that place where he sought not a disconnected freedom of “I,” but a black freedom that called him back—back to the bone and drum, back to Chicago, back to Home.</p></section>
+
+    </div>
+
+    <div class="article-tools fluid-container">
+
+
+
+
+
+<ul class="social-kit-bottom">
+    <li class="social-kit__item">
+        <a class="btn btn--social btn--facebook" href="#" data-share="facebook" data-omni-click="r'article',r' ',d,r'fb-bottom',r' ',r'559763 '">Share</a>
+    </li>
+    <li class="social-kit__item">
+        <a class="btn btn--social btn--twitter" href="#" data-share="twitter" data-omni-click="r'article',r' ',d,r'tw-bottom',r' ',r'559763 '">Tweet</a>
+    </li>
+</ul>
+
+
+        <div class="article-after">
+            <div class="ad-article-wrapper-bottom">
+
+
+    <gpt-ad id="ad-boxbottom"
+        targeting-pos="boxbottom"
+        class="ad ad-boxbottom"
+
+        lazy-load="1.5"
+
+
+
+
+        data-object-pk="21"
+        data-object-name="boxbottom"
+        >
+
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[]"></gpt-sizeset>
+
+            <gpt-sizeset viewport-size="[1010, 0]" sizes="[[300, 250]]"></gpt-sizeset>
+
+    </gpt-ad>
+
+
+            </div>
+
+
+
+
+
+
+<div class="module module-related related-categorization video" data-omni-click="r'article',r' ',d,r'related',r' ',@href">
+    <h2 class="module-label">
+        <a href="/video/">Latest Video</a>
+    </h2>
+
+
+
+
+
+
+<a href="/video/index/559448/flight-syria-movie/" data-omni-click="inherit">
+
+
+
+
+
+
+        <figure>
+            <img class="lazyload" data-src="https://cdn.theatlantic.com/assets/media/video/img/2018/05/Flight_Site/thumb_wide_300.jpg?1525280915" />
+
+        </figure>
+
+
+
+<h2 class="hed">'Take Me From Here. I Will Die Here.'</h2>
+</a>
+<p class="dek has-dek">
+    Two young girls escape Syria in an intimate short film, told largely through home movies.
+</p>
+
+<ul class="metadata">
+
+
+    <li class="byline"><a href="/author/emily-buder/" title="Emily Buder">Emily Buder</a></li>
+
+
+    <li class="date">
+        <time datetime="2018-05-02">
+
+            May 2, 2018
+
+        </time>
+    </li>
+
+</ul>
+
+</div>
+
+
+
+
+
+            <div id="about-the-authors" class="module module-authors">
+                <h2 class="module-label">About the Author</h2>
+
+
+
+<ul class="authors">
+
+    <li class="author">
+
+
+
+                <img src="https://cdn.theatlantic.com/assets/media/None/tnc_grey/large_headshot.png?1522336632" class="headshot" height="144" width="144" alt="Ta-Nehisi Coates" />
+
+
+        <div class="bio">
+
+                <a href="/author/ta-nehisi-coates/" class="author-link">Ta-Nehisi Coates</a> is a national correspondent for <em>The Atlantic</em>, where he writes about culture, politics, and social issues. He is the author of <em><a href="http://www.indiebound.org/book/9780385527460">The Beautiful Struggle</a></em>, <em><a href="http://www.indiebound.org/book/9780812993547">Between the World and Me</a>,</em> and <em><a href="http://www.amazon.com/exec/obidos/ISBN=0399590560/theatla05-20/">We Were Eight Years in Power</a></em>.
+
+
+
+        </div>
+
+
+            <ul class="links">
+
+
+                <li><a href="https://twitter.com/intent/user?screen_name=tanehisicoates" class="twitter">Twitter</a></li>
+
+
+
+            </ul>
+
+    </li>
+
+</ul>
+
+            </div>
+
+        </div>
+    </div>
+</article>
+
+
+
+<div class="article-revcontent-wrapper">
+
+        <div id="rcjsload_b2bd2c" class="revcontent"></div>
+
+
+    <gpt-ad id="rc-signal-ad"
+        targeting-pos="revcontent-signal"
+        class="ad ad-revcontent-signal"
+
+        lazy-load="0"
+
+        prevent-reload="1"
+
+
+        data-object-pk="237"
+        data-object-name="revcontent-signal"
+        >
+
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[[13, 1]]"></gpt-sizeset>
+
+    </gpt-ad>
+
+
+
+
+
+
+</div>
+
+<div id="article-most-popular" class="most-popular-container fluid-container nocontent" data-omni-click="r'article',r' ',d,r'mostpop',$li,@data-article-id">
+
+    <div class="most-popular-header">
+        <h2>Most Popular</h2>
+        <div class="presented-by" data-enable-if-ad="ad-logo">
+            Presented by
+
+
+    <gpt-ad id="ad-logo"
+        targeting-pos="logo"
+        class="ad ad-logo"
+
+        lazy-load="1"
+
+
+
+
+        data-object-pk="38"
+        data-object-name="logo"
+        >
+
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[[88, 31], [120, 60], [240, 120], [200, 16]]"></gpt-sizeset>
+
+    </gpt-ad>
+
+
+        </div>
+    </div>
+
+
+
+
+<div class="most-popular-list">
+    <ul class="most-popular">
+
+
+
+
+
+<li class="most-popular-article " itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+    <a href="/entertainment/archive/2018/05/im-not-black-im-kanye/559763/" class="article-link" data-article-id="559763" data-omni-click="inherit" itemprop="mainEntityOfPage">
+
+            <figure class="lead-img" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img data-src="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/glennharvey_theatlantic_2018_05_06_final/hero_wide_640.jpg?1525687701" alt="" class="lazyload">
+                <meta itemprop="url" content="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/glennharvey_theatlantic_2018_05_06_final/hero_wide_640.jpg?1525687701"></meta>
+                <meta itemprop="width" content="640"></meta>
+                <meta itemprop="height" content="400"></meta>
+
+                <figcaption class="credit">Glenn Harvey</figcaption>
+
+            </figure>
+
+
+        <h3 class="hed" itemprop="headline">I’m Not Black, I’m Kanye</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/author/ta-nehisi-coates/" itemprop="url" title="Ta-Nehisi Coates" data-omni-click="inherit"><span itemprop="name">Ta-Nehisi Coates</span></a></span></li>
+
+
+    </ul>
+    <meta itemprop="datePublished" content="2018-05-07T07:03:55" />
+    <meta itemprop="dateModified" content="2018-05-07T08:43:49" />
+
+    <div itemprop="description" class="article-content ">
+        <p class="dek">Kanye West wants freedom—white freedom.</p>
+
+        <div class="excerpt">
+            <p class="dropcap">I could only have seen it there, on the waxed hardwood floor of my elementary-school auditorium, because I was young then, barely seven years old, and cable had not yet come to the city, and if it had, my father would not have believed in it. Yes, it had to have happened like this, like folk wisdom, because when I think of that era, I do not think of MTV, but of the futile attempt to stay awake and navigate the yawning whiteness of <em>Friday Night Videos</em>, and I remember that there were no VCRs among us then, and so it would have had to have been there that I saw it, in the auditorium which adjoined the cafeteria, where after the daily serving of tater tots and chocolate milk, a curtain divider was pulled back and all the kids stormed the stage. And I would have been there among them, awkwardly uprocking, or worming in place, or stiffly snaking, or back-spinning like a broken rotor, and I would have looked up and seen a kid, slightly older, facing me, smiling to himself, then moving across the floor by popping up alternating heels, gliding in reverse, walking on the moon.</p>
+
+
+        </div>
+
+    </div>
+    <a class="read-more" href="/entertainment/archive/2018/05/im-not-black-im-kanye/559763/" data-omni-click="inherit">
+
+        Continue Reading
+
+    </a>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+        <meta itemprop="name" content="The Atlantic" />
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/logo-black.c2cba3f6478a.png" />
+            <meta itemprop="width" content="150" />
+            <meta itemprop="height" content="50" />
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="most-popular-article " itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+    <a href="/health/archive/2018/05/the-obesity-cure-is-out-of-reach-in-the-heaviest-states/559700/" class="article-link" data-article-id="559700" data-omni-click="inherit" itemprop="mainEntityOfPage">
+
+            <figure class="lead-img" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img data-src="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/RTR1SJJ8/hero_wide_640.jpg?1525466871" alt="Two women dressed in black dresses holding white umbrellas" class="lazyload">
+                <meta itemprop="url" content="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/RTR1SJJ8/hero_wide_640.jpg?1525466871"></meta>
+                <meta itemprop="width" content="640"></meta>
+                <meta itemprop="height" content="400"></meta>
+
+                <figcaption class="credit">Jason Reed / Reuters</figcaption>
+
+            </figure>
+
+
+        <h3 class="hed" itemprop="headline">The Obesity Cure Is Out of Reach in the Heaviest States</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/author/olga-khazan/" itemprop="url" title="Olga Khazan" data-omni-click="inherit"><span itemprop="name">Olga Khazan</span></a></span></li>
+
+
+    </ul>
+    <meta itemprop="datePublished" content="2018-05-07T06:00:00" />
+    <meta itemprop="dateModified" content="2018-05-07T08:43:49" />
+
+    <div itemprop="description" class="article-content ">
+        <p class="dek">Bariatric surgery works, but hundreds of thousands of eligible patients can’t get it.</p>
+
+        <div class="excerpt">
+            <p>In Mississippi,<a href="https://stateofobesity.org/states/ms/"> more than 37</a> percent of adults are obese, making it the second-most obese state in the nation. But Mississippi is also one of two states, along with Montana, that doesn’t cover bariatric surgery in its Medicaid program, which serves <a href="https://www.clarionledger.com/story/news/politics/2017/12/15/mississippi-medicaid-director-resigned/957546001/">760,000 people.</a></p>
+
+<p>One popular type of bariatric surgery, the gastric sleeve, costs between $20,000 and $35,000 without insurance, experts told me. It shrinks the stomach to about the size of a banana, changing the body’s hunger hormones and reducing a person’s natural weight—one they don’t have to starve themselves to stick to. For the morbidly obese, diet and exercise don’t usually have this same effect on their own. (People who lost hundreds of pounds sweating it out on the TV show <a href="https://www.theatlantic.com/health/archive/2016/05/doomed-to-be-the-biggest-losers/482094/"><em>The Biggest Loser,</em></a> for example, tended to gain it all back.)</p>
+
+
+        </div>
+
+    </div>
+    <a class="read-more" href="/health/archive/2018/05/the-obesity-cure-is-out-of-reach-in-the-heaviest-states/559700/" data-omni-click="inherit">
+
+        Continue Reading
+
+    </a>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+        <meta itemprop="name" content="The Atlantic" />
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/logo-black.c2cba3f6478a.png" />
+            <meta itemprop="width" content="150" />
+            <meta itemprop="height" content="50" />
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="most-popular-article " itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+    <a href="/technology/archive/2018/05/smartphone-stories-snapchat-instagram-facebook/559517/" class="article-link" data-article-id="559517" data-omni-click="inherit" itemprop="mainEntityOfPage">
+
+            <figure class="lead-img" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img data-src="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/GettyImages_513438451/hero_wide_640.jpg?1525355273" alt="People in the crowd at an event hold their phones in the air" class="lazyload">
+                <meta itemprop="url" content="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/GettyImages_513438451/hero_wide_640.jpg?1525355273"></meta>
+                <meta itemprop="width" content="640"></meta>
+                <meta itemprop="height" content="400"></meta>
+
+                <figcaption class="credit">Robert Daly / Caiaimage / Getty</figcaption>
+
+            </figure>
+
+
+        <h3 class="hed" itemprop="headline">Why 'Stories' Took Over Your Smartphone</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/author/ian-bogost/" itemprop="url" title="Ian Bogost" data-omni-click="inherit"><span itemprop="name">Ian Bogost</span></a></span></li>
+
+
+    </ul>
+    <meta itemprop="datePublished" content="2018-05-03T09:47:00" />
+    <meta itemprop="dateModified" content="2018-05-07T08:43:49" />
+
+    <div itemprop="description" class="article-content ">
+        <p class="dek">The format, made popular by Snapchat and Instagram, is the native genre of glass rectangles.</p>
+
+        <div class="excerpt">
+            <p>Facebook’s chief product officer, Chris Cox, made a remarkable announcement during a keynote at the company’s <a href="https://www.theatlantic.com/technology/archive/2018/05/how-facebook-became-the-tech-company-people-love-to-hate/559418/">big conference</a> this week: “The increase in the Stories format,” he explained, “is on a path to surpass feeds as the primary way people share things with their friends sometime next year.”</p>
+
+<p>This caught me off guard. I have been ignoring Stories for years, deeming it a trifle for young people. Instagram, which is owned by Facebook, added Stories in 2016, <a href="https://www.theatlantic.com/technology/archive/2016/08/cameras-with-constraints/494291/">essentially copying</a> it from Snapchat, which inaugurated the format. Facebook itself added the feature in 2017, and WhatsApp, also owned by Facebook, has a similar feature called <a href="https://techcrunch.com/2018/05/01/whatsapp-stories/">Statuses</a>.</p>
+
+<p>“Story” is a terrible name for this feature, because it’s so broad as to descend into meaninglessness. In ordinary parlance, a story is a generic name for a narrative account of something. But a Story, of the Instagram and Snapchat sort, is something much more specific. It’s a collection of images and short videos, with optional overlays and effects, that a user can add to over time, but which disappears after 24 hours. Users view a Story in sequence, either waiting out a programmed delay between images or manually advancing to the next.</p>
+
+
+        </div>
+
+    </div>
+    <a class="read-more" href="/technology/archive/2018/05/smartphone-stories-snapchat-instagram-facebook/559517/" data-omni-click="inherit">
+
+        Continue Reading
+
+    </a>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+        <meta itemprop="name" content="The Atlantic" />
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/logo-black.c2cba3f6478a.png" />
+            <meta itemprop="width" content="150" />
+            <meta itemprop="height" content="50" />
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="most-popular-article " itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+    <a href="/photo/2018/05/photos-of-kilaueas-newest-lava-fissures-on-hawaiis-big-island/559751/" class="article-link" data-article-id="559751" data-omni-click="inherit" itemprop="mainEntityOfPage">
+
+            <figure class="lead-img" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img data-src="https://cdn.theatlantic.com/assets/media/img/photo/2018/05/kilauea-two/k01_9663791-1/hero_wide_640.jpg?1525592654" alt="" class="lazyload">
+                <meta itemprop="url" content="https://cdn.theatlantic.com/assets/media/img/photo/2018/05/kilauea-two/k01_9663791-1/hero_wide_640.jpg?1525592654"></meta>
+                <meta itemprop="width" content="640"></meta>
+                <meta itemprop="height" content="400"></meta>
+
+                <figcaption class="credit">Bruce Omori / Paradise Helicopters / EPA-EFE / REX / Shutterstock</figcaption>
+
+            </figure>
+
+
+        <h3 class="hed" itemprop="headline">Photos of Kilauea's Newest Lava Fissures on Hawaii's Big Island</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/author/alan-taylor/" itemprop="url" title="Alan Taylor" data-omni-click="inherit"><span itemprop="name">Alan Taylor</span></a></span></li>
+
+
+    </ul>
+    <meta itemprop="datePublished" content="2018-05-06T03:41:11" />
+    <meta itemprop="dateModified" content="2018-05-07T08:43:49" />
+
+    <div itemprop="description" class="article-content ">
+        <p class="dek">The recent eruptions from several volcanic vents in a residential neighborhood on Hawaii’s Big Island have prompted the evacuation of thousands of residents.</p>
+
+        <div class="excerpt">
+            <p>The recent eruptions from several volcanic vents in a residential neighborhood on Hawaii’s Big Island have prompted the evacuation of thousands of residents. The Hawaiian Volcanoes Observatory said eight lava fissures had opened under Leilani Estates over the past few days. The opening of the fissures and lava flow from Kilauea Volcano follow a series of earthquakes, including a magnitude-6.9 quake on Friday, and the earlier collapse of a nearby crater, emptying the lake of lava within. The unfolding disaster is <a href="https://www.theatlantic.com/science/archive/2018/05/why-hawaiis-newest-eruption-makes-volcanologists-nervous/559685/">unpredictable</a>, and may take a very long time to calm down enough to allow residents to return.</p>
+
+        </div>
+
+    </div>
+    <a class="read-more" href="/photo/2018/05/photos-of-kilaueas-newest-lava-fissures-on-hawaiis-big-island/559751/" data-omni-click="inherit">
+
+        Continue Reading
+
+    </a>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+        <meta itemprop="name" content="The Atlantic" />
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/logo-black.c2cba3f6478a.png" />
+            <meta itemprop="width" content="150" />
+            <meta itemprop="height" content="50" />
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="most-popular-article " itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+    <a href="/magazine/archive/2018/05/reinventing-america/556856/" class="article-link" data-article-id="556856" data-omni-click="inherit" itemprop="mainEntityOfPage">
+
+            <figure class="lead-img" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img data-src="https://cdn.theatlantic.com/assets/media/img/2018/04/BOB_Fallows_America_lead/hero_wide_640.jpg?1523065311" alt="" class="lazyload">
+                <meta itemprop="url" content="https://cdn.theatlantic.com/assets/media/img/2018/04/BOB_Fallows_America_lead/hero_wide_640.jpg?1523065311"></meta>
+                <meta itemprop="width" content="640"></meta>
+                <meta itemprop="height" content="400"></meta>
+
+                <figcaption class="credit">Mark Weaver</figcaption>
+
+            </figure>
+
+
+        <h3 class="hed" itemprop="headline">The Reinvention of America</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/author/james-fallows/" itemprop="url" title="James Fallows" data-omni-click="inherit"><span itemprop="name">James Fallows</span></a></span></li>
+
+
+    </ul>
+    <meta itemprop="datePublished" content="2018-04-23T08:00:00" />
+    <meta itemprop="dateModified" content="2018-05-07T08:43:49" />
+
+    <div itemprop="description" class="article-content ">
+        <p class="dek">Americans don’t realize how fast the country is moving toward becoming a better version of itself.</p>
+
+        <div class="excerpt">
+            <p class="dropcap">I<span class="smallcaps"> have seen the future,</span> and it is in the United States.</p>
+
+<p>After a several-year immersion in parts of the country that make the news mainly after a natural disaster or a shooting, or for follow-up stories on how the Donald Trump voters of 2016 now feel about Trump, I have a journalistic impulse similar to the one that dominated my years of living in China. That is the desire to tell people how much more is going on, in places they had barely thought about or even heard of, than they might have imagined.</p>
+
+<p style="background-color: #333; color: #fff; padding: 12px 24px;"><i class="audm--download-cta">To hear more feature stories, <a href="https://www.theatlantic.com/podcasts/audio-articles/?utm_source=audioarticleembed" style="color: #fff; text-decoration: underline;">see our full list</a> or <a href="http://bit.ly/2HxliD9" style="color: #fff; text-decoration: underline;">get the Audm iPhone app.</a> </i></p>
+
+<p>In the case of China, that impulse matched the mood of the times. In the years before and after the world financial crisis of 2008, everyone knew that China was on the way up; reporters like me were just filling in the details. In the case of the modern United States, I am well aware that this message runs so counter to prevailing emotions and ideas as to seem preposterous. Everyone knows how genuinely troubled the United States is at the level of national politics and governance. It is natural to assume that these disorders must reflect a deeper rot across the country. And indeed, you can’t travel extensively through today’s America, as my wife, Deb, and I have been doing in recent years, without being exposed to signs of rot, from opioid addiction to calcifying class barriers.</p>
+
+
+        </div>
+
+    </div>
+    <a class="read-more" href="/magazine/archive/2018/05/reinventing-america/556856/" data-omni-click="inherit">
+
+        Continue Reading
+
+    </a>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+        <meta itemprop="name" content="The Atlantic" />
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/logo-black.c2cba3f6478a.png" />
+            <meta itemprop="width" content="150" />
+            <meta itemprop="height" content="50" />
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="most-popular-article " itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+    <a href="/politics/archive/2018/05/gop-senate-primaries-indiana-west-virginia/559502/" class="article-link" data-article-id="559502" data-omni-click="inherit" itemprop="mainEntityOfPage">
+
+            <figure class="lead-img" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img data-src="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/AP_18120846468278/hero_wide_640.jpg?1525443658" alt="Three senatorial candidates stand at lecterns on a debate stage." class="lazyload">
+                <meta itemprop="url" content="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/AP_18120846468278/hero_wide_640.jpg?1525443658"></meta>
+                <meta itemprop="width" content="640"></meta>
+                <meta itemprop="height" content="400"></meta>
+
+                <figcaption class="credit">Darron Cummings / AP</figcaption>
+
+            </figure>
+
+
+        <h3 class="hed" itemprop="headline">How to Survive a Republican Primary</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/author/russell-berman/" itemprop="url" title="Russell Berman" data-omni-click="inherit"><span itemprop="name">Russell Berman</span></a></span></li>
+
+
+    </ul>
+    <meta itemprop="datePublished" content="2018-05-07T06:00:00" />
+    <meta itemprop="dateModified" content="2018-05-07T08:43:49" />
+
+    <div itemprop="description" class="article-content ">
+        <p class="dek">In Indiana and West Virginia, GOP congressmen seeking promotions to the Senate are struggling to fend off challenges from Washington outsiders.</p>
+
+        <div class="excerpt">
+            <p><small><em>Updated on May 7 at 7:47 a.m. ET</em></small></p>
+
+<p>The most revealing answer in last week’s Senate Republican primary debate in West Virginia was a silent one—but it said a great deal about the popularity of the party’s leadership in Washington a year and a half into the Trump presidency.</p>
+
+<p>Moderator Bret Baier of Fox News asked the three leading contenders in this week’s contest—Representative Evan Jenkins, state Attorney General Patrick Morrisey, and the former coal baron Don Blankenship—to raise their hands if they would support Mitch McConnell for another term as the Senate GOP leader.</p>
+
+<p>None of them did.</p>
+
+<p>Blankenship made a show of ducking under his lectern—an apparent reference to the bizarre and racist attacks he’s launched against McConnell and his family. If the majority leader had an ally on the stage, it was Jenkins, the second-term congressman who’s the closest to an establishment favorite in the race to take on Democratic Senator Joe Manchin this fall. But even as he praised McConnell for shepherding Neil Gorsuch onto the Supreme Court, he wouldn’t commit his support to him. “I think it’s way too premature,” Jenkins said. “I’m not ruling anybody in. I’m not ruling anybody out. Nobody has asked for my support.”</p>
+
+
+        </div>
+
+    </div>
+    <a class="read-more" href="/politics/archive/2018/05/gop-senate-primaries-indiana-west-virginia/559502/" data-omni-click="inherit">
+
+        Continue Reading
+
+    </a>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+        <meta itemprop="name" content="The Atlantic" />
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/logo-black.c2cba3f6478a.png" />
+            <meta itemprop="width" content="150" />
+            <meta itemprop="height" content="50" />
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="most-popular-article " itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+    <a href="/technology/archive/2018/04/vatican-secret-archives-artificial-intelligence/559205/" class="article-link" data-article-id="559205" data-omni-click="inherit" itemprop="mainEntityOfPage">
+
+            <figure class="lead-img" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img data-src="https://cdn.theatlantic.com/assets/media/img/mt/2018/04/GettyImages_527587750/hero_wide_640.jpg?1525099843" alt="Green and red lighting reveals several books on wooden shelves" class="lazyload">
+                <meta itemprop="url" content="https://cdn.theatlantic.com/assets/media/img/mt/2018/04/GettyImages_527587750/hero_wide_640.jpg?1525099843"></meta>
+                <meta itemprop="width" content="640"></meta>
+                <meta itemprop="height" content="400"></meta>
+
+                <figcaption class="credit">Alessandra Benedetti / Corbis / Getty</figcaption>
+
+            </figure>
+
+
+        <h3 class="hed" itemprop="headline">Artificial Intelligence Is Cracking Open the Vatican's Secret Archives</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/author/sam-kean/" itemprop="url" title="Sam Kean" data-omni-click="inherit"><span itemprop="name">Sam Kean</span></a></span></li>
+
+
+    </ul>
+    <meta itemprop="datePublished" content="2018-04-30T10:48:00" />
+    <meta itemprop="dateModified" content="2018-05-07T08:43:49" />
+
+    <div itemprop="description" class="article-content ">
+        <p class="dek">A new project untangles the handwritten texts in one of the world’s largest historical collections.</p>
+
+        <div class="excerpt">
+            <p dir="ltr">The <a href="http://www.archiviosegretovaticano.va/content/archiviosegretovaticano/en.html">Vatican Secret Archives</a> is one of the grandest historical collections in the world. It’s also one of the most useless.</p>
+
+<p dir="ltr">The grandeur is obvious. Located within the Vatican’s walls, next door to the Apostolic Library and just north of the Sistine Chapel, the VSA houses 53 linear miles of shelving dating back more than 12 centuries. It includes gems like the<a href="https://www.osv.com/Magazines/TheCatholicAnswer/Article/TabId/652/ArtMID/13618/ArticleID/20552/What-Is-a-Papal-Bull.aspx"> papal bull</a> that excommunicated Martin Luther and the pleas for help that Mary Queen of Scots sent to Pope Sixtus V before her execution. In size and scope, the collection is almost peerless.</p>
+
+<p dir="ltr">That said, the VSA isn’t much use to modern scholars, because it’s so inaccessible. Of those 53 miles, just a few millimeters’ worth of pages have been scanned and made available online. Even fewer pages have been transcribed into computer text and made searchable. If you want to peruse anything else, you have to apply for special access, schlep all the way to Rome, and go through every page by hand.</p>
+
+
+        </div>
+
+    </div>
+    <a class="read-more" href="/technology/archive/2018/04/vatican-secret-archives-artificial-intelligence/559205/" data-omni-click="inherit">
+
+        Continue Reading
+
+    </a>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+        <meta itemprop="name" content="The Atlantic" />
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/logo-black.c2cba3f6478a.png" />
+            <meta itemprop="width" content="150" />
+            <meta itemprop="height" content="50" />
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="most-popular-article " itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+    <a href="/international/archive/2018/05/turkey-andrew-brunson-erdogan-coup-gulen-kurds/559748/" class="article-link" data-article-id="559748" data-omni-click="inherit" itemprop="mainEntityOfPage">
+
+            <figure class="lead-img" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img data-src="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/RTS1P5KF/hero_wide_640.jpg?1525560439" alt="" class="lazyload">
+                <meta itemprop="url" content="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/RTS1P5KF/hero_wide_640.jpg?1525560439"></meta>
+                <meta itemprop="width" content="640"></meta>
+                <meta itemprop="height" content="400"></meta>
+
+                <figcaption class="credit">Handout via Reuters / Kayhan Ozer</figcaption>
+
+            </figure>
+
+
+        <h3 class="hed" itemprop="headline">Turkey's Dangerous Game of 'Hostage Diplomacy' </h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/author/diego-cupolo/" itemprop="url" title="Diego Cupolo" data-omni-click="inherit"><span itemprop="name">Diego Cupolo</span></a></span></li>
+
+
+    </ul>
+    <meta itemprop="datePublished" content="2018-05-06T11:55:40" />
+    <meta itemprop="dateModified" content="2018-05-07T08:43:49" />
+
+    <div itemprop="description" class="article-content ">
+        <p class="dek">How an American pastor became a political pawn for Erdogan</p>
+
+        <div class="excerpt">
+            <p>On October 7, 2016, Andrew Brunson, a 50-year-old American pastor working as a missionary in Turkey, received a call from the police requesting that he come in for a visit. Since 1995, Brunson had lived in the city of Izmir in western Turkey, serving as a Presbyterian pastor. When the police got in touch, he had been awaiting the renewal of his residence permit, and figured it might be ready. Instead, the police detained him on suspicions of collaborating with terrorists, and imprisoned him without charges for the next year and a half. Expectations for a quick dismissal or deportation order diminished, as Brunson was moved from one jail to another. At times, he shared a cell made for eight prisoners with 21 others, his lawyer, Ismail Cem Halavurt, told me.</p>
+
+
+        </div>
+
+    </div>
+    <a class="read-more" href="/international/archive/2018/05/turkey-andrew-brunson-erdogan-coup-gulen-kurds/559748/" data-omni-click="inherit">
+
+        Continue Reading
+
+    </a>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+        <meta itemprop="name" content="The Atlantic" />
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/logo-black.c2cba3f6478a.png" />
+            <meta itemprop="width" content="150" />
+            <meta itemprop="height" content="50" />
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="most-popular-article " itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+    <a href="/international/archive/2018/05/iran-deal-nuclear-crisis/559730/" class="article-link" data-article-id="559730" data-omni-click="inherit" itemprop="mainEntityOfPage">
+
+            <figure class="lead-img" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img data-src="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/GettyImages_72560482/hero_wide_640.jpg?1525467682" alt="Three smokestacks backlit by the sun" class="lazyload">
+                <meta itemprop="url" content="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/GettyImages_72560482/hero_wide_640.jpg?1525467682"></meta>
+                <meta itemprop="width" content="640"></meta>
+                <meta itemprop="height" content="400"></meta>
+
+                <figcaption class="credit">Majid Saeedi / Getty</figcaption>
+
+            </figure>
+
+
+        <h3 class="hed" itemprop="headline">Trump Is About to Provoke an Unnecessary Crisis With Iran</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/author/philip-gordon/" itemprop="url" title="Philip Gordon" data-omni-click="inherit"><span itemprop="name">Philip Gordon</span></a></span></li>
+
+
+    </ul>
+    <meta itemprop="datePublished" content="2018-05-06T09:00:00" />
+    <meta itemprop="dateModified" content="2018-05-07T08:43:49" />
+
+    <div itemprop="description" class="article-content ">
+        <p class="dek">Withdrawing from the nuclear deal, as he seems to prefer, would destroy America’s ability to monitor the Islamic Republic’s nuclear activities.</p>
+
+        <div class="excerpt">
+            <p>There’s a decent chance that tearing up the Iran deal, as Trump seems likely to do next week, will lead to escalating confrontation with Iran throughout the Middle East, diplomatic isolation of the United States, and military strikes against Iranian nuclear facilities that would likely have to be repeated periodically in the absence of any nuclear agreement or verification regime. I respect Reuel Marc Gerecht’s honesty in his recent <em>Atlantic </em><a href="https://www.theatlantic.com/international/archive/2018/05/iran-nuclear-deal-flawed/559595/">pieces</a> <a href="https://www.theatlantic.com/international/archive/2018/05/iran-nuclear-deal/559721/">advocating</a> withdrawal from the Iran deal, and his willingness to accept the logical consequences of his approach, or at least the serious risk that these could be the consequences.</p>
+
+<p>Gerecht says one reason America must insist on additional demands of Iran is because otherwise we will never know “whether the clerical regime is cheating outside the surveilled sites.” I’ll admit that no inspection regime could ever be perfect. But the current one that provides for 24/7 surveillance cameras at declared sites and gives the International Atomic Energy Agency the right to go wherever else it needs to go—including to military bases, by the way—is not just good but a whole lot better than no inspection regime at all, which is where I fear Gerecht’s policy prescriptions would lead. Once America bombs Iranian facilities, and they kick all the inspectors out, how are we going to be sure they’re not cheating then? Iran is a big country with lots of scientists, engineers, labs, mountains, cities, and military bases. How will we know what they’re up to? Will we send in inspectors like the United Nations Special Commission (UNSCOM) in Iraq, and then, if they refuse, invade to change the regime? It’s not as if we haven’t been in a similar situation before.</p>
+
+
+        </div>
+
+    </div>
+    <a class="read-more" href="/international/archive/2018/05/iran-deal-nuclear-crisis/559730/" data-omni-click="inherit">
+
+        Continue Reading
+
+    </a>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+        <meta itemprop="name" content="The Atlantic" />
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/logo-black.c2cba3f6478a.png" />
+            <meta itemprop="width" content="150" />
+            <meta itemprop="height" content="50" />
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="most-popular-article " itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+    <a href="/technology/archive/2018/05/ritual-design-lab-secular-atheist/559535/" class="article-link" data-article-id="559535" data-omni-click="inherit" itemprop="mainEntityOfPage">
+
+            <figure class="lead-img" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img data-src="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/wish_wheel_3/hero_wide_640.png?1525465618" alt="A wish ritual constructed by Ritual Design Lab was featured in San Francisco&#39;s Market Street Prototype Festival in 2015." class="lazyload">
+                <meta itemprop="url" content="https://cdn.theatlantic.com/assets/media/img/mt/2018/05/wish_wheel_3/hero_wide_640.png?1525465618"></meta>
+                <meta itemprop="width" content="640"></meta>
+                <meta itemprop="height" content="400"></meta>
+
+                <figcaption class="credit">Margaret Hagan</figcaption>
+
+            </figure>
+
+
+        <h3 class="hed" itemprop="headline">A Design Lab Is Making Rituals for Secular People</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/author/sigal-samuel/" itemprop="url" title="Sigal Samuel" data-omni-click="inherit"><span itemprop="name">Sigal Samuel</span></a></span></li>
+
+
+    </ul>
+    <meta itemprop="datePublished" content="2018-05-07T05:00:00" />
+    <meta itemprop="dateModified" content="2018-05-07T08:43:49" />
+
+    <div itemprop="description" class="article-content ">
+        <p class="dek">Will it work?</p>
+
+        <div class="excerpt">
+            <p>Religions have long been the dominant suppliers of rituals, gamely stepping in with an answer to every question from <em>How do I celebrate the birth of my baby boy?</em> to <em>How can I transfer my own sins onto a live chicken?</em> But in an age of increasing religious disaffiliation, these rituals now feel hollow to millions of people. And even when they don’t, there’s a wide range of new experiences for which the traditional rituals offer no script: How do I cope with my rage after receiving a parking ticket? How can I keep a smart car from exacerbating my loneliness and narcissism? What can I do to mourn the death of my laptop?</p>
+
+<p>Although there is no single agreed-upon definition, a ritual is typically a deliberate action performed in a set sequence that improves our emotional state, by reframing an experience in a way that feels meaningful.</p>
+
+
+        </div>
+
+    </div>
+    <a class="read-more" href="/technology/archive/2018/05/ritual-design-lab-secular-atheist/559535/" data-omni-click="inherit">
+
+        Continue Reading
+
+    </a>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+        <meta itemprop="name" content="The Atlantic" />
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/logo-black.c2cba3f6478a.png" />
+            <meta itemprop="width" content="150" />
+            <meta itemprop="height" content="50" />
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+
+<li class="most-popular-article most-popular-video" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+    <a href="/video/index/559448/flight-syria-movie/" class="article-link" data-article-id="559448" data-omni-click="inherit" itemprop="mainEntityOfPage">
+
+            <figure class="lead-img" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img data-src="https://cdn.theatlantic.com/assets/media/video/img/2018/05/Flight_Site/hero_wide_640.jpg?1525280915" alt="" class="lazyload">
+                <meta itemprop="url" content="https://cdn.theatlantic.com/assets/media/video/img/2018/05/Flight_Site/hero_wide_640.jpg?1525280915"></meta>
+                <meta itemprop="width" content="640"></meta>
+                <meta itemprop="height" content="400"></meta>
+
+            </figure>
+
+
+        <h3 class="hed" itemprop="headline">'Take Me From Here. I Will Die Here.'</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/author/emily-buder/" itemprop="url" title="Emily Buder" data-omni-click="inherit"><span itemprop="name">Emily Buder</span></a></span></li>
+
+
+    </ul>
+    <meta itemprop="datePublished" content="2018-05-02T16:42:27" />
+    <meta itemprop="dateModified" content="2018-05-07T08:44:00" />
+
+    <div itemprop="description" class="article-content without-excerpt">
+        <p class="dek">Two young girls escape Syria in an intimate short film, told largely through home movies.</p>
+
+    </div>
+    <a class="read-more" href="/video/index/559448/flight-syria-movie/" data-omni-click="inherit">
+
+        Watch Video
+
+    </a>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+        <meta itemprop="name" content="The Atlantic" />
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/logo-black.c2cba3f6478a.png" />
+            <meta itemprop="width" content="150" />
+            <meta itemprop="height" content="50" />
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="most-popular-article most-popular-video" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+    <a href="/video/index/559364/ann-williams/" class="article-link" data-article-id="559364" data-omni-click="inherit" itemprop="mainEntityOfPage">
+
+            <figure class="lead-img" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img data-src="https://cdn.theatlantic.com/assets/media/video/img/2018/05/Anna/hero_wide_640.jpg?1525190255" alt="" class="lazyload">
+                <meta itemprop="url" content="https://cdn.theatlantic.com/assets/media/video/img/2018/05/Anna/hero_wide_640.jpg?1525190255"></meta>
+                <meta itemprop="width" content="640"></meta>
+                <meta itemprop="height" content="400"></meta>
+
+            </figure>
+
+
+        <h3 class="hed" itemprop="headline">A Slave Who Sued for Her Freedom</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/author/emily-buder/" itemprop="url" title="Emily Buder" data-omni-click="inherit"><span itemprop="name">Emily Buder</span></a></span></li>
+
+
+    </ul>
+    <meta itemprop="datePublished" content="2018-05-01T14:56:22" />
+    <meta itemprop="dateModified" content="2018-05-07T08:44:00" />
+
+    <div itemprop="description" class="article-content without-excerpt">
+        <p class="dek">An enslaved woman who jumped from a building in 1815 is later revealed to be the plaintiff in a successful lawsuit for her freedom.</p>
+
+    </div>
+    <a class="read-more" href="/video/index/559364/ann-williams/" data-omni-click="inherit">
+
+        Watch Video
+
+    </a>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+        <meta itemprop="name" content="The Atlantic" />
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/logo-black.c2cba3f6478a.png" />
+            <meta itemprop="width" content="150" />
+            <meta itemprop="height" content="50" />
+        </div>
+    </div>
+</li>
+
+
+
+
+
+
+<li class="most-popular-article most-popular-video" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+    <a href="/video/index/553796/gut-hack-biohacking/" class="article-link" data-article-id="553796" data-omni-click="inherit" itemprop="mainEntityOfPage">
+
+            <figure class="lead-img" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img data-src="https://cdn.theatlantic.com/assets/media/video/img/2018/02/Biohack/hero_wide_640.jpg?1522767872" alt="" class="lazyload">
+                <meta itemprop="url" content="https://cdn.theatlantic.com/assets/media/video/img/2018/02/Biohack/hero_wide_640.jpg?1522767872"></meta>
+                <meta itemprop="width" content="640"></meta>
+                <meta itemprop="height" content="400"></meta>
+
+            </figure>
+
+
+        <h3 class="hed" itemprop="headline">A ‘Grueling and Grotesque’ Biohacking Experiment</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/author/emily-buder/" itemprop="url" title="Emily Buder" data-omni-click="inherit"><span itemprop="name">Emily Buder</span></a></span></li>
+
+
+    </ul>
+    <meta itemprop="datePublished" content="2018-02-21T15:01:49" />
+    <meta itemprop="dateModified" content="2018-05-07T08:44:00" />
+
+    <div itemprop="description" class="article-content without-excerpt">
+        <p class="dek">After a lifetime of intestinal problems, biohacker Josiah Zayner declares war on his own body's microbes.</p>
+
+    </div>
+    <a class="read-more" href="/video/index/553796/gut-hack-biohacking/" data-omni-click="inherit">
+
+        Watch Video
+
+    </a>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
+        <meta itemprop="name" content="The Atlantic" />
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/logo-black.c2cba3f6478a.png" />
+            <meta itemprop="width" content="150" />
+            <meta itemprop="height" content="50" />
+        </div>
+    </div>
+</li>
+
+
+    </ul>
+    <div class="more-stories-wrapper">
+        <a class="more-stories" href="/most-popular/" data-omni-click="r'.',r' ',d,r'mostpop',r'more',r'/most-popular'">More Popular Stories</a>
+    </div>
+</div>
+
+
+</div>
+
+
+
+
+
+<script type="text/injector-promo" data-obj-id="2" data-name="Daily " data-rate-limit="0.1">
+    <aside>
+    <form id="injector-signup-daily" action="" method="post"  data-newsletter-signup="1">
+        <p>
+            Like <em>​The Atlantic</em>? Subscribe to <strong>​</strong><a href="http://www.theatlantic.com/newsletters/daily/" target="_blank">The Atlantic Daily​</a>, our free weekday email newsletter.
+        </p>
+        <input type="hidden" name="newsletters" value="7581216"><input type="hidden" name="newsletterName" value="Atlantic Daily"><input type="email" name="email" class="email-address" placeholder="Email"><input type="submit" value="Sign up">
+        <p class="message"></p>
+    </form>
+</aside>
+
+</script>
+
+<script type="text/injector-promo" data-obj-id="53" data-name="Family newsletter  - ROS" data-rate-limit="1.0">
+    <aside>
+    <form id="injector-signup-family-newsletter-ros" action="" method="post"  data-newsletter-signup="1">
+        <p>
+            Like <em>The Atlantic</em>'s family coverage? Subscribe to <a href="https://www.theatlantic.com/newsletters/the-family-weekly/">The Family Weekly</a>, our free newsletter delivered to your inbox every Saturday morning.
+        </p>
+        <input type="hidden" name="newsletters" value="10160676"><input type="hidden" name="newsletterName" value="The Family Weekly"><input type="email" name="email" class="email-address" placeholder="Email"><input type="submit" value="Sign up">
+        <p class="message"></p>
+    </form>
+</aside>
+
+</script>
+
+
+
+
+
+<script id="video-social-links-template" type="text/template">
+    <div class="article-embed-share">
+        <ul class="share social-icons round color">
+            <li><a href="#" class="facebook social-icon" data-share="facebook" data-share-text="<%= title %>" data-share-url="<%= original_url %>" data-omni-click="r'videoembedshare_fb',<%= video_id %>">
+            </a></li>
+
+            <li><a href="#" class="twitter social-icon" data-share="twitter" data-share-text="<%= title %>" data-share-url="<%= original_url %>" data-omni-click="r'videoembedshare_tw',<%= video_id %>" data-share-via="theatlantic">
+            </a></li>
+        </ul>
+    </div>
+</script>
+
+
+<script type="application/ld+json">[]</script>
+
+
+
+
+            <div id="janrain-screens" class="profile-screens"></div>
+
+
+
+
+
+
+
+
+<footer id="site-footer" data-omni-click="r'article',r'footer',d,r' ',r' ',@href">
+
+    <div class="row">
+        <section class="subscribe">
+            <div class="footer-content border">
+                <div id="subscribe-header" >
+                    <div class="footer-title">Subscribe</div>
+                    <p class="promo-tag">Support 160 years of independent journalism.</p>
+                </div>
+                <a href="/subscribe/footer-cover" data-omni-click="inherit">
+                    <div id="issue-image">
+
+
+
+
+
+                        <img class="cover lazyload" data-src="https://cdn.theatlantic.com/assets/media/img/issues/2018/04/17/0518_Cover/large.jpg?1523999302" alt="">
+
+
+
+                    </div>
+                </a>
+
+                <div class="wrap-form">
+                    <form action="/subscribe/embedded-footer-features/" method="post" id="footerCircForm" class="labeled">
+
+    <input type="HIDDEN" name="lsid" value="50301515139038984">
+    <input type="HIDDEN" name="vid" value="1">
+    <input type="HIDDEN" name="cds_page_id" value="173343">
+    <input type="HIDDEN" name="cds_mag_code" value="ATL">
+    <input type="HIDDEN" name="cds_form_submitted" value="subscription_US_billme:subscription_US_billme1">
+    <input type="HIDDEN" name="cds_doms_order_number" value="">
+    <input type="HIDDEN" name="cds_doms_offer_code" value="">
+    <input type="HIDDEN" name="cds_doms_package_offer_id" value="">
+    <input type="HIDDEN" name="cds_config_id" value="">
+    <input type="HIDDEN" name="cds_series_status" value="">
+
+    <label class="u-element-invisible" for="cds_name">Name</label>
+    <input class="name label" name="cds_name" id="cds_name" type="text" value="" placeholder="Name" keyev="true">
+
+    <label class="u-element-invisible" for="cds_address_1">Address 1</label>
+    <input class="address1 label" name="cds_address_1" id="cds_address_1" type="text" value="" placeholder="Address 1">
+
+    <label class="u-element-invisible" for="cds_address_2">Address 2</label>
+    <input class="address2 label" name="cds_address_2" id="cds_address_2" type="text" value="" placeholder="Address 2">
+
+    <label class="u-element-invisible" for="cds_city">City</label>
+    <input class="city label" name="cds_city" id="cds_city" type="text" value="" placeholder="City">
+
+    <div class="styled-select">
+        <label class="u-element-invisible" for="cds_state">State</label>
+        <select class="state" name="cds_state" id="cds_state">
+            <option selected disabled value="">State</option>
+            <option value="AL">Alabama</option>
+            <option value="AK">Alaska</option>
+            <option value="AB">Alberta</option>
+            <option value="AS">American Samoa</option>
+            <option value="AE">APO/FPO-Africa</option>
+            <option value="AE">APO/FPO-Canada</option>
+            <option value="AE">APO/FPO-Europe</option>
+            <option value="AE">APO/FPO-Middle East</option>
+            <option value="AA">APO/FPO-Americas</option>
+            <option value="AP">APO/FPO-Pacific</option>
+            <option value="AZ">Arizona</option>
+            <option value="AR">Arkansas</option>
+            <option value="BC">British Columbia</option>
+            <option value="CA">California</option>
+            <option value="CO">Colorado</option>
+            <option value="CT">Connecticut</option>
+            <option value="DE">Delaware</option>
+            <option value="DC">District of Columbia</option>
+            <option value="FL">Florida</option>
+            <option value="GA">Georgia</option>
+            <option value="GU">Guam</option>
+            <option value="HI">Hawaii</option>
+            <option value="ID">Idaho</option>
+            <option value="IL">Illinois</option>
+            <option value="IN">Indiana</option>
+            <option value="IA">Iowa</option>
+            <option value="KS">Kansas</option>
+            <option value="KY">Kentucky</option>
+            <option value="LA">Louisiana</option>
+            <option value="ME">Maine</option>
+            <option value="MB">Manitoba</option>
+            <option value="MH">Marshall Islands</option>
+            <option value="MD">Maryland</option>
+            <option value="MA">Massachusetts</option>
+            <option value="MI">Michigan</option>
+            <option value="FM">Micronesia</option>
+            <option value="MN">Minnesota</option>
+            <option value="MS">Mississippi</option>
+            <option value="MO">Missouri</option>
+            <option value="MT">Montana</option>
+            <option value="NE">Nebraska</option>
+            <option value="NV">Nevada</option>
+            <option value="NB">New Brunswick</option>
+            <option value="NH">New Hampshire</option>
+            <option value="NJ">New Jersey</option>
+            <option value="NM">New Mexico</option>
+            <option value="NY">New York</option>
+            <option value="NF">Newfoundland</option>
+            <option value="NL">Newfoundland-Labrador</option>
+            <option value="NC">North Carolina</option>
+            <option value="ND">North Dakota</option>
+            <option value="MP">Northern Mariana Isles</option>
+            <option value="NT">Northwest Territories</option>
+            <option value="NS">Nova Scotia</option>
+            <option value="NU">Nunavut</option>
+            <option value="OH">Ohio</option>
+            <option value="OK">Oklahoma</option>
+            <option value="ON">Ontario</option>
+            <option value="OR">Oregon</option>
+            <option value="PW">Palau</option>
+            <option value="PA">Pennsylvania</option>
+            <option value="PE">Prince Edward Island</option>
+            <option value="PR">Puerto Rico</option>
+            <option value="PQ">Quebec</option>
+            <option value="QC">Quebec</option>
+            <option value="RI">Rhode Island</option>
+            <option value="SK">Saskatchewan</option>
+            <option value="SC">South Carolina</option>
+            <option value="SD">South Dakota</option>
+            <option value="TN">Tennessee</option>
+            <option value="TX">Texas</option>
+            <option value="UT">Utah</option>
+            <option value="VT">Vermont</option>
+            <option value="VI">Virgin Islands</option>
+            <option value="VA">Virginia</option>
+            <option value="WA">Washington</option>
+            <option value="WV">West Virginia</option>
+            <option value="WI">Wisconsin</option>
+            <option value="WY">Wyoming</option>
+            <option value="YT">Yukon Territories</option>
+        </select>
+    </div>
+
+    <label class="u-element-invisible" for="cds_zip">Zip Code</label>
+    <input name="cds_zip" id="cds_zip" type="text" pattern="\d*" size="10" value="" placeholder="Zip" class="zip label" />
+
+    <label class="u-element-invisible" for="cds_country">Country</label>
+    <input name="cds_country" id="cds_country" type="text" value="United States" placeholder="Country" class="country label" />
+
+    <label class="u-element-invisible" for="cds_email">Email Address</label>
+    <input name="cds_email" id="cds_email" type="email" value="" placeholder="Email" class="email label" />
+
+    <input class="submit" type="submit" value="Order Now" name="Submit" />
+</form>
+
+                </div>
+                <div class="fraud-alert">
+                    <a href="/personal/archive/2013/10/fraud-alert-regarding-i-the-atlantic-i/280278/" data-omni-click="inherit">Fraud Alert regarding The Atlantic</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="newsletters toggleable">
+            <div class="footer-content border">
+                <div class="footer-title toggle">Newsletters<span>+</span></div>
+            </div>
+            <div class="footer-content toggleable-content" id="footer-newsletter-signup" data-newsletter-signup="1">
+                <form action="" method="post" id="footer-newsletter-signup">
+
+    <fieldset class="newsletter-column wide">
+
+        <legend class="newsletter-header">The Atlantic</legend>
+
+        <div class="newsletter-sub-column">
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" value="7581216" name="newsletters">
+                    <i>The Atlantic</i> Daily
+                </label>
+            </div>
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" value="7574845" name="newsletters">
+                    This Week
+                </label>
+            </div>
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" value="7581269" name="newsletters">
+                    This Month
+                </label>
+            </div>
+        </div>
+
+        <div class="newsletter-sub-column">
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" value="7581260" name="newsletters">
+                    New Photo Galleries
+                </label>
+            </div>
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" value="7581275" name="newsletters">
+                    Top Videos This Week
+                </label>
+            </div>
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" value="7581281" name="newsletters">
+                    Politics &amp; Policy Daily
+                </label>
+            </div>
+        </div>
+
+    </fieldset>
+
+    <fieldset class="newsletter-column">
+        <legend class="newsletter-header">CityLab</legend>
+        <div class="checkbox">
+            <label>
+                <input type="checkbox" value="7607485" name="newsletters">
+                Today’s Top Stories
+            </label>
+        </div>
+        <div class="checkbox">
+            <label>
+                <input type="checkbox" value="7607490" name="newsletters">
+                This Week's Most Popular Stories
+            </label>
+        </div>
+    </fieldset>
+
+    <fieldset class="newsletter-column signup">
+        <div class="opt-in checkbox">
+            <label>
+                <input type="checkbox" value="7607877" checked name="newsletters">
+                <em>I want to receive updates from partners and sponsors.</em>
+            </label>
+        </div>
+        <div class="newsletter-input newsletter-email">
+            <label class="u-element-invisible" for="newsletter-email">Email Address</label>
+            <input class="full-width" type="email" id="newsletter-email" name="email" placeholder="Email">
+        </div>
+        <div class="newsletter-input newsletter-submit">
+            <input class="full-width submit" type="submit" id="newsletter-submit" value="Sign up">
+        </div>
+    </fieldset>
+
+    <p class="message"></p>
+</form>
+
+            </div>
+        </section>
+    </div>
+
+    <div class="row">
+        <section class="follow toggleable">
+            <div class="footer-content border">
+                <div class="footer-title toggle">Follow<span>+</span></div>
+            </div>
+            <div class="footer-content toggleable-content">
+                <ul class="nav-social-links social-icons color round">
+                    <li><a data-omni-click="inherit" class="social-icon facebook" href="https://www.facebook.com/TheAtlantic">Facebook</a></li>
+                    <li><a data-omni-click="inherit" class="social-icon twitter" href="https://twitter.com/TheAtlantic">Twitter</a></li>
+                    <li><a data-omni-click="inherit" class="social-icon linkedin" href="https://www.linkedin.com/company/the-atlantic">LinkedIn</a></li>
+                    <li><a data-omni-click="inherit" class="social-icon instagram" href="https://www.instagram.com/theatlantic">Instagram</a></li>
+                    <li><a data-omni-click="inherit" href="http://theatlantic.tumblr.com/" class="social-icon tumblr">Tumblr</a></li>
+                    <li><a data-omni-click="inherit" href="https://www.pinterest.com/theatlantic/" class="social-icon pinterest">Pinterest</a></li>
+                    <li><a data-omni-click="inherit" class="social-icon rss" href="/follow-the-atlantic/#follow-rssfeeds">RSS</a></li>
+                    <li><a data-omni-click="inherit" class="social-icon apple" href="https://itunes.apple.com/app/id397599894">App Store</a></li>
+                </ul>
+            </div>
+        </section>
+        <section class="about toggleable">
+            <div class="footer-content border">
+                <div class="footer-title toggle">About<span>+</span></div>
+            </div>
+            <div class="footer-content toggleable-content">
+                <ul class="links">
+                    <div class="about-link-group">
+                        <li><a data-omni-click="inherit" href="/masthead/">Masthead</a></li>
+                        <li><a data-omni-click="inherit" href="/faq/">FAQ</a></li>
+                        <li><a data-omni-click="inherit" href="/press/">Press</a></li>
+                        <li><a data-omni-click="inherit" href="/jobs/">Jobs</a></li>
+                    </div>
+                    <div class="about-link-group">
+                        <li><a data-omni-click="inherit" href="/store/">Shop</a></li>
+                        <li><a data-omni-click="inherit" href="/ebooks/">Books</a></li>
+                        <li><a data-omni-click="inherit" href="/emporium/">Emporium</a></li>
+                        <li><a data-omni-click="inherit" href="/manage-subscription-footer/">Manage Subscription</a></li>
+                    </div>
+                </ul>
+                <ul class="links">
+                    <div class="about-link-group">
+                        <li><a data-omni-click="inherit" href="/contact/">Contact Us</a></li>
+                        <li><a data-omni-click="inherit" href="/tips/">Send a News Tip</a></li>
+                        <li><a data-omni-click="inherit" href="/privacy-policy/">Privacy Policy</a></li>
+                        <li><a data-omni-click="inherit" href="/advertise/">Advertise</a></li>
+                        <li><a data-omni-click="inherit" href="http://cdn.theatlantic.com/static/front/docs/ads/TheAtlanticAdvertisingGuidelines.pdf?v1">Advertising Guidelines</a></li>
+                    </div>
+                    <div class="about-link-group">
+                        <li><a data-omni-click="inherit" href="/terms-and-conditions/">Terms and Conditions</a></li>
+                        <li><a data-omni-click="inherit" href="/responsible-disclosure-policy/">Responsible Disclosure</a></li>
+
+
+                        <li><a data-omni-click="inherit" href="/site-map/">Site Map</a></li>
+                    </div>
+                </ul>
+            </div>
+        </section>
+    </div>
+    <div class="copyright">
+        <p> TheAtlantic.com Copyright (c) 2018 by The Atlantic Monthly Group. All Rights Reserved.</p>
+    </div>
+</footer>
+
+
+
+
+</div>
+
+
+
+
+<script type="gpt-config">
+    {
+  "detective": {
+    "url": "/assets/static/theatlantic/img/sherlock.gif"
+  },
+  "peer39": true,
+  "lazy_load": 3,
+  "adomik": true,
+  "datePublished": "2018-05-07T07:03:55-04:00",
+  "amazon": "3239",
+  "globals": {
+    "src": "article",
+    "xpost": [
+      "politics"
+    ],
+    "title": "im-not-black-im-kanye",
+    "type": "non-mag-reg",
+    "cat": [],
+    "watson_categories": [
+      "/art and entertainment/music",
+      "/family and parenting/children",
+      "/art and entertainment/music/music genres/hip hop"
+    ],
+    "rubric": "entertainment",
+    "grapeshot_segments": [
+      "gs_entertain",
+      "an_jpmc_safe",
+      "gs_entertain_music",
+      "gs_fashion",
+      "gs_entertain_celeb",
+      "gs_politics"
+    ],
+    "id": 559763
+  },
+  "perfUrl": "https://data-cdn.theatlantic.com/perf.gif",
+  "zone": "/4624/TheAtlanticOnline/channel_entertainment",
+  "adtest_domain": "dctestsite",
+  "patchEventHandlers": true,
+  "headerbidding": true,
+  "criteo": true,
+  "outofpage": true
+}
+</script>
+
+
+<div class="native-promo-slider s-native s-native--slider">
+    <button class="close"><span>Close</span></button>
+
+
+    <gpt-ad id="native-slider"
+        targeting-pos="native-slider"
+        class="ad c-native-container"
+
+        lazy-load="0"
+        defer="1"
+        prevent-reload="1"
+
+
+        data-object-pk="10"
+        data-object-name="slider"
+        >
+
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 150], [1, 2]]"></gpt-sizeset>
+
+    </gpt-ad>
+
+
+</div>
+
+
+
+
+
+<div id="outofpage"></div>
+
+
+
+
+
+    <script src="https://cdn.theatlantic.com/assets/static/b/js/s_code.js"></script>
+    <script src="https://cdn.theatlantic.com/assets/static/b/frontend/jspm_packages/system.js"></script>
+
+    <script>
+        SystemJS.config({
+            baseURL: "https://cdn.theatlantic.com/assets/static/b/frontend/"
+        });
+        SystemJS.set('pageInfo', SystemJS.newModule(window.Atlantic.page_info));
+        SystemJS.set('profilesConfig', SystemJS.newModule({
+            profiles_url: window.Atlantic.PROFILES_URL,
+            janrain: window.Atlantic.SESSION_URLS
+        }));
+    </script>
+
+    <script type="text/javascript" src="https://cdn.theatlantic.com/assets/static/b/theatlantic/js/footer.min.c72d3dceb47f.js" charset="utf-8"></script>
+
+        <script type="text/javascript" src="https://cdn.theatlantic.com/assets/static/b/theatlantic/js/vendors.min.711307a88dba.js" charset="utf-8"></script>
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.theatlantic.com/assets/static/b/theatlantic/js/article.min.a4b7f6d96b72.js" charset="utf-8"></script>
+
+
+    <div class="bottompersistent-wrapper">
+        <button class="close" data-omni-click="r'close-bottompersistent'">
+            <span>Close</span>
+        </button>
+
+
+    <gpt-ad id="bottompersistent"
+        targeting-pos="bottompersistent"
+        class="ad ad-bottompersistent"
+
+        lazy-load="0"
+
+        prevent-reload="1"
+
+
+        data-object-pk="67"
+        data-object-name="bottompersistent"
+        >
+
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[[320, 50]]"></gpt-sizeset>
+
+            <gpt-sizeset viewport-size="[784, 0]" sizes="[[728, 90]]"></gpt-sizeset>
+
+    </gpt-ad>
+
+
+    </div>
+    <script type="text/javascript">
+        (function(){
+            function closeBottomPersistent() {
+                $(".bottompersistent-wrapper").slideUp(250, function(){
+                    this.remove();
+                });
+            }
+
+            $("#bottompersistent").on("ad-loaded", function(){
+                $(".bottompersistent-wrapper").show();
+            }).on("viewable-impression", function(){
+                setTimeout(function(){
+                    $(window).one("scroll", closeBottomPersistent)
+                }, 20000);
+            });
+
+            $(".bottompersistent-wrapper .close").on("click", closeBottomPersistent);
+        })();
+    </script>
+
+
+
+
+
+    <script type="text/javascript">
+(function (s) {
+    // Set all mandatory properties that don't change.
+    s.account = "atlanticprod";
+    s.charSet="UTF-8";
+    s.currencyCode="USD";
+    s.trackDownloadLinks=true;
+    s.trackExternalLinks=true;
+    s.trackInlineStats=true;
+    s.linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls";
+    s.linkInternalFilters="javascript:,thewire.com,citylab.com,theatlantic.com,localhost";
+    s.linkLeaveQueryString=false;
+    s.linkTrackVars="None";
+    s.linkTrackEvents="None";
+    s.visitorNamespace="atlanticmedia";
+    s.trackingServer="atlanticmedia.122.2o7.net";
+
+    // We don't want to track page views for iframes loaded on TheAtlantic.com
+    // to prevent pages from being double counted
+    var track_page_views = true;
+    try {
+        if (window.parent !== window && window.parent.location.hostname === "www.theatlantic.com") {
+            track_page_views = false;
+        }
+    } catch(e) {}
+
+    if (track_page_views && s.t) {
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code = s.t();
+        if (s_code) document.write(s_code)
+        if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-');
+    }
+})(window.s);
+</script>
+<noscript><img src="http://atlanticmedia.122.2o7.net/b/ss/atlanticprod/1/H.23.6--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.23.6. -->
+
+
+    <script type="text/javascript">
+    (function() {
+        // Duplicate a few existing s.props to be passed with linkTrackVars. If
+        // we just reused the existing s.props, data would be recorded twice.
+        s.prop66 = location.pathname;
+        s.prop67 = Atlantic.page_info.view;
+        s.prop68 = s.prop23; // Viewport
+        s.prop69 = 'article=' + Atlantic.page_info.version;
+
+        s.linkTrackVars =
+        "prop37,prop61,prop66,prop67,prop68,prop69,prop43,prop44,eVar21,eVar22,eVar25,eVar26,eVar27,eVar32,eVar33,eVar35,eVar36,eVar37,eVar38,eVar39,eVar40,eVar20,evar41,evar43";
+    })();
+    </script>
+
+
+    <noscript><div><a href="http://www.omniture.com" title="Web Analytics" ><img
+    src="//atlanticmedia.122.2o7.net/b/ss/atlanticprod/1/H.22--NS/0"
+    height="1" width="1" alt="" /></a></div></noscript>
+
+
+
+
+
+
+
+<!-- Scroll -->
+<script>
+  (function(a,c,d,e){if(!a[c]){var b=a[c]={};b[d]=[];b[e]=function(a){b[d].push(a)}}})(window,'Scroll','_q','do');
+  Scroll.config = {
+    orientation: 'bottom',
+    detected: document.cookie.indexOf("scroll0=") > -1
+  };
+</script>
+<script async src="https://static.scroll.com/js/scroll.js"></script>
+
+
+
+
+
+    <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId: '100770816677686',
+      xfbml      : false,
+      version    : 'v2.7'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <!-- Twitter -->
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js" async="async"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+    /**
+     * Route blockers
+     */
+     (function(){
+        function redirect() {
+
+            // Chrome 54-57 has a bug with its extensions that breaks
+            // whitelisting on the first pageview when sent through
+            // a shortened url. We can't detect shorturls reliable,
+            // so let it slide.
+            var chromeFreePV = (function(){
+                var host = window.location.protocol + "//" + window.location.host;
+                var isFirstPV = (document.referrer.indexOf(host) !== 0);
+                var isChrome = (window.navigator.userAgent.match(/Chrome\//) !== null);
+                return isFirstPV && isChrome;
+            })();
+
+            var isCrawler = (function(){
+                var botsRe = "(Googlebot|Bingbot|Yahoo! Slurp|DuckDuckBot|facebookexternalhit)";
+                return (window.navigator.userAgent.match(botsRe) !== null);
+            }());
+
+            if ((navigator.onLine === false) ||
+                isCrawler ||
+                chromeFreePV ||
+                Atlantic.User.isMember() ||
+                Atlantic.User.isAdFree({strict: false})) {
+                    return;
+            }
+            var next = encodeURIComponent(window.location.href);
+            var url = window.location.protocol + "//" + window.location.host + "/please-support-us/?next=";
+            window.location.href = url + next;
+        };
+
+        // Prevent race condition
+        if (Modernizr["blocker-enabled"]) {
+            redirect();
+        } else {
+            $(window).one("blocker-detected", redirect);
+        }
+     })();
+</script>
+
+
+
+
+
+
+
+<script>
+document.addEventListener("onBoomerangLoaded", function(e) {
+    e.detail.BOOMR.init({
+        beacon_url: "https://data-cdn.theatlantic.com/rum.gif",
+        log: null
+    });
+});
+
+(function(){
+  var dom,doc,where,iframe = document.createElement('iframe');
+  iframe.src = "javascript:void(0)";
+  (iframe.frameElement || iframe).style.cssText = "width: 0; height: 0; border: 0";
+  var where = document.getElementsByTagName('script')[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if(dom) this.domain = dom;
+    js.id = "boomr-if-as";
+    js.src = 'https://cdn.theatlantic.com/assets/static/b/theatlantic/js/boomerang-1.0.1523560654.min.js';
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script>
+
+
+<!-- 2018-05-07T08:58:46.929120 -->
+<!-- PAGE_COMPLETED -->
+
+</body>
+</html>

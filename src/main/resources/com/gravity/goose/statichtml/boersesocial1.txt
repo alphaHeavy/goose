@@ -1,0 +1,1862 @@
+
+
+<!DOCTYPE html>
+<head>
+  <title>Deutsche Bank und das ATX X-Pert Zertifikat #gabb | boerse-social.com</title>
+  <meta charset="utf-8" />
+  <link rel="bookmark icon" href="/favicon.ico">
+  <link rel="shorcut icon" href="/favicon.ico">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="keywords" lang="de" content="Moos,Zertifikaten,Andreas,Lichtblau,Aus,B&amp;ouml;rsenbrief:,Unter,&quot;Moos,Zertis&quot;,PDF,Zertifikate,Award,Austria.,Wir,Zertifikate,Partner" >
+  <meta name="description" lang="de" content="Deutsche Bank und das ATX X-Pert Zertifikat #gabb Moos machen mit Zertifikaten  geniales wildes by Andreas Lichtblau Aus unserem neuen B&amp;ouml;rsenbrief: http://www.boerse-social.com/gabb .  Unter &quot;Moos Zertis&quot; findet man grosse PDF zum Zertifikate Award Austria. Wir stellen hier im jene Zertifikate  die unsere 7 Partner">
+  <meta property="og:title" content="Deutsche Bank und das ATX X-Pert Zertifikat #gabb | boerse-social.com">
+  <meta property="og:site_name" content="boerse-social.com">
+
+  <meta property="og:image" content="https://boerse-social.com/media/Content/fmf_Image_online/image/71764/scalex/550/scaley/1000;.jpg">
+  <meta property="og:image:width" content="550" />
+  <meta property="og:image:height" content="1000" />
+  <style>
+  div.article div div a img { margin-right:5px }
+  div.article { word-wrap:break-word }
+  div.twitter_link a { color:#053FA3; }
+  .vontobel_table tr td { font-size:14px; padding:0 }
+  .big-data-table { width:400px }
+  .big-data-table tr td { font-size:11px }
+  table.big-data-table thead tr th { font-size:11px }
+  .big-data-table tr th { font-size:11px }
+  table.vontobel_table tr.even, table tr.alt, table tr:nth-of-type(even) {
+    background: transparent;
+  }
+  </style>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1&appId=446882905356735";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+  <!-- div id="fb-root"></div>
+  <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1&appId=446882905356735";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script -->
+<script type="text/javascript" src="https://adbit.co/js/show_ads.js"></script>
+<style>
+.menu-icon::after {background: #fff; box-shadow: 0 7px 0 #fff, 0 14px 0 #fff;}
+.scroll-text {
+  height: 4.6em;
+  overflow: hidden;
+}
+.scroll-text li a { font-size:12px}
+tr.small,td.small {font-size:10px}
+p.content { font-size: 11px; font-weight: 200; line-height: 14px}
+div.green {
+  color: #00a400;
+  background: none;
+}
+tbody.indizes td { padding: 0.3rem }
+#datatable1.indizes td { border:0 }
+div.red {
+  color: #ca0000;
+  background: none;
+}
+div.green_ind {
+  color: #00a400;
+  background: rgb(0, 0, 0) transparent;
+  float: left;
+  font-size: 14px
+}
+
+div.red_ind {
+  color: #ca0000;
+  background: rgb(0, 0, 0) transparent;
+  float: left;
+  font-size: 14px
+}
+ul.wbag {list-style-type: none;    list-style-position: inside;margin-left:0;  }
+li.wbag {font-size:11px; display: block; padding-left:4px}
+div.green_hard {
+  color: #00FF33
+}
+
+div.red_hard {
+  color: #FF0000
+}
+
+#datatable1 td.d {
+  text-align: right;
+}
+
+#datatable1 td.i {
+  text-align: right;
+}
+
+#datatable1 td.c {
+  text-align: right;
+}
+
+#datatable1 td.c div {
+  background-repeat: no-repeat;
+}
+
+#datatable1 td.c div.up {
+  background-color: #00ff00;
+}
+
+#datatable1 td.c div.down {
+  background-color: #FF0000;
+}
+
+.up {
+  background-color: #00ff00;
+}
+
+.down {
+  background-color: #FF0000;
+}
+
+.up_text {
+  color: #00bb00;
+}
+
+.down_text {
+  color: #dd0000;
+}
+
+#datatable1 td.gl {
+  text-align: right;
+}
+
+#datatable1 td.gl div.up {
+  background-color: #00ff00;
+}
+
+#datatable1 td.gl div.down {
+  background-color: #FF0000;
+}
+
+#datatable1 td.change {
+  text-align: right;
+}
+
+#datatable1 td.change div.green {
+  background-color: #00ff00;
+}
+
+#datatable1 td.change div.red {
+  background-color: #FF0000;
+}
+
+#datatable1 td {border-top: 1px solid #f1f1f1;border-bottom: 1px solid #f1f1f1}
+.green {
+  background-color: #00bb00;
+}
+
+.red {
+  background-color: #dd0000;
+}
+li {line-height: 20px}
+.article p span {font-family: Roboto  !important; font-weight: 200; font-size: 14px; line-height: 1.3; letter-spacing: normal !important; background-color: transparent !important}
+.article p {font-family: Roboto  !important; font-weight: 200; font-size: 14px; line-height: 1.3; letter-spacing: normal !important; background-color: transparent !important}
+p.red { color:#800;float:left;margin:0 }
+p.green { color:#080;float:left;margin:0 }
+p.black {float:left;margin:0}
+p.break {clear: both;margin:0;line-height:0 !important}
+p.break2 {clear: both;margin:0;line-height:16px}
+p.gabb {margin:0; -webkit-margin-after: 0;-webkit-margin-before: 0}
+</style>
+
+<link rel="bookmark icon" href="/favicon.ico">
+<link rel="shorcut icon" href="/favicon.ico">
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<!-- link rel="stylesheet" type="text/css" href="/assets/css/bsn.css?5.03"></link>
+<link rel="stylesheet" type="text/css" href="/assets/fonts/woff.css?5.03"></link -->
+<script>
+    var days_period;
+    var best_perf;
+</script>
+<script src="/dist/bsn/styles.js?5.03"></script>
+<script src="/dist/bsn/bsn.js?5.03"></script>
+
+
+<script src="/release/javascripts/f81.js"></script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1&appId=446882905356735";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/stylesheets/presentation_ie.css">
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link rel="alternate" href="/feed" type="application/rss+xml" title="Börse Social News Feed">
+<!-- For third-generation iPad with high-resolution Retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/icons/apple-touch-icon-144x144-precomposed.png">
+<!-- For iPhone with high-resolution Retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/icons/apple-touch-icon-114x114-precomposed.png">
+<!-- For first- and second-generation iPad: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/icons/apple-touch-icon-72x72-precomposed.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="/images/icons/apple-touch-icon-precomposed.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+window.cookieconsent_options = {"message":"Die BSN-Site verwendet Cookies, um das Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Darunter sind auch Cookies von Drittanbietern, die spezielle Services ermöglichen. Nähere Informationen dazu, sowie zur Verhinderung von Cookies finden Sie unter","dismiss":"Verstanden","learnMore":"Datenschutz.","link":"/cookies","theme":"/stylesheets/cookieconsent"};
+</script>
+<script type="text/javascript" src="/release/javascripts/cookieconsent.js"></script>
+
+</head>
+<body>
+
+<!-- begin main content section -->
+<div class="off-canvas-wrapper">
+  <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+    <div class="multilevel-offcanvas off-canvas position-left" id="offCanvasLeft" data-off-canvas>
+      <p></p>
+<ul class="vertical menu accordion-menu" data-accordion-menu>
+  <li><a href="/bsngine" style=""><span>BSNgine</span></a></li>
+  <li><a href="/page/newsflow" style=""><span>Newsflow</span></a></li>
+  <li><a href="/category/apa" style=""><span>APA-OTS</span></a></li>
+    <li><a href="/best-of" style=""><span>Meistgelesen</span></a></li>
+  <li><a href="/stats/socialtops" style=""><span>Meistgeklickte Companies</span></a></li>
+    <li><a href="/newsletter" style=""><span>Useletter</span></a></li>
+    <li><a href="/roadshow" style=""><span>Roadshow</span></a></li>
+    <li class="has-dropdown"><a href="/virtuellefinanzmarktmesse/"  style=""><span>Visual RS</span></a>
+    <ul class="menu vertical nested">
+      <li><a href="/virtuellefinanzmarktmesse" style="">Virtuelle Finanzmarktmesse</a></li>
+      <li ><a href="/virtuellemesse/130416" style="">3. Virtuelle Messe Gold &amp; Silber</a></li>
+      <li ><a href="/virtuellemesse/111115" style="">2. Virtuelle Messe Gold &amp; Silber</a></li>
+      <li ><a href="/virtuellemesse/300915" style="">Roadshow &amp; Virtuelle Messe 30.9.2015</a></li>
+      <li ><a href="/virtuellemesse" style="">Virtuelle Messe Gold &amp; Silber</a></li>
+      <li ><a href="/visualroadshow/1235" style="">Visual Runplugged</a></li>
+      <li ><a href="/visualroadshow/1196" style="">Buwog/Immofinanz</a></li>
+      <li ><a href="/visualroadshow/1121" style="">S Immo</a></li>
+      <li ><a href="/visualroadshow/1052" style="">AT&amp;S</a></li>
+    </ul>
+  </li>
+    <li><a href="/financebooks" style=""><span>GBs</span></a></li>
+    <li class="has-dropdown"><a style=";"><span>Awards</span></a>
+    <ul class="menu vertical nested">
+      <li><a href="/smeil" style=""><span>Smeil Award</span></a></li>
+      <li><a href="http://runplugged.com/baa" style=""><span>BAA</span></a></li>
+      <li><a href="/hall-of-fame" style=""><span>Hall of Fame</span></a></li>
+      <li><a href="/numberone/2017" style=""><span>Number One 2017</span></a></li>
+      <li><a href="/numberone/2016" style=""><span>Number One 2016</span></a></li>
+      <li><a href="/numberone/2015" style=""><span>Number One 2015</span></a></li>
+      <li><a href="/numberone/2014" style=""><span>Number One 2014</span></a></li>
+      <li><a href="/2014/04/30/upside_award_an_runtastic_vor_linemetrics_und_willhabenat_1" style=""><span>UPside award</span></a></li>
+    </ul>
+  </li>
+    <li><a href="http://www.christian-drastil.com/fach-pdf" style=""><span>Fach-PDF</span></a></li>
+    <li><a href="/fachheft" style=""><span>Fachhefte</span></a>
+  </li>
+    <li><a href="https://www.wikifolio.com/de/at/p/smeilinho" style=""><span>CD wikifolio</span></a></li>
+    <li><a href="/tv" style=""><span>TV</span></a></li>
+
+    <li><a href="http://christian-drastil.com/blog" style=""><span>CD &amp; friends</span></a></li>
+    <li><a href="http://photaq.com" style=""><span>photaq.com</span></a></li>
+    <li><a href="http://finanzmarktmashup.at" style=""><span>Mashup</span></a></li>
+    <li><a href="http://runplugged.com" style=""><span>runplugged.com</span></a></li>
+  <li><a href="http://gruessen.net" style="" ><span>gruessen.net</span></a></li>
+    <li><a href="https://www.facebook.com/groups/GeldanlageNetwork/" target="_blank"><img class="lazyload" original="/static/images/fb_small_f.png" style="height:18px;margin-top:4px;margin-bottom:-4px;padding-bottom:0;line-height:18px"></a></li>
+  <li><a href="https://www.facebook.com/groups/Sportsblogged/" target="_blank"><img class="lazyload" original="/static/images/fb_small_s.png" style="height:18px;margin-top:4px;margin-bottom:-4px;padding-bottom:0;line-height:18px"></a></li>
+  <li><a href="https://twitter.com/drastil" target="_blank"><img class="lazyload" original="/static/images/tw_small_t.png" style="height:18px;margin-top:4px;margin-bottom:-4px;padding-bottom:0;line-height:18px"></a></li>
+  <li><a href="https://www.linkedin.com/in/christiandrastil/" target="_blank"><img class="lazyload" original="/static/images/linked.png" style="height:18px;margin-top:4px;margin-bottom:-4px;padding-bottom:0;line-height:18px"></a></li>
+</ul>
+
+      <!-- left off-canvas markup -->
+    </div>
+    <div class="off-canvas-content" data-off-canvas-content>
+      <div class="large-14 small-14 colums">
+  <div class="row" style="background-color:#1d70b6">
+    <div class="large-8 columns hide-for-small-only">
+    </div>
+    <div class="large-4 columns hide-for-small-only">
+      <div style="width:50%;float:left">
+        <style>
+.searchbar {
+  /* margin: 1rem; */
+  margin-bottom:0;
+}
+
+.searchbar.input-group {
+
+}
+
+.search-field {
+  width: 0;
+  height: 28px;
+  margin-left: 1rem;
+  padding: 0;
+  border: none;
+  transition: all 0.5s ease;
+}
+
+.expand-search {
+  width: 100%;
+  max-width: calc(100%);
+  border: 1px solid #c9c9c9;
+  padding: .1rem;
+}
+
+.input-group-button svg {
+  width: 11px;
+  height: 11px;
+}
+
+/* .button {
+  padding: 0;
+  margin:0;
+  /* border-radius: 50px; */
+} */
+</style>
+<div class="input-group searchbar">
+  <div class="input-group-button">
+    <button class="search" style="font-size:14px;color:#fff;    font-weight:700;">
+      Suche &nbsp;
+      <svg width="50" height="50" viewBox="0 0 100 100">
+        <path fill="#FFF" fill-rule="evenodd" d="M42.117,12.246 C50.1209,12.246 57.797,15.4257 63.453,21.0858 C69.1132,26.742 72.2928,34.4178 72.2928,42.4218 C72.2928,50.4258 69.1131,58.1018 63.453,63.7578 C57.7968,69.418 50.121,72.5976 42.117,72.5976 C34.1131,72.5976 26.437,69.4179 20.781,63.7578 C15.1208,58.1016 11.9412,50.4258 11.9412,42.4218 C11.9412,34.4178 15.1209,26.7418 20.781,21.0858 C26.4372,15.4256 34.113,12.246 42.117,12.246 L42.117,12.246 Z M76.0828827,67.3362833 C82.3527829,58.7859894 85.2617455,48.0434678 83.9173,37.22271 C82.0618,22.28871 72.3743,9.47671 58.5153,3.61771 L58.51139,3.61771 C53.32389,1.41851 47.74139,0.28961 42.10539,0.29741 L42.117,0.305 C29.058,0.30891 16.742,6.3675 8.769001,16.707 C0.7924008,27.047 -1.933999,40.5 1.382301,53.129 C4.698701,65.758 13.6833,76.137 25.7103,81.223 L25.7103,81.22691 C39.5733,87.08631 55.5113,85.10191 67.5153,76.02771 C67.5852345,75.9748392 67.6549736,75.9217748 67.724517,75.8685177 L91.555,99.6990032 L100.0003,91.253703 L76.0828827,67.3362833 Z"/>
+      </svg>
+    </button>
+  </div>
+  <form action="https://boerse-social.com/search/" method="get" class="search_content search_ie">
+  <input name="query" class="input-field search-field" type="search" style="margin:0;font-size:11px;margin-left:10px" placeholder="Archiv-Suche ..." />
+  </form>
+</div>
+
+      </div>
+      <div style="width:50%;float:left" class="hide-for-small-only">
+        <style>
+.chosen-select {display:none}
+.chosen-container {    float:left; }
+select.form-control + .chosen-container.chosen-container-single .chosen-single {
+    display: block;
+    width: 100%;
+    height: 28px;
+    padding: 4px 12px;
+    padding-bottom:0;
+    font-size: 14px;
+    font-weight:700;
+    line-height: 1.428571429;
+    color: #fff;
+    vertical-align: middle;
+    background-color: #1d70b6;
+    border: 0px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    background-image:none;
+}
+
+select.form-control + .chosen-container.chosen-container-single .chosen-single div {
+    top:4px;
+    color:#000;
+    visibility: hidden;
+}
+
+select.form-control + .chosen-container .chosen-drop {
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+    background-clip: padding-box;
+    margin: 2px 0 0;
+
+}
+
+select.form-control + .chosen-container .chosen-search input[type=text] {
+    display: block;
+    width: 100%;
+    height: 22px;
+    padding: 6px 12px;
+    font-size: 11px;
+    line-height: 1.428571429;
+    color: #555;
+    vertical-align: middle;
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    background-image:none;
+}
+
+select.form-control + .chosen-container .chosen-results {
+    margin: 2px 0 0;
+    padding: 5px 0;
+    font-size: 12px;
+    list-style: none;
+    background-color: #fff;
+    margin-bottom: 5px;
+}
+
+select.form-control + .chosen-container .chosen-results li ,
+select.form-control + .chosen-container .chosen-results li.active-result {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: normal;
+    line-height: 1.428571429;
+    color: #333;
+    white-space: nowrap;
+    background-image:none;
+}
+select.form-control + .chosen-container .chosen-results li:hover,
+select.form-control + .chosen-container .chosen-results li.active-result:hover,
+select.form-control + .chosen-container .chosen-results li.highlighted
+{
+    color: #FFF;
+    text-decoration: none;
+    background-color: #428BCA;
+    background-image:none;
+}
+
+select.form-control + .chosen-container-multi .chosen-choices {
+    display: block;
+    width: 100%;
+    min-height: 22px;
+    padding: 6px;
+    font-size: 11px;
+    line-height: 1.428571429;
+    color: #555;
+    vertical-align: middle;
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    background-image:none;
+}
+
+select.form-control + .chosen-container-multi .chosen-choices li.search-field input[type="text"] {
+    height:auto;
+    padding:5px 0;
+}
+
+select.form-control + .chosen-container-multi .chosen-choices li.search-choice {
+
+    background-image: none;
+    padding: 3px 24px 3px 5px;
+    margin: 0 6px 0 0;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 1.428571429;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #333;
+    background-color: #FFF;
+    border-color: #CCC;
+}
+
+select.form-control + .chosen-container-multi .chosen-choices li.search-choice .search-choice-close {
+    top:8px;
+    right:6px;
+}
+
+select.form-control + .chosen-container-multi.chosen-container-active .chosen-choices,
+select.form-control + .chosen-container.chosen-container-single.chosen-container-active .chosen-single,
+select.form-control + .chosen-container .chosen-search input[type=text]:focus{
+    border-color: #66AFE9;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075),0 0 8px rgba(102, 175, 233, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075),0 0 8px rgba(102, 175, 233, 0.6);
+}
+
+select.form-control + .chosen-container-multi .chosen-results li.result-selected{
+    display: list-item;
+    color: #ccc;
+    cursor: default;
+    background-color: white;
+}</style>
+    <select data-placeholder="Aktien &nbsp;&nbsp;&nbsp;&nbsp;&#9661;" class="chosen-select form-control">
+        <option value=""></option>
+        <option value="" selected="selected" ></option>
+        <option value="/agrana"  >Agrana</option>
+        <option value="/amag"  >Amag</option>
+        <option value="/ams"  >AMS</option>
+        <option value="/athosimmobilien"  >Athos Immobilien</option>
+        <option value="/betathome"  >bet-at-home.com</option>
+        <option value="/bks"  >BKS Bank Stamm</option>
+        <option value="/bwt"  >BWT</option>
+        <option value="/catoil"  >Petro Welt Technologies</option>
+        <option value="/cleenenergy"  >Cleen Energy</option>
+        <option value="/drbock"  >Dr. Bock Industries</option>
+        <option value="/doco"  >DO&CO</option>
+        <option value="/evn"  >EVN</option>
+        <option value="/fabasoft"  >Fabasoft</option>
+        <option value="/frauenthal"  >Frauenthal</option>
+        <option value="/flughafen"  >Flughafen Wien</option>
+        <option value="/gurktalerstamm"  >Gurktaler AG Stamm</option>
+        <option value="/gurktalervorzug"  >Gurktaler AG VZ</option>
+        <option value="/kapsch"  >Kapsch TrafficCom</option>
+        <option value="/ktm"  >KTM Industries</option>
+        <option value="/linztextil"  >Linz Textil Holding</option>
+        <option value="/mayr"  >Mayr-Melnhof</option>
+        <option value="/oberbank"  >Oberbank AG Stamm</option>
+        <option value="/oberbank"  >Oberbank AG VZ</option>
+        <option value="/palfinger"  >Palfinger</option>
+        <option value="/porr"  >Porr</option>
+        <option value="/polytec"  >Polytec</option>
+        <option value="rhi_magnesita"  >RHI Magnesita</option>
+        <option value="/rosenbauer"  >Rosenbauer</option>
+        <option value="/sanochemia"  >Sanochemia</option>
+        <option value="/sant"  >S&T</option>
+        <option value="/semperit"  >Semperit</option>
+        <option value="/strabag"  >Strabag</option>
+        <option value="/swumwelttechnik"  >SW Umwelttechnik</option>
+        <option value="/ubm"  >UBM</option>
+        <option value="valneva"  >Valneva</option>
+        <option value="/wolford"  >Wolford</option>
+        <option value="/wienerprivatbank"  >Wiener Privatbank</option>
+        <option value="/warimpex"  >Warimpex</option>
+        <option value="/zumtobel"  >Zumtobel</option>
+        <option value="/andritz"  >Andritz</option>
+        <option value="/ats"  >AT&S</option>
+        <option value="/bawag"  >Bawag Group</option>
+        <option value="/buwog"  >Buwog </option>
+        <option value="/caimmo"  >CA Immo</option>
+        <option value="/erste"  >Erste Group</option>
+        <option value="/facc"  >FACC</option>
+        <option value="/immofinanz"  >Immofinanz</option>
+        <option value="/lenzing"  >Lenzing</option>
+        <option value="/omv"  >OMV</option>
+        <option value="/post"  >Österreichische Post</option>
+        <option value="/rbi"  >RBI</option>
+        <option value="/sbo"  >SBO</option>
+        <option value="/simmo"  >S Immo</option>
+        <option value="/telekom"  >Telekom Austria</option>
+        <option value="/uniqa"  >Uniqa</option>
+        <option value="/verbund"  >Verbund</option>
+        <option value="/vig"  >VIG</option>
+        <option value="/voestalpine"  >voestalpine</option>
+        <option value="/wienerberger"  >Wienerberger</option>
+        <option value="jdcom"  >jd.com</option>
+        <option value="solarcity_corp"  >SolarCity</option>
+        <option value="yy_inc"  >YY Inc.</option>
+        <option value="vipshop"  >Vipshop</option>
+        <option value="visa_cl_a_-0001"  >VISA</option>
+        <option value="merck_co_dl-01"  >Merck Co.</option>
+        <option value="/apple"  >Apple</option>
+        <option value="alphabet-a"  >Alphabet-A</option>
+        <option value="american_express_co"  >American Express</option>
+        <option value="alcoa"  >Alcoa</option>
+        <option value="amgen"  >Amgen</option>
+        <option value="amazoncom_inc"  >Amazon</option>
+        <option value="time_warner"  >Time Warner</option>
+        <option value="apache_corp"  >Apache Corp.</option>
+        <option value="acuity_brands"  >Acuity Brands</option>
+        <option value="baidu"  >Baidu</option>
+        <option value="alibaba"  >Alibaba Group Holding</option>
+        <option value="verizon_communicat"  >Verizon</option>
+        <option value="boeing_company"  >Boeing</option>
+        <option value="biogen_idec"  >Biogen Idec</option>
+        <option value="berkshire_hathaway"  >Berkshire Hathaway</option>
+        <option value="baxter_international_inc"  >Baxter International</option>
+        <option value="caterpillar_inc"  >Caterpillar</option>
+        <option value="celgene"  >Celgene</option>
+        <option value="chevron_corp"  >Chevron</option>
+        <option value="cisco_systems_inc"  >Cisco</option>
+        <option value="century"  >Century</option>
+        <option value="cree"  >Cree</option>
+        <option value="dropbox"  >Dropbox</option>
+        <option value="dupont"  >DuPont</option>
+        <option value="dowdupont_inc"  >DowDuPont Inc.</option>
+        <option value="dentsply_int"  >Dentsply Int.</option>
+        <option value="callaway_golf"  >Callaway Golf</option>
+        <option value="ford_motor_co"  >Ford Motor Co.</option>
+        <option value="first_solar_inc"  >First Solar</option>
+        <option value="/facebook"  >Facebook</option>
+        <option value="fedex_corp"  >FedEx Corp</option>
+        <option value="fitbit"  >Fitbit</option>
+        <option value="gazprom"  >Gazprom</option>
+        <option value="general_electric_co"  >General Electric</option>
+        <option value="gilead_sciences"  >Gilead Sciences</option>
+        <option value="general_motors_company"  >General Motors Company</option>
+        <option value="google_inc"  >Google</option>
+        <option value="alphabet"  >Alphabet</option>
+        <option value="goldman_sachs_group"  >Goldman Sachs</option>
+        <option value="gopro"  >GoPro</option>
+        <option value="home_depot_inc"  >Home Depot</option>
+        <option value="intl_business_machines_corp"  >IBM</option>
+        <option value="intel_corporation"  >Intel</option>
+        <option value="johnson_johnson"  >Johnson & Johnson</option>
+        <option value="jp_morgan_chase"  >JP Morgan Chase</option>
+        <option value="coca-cola_co_the"  >Coca-Cola</option>
+        <option value="lockheed"  >Lockheed Martin</option>
+        <option value="linkedin"  >LinkedIn</option>
+        <option value="lukoil"  >Lukoil</option>
+        <option value="hanwha"  >Hanwha Q Cells</option>
+        <option value="mcdonalds_corp"  >McDonalds</option>
+        <option value="3m_company"  >3M</option>
+        <option value="microsoft_corp"  >Microsoft</option>
+        <option value="netease"  >NetEase</option>
+        <option value="netflixcom_inc"  >Netflix</option>
+        <option value="nike_inc_b"  >Nike</option>
+        <option value="nvidia"  >Nvidia</option>
+        <option value="travelers_cos_inc"  >Travelers Companies</option>
+        <option value="pfizer_inc"  >Pfizer</option>
+        <option value="procter_gamble_co"  >Procter & Gamble</option>
+        <option value="paypal"  >PayPal</option>
+        <option value="qualcomm_incorporated"  >Qualcomm Incorporated</option>
+        <option value="sirona_dental"  >Sirona Dental</option>
+        <option value="sberbank"  >Sberbank</option>
+        <option value="starbucks"  >Starbucks</option>
+        <option value="solaredge"  >SolarEdge</option>
+        <option value="semtech_corporation"  >Semtech Corporation</option>
+        <option value="snapchat"  >Snapchat</option>
+        <option value="att_inc"  >AT&T</option>
+        <option value="samsung_electronics"  >Samsung Electronics</option>
+        <option value="3d_systems"  >3D Systems</option>
+        <option value="terex"  >Terex</option>
+        <option value="tesla_motors_inc"  >Tesla</option>
+        <option value="trina_solar_ltd_spadrs"  >Trina Solar</option>
+        <option value="ttm_technologies_inc"  >TTM Technologies, Inc.</option>
+        <option value="twitter"  >Twitter</option>
+        <option value="under_armour"  >Under Armour</option>
+        <option value="unitedhealth_group"  >UnitedHealth</option>
+        <option value="united_parcel_service"  >United Parcel Service</option>
+        <option value="united_technologie"  >United Technologies</option>
+        <option value="voxeljet"  >voxeljet</option>
+        <option value="walt_disney_company"  >Walt Disney</option>
+        <option value="wells_fargo"  >Wells Fargo</option>
+        <option value="wal-mart_stores"  >Wal-Mart</option>
+        <option value="world_wrestling_entertainment"  >World Wrestling Entertainment</option>
+        <option value="exxon_mobil_corp"  >Exxon</option>
+        <option value="yingli_green_en_hldg_co_ltd_adrs"  >Yingli Green</option>
+        <option value="yahoo_inc"  >Yahoo!</option>
+        <option value="jinkosolar_holding_co_ltd"  >JinkoSolar</option>
+        <option value="ambarella"  >Ambarella</option>
+        <option value="barrick_gold_corp"  >Barrick Gold</option>
+        <option value="/advaoptical"  >ADVA Optical Networking</option>
+        <option value="airbus"  >Airbus Group</option>
+        <option value="/aixtron"  >Aixtron</option>
+        <option value="/allianz"  >Allianz</option>
+        <option value="/basf"  >BASF</option>
+        <option value="/bayer"  >Bayer</option>
+        <option value="bb_biotech"  >BB Biotech</option>
+        <option value="/bmw"  >BMW</option>
+        <option value="valeant"  >Valeant</option>
+        <option value="/commerzbank"  >Commerzbank</option>
+        <option value="/choruscleanenergy"  >Chorus Clean energy</option>
+        <option value="/daimler"  >Daimler</option>
+        <option value="/deutschebank"  >Deutsche Bank</option>
+        <option value="dialog_semiconductor_plc"  >Dialog Semiconductor</option>
+        <option value="/deutschepost"  >Deutsche Post</option>
+        <option value="/drillisch"  >Drillisch</option>
+        <option value="/deutschetelekom"  >Deutsche Telekom</option>
+        <option value="/eon"  >E.ON </option>
+        <option value="/evotec"  >Evotec</option>
+        <option value="/fresenius"  >Fresenius</option>
+        <option value="/gft"  >GFT Technologies</option>
+        <option value="glencore"  >Glencore</option>
+        <option value="/infineon"  >Infineon</option>
+        <option value="/leoni"  >Leoni</option>
+        <option value="/lufthansa"  >Lufthansa</option>
+        <option value="/linde"  >Linde</option>
+        <option value="/manz"  >Manz</option>
+        <option value="/merck"  >Merck KGaA</option>
+        <option value="arcelor_mittal"  >ArcelorMittal</option>
+        <option value="/munichre"  >Münchener Rück</option>
+        <option value="/nordex"  >Nordex</option>
+        <option value="/nemetschek"  >Nemetschek</option>
+        <option value="nestle_sa"  >Nestlé</option>
+        <option value="novartis"  >Novartis</option>
+        <option value="/porsche"  >Porsche Automobil Holding</option>
+        <option value="/deutschepfandbriefbank"  >Deutsche Pfandbriefbank</option>
+        <option value="royal_dutch_shell_class_a"  >Royal Dutch Shell</option>
+        <option value="roche_holding"  >Roche Holding </option>
+        <option value="/rocketinternet"  >Rocket Internet</option>
+        <option value="/rwe"  >RWE</option>
+        <option value="/smasolar"  >SMA Solar</option>
+        <option value="/sap"  >SAP</option>
+        <option value="/ks"  >K+S</option>
+        <option value="/siemens"  >Siemens</option>
+        <option value="/thyssenkrupp"  >ThyssenKrupp</option>
+        <option value="/volkswagenag"  >Volkswagen</option>
+        <option value="/volkswagen"  >Volkswagen Vz.</option>
+        <option value="/wcm"  >WCM Beteiligungs- und Grundbesitz-AG</option>
+        <option value="/wirecard"  >WireCard</option>
+        <option value="bitrush"  >Bitrush</option>
+        <option value="/covestro"  >Covestro</option>
+        <option value="aumann"  >Aumann</option>
+        <option value="air_berlin"  >Air Berlin</option>
+        <option value="/adlerrealestate"  >Adler Real Estate</option>
+        <option value="/adidas"  >adidas</option>
+        <option value="/carlzeissmeditec"  >Carl Zeiss Meditec</option>
+        <option value="alcatel-lucent"  >Alcatel-Lucent</option>
+        <option value="/slmsolutions"  >SLM Solutions</option>
+        <option value="/vonovia"  >Vonovia SE</option>
+        <option value="/aurelius"  >Aurelius</option>
+        <option value="/gabb"  >Aareal Bank</option>
+        <option value="metro_ag_stamm"  >METRO AG Stamm</option>
+        <option value="/feltd"  >FE Ltd</option>
+        <option value="/biofrontera"  >Biofrontera</option>
+        <option value="/balda"  >Balda</option>
+        <option value="/bechtle"  >Bechtle</option>
+        <option value="beghelli"  >Beghelli</option>
+        <option value="ballard_power_systems"  >Ballard Power Systems</option>
+        <option value="bnp_paribas"  >BNP Paribas</option>
+        <option value="/hugoboss"  >Hugo Boss</option>
+        <option value="bp_plc"  >BP Plc</option>
+        <option value="bco_santander_centrhispano_sa"  >Banco Santander</option>
+        <option value="bt_group"  >BT Group</option>
+        <option value="/bertelsmann"  >Bertelsmann</option>
+        <option value="/borussiadortmund"  >Borussia Dortmund</option>
+        <option value="/baywa"  >BayWa</option>
+        <option value="cargotec"  >Cargotec</option>
+        <option value="/celesio"  >Celesio</option>
+        <option value="/cancom"  >Cancom</option>
+        <option value="/continental"  >Continental</option>
+        <option value="axa"  >AXA</option>
+        <option value="credit_suisse"  >Credit Suisse</option>
+        <option value="/dtboerseumtausch"  >Deutsche Boerse z.Umt.</option>
+        <option value="/deliveryhero"  >Delivery Hero</option>
+        <option value="dialight"  >Dialight</option>
+        <option value="/deutschepostbank"  >Deutsche Postbank</option>
+        <option value="/dragerwerk"  >Drägerwerk</option>
+        <option value="/duerr"  >Duerr</option>
+        <option value="/deutschewohnen"  >Deutsche Wohnen</option>
+        <option value="dws_group"  >DWS Group</option>
+        <option value="/epigenomics"  >Epigenomics</option>
+        <option value="/constantinmedien"  >Constantin Medien</option>
+        <option value="/ctseventim"  >CTS Eventim</option>
+        <option value="/evonik"  >Evonik</option>
+        <option value="fingroup"  >Fingroup</option>
+        <option value="/sfcenergy"  >SFC Energy</option>
+        <option value="fagerhult"  >Fagerhult</option>
+        <option value="/fielmann"  >Fielmann</option>
+        <option value="/freseniusmedical"  >Fresenius Medical Care</option>
+        <option value="/freenet"  >freenet</option>
+        <option value="/fuchspetrolub"  >Fuchs Petrolub</option>
+        <option value="/francotyppostalia"  >Francotyp-Postalia</option>
+        <option value="ferrari"  >Ferrari</option>
+        <option value="/fraport"  >Fraport</option>
+        <option value="orange_s_a"  >Orange</option>
+        <option value="generali_assicuraz"  >Generali Assicuraz.</option>
+        <option value="/geagroup"  >GEA Group</option>
+        <option value="/scout24"  >Scout24</option>
+        <option value="/bilfinger"  >Bilfinger</option>
+        <option value="garmin"  >Garmin</option>
+        <option value="goldcorp"  >Goldcorp Inc.</option>
+        <option value="/dmgmoriseiki"  >DMG Mori Seiki</option>
+        <option value="societe_generale"  >Societe Generale</option>
+        <option value="/grammer"  >Grammer</option>
+        <option value="geely"  >Geely</option>
+        <option value="glaxosmithkline"  >GlaxoSmithKline</option>
+        <option value="/gerryweber"  >Gerry Weber</option>
+        <option value="/heidelbergerdruck"  >Heidelberger Druckmaschinen</option>
+        <option value="honda_motor"  >Honda Motor</option>
+        <option value="/heidelbergcement"  >HeidelbergCement</option>
+        <option value="/henkel"  >Henkel</option>
+        <option value="/hellahueck"  >Hella Hueck & Co</option>
+        <option value="/hannoverruck"  >Hannover Rück</option>
+        <option value="/hochtief"  >Hochtief</option>
+        <option value="hsbc_holdings"  >HSBC Holdings</option>
+        <option value="/hypoport"  >Hypoport</option>
+        <option value="ibiden_coltd"  >Ibiden Co.Ltd</option>
+        <option value="/ibutec"  >Ibu-Tec</option>
+        <option value="/innogy"  >Innogy</option>
+        <option value="/jenoptik"  >Jenoptik</option>
+        <option value="/kontron"  >Kontron</option>
+        <option value="/klocknerco"  >Klöckner</option>
+        <option value="/kuka"  >KUKA</option>
+        <option value="canadian_solar_inc"  >Canadian Solar</option>
+        <option value="/klondike"  >Klondike Gold</option>
+        <option value="/legimmobilien"  >LEG Immobilien</option>
+        <option value="philips_lighting"  >Philips Lighting</option>
+        <option value="lion_e-mobility"  >Lion E-Mobility</option>
+        <option value="/lotto24"  >Lotto24</option>
+        <option value="/lpkflaser"  >LPKF Laser</option>
+        <option value="/lanxess"  >Lanxess</option>
+        <option value="/medigene"  >Medigene</option>
+        <option value="/metro"  >Metro</option>
+        <option value="/mologen"  >Mologen</option>
+        <option value="/morphosys"  >MorphoSys</option>
+        <option value="/mtuaero"  >MTU Aero Engines</option>
+        <option value="manchester_united"  >Manchester United</option>
+        <option value="massimo_zanetti_beverage"  >Massimo Zanetti Beverage</option>
+        <option value="/aurubis"  >Aurubis</option>
+        <option value="noble_corp_plc"  >Noble Corp plc</option>
+        <option value="nippon_express"  >Nippon Express</option>
+        <option value="nokia_corp"  >Nokia</option>
+        <option value="novo_nordisk"  >Novo Nordisk</option>
+        <option value="nintendo"  >Nintendo</option>
+        <option value="/noratis"  >Noratis</option>
+        <option value="/xing"  >Xing</option>
+        <option value="/o2telefonica"  >O2</option>
+        <option value="/osram"  >Osram Licht</option>
+        <option value="/patriziaimmobilien"  >Patrizia Immobilien</option>
+        <option value="/paion"  >Paion</option>
+        <option value="pantaflix"  >Pantaflix</option>
+        <option value="/publity"  >publity</option>
+        <option value="/el"  >European Lithium</option>
+        <option value="/pfeiffervacuum"  >Pfeiffer Vacuum</option>
+        <option value="/paragon"  >paragon</option>
+        <option value="/pne"  >PNE Wind</option>
+        <option value="postnl"  >PostNL</option>
+        <option value="/phoenixsolar"  >Phoenix Solar</option>
+        <option value="/prosiebensat1"  >ProSiebenSat1</option>
+        <option value="/puma"  >Puma</option>
+        <option value="qiagen"  >Qiagen</option>
+        <option value="/qsc"  >QSC</option>
+        <option value="/rhoen"  >Rhoen-Klinikum</option>
+        <option value="/rheinmetall"  >Rheinmetall</option>
+        <option value="rib_software"  >RIB Software</option>
+        <option value="transocean"  >Transocean</option>
+        <option value="rio_tinto"  >Rio Tinto</option>
+        <option value="roche_gs"  >Roche GS</option>
+        <option value="rtl_group"  >RTL Group</option>
+        <option value="ryanair"  >Ryanair</option>
+        <option value="sanofi"  >Sanofi</option>
+        <option value="/stroer"  >Ströer</option>
+        <option value="/stada"  >Stada Arzneimittel</option>
+        <option value="/stratecbiomedical"  >Stratec Biomedical</option>
+        <option value="swisscom"  >Swisscom</option>
+        <option value="stratasys"  >Stratasys</option>
+        <option value="saint_gobain"  >Saint Gobain</option>
+        <option value="/schaeffler"  >Schaeffler</option>
+        <option value="siemens_healthineers"  >Siemens Healthineers</option>
+        <option value="/sixt"  >Sixt</option>
+        <option value="shinko_electric_industries"  >Shinko Electric Industries</option>
+        <option value="sky_plc"  >Sky</option>
+        <option value="/suessmicrotec"  >Suess Microtec</option>
+        <option value="steinhoff"  >Steinhoff</option>
+        <option value="/software"  >Software AG</option>
+        <option value="/axelspringer"  >Axel Springer</option>
+        <option value="swiss_re"  >Swiss Re</option>
+        <option value="/sartorius"  >Sartorius</option>
+        <option value="silver_standard_resources"  >Silver Standard Resources</option>
+        <option value="/solarworld"  >SolarWorld</option>
+        <option value="/symrise"  >Symrise</option>
+        <option value="/salzgitter"  >Salzgitter</option>
+        <option value="/suedzucker"  >Südzucker</option>
+        <option value="/cytotools"  >CytoTools</option>
+        <option value="/telecolumbus"  >Tele Columbus</option>
+        <option value="thomas_cook_group"  >Thomas Cook Group</option>
+        <option value="/tomorrowfocus"  >Tomorrow Focus</option>
+        <option value="thorpe"  >Thorpe</option>
+        <option value="baumot_group"  >Baumot Group</option>
+        <option value="telecom_italia"  >Telecom Italia</option>
+        <option value="/tlgimmobilien"  >TLG Immobilien</option>
+        <option value="/talanx"  >Talanx</option>
+        <option value="technogym"  >Technogym</option>
+        <option value="telefonica_sa"  >Telefonica</option>
+        <option value="toyota_motor_corp"  >Toyota Motor Corp.</option>
+        <option value="/tui"  >TUI AG</option>
+        <option value="ubs"  >UBS</option>
+        <option value="/uniper"  >Uniper</option>
+        <option value="/unitedinternet"  >United Internet</option>
+        <option value="vectron"  >Vectron</option>
+        <option value="/vapiano"  >Vapiano</option>
+        <option value="/varta"  >Varta AG</option>
+        <option value="/verbio"  >Verbio</option>
+        <option value="vivendi"  >Vivendi</option>
+        <option value="vodafone"  >Vodafone</option>
+        <option value="/vossloh"  >Vossloh</option>
+        <option value="vestas_wind_systems_as"  >Vestas</option>
+        <option value="/wackerneuson"  >Wacker Neuson</option>
+        <option value="/wackerchemie"  >Wacker Chemie</option>
+        <option value="/windelnde"  >windeln.de</option>
+        <option value="/williamsgrandprix"  >Williams Grand Prix</option>
+        <option value="william_hill"  >William Hill</option>
+        <option value="/zalando"  >Zalando</option>
+        <option value="/elringklinger"  >ElringKlinger</option>
+        <option value="zurich_insurance"  >Zurich Insurance</option>
+        <option value="/conwert"  >Conwert</option>
+        <option value="update"  >update software</option>
+        <option value="compeq_manufacturing"  >Compeq Manufacturing</option>
+        <option value="alpha_bank_sa"  >Alpha Bank</option>
+        <option value="atx_prime"  >ATX Prime</option>
+        <option value="/atx"  >ATX</option>
+        <option value="/beiersdorf"  >Beiersdorf</option>
+        <option value="jumbo_sa"  >Jumbo SA</option>
+        <option value="/bitcoin"  >Bitcoin</option>
+        <option value="bwin"  >bwin</option>
+        <option value="_coca-cola_hbc"  > Coca-Cola HBC</option>
+        <option value="cac_40"  >CAC 40</option>
+        <option value="unicredit_spa"  >UniCredit</option>
+        <option value="/dax"  >DAX</option>
+        <option value="/deutscheboerse"  >Deutsche Boerse</option>
+        <option value="dj_euro_stoxx_50"  >DJ EURO STOXX 50</option>
+        <option value="/dow"  >Dow Jones</option>
+        <option value="hellenic_petroleum"  >Hellenic Petroleum</option>
+        <option value="national_bank"  >National Bank</option>
+        <option value="eurobrokers"  >Eurobrokers</option>
+        <option value="eurchf_spot"  >EUR/CHF Spot</option>
+        <option value="eurgbp_spot"  >EUR/GBP Spot</option>
+        <option value="eurjpy_spot"  >EUR/JPY Spot</option>
+        <option value="eurusd_spot"  >EUR/USD Spot</option>
+        <option value="hellenic_exchanges"  >Hellenic Exchanges</option>
+        <option value="folli_follie"  >Folli Follie</option>
+        <option value="flextronics_international_ltd"  >Flextronics</option>
+        <option value="/gold"  >Gold</option>
+        <option value="goldbarren_1000g_philoro"  >Goldbarren (1000g, philoro)</option>
+        <option value="goldbarren_100g_philoro"  >Goldbarren (100g, philoro)</option>
+        <option value="goldbarren_1oz_philoro"  >Goldbarren (1oz, philoro)</option>
+        <option value="goldbarren_250g_philoro"  >Goldbarren (250g, philoro)</option>
+        <option value="hang_seng"  >HANG SENG</option>
+        <option value="hennes_mauritz_aktier_b"  >Hennes & Mauritz</option>
+        <option value="heineken_nv"  >Heineken</option>
+        <option value="ote"  >OTE</option>
+        <option value="ibex_35"  >IBEX 35</option>
+        <option value="gold_krugerrand_1_1"  >Gold Krugerrand 1/1</option>
+        <option value="gold_kaenguru_1_1"  >Gold Känguru 1/1</option>
+        <option value="linde_zumt"  >LINDE Z.UMT.</option>
+        <option value="brent_oil"  >Brent Oil</option>
+        <option value="motor_oil"  >Motor Oil</option>
+        <option value="mytilineos_holdings"  >Mytilineos Holdings</option>
+        <option value="gold_maple_leaf_1_1"  >Gold Maple Leaf 1/1</option>
+        <option value="nasdaq"  >Nasdaq</option>
+        <option value="/nikkei"  >Nikkei</option>
+        <option value="koninklijke_philips_nv"  >Philips</option>
+        <option value="gold_philharmoniker_1_1"  >Gold Philharmoniker 1/1</option>
+        <option value="sp500"  >S&P 500</option>
+        <option value="sany_heavy_industry"  >Sany Heavy Industry</option>
+        <option value="smi"  >SMI® PR</option>
+        <option value="/singulus"  >Singulus</option>
+        <option value="sony_corp"  >Sony</option>
+        <option value="silber_Philharmoniker_1_1"  >Silber Philharmoniker 1/1</option>
+        <option value="silberbarren_1000g"  >Silberbarren (1000g)</option>
+        <option value="/tecdax"  >TECDAX</option>
+        <option value="titan_cement"  >Titan Cement</option>
+        <option value="piraeus_bank"  >Piraeus Bank</option>
+        <option value="unilever_nv"  >Unilever</option>
+    </select>
+
+      </div>
+    </div>
+    <div class="small-9 columns show-for-small-only">
+      <div>
+        <style>
+.searchbar {
+  /* margin: 1rem; */
+  margin-bottom:0;
+}
+
+.searchbar.input-group {
+
+}
+
+.search-field {
+  width: 0;
+  height: 28px;
+  margin-left: 1rem;
+  padding: 0;
+  border: none;
+  transition: all 0.5s ease;
+}
+
+.expand-search {
+  width: 100%;
+  max-width: calc(100%);
+  border: 1px solid #c9c9c9;
+  padding: .1rem;
+}
+
+.input-group-button svg {
+  width: 11px;
+  height: 11px;
+}
+
+/* .button {
+  padding: 0;
+  margin:0;
+  /* border-radius: 50px; */
+} */
+</style>
+<div class="input-group searchbar">
+  <div class="input-group-button">
+    <button class="search" style="font-size:14px;color:#fff;    font-weight:700;">
+      Suche &nbsp;
+      <svg width="50" height="50" viewBox="0 0 100 100">
+        <path fill="#FFF" fill-rule="evenodd" d="M42.117,12.246 C50.1209,12.246 57.797,15.4257 63.453,21.0858 C69.1132,26.742 72.2928,34.4178 72.2928,42.4218 C72.2928,50.4258 69.1131,58.1018 63.453,63.7578 C57.7968,69.418 50.121,72.5976 42.117,72.5976 C34.1131,72.5976 26.437,69.4179 20.781,63.7578 C15.1208,58.1016 11.9412,50.4258 11.9412,42.4218 C11.9412,34.4178 15.1209,26.7418 20.781,21.0858 C26.4372,15.4256 34.113,12.246 42.117,12.246 L42.117,12.246 Z M76.0828827,67.3362833 C82.3527829,58.7859894 85.2617455,48.0434678 83.9173,37.22271 C82.0618,22.28871 72.3743,9.47671 58.5153,3.61771 L58.51139,3.61771 C53.32389,1.41851 47.74139,0.28961 42.10539,0.29741 L42.117,0.305 C29.058,0.30891 16.742,6.3675 8.769001,16.707 C0.7924008,27.047 -1.933999,40.5 1.382301,53.129 C4.698701,65.758 13.6833,76.137 25.7103,81.223 L25.7103,81.22691 C39.5733,87.08631 55.5113,85.10191 67.5153,76.02771 C67.5852345,75.9748392 67.6549736,75.9217748 67.724517,75.8685177 L91.555,99.6990032 L100.0003,91.253703 L76.0828827,67.3362833 Z"/>
+      </svg>
+    </button>
+  </div>
+  <form action="https://boerse-social.com/search/" method="get" class="search_content search_ie">
+  <input name="query" class="input-field search-field" type="search" style="margin:0;font-size:11px;margin-left:10px" placeholder="Archiv-Suche ..." />
+  </form>
+</div>
+
+      </div>
+    </div>
+    <div class="large-2 small-5 columns" style="font-size:13px;margin-top:5px;color:#fff">
+      <img src="/images/icons/bsn_logo.jpg" style="height:0px;border:0;display:none;visibility:hidden">
+      <a href="https://www.facebook.com/groups/GeldanlageNetwork/" target="_blank">
+        <img original="/images/icons/fb_ico.png" style="height:14px;margin-right:10px;border:0" class="lazyload">
+      </a>
+      <a href="https://twitter.com/drastil" target="_blank">
+        <img original="/images/icons/tw_ico.png" style="height:14px;margin-right:10px;border:0"  class="lazyload">
+      </a>
+      <a href="https://www.linkedin.com/in/christiandrastil/" target="_blank">
+        <img original="/images/icons/lnk_ico.png" style="height:14px;margin-right:30px;border:0"  class="lazyload">
+      </a>
+      <a href="/impressum" style="color:#fff" class="hide-for-small-only">
+        Impressum
+      </a>
+    </div>
+  </div>
+</div>
+
+<style>
+  h3.logo { font-family:Vitesse Sans;font-weight:bold;line-height:0.8em;margin-bottom:0;font-size: 2.15278rem }
+  h3.logo2 { font-family:Vitesse Sans;font-weight:bold;line-height:0.8em;font-size: 1.99278rem;margin-bottom:0 }
+  h5.logo {line-height:0.7em;font-family:Vitesse Sans;font-weight:bold; font-size: 1.48889rem}
+  h5.logo2 {line-height:0.9em;font-family:Vitesse Sans;font-weight:bold; font-size: 1.48889rem}
+</style>
+<div class="grid-container">
+  <div class="grid-x grid-margin-x" style="background-color:#1d70b6;color:#fff">
+    <div class="large-4 medium-5 columns" style="background-color:#1d70b6;margin-top:-6px">
+      <p></p>
+      <button class="menu-icon" type="button" data-toggle="offCanvasLeft" style="float:left;margin-right:40px"></button>
+      <a href="/" style="color:#fff">
+        <div style="float:left">
+          <h3 class="logo">BÖRSE</h3>
+          <h3 class="logo2">SOCIAL</h3>
+          <h5 class="logo hide-for-small-only">NETWORK</h5>
+          <h5 class="logo2 show-for-small-only">NETWORK</h5>
+          </div>
+        </a>
+      </div>
+      <div class="large-10 medium-9 colums hide-for-small-only" style="margin-bottom:10px">
+        <!-- img src="/images/home/uqa_relaunch_big.jpg" style="height:100px;margin:auto;display:block" -->
+
+<div style="height:90px">
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://boerse-social.com/www/delivery/ajs.php':'https://boerse-social.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?campaignid=6");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='https://boerse-social.com/www/delivery/ck.php?n=adc0f295&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://boerse-social.com/www/delivery/avw.php?campaignid=6&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=adc0f295' border='0' alt='' /></a></noscript>
+</div>
+
+      </div>
+    </div>
+  </div>
+
+      <div class="large-14 cell">
+        <p></p>
+        <div class="main">
+          <div class="row">
+            <!-- img src="/media/Content/CD_Image/image/17676/scalex/1400/scaley/220"  style="width:84%" class="hide-for-small" -->
+            <p></p>
+            <div class="large-8 small-14 columns">
+              <div class="content-slider-bg">
+                <div id="homeSlider" class="royalSlider contentSlider rsDefaultInv">
+
+
+                  <div id="slide_71764">
+                    <img class="rsImg" src="/media/Content/fmf_Image_online/image/71764/scalex/496/scaley/625;moos_machen_mit_zertifikaten_geniales_wildes_moos_by_andreas.jpg" id="img_71764">
+                    <h1 class="rsABlockJC rsFirstSlideTitleJC rsSlideTitle" style="word-wrap: break-word;">
+                      Deutsche Bank und das ATX X-Pert Zertifikat #gabb
+                    </h1>
+                  </h1>
+
+                  <!-- figure class="rsCaption">
+                  Moos machen mit Zertifikaten, geniales wildes Moos by Andreas Lichtblau
+                </figure -->
+              </div>
+
+            </div>
+          </div>
+
+          <div class="large-3 medium-3 columns hide-for-small-only" style="padding:0">
+            <div style="background-color:#F8F8F8;padding:18px">
+              <div class="blogger" style="padding:5px;font-style:italic;font-size:11px;word-wrap:break-word">
+<!-- div class="article" style="padding:5px;text-align:justify;font-style:italic;font-size:12px" -->
+
+	  <a href="http://www.christian-drastil.com/blog/christian.drastil"><h6>Autor: <br>Christian Drastil</h6></a>
+	  <a href="http://www.christian-drastil.com/blog/christian.drastil">
+	  <img src="/media/Content/CD_Bloggers/pic/4/scalex/80/scaley/120" data-retina="/media/Content/CD_Bloggers/pic/4/scalex/160/scaley/240" width="80" border="0" style="float:left;padding-right:5px"></a>
+      <br clear="all">
+	    <div>Der Namensgeber des Blogs. Ich funktioniere nach dem Motto "Trial, Error &amp; Learning". Mehrj&auml;hrige Business Pl&auml;ne passen einfach nicht zu mir. Zu schnell (ver)&auml;ndert sich die Welt, in der wir leben. Damit bin ich wohl nicht konzernkompatibel sondern lieber ein alter Jungunternehmer. Ein lupenreiner Digital Immigrant ohne auch nur einen Funken Programmier-Know-How, aber - wie manche sagen - vielleicht mit einem ausgepr&auml;gten Gesp&uuml;r f&uuml;r Gesch&auml;ftsmodelle, die funktionieren.&nbsp;Der Versuch, Finanzmedien mit Sport, Musik und schr&auml;gen Ideen positiv aufzuladen, um Financial Literacy f&uuml;r ein grosses Publikum spannend zu machen, steht im Mittelpunkt. Diese Dinge sind mein Berufsleben und ich arbeite gerne. Der Blog soll u.a. zeigen, wie alles zusammenh&auml;ngt und welches Bigger Picture angestrebt wird.</div>
+<div style="text-align: right;">Christian Drastil</div>
+	    <p style="font-size:11px;word-wrap:break-word">>> <a href="" target="_blank">Website</a></p><br clear="all">
+</div>
+
+  <div  style="margin-bottom:3px;float:left;margin-right:5px;font-size:18px;color:#999;width:120px" class="social">
+    <div class="fb-like social" data-send="false" data-layout="button_count" data-show-faces="true"></div>&nbsp;&nbsp;
+  </div>
+  <div style="float:left;margin-left:-5px;width:100px" class="social">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-width="100px" data-via="drastil" data-lang="de">Tweet</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </div>
+  <br clear="all">
+  <div style="float:left;width:100px" class="social">
+    <div data-type="xing/share" data-counter="none" data-lang="de"></div>
+  </div>
+  <!-- div style="float:left;margin-left:-45px;font-size:18px;color:#999;margin-bottom:10px">&nbsp;&nbsp;
+  <a href="https://www.facebook.com/smeilpage" target="_blank"><img src="/images/smeil_it.png" style="height:20px;width:83px;" border="0"></a>
+</div -->
+<br clear="all"><br>
+<p>
+<a href="http://www.christian-drastil.com/blog">>> zur Startseite mit allen Blogs</a>
+</p>
+<div style="padding-bottom:8px"><a href="http://karriere.at" style="color:#373737;padding-bottom:5px" target="_blank"><img src="/static/images/partner/karriere.png" style="width:100px;border:0;margin-bottom:-4px;margin-right:10px"> Jobs</a></div>
+<div style="background-color:#373737;padding:8px">
+<p>
+<a href="https://www.karriere.at/jobs/5251127" target="_blank" style="color:#fff">Markenpartner / Wohnbau-Finanz-Experte (INFINA Credit Broker GmbH)</a>
+</p>
+<p>
+<a href="https://www.karriere.at/jobs/4994288" target="_blank" style="color:#fff">Non-Financial Corporate Bond Analyst (f/m) – Capital Markets Research (Raiffeisen Bank International AG)</a>
+</p>
+<p>
+<a href="https://www.karriere.at/jobs/5061702" target="_blank" style="color:#fff">Business Expert International Finance (m/w) (HOFER KG)</a>
+</p>
+</div>
+
+
+<!-- h5>Blogger</h5>
+<ul class="small-block-grid-3" -->
+
+	<!-- li>
+		<a href="http://www.christian-drastil.com/blog/" target="_blank">
+		<img src="/mediabw/Content/CD_Bloggers/pic//scalex/80/scaley/120" data-retina="/mediabw/Content/CD_Bloggers/pic//scalex/160/scaley/240" border="0" class="th">
+		<span style="font-size:9px">
+
+
+		</span>
+	</li -->
+
+
+
+            </div>
+            <!-- center>
+            <div style="height:600px;padding-right:10px">
+            <script type='text/javascript'>
+            var m3_u = (location.protocol=='https:'?'https://boerse-social.com/www/delivery/ajs.php':'https://boerse-social.com/www/delivery/ajs.php');
+            var m3_r = Math.floor(Math.random()*99999999999);
+            if (!document.MAX_used) document.MAX_used = ',';
+            document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+            document.write ("?campaignid=4");
+            document.write ('&amp;cb=' + m3_r);
+            if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+            document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+            document.write ("&amp;loc=" + escape(window.location));
+            if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+            if (document.context) document.write ("&context=" + escape(document.context));
+            if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+            document.write ("'><\/scr"+"ipt>");
+            //]]></script><noscript><a href='https://boerse-social.com/www/delivery/ck.php?n=a518869d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://boerse-social.com/www/delivery/avw.php?campaignid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a518869d' border='0' alt='' /></a></noscript>
+          </div>
+          <br clear="all"><br>
+        </center -->
+      </div>
+      <div class="large-11 medium-11 columns hide-for-small-only" style="background-color:#eef2f9">
+
+
+        <div class="article">
+<p></p>
+
+
+
+
+
+
+<p>Aus unserem&nbsp;neuen B&ouml;rsenbrief: <a href="http://www.boerse-social.com/gabb">http://www.boerse-social.com/gabb</a>&nbsp;.</p>
+<p>Unter&nbsp;<strong>"Moos machen mit Zertis"</strong>&nbsp;findet man&nbsp;<a href="https://boerse-social.com/moos_mit_zertis">das grosse PDF</a>&nbsp;zum Zertifikate Award Austria. Wir stellen hier im #gabb jene Zertifikate, die unsere 7 Partner "Die Glorreichen Sieben" einreichten, vor und bringen die aktuellen Kurse dazu.&nbsp;</p>
+<p>Aus der Kategorie "<strong>Österreich-Zertifikat des Jahres</strong>": Für die&nbsp;<strong>Deutsche Bank</strong>&nbsp;geht das ATX X-Pert Zertifikat (ISIN DE000DB1ATX3) ins Rennen. Der österreichische Leitindex ATX 1:1 investierbar - ohne Laufzeitbegrenzung. Steigt der ATX, so steigt auch das Index-Zertifikat analog. Umgekehrt verliert das Zertifikat an Wert, sollte der österreichische Leitindex an Wert einbü&szlig;en. Es fallen für dieses Produkt weder Ausgabeaufschläge noch Managementgebühren an.</p>
+<p>Indikation aktuell: "34,640 auf 34,680". Nimmt man das "mal 100", so ist man exakt beim aktuellen ATX-Wert.</p>
+<p class="break">&nbsp;</p>
+
+<div style="margin-top:-15px;color:#777;font-size:12px;float:right">(03.05.2018)</div>
+  <br clear="all">
+  <div>
+  <p style="font-size:12px">
+    <strong>Was noch interessant sein dürfte:</strong>
+  </p>
+  <br>
+    <p style="font-size:12px">
+        <a href="/2018/05/03/bnp_paribas_und_die_starke_2001er-emission_auf_den_atx_gabb" target="_blank">
+
+            <img src="https://boerse-social.com/media/Content/fmf_Image_online/image/71764/scalex/40/scaley/40" data-retina="https://boerse-social.com/media/Content/fmf_Image_online/image/71764/scalex/80/scaley/80" border="0" style="float:left;margin-right:5px;width:40px;">
+          BNP Paribas und die starke 2001er-Emission auf den ATX #gabb
+        </a>
+        <br clear="all">
+    </p>
+    <p style="font-size:12px">
+        <a href="/2018/04/27/zfa_dankt_valerie_ferencic_christoph_boschan_denkt_uber_das_minenfeld_handelszeiten_nach_gabb" target="_blank">
+
+            <img src="https://boerse-social.com/media/Content/fmf_Image_online/image/71913/scalex/40/scaley/40" data-retina="https://boerse-social.com/media/Content/fmf_Image_online/image/71913/scalex/80/scaley/80" border="0" style="float:left;margin-right:5px;width:40px;">
+          ZFA dankt Valerie Ferencic, Christoph Boschan denkt über das Minenfeld Handelszeiten nach #gabb
+        </a>
+        <br clear="all">
+    </p>
+  <br clear="all">
+  </div>
+  <br clear="all">
+        <h6>Bildnachweis</h6>
+        <p style="font-size:12px">
+          <a href="http://photaq.com/page/index/3376/#bild_71764" target="_blank" style="border:0">
+          1. Moos machen mit Zertifikaten, geniales wildes Moos by Andreas Lichtblau
+           &nbsp; >> Öffnen auf photaq.com
+          </a>
+          <br><br>
+        </p>
+
+<a href="/radar/03.05.2018">
+    <p><b style="color:#333">Aktien auf dem Radar:</b>                    <span style="color:#800">Amag</span>                    , <span style="color:#080">Andritz</span>                    , <span style="color:#080">OMV</span>                    , <span style="color:#800">Vonovia SE</span>                    , <span style="color:#800">Zumtobel</span>                    , <span style="color:#800">Tesla</span>                    , <span style="color:#800">Evotec</span>                    , <span style="color:#800">Lufthansa</span>                    , <span style="color:#800">Verbund</span>                    , <span style="color:#080">Lenzing</span>                                                                                                                                                                                                        .
+    </p>
+</a>
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-0847021879318455"
+     data-ad-slot="4626778095"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<hr noshade="1">
+  <div style="background-color:#fff;padding:8px">
+  <h6><a href="/partner">Random Partner</a></h6>
+<hr noshade="1" style="margin-top:8px">
+<div class="row">
+    <div class="large-3 medium-3 small-3 columns">
+        <center>
+            <a href="http://uniqagroup.com" target="_blank" style="border:0">
+                <img src="/media/Content/Partner/logo/38/scaley/100" style="width:50px;">
+            </a>
+        </center>
+    </div>
+    <div class="large-11 medium-11 small-11 columns">
+        <p class="content">
+            <a href="http://uniqagroup.com" target="_blank"><b style="font-weight:500;border-bottom:1px dotted #999">Uniqa</b></a><br>
+            <span style="font-size:12px">Die Uniqa Group ist eine führende Versicherungsgruppe, die in Österreich und Zentral- und Osteuropa tätig ist. Die Gruppe ist mit ihren mehr als 20.000 Mitarbeitern und rund 40 Gesellschaften in 18 Ländern vor Ort und hat mehr als 10 Millionen Kunden. </span>
+        </p>
+    </div>
+    <p style="padding-left:8px">>> Besuchen Sie 62 weitere Partner auf <a href="http://boerse-social.com/partner" style="border-bottom:1px dotted #999">boerse-social.com/partner</a></p>
+</div>
+
+ </div>
+<br clear="all">
+
+  <!-- hr noshade="1" -->
+    <h6 style="font-size:14px">&nbsp;Latest Blogs</h6>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/bnp_paribas_und_das_atx_x-pert_zertifikat_gabb">
+          » Deutsche Bank und das ATX X-Pert Zertifikat #gabb
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/flughafen_wien_wir_brauchen_mehr_osterreichische_privatanleger_gunter_luntsch">
+          » Flughafen Wien: Wir brauchen mehr österreichische Privatanleger! (Günter...
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/tempolauf_zufrieden_christian_drastil_via_runplugged_runkit">
+          » Tempolauf, zufrieden (Christian Drastil via Runplugged Runkit)
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/dsgvo_borse_social_network_doppelsicht_aussender_und_grosser_mail-empfanger_gabb">
+          » DSGVO Börse Social Network: Doppelsicht Aussender und grosser Mail-Empfä...
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/markte_kursverluste_bei_vonovia_tesla_evotec_gabb">
+          » Märkte: Kursverluste bei Vonovia, Tesla; Evotec #gabb
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/christian_eder_lautet_die_opening_bell_fur_donnerstag">
+          » Christian Eder läutet die Opening Bell für Donnerstag
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/atx-trends_amag_andritz_omv_ats_semperit_facc_wiener_privatbank">
+          » ATX-Trends: Amag, Andritz, OMV, AT&S, Semperit, FACC ... (Wiener Privatb...
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/vorschau_marathon_staatsmeisterschaften_in_salzburg_osterreichischer_leichtathletik-verband_1">
+          » Vorschau: Marathon Staatsmeisterschaften in Salzburg (Österreichischer L...
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/bnp_paribas_und_die_starke_2001er-emission_auf_den_atx_gabb">
+          » BNP Paribas und die starke 2001er-Emission auf den ATX #gabb
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/dividendenadel_eurozone_0518_funf_prozent_plus_qualitat_an_der_spitze_christian_w_rohl_1">
+          » DividendenAdel Eurozone 05/18: Fünf Prozent Plus – Qualität an der Spitz...
+        </a>
+      </p>
+    <br>
+  <div style="background-color:#fff;padding:8px">
+
+      <div style="float:left;width: 100%">
+          <h5 style="font-size:17px;font-family:Arvo;color:#0b55a6;font-weight:700">Useletter</h5>
+          <p style="font-size:12px">
+          Die Useletter "Morning Xpresso" und "Evening Xtrakt" heben sich deutlich von den gängigen Newslettern ab.
+          Beispiele ansehen bzw. kostenfrei anmelden. Wichtige Börse-Infos garantiert.<br><br><a href="/newsletter/register" class="button success">Newsletter abonnieren</a>
+          </p>
+          <h5 style="font-size:17px;font-family:Arvo;color:#0b55a6;font-weight:700"><a href="http://runplugged.com" target="_blank">Runplugged</a></h5>
+          <p style="font-size:12px">
+            Infos über neue Financial Literacy Audio Files für die Runplugged App
+            <br>(kostenfrei downloaden über <a href="http://runplugged.com/spreadit" target="_blank">http://runplugged.com/spreadit</a>)
+            <br><br><a href="http://runplugged.com/newsletter/register" class="button alert" style="background-color:#f39a2d">per Newsletter erhalten</a>
+          </p>
+      </div>
+    <br clear="all">
+  </div>
+
+
+  <!--
+
+    <br>
+    <b><i class="general foundicon-checkmark" style="font-size:12px;margin-top:5px;"></i> Gepostet in:</b>
+      <a href="/category/cd_blog">CD Blog</a>,
+      <a href="/category/finanznachrichten-de">finanznachrichten.de</a>
+
+
+   -
+
+
+    <b>Tagged:</b>
+
+  -->
+  </p>
+  </div>
+  <div class="row" style="background-color:white">
+    <br>
+
+</div>
+
+<div class="row" style="background-color:#fff;padding-top:20px">
+</div>
+
+        <div class="adbit-display-ad" data-adspace-id="62FCD572C4"></div>
+      </div>
+    </div>
+    <div class="large-3 medium-8 columns hide-for-small-only">
+      <style>
+h6 {font-weight: bold; color:#1d70b6}
+</style>
+<p></p>
+<h6>Indizes</h6>
+<table id="datatable1" cellspacing="5" cellpadding="0" style="background-color: transparent;border:0" class="indizes">
+    <tbody class="indizes">
+
+
+        <tr id="wordrow_DE000DB1FXF1" style="background:rgba(255,255,255,0.7); font-weight:300;">
+            <td class="w"><a href="/atx"  style="font-size:12px;">ATX</a></td>
+            <td class="c" style="font-size:12px;">  3471</td>
+
+            <td class="c" style="font-size:10px;color:#dd0000" id="change_indikation_DE000DB1FXF1"> -0.14%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;" class="gl">17:16:02</td>
+            <td style="color:#999">(<span id="change_DE000DB1FXF1" style="font-size:13px;color:#dd0000;text-align:right">3476</span></td>
+            <td style="font-size:10px;color:#dd0000;text-align:right">  0.21%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;text-align:right">02.05.)</td>
+        </tr>
+
+        <tr id="wordrow_DE000DB2KE72" style="background:rgba(255,255,255,0.7); font-weight:300;">
+            <td class="w"><a href="/dax"  style="font-size:12px;">DAX</a></td>
+            <td class="c" style="font-size:12px;"> 12706</td>
+
+            <td class="c" style="font-size:10px;color:#dd0000" id="change_indikation_DE000DB2KE72"> -0.76%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;" class="gl">17:16:03</td>
+            <td style="color:#999">(<span id="change_DE000DB2KE72" style="font-size:13px;color:#dd0000;text-align:right">12802</span></td>
+            <td style="font-size:10px;color:#dd0000;text-align:right">  1.51%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;text-align:right">02.05.)</td>
+        </tr>
+
+        <tr id="wordrow_DE000DB2KFA0" style="background:rgba(255,255,255,0.7); font-weight:300;">
+            <td class="w"><a href="/dow"  style="font-size:12px;">Dow</a></td>
+            <td class="c" style="font-size:12px;"> 23658</td>
+
+            <td class="c" style="font-size:10px;color:#dd0000" id="change_indikation_DE000DB2KFA0"> -1.12%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;" class="gl">17:16:03</td>
+            <td style="color:#999">(<span id="change_DE000DB2KFA0" style="font-size:13px;color:#dd0000;text-align:right">23925</span></td>
+            <td style="font-size:10px;color:#dd0000;text-align:right"> -0.72%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;text-align:right">02.05.)</td>
+        </tr>
+
+        <tr id="wordrow_DE000DB2KFD4" style="background:rgba(255,255,255,0.7); font-weight:300;">
+            <td class="w"><a href="/nikkei"  style="font-size:12px;">Nikkei</a></td>
+            <td class="c" style="font-size:12px;"> 22165</td>
+
+            <td class="c" style="font-size:10px;color:#dd0000" id="change_indikation_DE000DB2KFD4"> -1.37%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;" class="gl">17:16:04</td>
+            <td style="color:#999">(<span id="change_DE000DB2KFD4" style="font-size:13px;color:#dd0000;text-align:right">22473</span></td>
+            <td style="font-size:10px;color:#dd0000;text-align:right"> -0.16%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;text-align:right">02.05.)</td>
+        </tr>
+
+        <tr id="wordrow_DUMMYGOLD" style="background:rgba(255,255,255,0.7); font-weight:300;">
+            <td class="w"><a href="/gold"  style="font-size:12px;">Gold</a></td>
+            <td class="c" style="font-size:12px;">  1314</td>
+
+            <td class="c" style="font-size:10px;color:#00bb00" id="change_indikation_DUMMYGOLD">  0.67%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;" class="gl">17:16:06</td>
+            <td style="color:#999">(<span id="change_DUMMYGOLD" style="font-size:13px;color:#00bb00;text-align:right">1305</span></td>
+            <td style="font-size:10px;color:#00bb00;text-align:right"> -0.07%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;text-align:right">02.05.)</td>
+        </tr>
+
+        <tr id="wordrow_BTC" style="background:rgba(255,255,255,0.7); font-weight:300;">
+            <td class="w"><a href="/bitcoin"  style="font-size:12px;">Bitcoin</a></td>
+            <td class="c" style="font-size:12px;">  9431</td>
+
+            <td class="c" style="font-size:10px;color:#00bb00" id="change_indikation_BTC">  4.28%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;" class="gl">17:15:41</td>
+            <td style="color:#999">(<span id="change_BTC" style="font-size:13px;color:#00bb00;text-align:right">9044</span></td>
+            <td style="font-size:10px;color:#00bb00;text-align:right"> -2.05%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;text-align:right">02.05.)</td>
+        </tr>
+    </tbody>
+</table>
+
+	<div style="height:250px">
+	<script type='text/javascript'><!--//<![CDATA[
+	   var m3_u = (location.protocol=='https:'?'https://boerse-social.com/www/delivery/ajs.php':'https://boerse-social.com/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?campaignid=5");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='https://boerse-social.com/www/delivery/ck.php?n=a7d91961' target='_blank'><img src='https://boerse-social.com/www/delivery/avw.php?campaignid=5&amp;n=a7d91961' border='0' alt='' /></a></noscript>
+	</div>
+
+<div class="hide-for-touch">
+<hr noshade="1">
+<h6>Magazine / #gabb aktuell</h6>
+    <div style="float:left;width:50%">
+        <a href="/magazine">
+
+<img src="/media/Content/Magazines/image/16/scalex/500" style="width:100%">
+
+
+        </a>
+    </div>
+    <div style="float:left;width:50%">
+        <a href="/gabb">
+            <img src="/media/Newsletter/PDFMailSent/cover/147/scalex/200" style="width:100%">
+        </a>
+    </div>
+    <br clear="all">
+</div>
+<hr noshade="1">
+<h6>Geschäftsberichte</h6>
+<a href="/companyreports"><img original="/images/gbs.jpg" border="0" class="retina-off lazyload"></a>
+<br>
+<!-- hr noshade="1">
+<a href="http://photaq.com/page/index/899/#bild_14021" class="{ border_color: '#7EB94A', overlay_color: '#fff', overlay_text_color: '#444', always_show_overlay: true }" target="_blank" style="border:0" data-overlayer="effect:top;invert:on;" >
+            <img src="http://christian-drastil.com/static/images/bsn_launch.jpg" >
+          <div class="overlay" style="color:#777;width:auto">
+            <h6 style="font-size:14px;margin-top:2px">boerse-social.com: Die Screenshots zum modularen Launch</h6>
+          </div>
+        </a -->
+
+
+    </div>
+    <div class="large-11 small-14 columns show-for-small-only">
+
+<h1 style="font-size:24px;color:#0b55a6;font-weight:700;word-wrap: break-word;line-height:100%">
+  Deutsche Bank und das ATX X-Pert Zertifikat #gabb
+</h1> <br>
+      <div class="blogger" style="word-wrap:break-word">
+<!-- div class="article" style="padding:5px;text-align:justify;font-style:italic;font-size:12px" -->
+
+      <br clear="all">
+      <a href="http://www.christian-drastil.com/blog/christian.drastil"><h6>Autor: Christian Drastil</h6></a>
+</div>
+
+      <div class="article">
+<p></p>
+
+
+
+
+
+
+<p>Aus unserem&nbsp;neuen B&ouml;rsenbrief: <a href="http://www.boerse-social.com/gabb">http://www.boerse-social.com/gabb</a>&nbsp;.</p>
+<p>Unter&nbsp;<strong>"Moos machen mit Zertis"</strong>&nbsp;findet man&nbsp;<a href="https://boerse-social.com/moos_mit_zertis">das grosse PDF</a>&nbsp;zum Zertifikate Award Austria. Wir stellen hier im #gabb jene Zertifikate, die unsere 7 Partner "Die Glorreichen Sieben" einreichten, vor und bringen die aktuellen Kurse dazu.&nbsp;</p>
+<p>Aus der Kategorie "<strong>Österreich-Zertifikat des Jahres</strong>": Für die&nbsp;<strong>Deutsche Bank</strong>&nbsp;geht das ATX X-Pert Zertifikat (ISIN DE000DB1ATX3) ins Rennen. Der österreichische Leitindex ATX 1:1 investierbar - ohne Laufzeitbegrenzung. Steigt der ATX, so steigt auch das Index-Zertifikat analog. Umgekehrt verliert das Zertifikat an Wert, sollte der österreichische Leitindex an Wert einbü&szlig;en. Es fallen für dieses Produkt weder Ausgabeaufschläge noch Managementgebühren an.</p>
+<p>Indikation aktuell: "34,640 auf 34,680". Nimmt man das "mal 100", so ist man exakt beim aktuellen ATX-Wert.</p>
+<p class="break">&nbsp;</p>
+
+<div style="margin-top:-15px;color:#777;font-size:12px;float:right">(03.05.2018)</div>
+  <br clear="all">
+  <div>
+  <p style="font-size:12px">
+    <strong>Was noch interessant sein dürfte:</strong>
+  </p>
+  <br>
+    <p style="font-size:12px">
+        <a href="/2018/05/03/bnp_paribas_und_die_starke_2001er-emission_auf_den_atx_gabb" target="_blank">
+
+            <img src="https://boerse-social.com/media/Content/fmf_Image_online/image/71764/scalex/40/scaley/40" data-retina="https://boerse-social.com/media/Content/fmf_Image_online/image/71764/scalex/80/scaley/80" border="0" style="float:left;margin-right:5px;width:40px;">
+          BNP Paribas und die starke 2001er-Emission auf den ATX #gabb
+        </a>
+        <br clear="all">
+    </p>
+    <p style="font-size:12px">
+        <a href="/2018/04/27/zfa_dankt_valerie_ferencic_christoph_boschan_denkt_uber_das_minenfeld_handelszeiten_nach_gabb" target="_blank">
+
+            <img src="https://boerse-social.com/media/Content/fmf_Image_online/image/71913/scalex/40/scaley/40" data-retina="https://boerse-social.com/media/Content/fmf_Image_online/image/71913/scalex/80/scaley/80" border="0" style="float:left;margin-right:5px;width:40px;">
+          ZFA dankt Valerie Ferencic, Christoph Boschan denkt über das Minenfeld Handelszeiten nach #gabb
+        </a>
+        <br clear="all">
+    </p>
+  <br clear="all">
+  </div>
+  <br clear="all">
+        <h6>Bildnachweis</h6>
+        <p style="font-size:12px">
+          <a href="http://photaq.com/page/index/3376/#bild_71764" target="_blank" style="border:0">
+          1. Moos machen mit Zertifikaten, geniales wildes Moos by Andreas Lichtblau
+           &nbsp; >> Öffnen auf photaq.com
+          </a>
+          <br><br>
+        </p>
+
+<a href="/radar/03.05.2018">
+    <p><b style="color:#333">Aktien auf dem Radar:</b>                    <span style="color:#800">Amag</span>                    , <span style="color:#080">Andritz</span>                    , <span style="color:#080">OMV</span>                    , <span style="color:#800">Vonovia SE</span>                    , <span style="color:#800">Zumtobel</span>                    , <span style="color:#800">Tesla</span>                    , <span style="color:#800">Evotec</span>                    , <span style="color:#800">Lufthansa</span>                    , <span style="color:#800">Verbund</span>                    , <span style="color:#080">Lenzing</span>                                                                                                                                                                                                        .
+    </p>
+</a>
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-0847021879318455"
+     data-ad-slot="4626778095"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<hr noshade="1">
+  <div style="background-color:#fff;padding:8px">
+  <h6><a href="/partner">Random Partner</a></h6>
+<hr noshade="1" style="margin-top:8px">
+<div class="row">
+    <div class="large-3 medium-3 small-3 columns">
+        <center>
+            <a href="http://uniqagroup.com" target="_blank" style="border:0">
+                <img src="/media/Content/Partner/logo/38/scaley/100" style="width:50px;">
+            </a>
+        </center>
+    </div>
+    <div class="large-11 medium-11 small-11 columns">
+        <p class="content">
+            <a href="http://uniqagroup.com" target="_blank"><b style="font-weight:500;border-bottom:1px dotted #999">Uniqa</b></a><br>
+            <span style="font-size:12px">Die Uniqa Group ist eine führende Versicherungsgruppe, die in Österreich und Zentral- und Osteuropa tätig ist. Die Gruppe ist mit ihren mehr als 20.000 Mitarbeitern und rund 40 Gesellschaften in 18 Ländern vor Ort und hat mehr als 10 Millionen Kunden. </span>
+        </p>
+    </div>
+    <p style="padding-left:8px">>> Besuchen Sie 62 weitere Partner auf <a href="http://boerse-social.com/partner" style="border-bottom:1px dotted #999">boerse-social.com/partner</a></p>
+</div>
+
+ </div>
+<br clear="all">
+
+  <!-- hr noshade="1" -->
+    <h6 style="font-size:14px">&nbsp;Latest Blogs</h6>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/bnp_paribas_und_das_atx_x-pert_zertifikat_gabb">
+          » Deutsche Bank und das ATX X-Pert Zertifikat #gabb
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/flughafen_wien_wir_brauchen_mehr_osterreichische_privatanleger_gunter_luntsch">
+          » Flughafen Wien: Wir brauchen mehr österreichische Privatanleger! (Günter...
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/tempolauf_zufrieden_christian_drastil_via_runplugged_runkit">
+          » Tempolauf, zufrieden (Christian Drastil via Runplugged Runkit)
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/dsgvo_borse_social_network_doppelsicht_aussender_und_grosser_mail-empfanger_gabb">
+          » DSGVO Börse Social Network: Doppelsicht Aussender und grosser Mail-Empfä...
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/markte_kursverluste_bei_vonovia_tesla_evotec_gabb">
+          » Märkte: Kursverluste bei Vonovia, Tesla; Evotec #gabb
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/christian_eder_lautet_die_opening_bell_fur_donnerstag">
+          » Christian Eder läutet die Opening Bell für Donnerstag
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/atx-trends_amag_andritz_omv_ats_semperit_facc_wiener_privatbank">
+          » ATX-Trends: Amag, Andritz, OMV, AT&S, Semperit, FACC ... (Wiener Privatb...
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/vorschau_marathon_staatsmeisterschaften_in_salzburg_osterreichischer_leichtathletik-verband_1">
+          » Vorschau: Marathon Staatsmeisterschaften in Salzburg (Österreichischer L...
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/bnp_paribas_und_die_starke_2001er-emission_auf_den_atx_gabb">
+          » BNP Paribas und die starke 2001er-Emission auf den ATX #gabb
+        </a>
+      </p>
+      <p style="font-size:13px;margin-bottom:5px">
+        <a href="/2018/05/03/dividendenadel_eurozone_0518_funf_prozent_plus_qualitat_an_der_spitze_christian_w_rohl_1">
+          » DividendenAdel Eurozone 05/18: Fünf Prozent Plus – Qualität an der Spitz...
+        </a>
+      </p>
+    <br>
+  <div style="background-color:#fff;padding:8px">
+
+      <div style="float:left;width: 100%">
+          <h5 style="font-size:17px;font-family:Arvo;color:#0b55a6;font-weight:700">Useletter</h5>
+          <p style="font-size:12px">
+          Die Useletter "Morning Xpresso" und "Evening Xtrakt" heben sich deutlich von den gängigen Newslettern ab.
+          Beispiele ansehen bzw. kostenfrei anmelden. Wichtige Börse-Infos garantiert.<br><br><a href="/newsletter/register" class="button success">Newsletter abonnieren</a>
+          </p>
+          <h5 style="font-size:17px;font-family:Arvo;color:#0b55a6;font-weight:700"><a href="http://runplugged.com" target="_blank">Runplugged</a></h5>
+          <p style="font-size:12px">
+            Infos über neue Financial Literacy Audio Files für die Runplugged App
+            <br>(kostenfrei downloaden über <a href="http://runplugged.com/spreadit" target="_blank">http://runplugged.com/spreadit</a>)
+            <br><br><a href="http://runplugged.com/newsletter/register" class="button alert" style="background-color:#f39a2d">per Newsletter erhalten</a>
+          </p>
+      </div>
+    <br clear="all">
+  </div>
+
+
+  <!--
+
+    <br>
+    <b><i class="general foundicon-checkmark" style="font-size:12px;margin-top:5px;"></i> Gepostet in:</b>
+      <a href="/category/cd_blog">CD Blog</a>,
+      <a href="/category/finanznachrichten-de">finanznachrichten.de</a>
+
+
+   -
+
+
+    <b>Tagged:</b>
+
+  -->
+  </p>
+  </div>
+  <div class="row" style="background-color:white">
+    <br>
+
+</div>
+
+<div class="row" style="background-color:#fff;padding-top:20px">
+</div>
+
+    </div>
+
+    <!-- div class="large-1 columns hide-for-touch">
+    <h5>Partner</h5>
+  </div -->
+  <div class="large-2 medium-6 columns hide-for-small-only">
+
+  </div>
+  <div class="large-12 columns show-for-small-only">
+    <style>
+h6 {font-weight: bold; color:#1d70b6}
+</style>
+<p></p>
+<h6>Indizes</h6>
+<table id="datatable1" cellspacing="5" cellpadding="0" style="background-color: transparent;border:0" class="indizes">
+    <tbody class="indizes">
+
+
+        <tr id="wordrow_DE000DB1FXF1" style="background:rgba(255,255,255,0.7); font-weight:300;">
+            <td class="w"><a href="/atx"  style="font-size:12px;">ATX</a></td>
+            <td class="c" style="font-size:12px;">  3471</td>
+
+            <td class="c" style="font-size:10px;color:#dd0000" id="change_indikation_DE000DB1FXF1"> -0.14%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;" class="gl">17:16:02</td>
+            <td style="color:#999">(<span id="change_DE000DB1FXF1" style="font-size:13px;color:#dd0000;text-align:right">3476</span></td>
+            <td style="font-size:10px;color:#dd0000;text-align:right">  0.21%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;text-align:right">02.05.)</td>
+        </tr>
+
+        <tr id="wordrow_DE000DB2KE72" style="background:rgba(255,255,255,0.7); font-weight:300;">
+            <td class="w"><a href="/dax"  style="font-size:12px;">DAX</a></td>
+            <td class="c" style="font-size:12px;"> 12706</td>
+
+            <td class="c" style="font-size:10px;color:#dd0000" id="change_indikation_DE000DB2KE72"> -0.76%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;" class="gl">17:16:03</td>
+            <td style="color:#999">(<span id="change_DE000DB2KE72" style="font-size:13px;color:#dd0000;text-align:right">12802</span></td>
+            <td style="font-size:10px;color:#dd0000;text-align:right">  1.51%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;text-align:right">02.05.)</td>
+        </tr>
+
+        <tr id="wordrow_DE000DB2KFA0" style="background:rgba(255,255,255,0.7); font-weight:300;">
+            <td class="w"><a href="/dow"  style="font-size:12px;">Dow</a></td>
+            <td class="c" style="font-size:12px;"> 23658</td>
+
+            <td class="c" style="font-size:10px;color:#dd0000" id="change_indikation_DE000DB2KFA0"> -1.12%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;" class="gl">17:16:03</td>
+            <td style="color:#999">(<span id="change_DE000DB2KFA0" style="font-size:13px;color:#dd0000;text-align:right">23925</span></td>
+            <td style="font-size:10px;color:#dd0000;text-align:right"> -0.72%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;text-align:right">02.05.)</td>
+        </tr>
+
+        <tr id="wordrow_DE000DB2KFD4" style="background:rgba(255,255,255,0.7); font-weight:300;">
+            <td class="w"><a href="/nikkei"  style="font-size:12px;">Nikkei</a></td>
+            <td class="c" style="font-size:12px;"> 22165</td>
+
+            <td class="c" style="font-size:10px;color:#dd0000" id="change_indikation_DE000DB2KFD4"> -1.37%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;" class="gl">17:16:04</td>
+            <td style="color:#999">(<span id="change_DE000DB2KFD4" style="font-size:13px;color:#dd0000;text-align:right">22473</span></td>
+            <td style="font-size:10px;color:#dd0000;text-align:right"> -0.16%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;text-align:right">02.05.)</td>
+        </tr>
+
+        <tr id="wordrow_DUMMYGOLD" style="background:rgba(255,255,255,0.7); font-weight:300;">
+            <td class="w"><a href="/gold"  style="font-size:12px;">Gold</a></td>
+            <td class="c" style="font-size:12px;">  1314</td>
+
+            <td class="c" style="font-size:10px;color:#00bb00" id="change_indikation_DUMMYGOLD">  0.67%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;" class="gl">17:16:06</td>
+            <td style="color:#999">(<span id="change_DUMMYGOLD" style="font-size:13px;color:#00bb00;text-align:right">1305</span></td>
+            <td style="font-size:10px;color:#00bb00;text-align:right"> -0.07%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;text-align:right">02.05.)</td>
+        </tr>
+
+        <tr id="wordrow_BTC" style="background:rgba(255,255,255,0.7); font-weight:300;">
+            <td class="w"><a href="/bitcoin"  style="font-size:12px;">Bitcoin</a></td>
+            <td class="c" style="font-size:12px;">  9431</td>
+
+            <td class="c" style="font-size:10px;color:#00bb00" id="change_indikation_BTC">  4.28%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;" class="gl">17:15:41</td>
+            <td style="color:#999">(<span id="change_BTC" style="font-size:13px;color:#00bb00;text-align:right">9044</span></td>
+            <td style="font-size:10px;color:#00bb00;text-align:right"> -2.05%</td>
+            <td style="color:#000;font-size:9px;font-weight:300;text-align:right">02.05.)</td>
+        </tr>
+    </tbody>
+</table>
+
+	<div style="height:250px">
+	<script type='text/javascript'><!--//<![CDATA[
+	   var m3_u = (location.protocol=='https:'?'https://boerse-social.com/www/delivery/ajs.php':'https://boerse-social.com/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?campaignid=5");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='https://boerse-social.com/www/delivery/ck.php?n=a7d91961' target='_blank'><img src='https://boerse-social.com/www/delivery/avw.php?campaignid=5&amp;n=a7d91961' border='0' alt='' /></a></noscript>
+	</div>
+
+<div class="hide-for-touch">
+<hr noshade="1">
+<h6>Magazine / #gabb aktuell</h6>
+    <div style="float:left;width:50%">
+        <a href="/magazine">
+
+<img src="/media/Content/Magazines/image/16/scalex/500" style="width:100%">
+
+
+        </a>
+    </div>
+    <div style="float:left;width:50%">
+        <a href="/gabb">
+            <img src="/media/Newsletter/PDFMailSent/cover/147/scalex/200" style="width:100%">
+        </a>
+    </div>
+    <br clear="all">
+</div>
+<hr noshade="1">
+<h6>Geschäftsberichte</h6>
+<a href="/companyreports"><img original="/images/gbs.jpg" border="0" class="retina-off lazyload"></a>
+<br>
+<!-- hr noshade="1">
+<a href="http://photaq.com/page/index/899/#bild_14021" class="{ border_color: '#7EB94A', overlay_color: '#fff', overlay_text_color: '#444', always_show_overlay: true }" target="_blank" style="border:0" data-overlayer="effect:top;invert:on;" >
+            <img src="http://christian-drastil.com/static/images/bsn_launch.jpg" >
+          <div class="overlay" style="color:#777;width:auto">
+            <h6 style="font-size:14px;margin-top:2px">boerse-social.com: Die Screenshots zum modularen Launch</h6>
+          </div>
+        </a -->
+
+
+  </div>
+</div>
+</div>
+</div>
+</div>
+<input id="slug" type="hidden" value="2018/05/03/bnp_paribas_und_das_atx_x-pert_zertifikat_gabb">
+<div class="footer" style="border-bottom:0;margin-left:10px;margin-right:10px;padding-top:40px;">
+  <div class="row" style="background-color:#fff">
+    <div class="large-14 columns footer-border" style="padding-top:8px;border-top:1px solid #ccc">
+      <div class="row">
+        <div class="large-14 columns" style="padding-left:0">
+          <p style="font-size:12px;color:#444">
+            (c) 2018 FC Chladek Drastil GmbH &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a class="footer_link" href="http://fc-chladek-drastil.com/page/impressum">Impressum</a>
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="http://www.ls-d.de/" target="_blank">Realtime Indikationen: L&amp;S</a>
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="http://www.teletrader.com/" target="_blank"> End of Day Kurse: TeleTrader</a>
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="https://www.xmarkets.db.com/" target="_blank">Indices Indikationen: Deutsche Bank</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+$(document).foundation();
+stats.do();
+</script>
+</body>
+</html>

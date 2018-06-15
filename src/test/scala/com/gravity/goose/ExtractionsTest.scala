@@ -921,6 +921,123 @@ class ExtractionsTest {
     assert(article.canonicalLink.isDefined)
   }
 
+  @Test
+  def usatoday2(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("usatoday2.txt")
+    val url = "https://www.usatoday.com/story/money/markets/2016/06/06/sell-may-and-investing-adages-debunked/85296684/"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "'Sell in May and go away'")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def nyt3(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("nyt3.txt")
+    val url = "http://www.nytimes.com/2011/05/17/sports/a-companys-small-town-arenas-leave-cities-with-big-problems.html?_r=0"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "'Sell in May and go away'")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def businessinsider4(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("businessinsider4.txt")
+    val url = "http://www.businessinsider.com/investing-basics-young-people-5-2014-9"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "You're never")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def foxnews2(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("foxnews2.txt")
+    val url = "http://www.foxnews.com/entertainment/2018/05/10/monica-lewinsky-gets-apology-after-town-country-uninvited-her-from-event-after-bill-clinton-agreed-to-attend.html"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Town & Country")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def houstonchronicle1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("houstonchronicle1.txt")
+    val url = "https://www.houstonchronicle.com/news/article/Connecticut-state-troopers-to-be-equipped-with-12953353.php"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "MIDDLETOWN, Conn. (AP) — Connecticut State")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def nbcnews1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("nbcnews1.html")
+    val url = "https://www.nbcnews.com/news/us-news/administration-delays-steel-aluminum-tariffs-canada-eu-mexico-n870311?cid=public-rss_20180508"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "WASHINGTON — The White House is postponing a decision")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def telesurtv1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("telesurtv1.txt")
+    val url = "https://www.nbcnews.com/news/us-news/administration-delays-steel-aluminum-tariffs-canada-eu-mexico-n870311?cid=public-rss_20180508"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "WASHINGTON — The White House is postponing a decision")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def atlantic1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("atlantic1.txt")
+    val url = "https://www.theatlantic.com/entertainment/archive/2018/05/im-not-black-im-kanye/559763/"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "WASHINGTON — The White House is postponing a decision")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def axios1(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("axios1.txt")
+    val url = "https://www.axios.com/newsletters/axios-am-f9d0575f-832e-4291-a597-8103d61e0ab5.html"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "WASHINGTON — The White House is postponing a decision")
+    assert(article.publishDate.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
   /*@Test
   def fastcompany1(): Unit = {
     implicit val config = TestUtils.NO_IMAGE_CONFIG

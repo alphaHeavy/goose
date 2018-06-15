@@ -169,7 +169,7 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
   def safeParseNoTimeZone(txt: String, url: Uri, zoneId: ZoneId): Option[ZonedDateTime] = {
     try {
 
-      val txt2 = txt.replace("am", "AM").replace("pm", "PM")
+      val txt2 = txt.replace("am", "AM").replace("pm", "PM").trim
 
       val date1 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss")
       val date2 = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")
@@ -183,8 +183,10 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
       val date10 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy hh:mm a")
       val date11 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy 'at' hh:mm a")
       val date12 = DateTimeFormatter.ofPattern("MMMM d',' yyyy 'at' hh:mm a")
+      val date13 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.nnnnnnn")
 
       val parser = new DateTimeFormatterBuilder()
+        .appendOptional(date13)
         .appendOptional(date1)
         .appendOptional(date2)
         .appendOptional(date3)
@@ -197,6 +199,7 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
         .appendOptional(date10)
         .appendOptional(date11)
         .appendOptional(date12)
+
         .toFormatter
 
       val result = LocalDateTime.parse(txt2, parser)
@@ -238,31 +241,36 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
     "script",
     "span[class=published-date pull-right]",
     "span[itemprop=dateCreated]",
-    "span[class=entry-date]"
+    "span[class=entry-date]",
+    "meta[name=dcterms.created]",
+    "meta[name=cXenseParse:recs:publishtime]"
   )
 
   final val modSelectors = Seq(
     "meta[property~=article:modified_time]",
     "meta[itemprop=dateModified]",
     "meta[property~=og:updated_time]",
-    "meta[name=Last-Modified]")
+    "meta[name=Last-Modified]",
+    "script")
 
   def extract(rootElement: Element, url: Uri): Option[ZonedDateTime] = {
-    val hostname = url.host.get
-    // A few different ways to get a date.
-    def bestPubDate = pubSelectors.flatMap(extractCandidate(rootElement, _, url)).reduceOption(PublishDateExtractor.minDate)
-    def bestModDate = modSelectors.flatMap(extractCandidate(rootElement, _, url)).reduceOption(PublishDateExtractor.minDate)
+    url.host match {
+      case Some(hostname) =>
+        // A few different ways to get a date.
+        def bestPubDate = pubSelectors.flatMap (extractCandidate (rootElement, _, url) ).reduceOption (PublishDateExtractor.minDate)
+        def bestModDate = modSelectors.flatMap (extractCandidate (rootElement, _, url) ).reduceOption (PublishDateExtractor.minDate)
 
-    hostnameTZ.get(hostname) match {
-      case Some(x) =>
-        def bestPubDateNoTimeZone = pubSelectors.flatMap(extractCandidateNoTimeZone(rootElement, _, x, url))
-          .reduceOption(PublishDateExtractor.minDate)
-        def bestModDateNoTimeZone = modSelectors.flatMap(extractCandidateNoTimeZone(rootElement, _, x, url))
-          .reduceOption(PublishDateExtractor.minDate)
+        hostnameTZ.get (hostname) match {
+          case Some (x) =>
+            def bestPubDateNoTimeZone = pubSelectors.flatMap (extractCandidateNoTimeZone (rootElement, _, x, url) )
+              .reduceOption (PublishDateExtractor.minDate)
+            def bestModDateNoTimeZone = modSelectors.flatMap (extractCandidateNoTimeZone (rootElement, _, x, url) )
+              .reduceOption (PublishDateExtractor.minDate)
 
-        bestPubDate.orElse(bestModDate).orElse(bestPubDateNoTimeZone).orElse(bestModDateNoTimeZone)
-
-      case None => bestPubDate.orElse(bestModDate)
+            bestPubDate.orElse (bestModDate).orElse (bestPubDateNoTimeZone).orElse (bestModDateNoTimeZone)
+          case None => bestPubDate.orElse (bestModDate)
+        }
+      case None => None
     }
   }
 }
@@ -289,7 +297,9 @@ object PublishDateExtractor extends Logging {
     "chicago.suntimes.com" -> ZoneId.of("America/Chicago"),
     "money.cnn.com" -> ZoneId.of("America/New_York"),
     "www.euronews.com" -> ZoneId.of("Etc/GMT-2"),
-    "www.etftrends.com" -> ZoneId.of("UTC"))
+    "www.etftrends.com" -> ZoneId.of("UTC"),
+    "www.usatoday.com" -> ZoneId.of("America/New_York"),
+    "www.houstonchronicle.com" -> ZoneId.of("UTC"))
 
 
   val logPrefix = "PublishDateExtractor: "
@@ -324,6 +334,10 @@ object PublishDateExtractor extends Logging {
     var txt2 = txt.replace(" am ", " AM ").replace(" pm ", " PM ")
     if(txt.endsWith("-500"))
       txt2 = txt.replace("-500", "-0500")
+    if(txt2.endsWith("-14400"))
+      txt2 = txt2.replace("-14400","")
+    if(txt2.endsWith("+0000 (UTC)"))
+      txt2 = txt2.replace("+0000 (UTC)", "")
 
     try {
       val date1 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ssZ")
@@ -344,6 +358,9 @@ object PublishDateExtractor extends Logging {
       val date16 = DateTimeFormatter.ofPattern("E',' dd MMM yyyy HH:mm:ss X")
       val date17 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy',' hh:mm:ss a z")
       val date18 = DateTimeFormatter.ofPattern("HH:mm z',' MMM dd',' yyyy")
+      val date19 = DateTimeFormatter.ofPattern("yyyy-MM-ddzHH:mm:ss")
+      val date20 = DateTimeFormatter.ofPattern("yyyy-MM-dd H:mm:ss Z")
+      val date21 = DateTimeFormatter.ofPattern("E MMM dd yyyy HH:mm:ss z")
       val parser = new DateTimeFormatterBuilder()
         .appendOptional(date1)
         .appendOptional(date2)
@@ -363,6 +380,9 @@ object PublishDateExtractor extends Logging {
         .appendOptional(date16)
         .appendOptional(date17)
         .appendOptional(date18)
+        .appendOptional(date19)
+        .appendOptional(date20)
+        .appendOptional(date21)
         .toFormatter
 
       val x = ZonedDateTime.from(parser.parse(txt2)).withZoneSameInstant(ZoneId.of("UTC").normalized())

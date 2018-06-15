@@ -1,0 +1,4532 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+
+<html>
+    <head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="shortcut icon" href="//www.telesurtv.net/arte/favicon.ico" type="image/x-icon"  />
+<meta charset="utf-8">
+<meta name="robots" content="NOODP">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+<meta property="fb:pages" content="186321186178">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Publicidad EmbiMedia-->
+
+	<script type="text/javascript">
+	  window._taboola = window._taboola || [];
+	  _taboola.push({article:'auto'});
+	  !function (e, f, u, i) {
+	    if (!document.getElementById(i)){
+	      e.async = 1;
+	      e.src = u;
+	      e.id = i;
+	      f.parentNode.insertBefore(e, f);
+	    }
+	  }(document.createElement('script'),
+	  document.getElementsByTagName('script')[0],
+	  '//cdn.taboola.com/libtrc/embimedia-telesurtvnet/loader.js',
+	  'tb_loader_script');
+	  if(window.performance && typeof window.performance.mark == 'function')
+	    {window.performance.mark('tbl_ic');}
+	</script>
+
+
+<!-- Publicidad ADSLive -->
+
+
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function () {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+
+
+
+
+	            <script type='text/javascript'>
+	                googletag.cmd.push(function () {
+	                    googletag.defineSlot('/18910235/home_bottom', [300, 250], 'div-gpt-ad-1465261469364-0').addService(googletag.pubads());
+	                    googletag.defineSlot('/18910235/home_lead1', [728, 90], 'div-gpt-ad-1465261469364-1').addService(googletag.pubads());
+	                    googletag.defineSlot('/18910235/Noticias_interno_lead1', [728, 90], 'div-gpt-ad-1465261644610-0').addService(googletag.pubads());
+	                    googletag.defineSlot('/18910235/Noticias_interno_med1', [300, 250], 'div-gpt-ad-1465261644610-1').addService(googletag.pubads());
+	                    googletag.defineSlot('/18910235/Noticias_interno_med2', [300, 250], 'div-gpt-ad-1465261644610-2').addService(googletag.pubads());
+	                    googletag.defineSlot('/18910235/Noticias_interno_top', [728, 90], 'div-gpt-ad-1465261644610-3').addService(googletag.pubads());
+	                    googletag.defineSlot('/18910235/Blogs_interno_bottom', [728, 90], 'div-gpt-ad-1465261147720-0').addService(googletag.pubads());
+	                    googletag.defineSlot('/18910235/Blogs_interno_rec', [180, 150], 'div-gpt-ad-1465261147720-1').addService(googletag.pubads());
+	                    googletag.defineSlot('/18910235/Blogs_interno_top', [728, 90], 'div-gpt-ad-1465261147720-2').addService(googletag.pubads());
+	                    googletag.defineSlot('/18910235/envivo_top', [180, 150], 'div-gpt-ad-1465262063828-0').addService(googletag.pubads());
+	                    googletag.defineSlot('/138871148/telesurtv.dw.1x1.incontent', [1, 1], 'div-gpt-ad-1523049131629-0').addService(googletag.pubads());
+	                    googletag.pubads().collapseEmptyDivs();
+	                    googletag.enableServices();
+	                });
+	            </script>
+
+
+
+
+
+
+<!-- HCode y JustPremium -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script type="application/ld+json">{"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.telesurtv.net/news/chile-transexuales-trans-cambio-de-sexo-nombre-sin-cirugia-20180530-0047.html"},"headline":"Chile aprueba cambio de nombre y sexo sin cirugía a los trans","image":{"@type":"ImageObject","url":"https://www.telesurtv.net/__export/1527727340034/sites/telesur/img/news/2018/05/30/chile_transexuales_votacion.jpg","height":"340","width":"600"},"datePublished":"2018-05-30T07:52:45 -0400","dateModified":"2018-05-30T09:13:00 -0400","author":{"@type":"Person","name":"teleSUR - pgv - AP"},"publisher":{"@type":"Organization","name":"teleSUR","logo":{"@type":"ImageObject","url":"https://www.telesurtv.net/arte/Logo-Telesur-web.png","width":"160","height":"68"}},"articleSection":"Noticias","description":"La medida aprobada por la justicia chilena favorece&nbsp;a transexuales adultos. Los menores entre 14 y 17 a&ntilde;os deber&aacute;n pasar por un proceso judicial."}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <title> Chile aprueba cambio de nombre y sexo sin cirug&iacute;a a los trans | Noticias | teleSUR</title>
+    <meta name="description" content="La medida aprobada por la justicia chilena favorece&amp;nbsp;a transexuales adultos. Los menores entre 14 y 17 a&amp;ntilde;os deber&amp;aacute;n pasar por un proceso judicial."/>
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0"/>
+    <meta http-equiv="cache-control" content="no-cache"/>
+    <meta name="GENERATOR" content="teleSUR">
+    <meta name="organization" content="teleSUR"/>
+    <meta name="Googlebot" content="all"/>
+    <meta name="language" content="es_ES"/>
+    <meta name="revisit-after" content="1 days">
+    <meta name="publish-date" content="2018-05-30 21:13:00">
+    <link rel="amphtml" href="https://www.telesurtv.net/amp/news/chile-transexuales-trans-cambio-de-sexo-nombre-sin-cirugia-20180530-0047.html"/>
+
+
+
+
+
+            <meta name="news_keywords" content="Chile, transexuales, LGTBI, cambio de nombre, corte suprema, trans">
+
+
+
+
+
+
+            <meta name="Author" content="teleSUR - pgv - AP"/>
+
+
+
+    <meta name="robots" content="index,follow">
+    <meta name="classification" content="Noticias, América Latina, Chile"/>
+
+
+    <meta name="cXenseParse:title" content="Chile aprueba cambio de nombre y sexo sin cirugía a los trans"/>
+    <meta name="cXenseParse:recs:articleid" content="1527729180000"/>
+
+
+            <meta name="cXenseParse:recs:category" content="Noticias/América Latina"/>
+
+            <meta name="cXenseParse:recs:category" content="Noticias/Chile"/>
+
+
+
+    <meta name="cXenseParse:pageclass" content="article"/>
+    <meta name="cXenseParse:recs:publishtime" content="2018-05-30T21:13:00Z"/>
+
+
+
+    <meta property="og:type" content="article" />
+    <meta property="fb:app_id" content="1009084795820552" />
+    <meta property="fb:admins" content="100010801890653" />
+    <meta property="fb:article_style" content="InstaART">
+    <meta property="og:title" content="Chile aprueba cambio de nombre y sexo sin cirug&iacute;a a los trans" />
+    <meta property="og:url" content="https://www.telesurtv.net/news/chile-transexuales-trans-cambio-de-sexo-nombre-sin-cirugia-20180530-0047.html" />
+    <meta property="og:description" content="La medida aprobada por la justicia chilena favorece&amp;nbsp;a transexuales adultos. Los menores entre 14 y 17 a&amp;ntilde;os deber&amp;aacute;n pasar por un proceso judicial." />
+
+
+
+            <meta property="og:image" content="https://www.telesurtv.net/__export/1527727340034/sites/telesur/img/news/2018/05/30/chile_transexuales_votacion.jpg_1810791533.jpg" />
+            <meta property="og:image" content="https://www.telesurtv.net/__export/1527727340034/sites/telesur/img/news/2018/05/30/chile_transexuales_votacion.jpg_1689854195.jpg" />
+
+
+
+
+
+
+    <!-- INICIA TWITTER CARD ESPAÑOL -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@teleSURtv">
+    <meta name="twitter:title" content="Chile aprueba cambio de nombre y sexo sin cirug&iacute;a a los trans">
+    <meta name="twitter:description" content="La medida aprobada por la justicia chilena favorece&amp;nbsp;a transexuales adultos. Los menores entre 14 y 17 a&amp;ntilde;os deber&amp;aacute;n pasar por un proceso judicial.">
+    <meta name="twitter:url" content="https://www.telesurtv.net/news/chile-transexuales-trans-cambio-de-sexo-nombre-sin-cirugia-20180530-0047.html">
+
+        <meta name="twitter:image:src" content="https://www.telesurtv.net/__export/1527727340034/sites/telesur/img/news/2018/05/30/chile_transexuales_votacion.jpg_1689854195.jpg" />
+
+    <!-- FINALIZA TWITTER CARD -->
+
+    <link rel="canonical" href="https://www.telesurtv.net/news/chile-transexuales-trans-cambio-de-sexo-nombre-sin-cirugia-20180530-0047.html"/>
+
+
+<!-- ADDS the justpremiun -->
+<script type="text/javascript" src="//us.ads.justpremium.com/adserve/js.php?zone=27524"></script>
+<script type="text/javascript" src="//mx.ads.justpremium.com/adserve/js.php?zone=27525"></script>
+<!-- fin adds justpremiun -->
+
+<!--<meta property="article:publisher" content="https://www.facebook.com/teleSUR" />-->
+
+
+
+
+<script type="text/javascript" src="/__export/1487033997347/system/modules/com.tfsla.diario.telesur/resources/js/jquery.flexslider.js"></script>
+<script type="text/javascript" src="/__export/1487034094460/system/modules/com.tfsla.diario.telesur/resources/js/jquery.ulslide.js_1992174.js"></script>
+<script type="text/javascript" src="/__export/1487034250787/system/modules/com.tfsla.diario.telesur/resources/js/slides.min.jquery.js"></script>
+<script type="text/javascript" src="/__export/1487035824443/system/modules/com.tfsla.diario.telesur/resources/jsmodal/jquery.fancybox.js_1568093878.js"></script>
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+
+<link href='https://fonts.googleapis.com/css?family=Arimo:400,700,400,italic' rel='stylesheet' type='text/css'>
+<link href="/__export/1487029440047/system/modules/com.tfsla.diario.telesur/resources/css/reset.css" rel="stylesheet" type="text/css" />
+<link href="/__export/1526862474158/system/modules/com.tfsla.diario.telesur/resources/css/css.css" rel="stylesheet" type="text/css" />
+<link href="/__export/1487029398361/system/modules/com.tfsla.diario.telesur/resources/css/flexslider.css" rel="stylesheet" type="text/css" media="screen" />
+
+
+
+<!-- FlexSlider -->
+<script src="/__export/1487033997347/system/modules/com.tfsla.diario.telesur/resources/js/jquery.flexslider.js"></script>
+
+<script type="text/javascript">
+    $(window).load(function () {
+
+        $('.flexslider').flexslider({
+            animation: "slide",
+            animationLoop: false,
+            itemWidth: 420,
+            itemHeight: 265,
+            itemMargin: 20,
+            pausePlay: false,
+            start: function (slider) {
+                $('body').removeClass('loading');
+            }
+        });
+
+        $('.simpleSlide').flexslider({
+            animation: "slide",
+            start: function (slider) {
+                $('body').removeClass('loading');
+            }
+        });
+    });
+</script>
+
+
+
+
+
+<!-- slide horizontal agenda. blog analysis article opinion -->
+<!-- Vertical Carrousel -->
+<script type="text/javascript">
+    $(function () {
+        $('#slideVerticalBlog1').ulslide({
+            width: 368,
+            height: 125,
+            effect: {
+                type: 'carousel', // slide or fade
+                axis: 'y', // x, y
+                showCount: 5
+            },
+            nextButton: '#slide_next1',
+            prevButton: '#slide_prev1',
+            duration: 800,
+        });
+        $('#slideVerticalBlog2').ulslide({
+            width: 368,
+            height: 125,
+            effect: {
+                type: 'carousel', // slide or fade
+                axis: 'y', // x, y
+                showCount: 5
+            },
+            nextButton: '#slide_next2',
+            prevButton: '#slide_prev2',
+            duration: 800,
+        });
+        $('#slideVerticalBlog3').ulslide({
+            width: 368,
+            height: 125,
+            effect: {
+                type: 'carousel', // slide or fade
+                axis: 'y', // x, y
+                showCount: 5
+            },
+            nextButton: '#slide_next3',
+            prevButton: '#slide_prev3',
+            duration: 800,
+        });
+    });
+</script>
+
+
+<!-- live box -->
+<script type="text/javascript">
+    $(window).load(function () {
+        //if
+        $(function () {
+            $('#header .nav ul li a.select').parent('li').css('border', 'none');
+            $('#header .nav ul li a.select').parent('li').prev().css('border', 'none');
+        });
+    });
+    $(document).ready(function () {
+        $('body img').last().css('height', '0px');
+    });
+    $(document).ready(function () {
+        $(".subscrip").click(function () {
+            $("#div1").fadeToggle();
+        });
+    });
+    $(document).ready(function () {
+        $(".btnLive").click(function () {
+            $("#slive").fadeToggle(0);
+
+        });
+    });
+    $(document).ready(function () {
+        $(".embedlive").click(function () {
+            $("#embedbox").fadeToggle(0);
+        });
+    });
+</script>
+
+
+
+
+
+<!-- Cxense script begin -->
+<div id="cX-root" style="display:none"></div>
+<script type="text/javascript">
+    var cX = cX || {};
+    cX.callQueue = cX.callQueue || [];
+    cX.callQueue.push(['setSiteId', '9222352440756601877']);
+    cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+    (function () {
+        try {
+            var scriptEl = document.createElement('script');
+            scriptEl.type = 'text/javascript';
+            scriptEl.async = 'async';
+            scriptEl.src = ('https:' == location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+            var targetEl = document.getElementsByTagName('script')[0];
+            targetEl.parentNode.insertBefore(scriptEl, targetEl);
+        } catch (e) {
+        }
+        ;
+    }());
+</script>
+<!-- Cxense script end -->
+
+<!-- Derecho de Autor -->
+
+    <script type="text/javascript">
+        function addLink() {
+            var body_element = document.getElementsByTagName('body')[0];
+            var selection;
+            selection = window.getSelection();
+            var pagelink = "<br /><br /> Este contenido ha sido publicado originalmente por teleSUR bajo la siguiente dirección: <br /> <a href='" + document.location.href + "'>" + document.location.href + "</a>. Si piensa hacer uso del mismo, por favor, cite la fuente y coloque un enlace hacia la nota original de donde usted ha tomado este contenido. www.teleSURtv.net";
+            var copytext = selection + pagelink;
+            var newdiv = document.createElement('pre');
+            newdiv.style.position = 'absolute';
+            newdiv.style.left = '-99999px';
+            body_element.appendChild(newdiv);
+            newdiv.innerHTML = copytext;
+            selection.selectAllChildren(newdiv);
+            window.setTimeout(function () {
+                body_element.removeChild(newdiv);
+            }, 0);
+        }
+    //document.oncopy = addLink;
+    </script>
+
+<!-- FIN Derecho de Autor -->
+<script>
+    var device = navigator.userAgent
+    var movil = device.match(/Iphone/i) ||
+            device.match(/Ipod/i) ||
+            device.match(/Android/i) ||
+            device.match(/J2ME/i) ||
+            device.match(/BlackBerry/i) ||
+            device.match(/iPhone|iPad|iPod/i) ||
+            device.match(/Opera Mini/i) ||
+            device.match(/IEMobile/i) ||
+            device.match(/Mobile/i) ||
+            device.match(/Windows Phone/i) ||
+            device.match(/windows mobile/i) ||
+            device.match(/windows ce/i) ||
+            device.match(/webOS/i) ||
+            device.match(/palm/i) ||
+            device.match(/bada/i) ||
+            device.match(/series60/i) ||
+            device.match(/nokia/i) ||
+            device.match(/symbian/i) ||
+            device.match(/HTC/i);
+</script>
+
+<!-- Kalooga script code for telesurtv.net -->
+<script type="text/javascript">
+	(function(){
+	    var d=document,k="kalooga",s="script",n=d.createElement(s),f=d.getElementsByTagName(s)[0];
+	    n.async=true;n.type="text/java"+s;n.src="//publishing.kaloo.ga/acct/8745.js";
+	    f.parentNode.insertBefore(n,f);
+	})();
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+.popUp {position:fixed;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;top:0px;display:none;}
+.popUp .wpIframe {width:600px;;background:#FFF;box-shadow:#000 0px 0px 20px;left:50%;margin-left:-310px;top:50%;position:fixed;margin-top:-250px;z-index:999; padding-bottom:20px;}
+.popUp .wpClose {background: none repeat scroll 0 0 #1A2042;height: 33px;left: 50%;margin-left: -310px;margin-top: -283px; position: absolute;top: 50%;width: 600px;z-index: 9999;}
+</style>
+
+<div id="popup_reportar" class="popUp ajax2" style="display:none"> <!-- INI popup_reportar -->
+	<div id="tope">
+
+			<div id="popupReportarContent" class="popUp well" style="display:block">
+
+				<div class="wpClose" >
+					<p style="float: left; padding:10px; display:inline-block; color:white">Reportar Comentarios</p>
+					<a onclick="hidePopupReportarComentario()" class="close" title="Cerrar">
+						<p style="float: right; padding:10px; display:inline-block; color:white; cursor:pointer;">Cerrar</p>
+					</a>
+				</div>
+
+				<div class="wpIframe">
+					<h2>Reportar un comentario</h2>
+					<p>Estás reportando este comentario a la redacción</p>
+
+					<div id="mensajeError" class="alert alert-error" style="display:none">
+						<p>Debes completar todos los campos obligatorios para poder continuar.</p>
+					</div>
+
+					<p> Los campos (*) son obligatorios</p>
+
+					<form class="well" name="reportarComentarioForm" method="post" action="/contenidos/2018/05/30/noticia_0047.html" onsubmit="javascript:enviearReporte()">
+
+						<div class="control-group">
+							<label class="control-label" for="motivoReporteComentario">¿Por qué quieres reportar este comentario?:</label>
+							<div class="controls">
+								<select id="motivoReporteComentario" name="motivoReporteComentario">
+									<option value="seleccionar_asunto">Seleccionar un asunto...</option>
+									<option value="0">Abuso personal</option>
+									<option value="1">Ofensivo</option>
+									<option value="2">Lenguaje inapropiado</option>
+									<option value="3">Datos erróneos</option>
+									<option value="4">Spam</option>
+									<option value="5">Copyrights</option>
+									<option value="6">Asuntos legales</option>
+								</select>
+								<span>*</span>
+							</div>
+						</div>
+						<div class="control-group">
+							<label class="control-group">Agrega algo más a tu reporte:</label>
+							<textarea class="input-xlarge" id="reporteAgregado" name="reporteAgregado"></textarea>
+						</div>
+
+						<div class="form-actions">
+							<button type="submit" class="btn btn-primary" name="submit_contact" id="submit_contact" > ENVIAR </button>
+							<button type="reset" class="btn btn-primary" name="submit_contact" id="submit_contact" onclick="hidePopupReportarComentario()"> Cancelar </button>
+						</div>
+						<input id="idComentarioReportado" type="hidden" name="idComentarioReportado" value=""/>
+					</form>
+			    	</div>
+			</div> <!-- FIN popupReportarContent -->
+
+			<div id="reporteExitoso" class="popUp well" style="display:none"> <!-- INI reporteExitoso -->
+				<div class="wpClose" >
+					<p style="float: left; padding:10px; display:inline-block; color:white">Reportar Comentarios</p>
+					<a onclick="hidePopupReportarComentario()" class="close" title="Cerrar">
+						<p style="float: right; padding:10px; display:inline-block; color:white; cursor:pointer;">Cerrar</p>
+					</a>
+				</div>
+
+				<div class="wpIframe">
+
+					<p>Tu mensaje ha sido enviado con éxito.</p>
+
+					<div class="form-actions">
+						<button type="reset" class="btn btn-primary" name="submit_contact" id="submit_contact" onclick="hidePopupReportarComentario()"> Cerrar </button>
+					</div>
+				</div>
+
+
+			</div> <!-- FIN reporteExitoso -->
+
+	</div> <!-- FIN tope -->
+</div> <!-- FIN popup_reportar -->
+
+</head>
+
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+var showSignal = false;
+  function mostrar_ocultar() {
+	  // cambia de true a false o de false a true
+	  showSignal = !showSignal;
+
+	  if (showSignal){
+	    document.getElementById("cajaPlayerUltra").style.display="block";
+	    document.getElementById("cajaPlayerUltra").innerHTML='<iframe width="100%" height="455" align="middle" frameborder="0" mozallowfullscreen="" webkitallowfullscreen="" scrolling="no" allowfullscreen="" id="envivoid" name="envivo" src="https://mblive.telesur.ultrabase.net"></iframe>';
+
+	  }
+	  else {
+	    document.getElementById("cajaPlayerUltra").style.display="none";
+	    document.getElementById("cajaPlayerUltra").innerHTML=" ";
+	    document.getElementById("cajaPlayerUltraAudio").style.display="none";
+	    document.getElementById("cajaPlayerUltraAudio").innerHTML=" ";
+
+	  }
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header id="header">
+	<div class="wrap">
+		<!-- En home no se ve esto: -->
+
+			<div class="sectionName">Nota</div>
+
+
+		<div class="barTop">
+			<div class="btnLang">
+					<a href="/english/index.html">English</a>
+		</div>
+
+		<div class="barTopRSS">
+				<div class="btnLogoRSS">
+				<a href="/pages/rss.html">
+				<img style="float:left;" src="/arte/RSS-icon.png" width="20px" heigth="20px" /></a>
+				</div>
+				<div class="btnLangRSS">
+				<a href="/pages/rss.html">RSS</a>
+				</div>
+		</div>
+
+		<div class="barTopAPP">
+				<div class="btnLogoAPP">
+				<a href="/pages/aplicaciones.html" >
+				<img style="float:left;" src="/arte/mobile-icon.png" width="20px" heigth="20px" /></a>
+				</div>
+				<div class="btnLangAPP">
+				<a href="/pages/aplicaciones.html">APPS</a>
+				</div>
+		</div>
+
+			<!-- language -->
+			<div class="dateHead">
+				<span>30 mayo</span>
+
+			</div>
+
+			<!-- date time -->
+			<div class="sesionHead" style="display: flex;">
+				<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Modal -->
+	<div class="modal-body" style="display: inline-flex;">
+		<div class="logIn">
+			<div class="modal" id="modal-user">
+				<div class="modal-dialog">
+					<div class="modal-header">
+						<div>Ingresa a teleSUR</div>
+			      			<a href="#" class="btn-close">×</a>
+			    		</div>
+
+			    		<div class="wpLog">
+						<div style="padding: 20px; display: block;">
+
+					      		<form class="formulario" id="login">
+
+								<div class="">
+									<input type="text"  id="cal_login_username" name="cal_login_username" placeholder="Usuario*" onclick="validUser();">
+								</div>
+								<div class="">
+									<input type="password"  id="cal_login_password" name="cal_login_password" placeholder="Contraseña*" onclick="validPass();">
+								</div>
+								<div id="valid-form-user"></div>
+
+								<div class="checkline row clear">
+									<div class="squaredThree">
+										<input type="checkbox" name="rememberMe" id="rememberMe" checked>
+										<label for="rememberMe"></label>
+									</div>
+									<div class="txtregister">Recordar mi usuario</div>
+								</div>
+
+								<div>
+									<button id="form-login-submit" class="" data-sendlogin>Enviar</button>
+									<a href="#" class="btn-close-modal">Cancelar</a>
+								</div>
+							</form>
+						</div>
+						<div>
+							<a href="/usuarios/recuperar_clave.html" class="olvideLogIn" >¿Olvidaste tu contraseña?</a>
+						</div>
+						<div style="display: inline-block; padding:10px 0px 10px">
+								<div style="padding: 0px 0px 10px 0px">
+									<span>o ingresa con:</span>
+								</div>
+
+
+									<a onclick="javascript:CMS.social.login('twitter', false, '8', 'telesur');" class="btnTwit">
+										<img src="/export/sites/telesur/arte/ico-twitter.png_537028990.png" width="38" height="31" alt="twitter" />
+									</a>
+									<a onclick="javascript:CMS.social.login('facebook', false, '8', 'telesur');" class="btnFace">
+										<img src="/export/sites/telesur/arte/ico-facebook.png_1233475963.png" width="18" height="36" alt="facebook" />
+									</a>
+									<a onclick="javascript:CMS.social.login('googlePlus', false, '8', 'telesur' );" class="btnGPlus">
+										<img src="/export/sites/telesur/arte/ico-google.png_727077848.png" width="39" height="38" alt="google plus" />
+									</a>
+
+						</div>
+					</div>
+
+
+					<div class="modal-footer">
+						<div>
+							<a href="/usuarios/registro.html" class="btnReg">Regístrate</a>
+						</div>
+			      		</div>
+			      	</div>
+			</div>
+		</div>
+	</div>
+
+
+<script type="text/javascript" src="/__export/1489951383245/system/modules/com.tfsla.diario.telesur/resources/js/loginAndLogout.js"></script>
+
+
+				<div class="sessionUser">
+
+				</div>
+
+				<div class="searchHead">
+					<form action="/buscar.html" method="post">
+						<input type="text" name="search_form" value="" placeholder="Buscar">
+						<input type="submit" name="enviar" value="">
+					</form>
+				</div>
+			</div>
+			<!-- Iniciar sesión -->
+		</div>
+
+		<!-- BAR TOP -->
+		<div class="barMid">
+			<!--<a href="/index.html" class="logo">
+				<div class="isoLogo"><img src="/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" width="58" height="65" alt="Telesur" /></div>
+				<div class="tipoLogo"><img src="/export/sites/telesur/arte/logo-tipo-telesur.png_1578350673.png" width="92" height="21" alt="Telesur" /></div>
+			</a>-->
+			<a href="/index.html" class="logo">
+				<div class="isoLogo"><img src="/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" width="58" height="65" alt="Telesur" /></div>
+				<div class="tipoLogo"><img src="/export/sites/telesur/arte/Espanxol-Logo-Telesur-Web.png_1571705870.png" width="98" height="37" alt="Telesur" /></div>
+			</a>
+
+
+			<div class="button-red large">
+			            <div class="pulse-box">
+			               <div class="pulse-white"></div>
+			            </div>
+
+			            <a href="#.">&nbsp;en vivo</a>
+
+		        </div>
+			<!--
+			<div class="vivo">
+
+				<a href="#.">en vivo</a>
+			</div>
+			-->
+		</div>
+
+		<!-- BAR MIDDLE -->
+		<nav>
+			<i><span></span><span></span><span></span></i>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul>
+	<li><a href="#"  >inicio</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<li class="actv">
+
+
+						<a class="actv"  href="/seccion/news/index.html" class="select"  target="_self"  title="Noticias">Noticias</a>
+
+
+
+
+
+
+
+						<ul class="subMob"><!--Submenu Mobile-->
+
+
+
+
+
+
+
+
+
+
+										<li><a class="" href="/SubSecciones/news/latinaamerica/index.html" target="_self"  title="Latinoamérica y el Caribe">Latinoamérica y el Caribe</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+										<li><a class="" href="/SubSecciones/news/world/index.html" target="_self"  title="Mundo">Mundo</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+										<li><a class="" href="/SubSecciones/news/sport/index.html" target="_self"  title="Deportes">Deportes</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+										<li><a class="" href="/SubSecciones/news/culture/index.html" target="_self"  title="Cultura">Cultura</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+										<li><a class="" href="/SubSecciones/news/tecnologia/index.html" target="_self"  title="Tecnología">Tecnología</a></li>
+
+
+
+
+
+
+
+						</ul>
+
+				</li>
+
+
+
+
+
+
+
+
+
+				<li class="">
+
+
+
+
+						<a class="" href="http://videos.telesurtv.net/"  title="Videos">Videos</a>
+
+
+
+
+
+				</li>
+
+
+
+
+
+
+
+
+
+				<li class="">
+
+
+						<a class=""  href="/seccion/multimedia/index.html"  target="_self"  title="Multimedia">Multimedia</a>
+
+
+
+
+
+
+
+				</li>
+
+
+
+
+
+
+
+
+
+				<li class="">
+
+
+						<a class=""  href="/seccion/opinion/index.html"  target="_self"  title="Opinión">Opinión</a>
+
+
+
+
+
+
+
+				</li>
+
+
+
+
+
+
+
+
+
+				<li class="">
+
+
+						<a class=""  href="/seccion/blog/index.html"  target="_self"  title="Blogs">Blogs</a>
+
+
+
+
+
+
+
+				</li>
+
+
+
+
+
+
+
+
+
+				<li class="">
+
+
+						<a class=""  href="/seccion/imreporter/index.html"  target="_self"  title="Soy Reportero">Soy Reportero</a>
+
+
+
+
+
+
+
+				</li>
+
+
+
+
+
+
+
+
+
+				<li class="">
+
+
+						<a class=""  href="/seccion/programas/index.html"  target="_self"  title="Programas">Programas</a>
+
+
+
+
+
+
+
+				</li>
+
+
+
+</ul>
+
+			<a href="#" class="btnBoletin" >Suscríbete al Boletín</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div id="suscrip" class="activ">
+		<h5><i><span></span></i>Suscríbete al Boletín
+			<img  src="/export/sites/telesur/arte/closeLog.jpg_1034155529.jpg" width="30" height="30" alt="Telesur" class="closeLog" /></h5>
+			<div class="wpSus">
+				<form name="Principal" id="Principal" method="post" enctype="multipart/form-data" onsubmit="return ValidarHeader();">
+					<input id="email" class="inputbox" type="text" placeholder="Correo electrónico"  name="email" size="30" maxlength="255" />
+					<input id="subscribe1" type="submit" value="Suscríbete" name="boton1" />
+
+
+				</form>
+				<div id="RegistroPrincipal" class="validarForm msjerror" style="display: none; clear:both;z-index:9999">
+				</div>
+			</div>
+		</div>
+
+	 <script type="text/javascript"> //script que envia los datos al template TS_DMDS
+	 	$(function () {
+	 	jQuery.fn.reset = function () {
+	 	$(this).each(function () {
+	 	this.reset();
+	 	});
+	 }
+	 	$("#subscribe1").click(function () {
+	 	var dataString = $('#Principal').serialize();
+	            if (email == "") { }
+	            	else  {
+	                         var url = "/system/modules/com.tfsla.diario.telesur/templates/TS_DMDS.jsp"; // El script a dónde se realizará la petición.
+	                         $.ajax({
+	                            type: "POST",
+	                            url: url,
+				    data: dataString, // datos serializados
+				    async: false,
+				    dataType: "text",
+				    success: function (data){
+					 $("#RegistroPrincipal").css("display", "block");
+					 	var n = data.search("111");
+					 	if(n==-1){
+					 		var y = data.search("0 relaciones nuevas");
+					 		if(y==-1){
+					 			$("#RegistroPrincipal").css("background-color", "#1A2042");
+					 			$("#RegistroPrincipal").html("Su correo ha sido registrado exitosamente");
+					 		}
+					 		else{
+					 			$("#RegistroPrincipal").html("Esta dirección de correo ya se encuentra registrada");
+					 		}
+					 	}
+					 	else if (n>-1){
+					 		$("#RegistroPrincipal").html("El correo que ha ingresado es incorrecto");
+					 	}
+
+					 	$("#Principal").reset();
+					 }
+					});
+					                        }
+					                        return false;
+					                    });
+					 	});
+
+	 </script>
+
+
+		</nav>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<div class="subMenu">
+						<div class="wrap">
+
+
+
+					<a  class="" href="/SubSecciones/news/latinaamerica/index.html" target="_self"  title="Latinoamérica y el Caribe">
+						Latinoamérica y el Caribe
+					</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<a  class="" href="/SubSecciones/news/world/index.html" target="_self"  title="Mundo">
+						Mundo
+					</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<a  class="" href="/SubSecciones/news/sport/index.html" target="_self"  title="Deportes">
+						Deportes
+					</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<a  class="" href="/SubSecciones/news/culture/index.html" target="_self"  title="Cultura">
+						Cultura
+					</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<a  class="" href="/SubSecciones/news/tecnologia/index.html" target="_self"  title="Tecnología">
+						Tecnología
+					</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+				</div>	<!--wrap -->
+			</div>	<!--subMenu -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div class="diaryHead">
+
+			<div class="wrap">
+			<div class="agendaHome">
+			<a href="/seccion/telesur_agenda" class="agendaSeccion"/> <strong>En Profundidad</strong> </a>
+
+			<div class="agendaTit">
+
+
+        		<a itemprop="name headline" href="/news/elecciones-venezuela-nicolas-maduro-fraude-triunfo-asamblea-20180520-0092.html" title="Triunfos electorales del chavismo">
+        		Triunfos electorales del chavismo
+        		</a>
+
+
+
+
+
+
+
+
+        		<a itemprop="name headline" href="/news/colombia-amenazas-hidroituango-comunidades-rio-cauca-20180511-0040.html" title="Amenazas de Hidroituango">
+        		Amenazas de Hidroituango
+        		</a>
+
+
+
+
+
+
+
+
+        		<a itemprop="name headline" href="/telesuragenda/-Cronologia-Negociaciones-del-Gobierno-colombiano-con-el-ELN-20180110-0050.html" title="Diálogo ELN-Gobierno">
+        		Diálogo ELN-Gobierno
+        		</a>
+
+
+
+
+
+
+
+
+        		<a itemprop="name headline" href="/telesuragenda/gasto-militar-mundial-eeuu-intervencion-guerras-pobreza-20180502-0031.html" title="Gasto militar mundial">
+        		Gasto militar mundial
+        		</a>
+
+
+
+				</div>
+				</div>
+				<ul class="redes">
+					<li><a title="facebook" target="_blank" rel="nofollow" href="http://facebook.com/teleSUR"><img src="/export/sites/telesur/arte/redes/facebook.png_1824527817.png" width="25" height="25" alt="facebook" /></a></li>
+					<li><a title="twitter" target="_blank" rel="nofollow" href="http://twitter.com/teleSURtv"><img src="/export/sites/telesur/arte/redes/twitter.png_1824527817.png" width="25" height="25" alt="twitter" /></a></li>
+					<li><a title="Google Plus" target="_blank" rel="nofollow" href="https://plus.google.com/118206615613074383260/posts"><img src="/export/sites/telesur/arte/redes/gplus.png_1824527817.png" width="25" height="25" alt="Google Plus" /></a></li>
+					<li><a title="Instagram" target="_blank" rel="nofollow" href="http://instagram.com/telesurtv"><img src="/export/sites/telesur/arte/redes/instagram.png_1824527817.png" width="25" height="25" alt="Instagram" /></a></li>
+					<li><a title="Pinteres" target="_blank" rel="nofollow" href="http://www.pinterest.com/telesurtv/"><img src="/export/sites/telesur/arte/redes/pinterest.png_1824527817.png" width="25" height="25" alt="Pinteres" /></a></li>
+					<li><a title="YouTube" rel="nofollow" href="https://www.youtube.com/user/telesurtv"><img src="/export/sites/telesur/arte/redes/youtube.png_1824527817.png" width="25" height="25" alt="YouTube" /></a></li>
+					<li><a title="Paper.li" rel="nofollow" href="http://paper.li/~/publisher/1e8f8470-82e8-012f-25ad-12313d16b843"><img src="/export/sites/telesur/arte/redes/paperli.png_1824527817.png" width="25" height="25" alt="Paper.li" /></a></li>
+
+				</ul>
+			</div>
+		</div>
+
+
+
+
+
+
+</header>
+
+
+
+
+
+
+    <!-- Container -->
+    <div id="container">
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/JavaScript">
+    var win = null;
+    function NewWindow(mypage,myname,w,h,scroll){
+    LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
+    TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
+    settings =
+    'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',resizable'
+    win = window.open(mypage,myname,settings)
+    }
+
+    function abrir2(url) {
+    open(url,'','top=70,left=120,width=445,height=500, scrollbars =NO, resizable=NO') ;
+    }
+    function MM_openBrWindow(theURL,winName,features) { //v2.0
+    window.open(theURL,winName,features);
+    }
+</script>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+
+jQuery(function( $ ) {
+      //drag and drog del player
+        $( function(){$( "#cajaPlayerUltra" ).draggable({ snap: true });});
+
+
+    $("#svivo").append('<iframe width="100%" height="455" align="middle" frameborder="0" mozallowfullscreen="" webkitallowfullscreen="" scrolling="no" allowfullscreen="" id="envivoid" name="envivo" src="https://mblive.telesur.ultrabase.net"></iframe>');
+        $("#tit-svivo").addClass("menuA");
+        if ((screen.width >= 320) && (screen.width <= 980)) {
+            $("#btn-svivo").css({ background: "#9a1212 !important" });
+    }
+
+        //señal en vivo
+        $("#btn-svivo").click(function () {
+            $("#cajaPlayerUltra").html('<iframe width="100%" height="455" align="middle" frameborder="0" mozallowfullscreen="" webkitallowfullscreen="" scrolling="no" allowfullscreen="" id="envivoid" name="envivo" src="https://mblive.telesur.ultrabase.net"></iframe>');
+            $("#cajaPlayerUltraAudio").html("");
+            $("#cajaPlayerUltraAudio").css("display", "none");
+            $("#cajaPlayerUltra").css("display", "block");
+            $("#tit-svivo").addClass("menuA");
+            $("#tit-saudio").removeClass("menuA");
+        });
+
+        //solo audio
+        $("#btn-saudio").click(function () {
+            $("#cajaPlayerUltraAudio").html("");
+            $("#cajaPlayerUltraAudio").append('<iframe width="100%" height="100%" align="middle" frameborder="0" mozallowfullscreen="" webkitallowfullscreen="" allowfullscreen="" id="envivoid" name="envivo" src="http://mblive.telesur.ultrabase.net/audioonly.php"></iframe>');
+            $("#cajaPlayerUltra").html("");
+            $("#cajaPlayerUltra").css("display", "none");
+            $("#cajaPlayerUltraAudio").css("display", "block");
+            $("#tit-saudio").addClass("menuA");
+            $("#tit-svivo").removeClass("menuA");
+        });
+});
+function myFunction() {
+ $('#cajaPlayerUltra').animate({'width':'520px','height':'395px','max-height':'395px','margin-left':'5px','left':'0px','top':'0px' },100).removeClass('fixedlive');
+}
+        var offscroll = false;
+      jQuery(function( $ ) {$( "#cajaPlayerUltra" ).draggable({ snap: true });});
+
+        //animacion de la caja del player con relacion a la posicion,
+        $(window).scroll(function() {
+            var scroll = $(window).scrollTop();
+            var offsetplayer =  $('#cajaPlayerUltra').offset().top;
+            if (scroll >= offsetplayer) {
+                $('#cajaPlayerUltra').animate({'width':'300px','height':'248px !important','position': 'fixed','max-height':'248px','margin-left':'5px','top':'100px','left':'25px'},10).addClass('fixedlive');
+               $('#cajaPlayerUltra').append('<a href="#" class="closePlay"></a>');
+                  $('#envivoid').css({'max-height':'248px !important'});
+                offscroll = true;
+            }
+            if(scroll < 200 && offscroll){
+                offscroll = false;
+                $('.closePlay').remove();
+                myFunction();
+            }
+        });
+</script>
+
+<div id="liveBox">
+    <div class="wrap">
+            <div id="cajaPlayerUltra" class="draggable ui-widget-content"></div>
+        <div class="bannerVivo">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div id='div-gpt-ad-1465262063828-0'>
+                <script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465262063828-0'); });
+                </script>
+            </div>
+        </div>
+         <div id="cajaPlayerUltraAudio" style="display: none;"> </div>
+        <div class="cajadevideo">
+    <!--<div class="video" style="padding-bottom: 20%;"></div>-->
+        </div>
+        <div class="liveRedes">
+            <ul>
+                <ul>
+                    <li class="soloaudioli soloaudioliHead"><a id="btn-svivo" href="#"><img src="/export/sites/telesur/arte/ico-en-vivo.png" width="18" height="18" alt=""></a> <span id="tit-svivo">Señal en Vivo</span></li>
+                    <li class="soloaudioli soloaudioliHead"><a  id="btn-saudio" href="#"><img src="/arte/AUDIO_.png" width="18" height="18" alt=""></a> <span id="tit-saudio">Solo Audio</span></li>
+                </ul>
+                <li><a onclick="NewWindow('https://plus.google.com/share?url=http://goo.gl/13O8rM', 'playerrr', '600', '600', 'no');
+                        return false;" href='#.' style="text-align:right"><img src="/export/sites/telesur/arte/ico-google.png_1288887223.png" width="18" height="18" alt="google plus" /></a></li>
+                <li><a onclick="NewWindow('http://www.facebook.com/sharer.php?u=http://goo.gl/13O8rM&text=Conectate a teleSUR en streaming', 'playerrr', '600', '600', 'no');
+                        return false;" href='#.'><img src="/export/sites/telesur/arte/ico-facebook.png_391951807.png" width="9" height="18" alt="facebook" /></a></li>
+                <li><a onclick="NewWindow('http://twitter.com/share?url=http://goo.gl/13O8rM&text=Conectate a teleSUR en streaming', 'playerrr', '600', '600', 'no');
+                        return false;" href='#.' ><img src="/export/sites/telesur/arte/ico-twitter.png_1906757552.png" width="22" height="18" alt="twitter" /></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+        <!--iframe vacio-->
+
+
+            <!--wrapper-->
+            <div class="wrapper">
+
+             <div class="sharemob">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="at-custom-mobile-bar atss-bottom at-shfs-small addthis-animated slideInUp" style="background: rgba(000, 00, 54, 0); border: 1px solid #cccccc;" addthis:title='Dopaje, la presencia de sustancias prohibidas en el deporte' addthis:url="http://www.telesurtv.net/telesuragenda/Dopaje-en-el-deporte-20160307-0067.html" >
+	<div class="at-custom-mobile-bar-btns">
+		<a class="addthis_button_compact"><span class="at-icon-wrapper" style="background-color: rgb(255, 101, 80); border-radius: 48%;">
+		<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" title="More" alt="More" class="at-icon at-icon-addthis" style="fill: rgb(255, 255, 255); width: 24px; height: 24px;"><g><path d="M18 14V8h-4v6H8v4h6v6h4v-6h6v-4h-6z" fill-rule="evenodd"></path></g></svg></span>
+		</a>
+		<a class="addthis_button_facebook"><span class="at-icon-wrapper" style="background-color: rgb(59, 89, 152); border-radius: 48%;">
+		<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" title="Facebook" alt="Facebook" class="at-icon at-icon-facebook" style="fill: rgb(255, 255, 255); width: 24px; height: 24px;"><g><path d="M22 5.16c-.406-.054-1.806-.16-3.43-.16-3.4 0-5.733 1.825-5.733 5.17v2.882H9v3.913h3.837V27h4.604V16.965h3.823l.587-3.913h-4.41v-2.5c0-1.123.347-1.903 2.198-1.903H22V5.16z" fill-rule="evenodd"></path></g></svg></span>
+		</a>
+		<a class="addthis_button_whatsapp"><span class="at-icon-wrapper" style="background-color: rgb(77, 194, 71); border-radius: 48%;">
+		<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" title="WhatsApp" alt="WhatsApp" class="at-icon at-icon-whatsapp" style="fill: rgb(255, 255, 255); width: 24px; height: 24px;"><g><path d="M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.817 0 2.15-.515 2.478-1.318.13-.33.244-.73.244-1.088 0-.058 0-.144-.03-.215-.1-.172-2.434-1.39-2.678-1.39zm-2.908 7.593c-1.747 0-3.48-.53-4.942-1.49L7.793 24.41l1.132-3.337a8.955 8.955 0 0 1-1.72-5.272c0-4.955 4.04-8.995 8.997-8.995S25.2 10.845 25.2 15.8c0 4.958-4.04 8.998-8.998 8.998zm0-19.798c-5.96 0-10.8 4.842-10.8 10.8 0 1.964.53 3.898 1.546 5.574L5 27.176l5.974-1.92a10.807 10.807 0 0 0 16.03-9.455c0-5.958-4.842-10.8-10.802-10.8z" fill-rule="evenodd"></path></g></svg></span>
+		</a>
+		<a class="addthis_button_twitter"><span class="at-icon-wrapper" style="background-color: rgb(29, 161, 242); border-radius: 48%;">
+		<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" title="Twitter" alt="Twitter" class="at-icon at-icon-twitter" style="fill: rgb(255, 255, 255); width: 24px; height: 24px;"><g><path d="M27.996 10.116c-.81.36-1.68.602-2.592.71a4.526 4.526 0 0 0 1.984-2.496 9.037 9.037 0 0 1-2.866 1.095 4.513 4.513 0 0 0-7.69 4.116 12.81 12.81 0 0 1-9.3-4.715 4.49 4.49 0 0 0-.612 2.27 4.51 4.51 0 0 0 2.008 3.755 4.495 4.495 0 0 1-2.044-.564v.057a4.515 4.515 0 0 0 3.62 4.425 4.52 4.52 0 0 1-2.04.077 4.517 4.517 0 0 0 4.217 3.134 9.055 9.055 0 0 1-5.604 1.93A9.18 9.18 0 0 1 6 23.85a12.773 12.773 0 0 0 6.918 2.027c8.3 0 12.84-6.876 12.84-12.84 0-.195-.005-.39-.014-.583a9.172 9.172 0 0 0 2.252-2.336" fill-rule="evenodd"></path></g></svg></span>
+		</a>
+	</div>
+</div>
+<script type="text/javascript">var addthis_share = { url_transforms : { shorten: { twitter: 'bitly'} }, shorteners : { bitly : {login:'telesur',apiKey:'R_8925c37a76786f9a5620d8c3f0f9e65c'} }}</script>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":false};</script>
+
+
+<script type="text/javascript" src=""></script>
+		</div>
+
+                <!-- side bar -->
+
+
+
+                <!-- Banner 1 -->
+                <div class="row clear marginchica">
+                    <div class="banners pos0">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						<div id='div-gpt-ad-1465261644610-0' ><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465261644610-0'); });//]]>--></script></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                    <div class="bannerMobile">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						<script type='text/javascript'><!--//<![CDATA[   var m3_u = (location.protocol=='https:'?'https://advert.telesurtv.net/publicidad/www/delivery/ajs.php':'http://advert.telesurtv.net/publicidad/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=17");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));   document.write ("&amp;loc=" + escape(window.location));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");//]]>--></script><noscript><a href='http://advert.telesurtv.net/publicidad/www/delivery/ck.php?n=a2df448d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://advert.telesurtv.net/publicidad/www/delivery/avw.php?zoneid=17&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2df448d' border='0' alt='' /></a></noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+
+
+
+
+                <div>
+                    <!-- Destacado -->
+                    <div class="row clear">
+
+                        <!-- inicio worldtop -->
+                        <div class="col-620 cont">
+
+                            <div class="nworldtop cont">
+                                <span class="itacaput">
+                                    <a href="/seccion/news" class="her" alt="Noticias" title="Noticias">Noticias</a>
+
+
+
+
+                                            <a href="/SubSecciones/news/latinaamerica/" class="her" alt="América Latina" title="América Latina"> > América Latina</a>
+
+
+
+
+                                </span>
+
+                                <div class="blue">
+                                    <a class="her"><h1>Chile aprueba cambio de nombre y sexo sin cirugía a los trans</h1></a>
+
+                                </div>
+
+
+
+
+                                <div class="capcredit">
+                                    <!--<a class="her">
+
+                                                    Sputnik Nóvosti - La Tercera<br/>
+
+                                    </a>-->
+                                </div>
+
+
+
+                            </div>
+
+
+                            <div class="vworldtop cont">
+                            <figure>
+                                <div class="bloque-multimedia world-1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="cont-tabs">
+		<ul class="idTabs">
+
+
+
+
+
+
+
+		</ul>
+	</div><!--tags-nota-int-->
+
+
+
+
+
+
+
+
+
+		<div id="fotos">
+			<!--<ul class="slides">-->
+
+			        		<!--<li itemscope class=".itemscope" itemtype="http://schema.org/ImageObject">	-->
+
+
+
+									<img itemprop="contentURL" src="../arte/grey.gif" data-original="/__export/1527727340034/sites/telesur/img/news/2018/05/30/chile_transexuales_votacion.jpg_1718483347.jpg" alt='El fallo fue celebrado por la comunidad LGTBI del país y por diversas organizaciones sociales.' class="kalooga_34297" title="El fallo fue celebrado por la comunidad LGTBI del país y por diversas organizaciones sociales. | Foto: La Prensa" width="600" height="340" />
+									<div class="caption" content='El fallo fue celebrado por la comunidad LGTBI del país y por diversas organizaciones sociales.'><h2>El fallo fue celebrado por la comunidad LGTBI del país y por diversas organizaciones sociales. | Foto: La Prensa</h2></div>
+
+
+
+
+						<!--</li>-->
+
+			<!--</ul>-->
+		</div>
+
+
+<script type="text/javascript">
+	$(window).load(function(){
+		//error
+		$('.prev, .next').removeAttr('style');
+	});
+
+	function StopVideos(){
+		var YTid;
+		$(".iframeYT").each(function() {
+			YTid = $(this).attr("id");
+			$('#'+YTid)[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
+			//YTid.stopVideo();
+		});
+
+	}
+
+	$(document).ready( function() {
+		$("body").on( "click", ".flex-next,.flex-prev", function() {
+			StopVideos();
+		});
+	});
+</script>
+
+
+                                </div>
+			   </figure>
+                                <div class="capworldtop">
+                                    <div class="caplw">
+
+
+
+        					<div class="capdate">Publicado  30 mayo 2018       <!--30-05-2018 21:13:00--></div>
+
+                                    </div>
+
+                            	<div class="barra-redes">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="barra-wrap" >
+		<div class="share-bar">
+			<ul>
+				<li>
+					<div class="gblogrs">
+						<div class="num"><span class="fb-comments-count" data-href="http://www.telesurtv.net/news/chile-transexuales-trans-cambio-de-sexo-nombre-sin-cirugia-20180530-0047.html"</span></div>
+						<img src="/export/sites/telesur/arte/globe-red.png_1583087600.png" width="31" height="27" title="Comentarios" alt="Comentarios" />
+					</div>
+				</li>
+				<li>
+					<a class="barra-coment" href="#comsup"  alt="Comentarios" title="Comentarios" >
+					<div class="share-desc">Comentarios</div>
+					</a>
+				</li>
+			</ul>
+			<div class="barra-addthis-contador" rel="nofollow">
+		            <div class="addthis_sharing_toolbox"></div>
+		            <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55aa85125863dd2c" async="async"></script>
+		            <script type="text/javascript">var addthis_share = { url_transforms : { shorten: { twitter: 'bitly'} }, shorteners : { bitly : {login:'telesur',apiKey:'R_8925c37a76786f9a5620d8c3f0f9e65c'} }}</script>
+			    <script type="text/javascript">var addthis_config = {"data_track_clickback":false};</script>
+			</div>
+		</div>
+
+		<div class="fontlinks">
+		<a href="javascript:increaseFontSize();"><img src="/export/sites/telesur/arte/font_size_up.png_1824376009.png" width="21" height="21" title="Aumenta tamaño de Texto" alt="Aumenta tamaño de Texto" /></a> - <a href="javascript:decreaseFontSize();"><img src="/export/sites/telesur/arte/font_size_down.png_1824376009.png" width="21" height="21" title="Disminuye tamaño de Texto" alt="Disminuye tamaño de Texto" /></a>
+		</div>
+</div>
+                               	     </div>
+
+
+
+                                    <div class="caprw">
+
+
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- fin worldtop -->
+
+
+                        <!-- inicio widget interno Cxense -->
+                        <div class="col-300">
+                            <div class="row clear">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="contRightC">
+	<div class="banners cont">
+		<div id='div-gpt-ad-1465261644610-1'>
+			<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465261644610-1'); });
+			</script>
+		</div>
+	</div>
+
+	<div class="cxenseINT">
+    		<!-- Cxense content widget: aRecInternaPrueba2 -->
+		<div id="cx_87101dee73d1e6b3f5260bc0017744d8bf24b39a" style="display:none"></div>
+		<script type="text/javascript">
+		    var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+		    cX.callQueue.push(['insertWidget', {
+		        widgetId: '87101dee73d1e6b3f5260bc0017744d8bf24b39a',
+		        insertBeforeElementId: 'cx_87101dee73d1e6b3f5260bc0017744d8bf24b39a',
+		        width: 300, height: 864, renderTemplateUrl: 'auto'
+		    }]);
+
+		    // Async load of cx.js
+		    (function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+		    e.src='http'+('https:'===location.protocol?'s://s':'://')+'cdn.cxense.com/cx.js';
+		    t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+		</script>
+		<!-- End of Cxense content widget -->
+	</div>
+
+	<div class="redesINT">
+		<script type='text/javascript' src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js' data-shr-siteid='f81b976078de83c071016bcb0dd63872' data-cfasync='false' async='async'></script>
+		<div class='shareaholic-canvas' data-app='follow_buttons' data-app-id='23817729'></div>
+	</div>
+
+	<div class="banners cont">
+		<div id='div-gpt-ad-1465261644610-2' >
+		<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465261644610-2'); });
+		</script>
+		</div>
+	</div>
+
+</div>
+<!--COLUMNA DERECHA -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-for"><!-- colmna izq col-for -->
+	<div class="row clear">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/__export/1487033642075/system/modules/com.tfsla.diario.telesur/resources/js/jquery-1.11.0.min.js"></script>
+<script src="//jwpsrv.com/library/HeeyEgeeEeS9bCIAC0MJiQ.js"></script>
+<script type="text/javascript" src="/__export/1509065992360/system/modules/com.tfsla.diario.telesur/resources/js/videos-fn.js"></script>
+<script>
+
+	jQuery(document).ready(function($){
+		$().GetCorresponsalINT();
+	});
+</script>
+<div class="correspo" >
+	<a href="//videos.telesurtv.net/videos/noticia/corresponsales"><h6>Videos</h6></a>
+	<ul class="listvideo" id="videoCorres">
+	</ul>
+</div>
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+	<div class="cont">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="blogBoxINT">
+
+
+		<article class="middleArt2">
+			<a href="http://www.telesurtv.net/seccion/blog/index.html"><div class="CintaBlog">Blogs</div></a>
+
+
+			<div class="box43">
+
+				<div class="wpXSmallImg">
+
+
+
+
+
+
+
+
+						<a href="/bloggers/-Golpe-del-FMI-al-gobierno-italiano-antisistema-palazzo-contra-piazza-y-pizza-20180530-0001.html" title="Golpe del FMI al gobierno italiano antisistema: “palazzo contra piazza y pizza”">
+							<img src="/__export/1527698626443/sites/telesur/img/multimedia/2018/05/30/018o1pol-1_mini.jpg_782479081.jpg" width='80' height='80' alt="Golpe del FMI al gobierno italiano antisistema: “palazzo contra piazza y pizza”" />
+						</a>
+
+
+				</div>
+				<div class="overflow">
+					<h3><a href="/bloggers/-Golpe-del-FMI-al-gobierno-italiano-antisistema-palazzo-contra-piazza-y-pizza-20180530-0001.html" title=' Golpe del FMI al gobierno italiano antisistema: “palazzo contra piazza y pizza”'> Golpe del FMI al gobierno italiano antisistema: “palazzo...</a></h3>
+
+
+						<p>por
+
+
+
+
+
+										<a href="/staff/ajalife" class="autor" alt="Alfredo Jalife" title="Alfredo Jalife">
+											 Alfredo Jalife
+										</a>
+										<meta content="Alfredo Jalife"/>
+
+
+
+
+
+						</p>
+
+
+
+				</div>
+			</div>
+
+
+
+
+
+			<div class="box43">
+
+				<div class="wpXSmallImg">
+
+
+
+
+
+
+						<a href="/bloggers/Prepara-Putin-una-sorpresa-a-EEUU-en-el-Caribe-20180529-0001.html" title="La Cámara baja del Parlamento ruso instó a la Asamblea General de la ONU a reclamar a Estados Unidos que ponga fin al bloqueo económico de más de medio siglo contra Cuba.">
+							<img src="/__export/1527597129945/sites/telesur/img/multimedia/2018/05/29/rusia_putin_plan_america_latina_reuters.jpg_782479081.jpg" width='80' height='80' alt="La Cámara baja del Parlamento ruso instó a la Asamblea General de la ONU a reclamar a Estados Unidos que ponga fin al bloqueo económico de más de medio siglo contra Cuba." />
+						</a>
+
+
+				</div>
+				<div class="overflow">
+					<h3><a href="/bloggers/Prepara-Putin-una-sorpresa-a-EEUU-en-el-Caribe-20180529-0001.html" title='¿Prepara Putin una sorpresa a EEUU en el Caribe?'>¿Prepara Putin una sorpresa a EEUU en el Caribe?</a></h3>
+
+
+						<p>por
+
+
+
+
+
+										<a href="/staff/ggorraiz" class="autor" alt="Germán Gorraiz López" title="Germán Gorraiz López">
+											 Germán Gorraiz López
+										</a>
+										<meta content="Germán Gorraiz López"/>
+
+
+
+
+
+						</p>
+
+
+
+				</div>
+			</div>
+
+
+
+
+
+			<div class="box43">
+
+				<div class="wpXSmallImg">
+
+
+
+
+
+
+
+
+						<a href="/bloggers/Migrar-muertos-en-vida-para-morir-mil-veces-mas--20180528-0004.html" title="Migrar muertos en vida para morir mil veces más">
+							<img src="/__export/1527516675910/sites/telesur/img/multimedia/2018/05/28/nixosmigrantes.jpg_782479081.jpg" width='80' height='80' alt="Migrar muertos en vida para morir mil veces más" />
+						</a>
+
+
+				</div>
+				<div class="overflow">
+					<h3><a href="/bloggers/Migrar-muertos-en-vida-para-morir-mil-veces-mas--20180528-0004.html" title='Migrar muertos en vida para morir mil veces más '>Migrar muertos en vida para morir mil veces más </a></h3>
+
+
+						<p>por
+
+
+
+
+
+										<a href="/staff/icorado" class="autor" alt="Ilka Oliva Corado" title="Ilka Oliva Corado">
+											 Ilka Oliva Corado
+										</a>
+										<meta content="Ilka Oliva Corado"/>
+
+
+
+
+
+						</p>
+
+
+
+				</div>
+			</div>
+
+
+
+
+
+			<div class="box43">
+
+				<div class="wpXSmallImg">
+
+
+
+
+
+
+
+
+						<a href="/bloggers/El-camino-del-fascismo-20180528-0003.html" title="El camino del fascismo">
+							<img src="/__export/1527512986596/sites/telesur/img/multimedia/2018/05/28/ato_em_boston_contra_extrema_direita_1112737.jpg_782479081.jpg" width='80' height='80' alt="El camino del fascismo" />
+						</a>
+
+
+				</div>
+				<div class="overflow">
+					<h3><a href="/bloggers/El-camino-del-fascismo-20180528-0003.html" title='El camino del fascismo'>El camino del fascismo</a></h3>
+
+
+						<p>por
+
+
+
+
+
+										<a href="/staff/cvasquez" class="autor" alt="Carolina Vásquez Araya" title="Carolina Vásquez Araya">
+											 Carolina Vásquez Araya
+										</a>
+										<meta content="Carolina Vásquez Araya"/>
+
+
+
+
+
+						</p>
+
+
+
+				</div>
+			</div>
+
+
+		</article>
+
+
+</div>
+
+
+
+     	</div>
+
+
+
+
+	<div class="row clear">
+		<div class="col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="contentBolFlot" id="bulletin" style="display:none;">
+	 	<div class="titBolFlot">
+	 		<img src="/export/sites/telesur/arte/logo-side.png_1193940013.png" width="65" height="14" title="teleSUR" alt="teleSUR" />
+	 		Boletines
+	 	</div>
+	 	<div class="bolimg">
+	 		<img src="/export/sites/telesur/arte/newsletter-icon.png_881579702.png" width="420" height="414" title="teleSUR" alt="teleSUR" />
+	 		<div class="parrafbol"><p>Recibe nuestros boletines de noticias directamente en tu bandeja de entrada</p></div>
+	 	</div>
+	 	<div class="formbol">
+	 		<form class="formbol" name="Bloque" id="Bloque" method="post" enctype="multipart/form-data" >
+	 			<input id="email" class="suscBolFlot" type="text" placeholder="Correo electrónico" onsubmit="return ValidarBloque();" name="email"  maxlength="255" />
+	 			<input id="subscribe3" class="btBolFlot" type="submit" value="Suscríbete" name="boton3"/>
+	 		</form>
+	 	</div>
+	 	<div id="nomostrar">
+			Ya me he suscrito | No volver a mostrar este mensaje.
+		</div>
+	 	<div id="RegistroBloque2" style="display: none; clear:both;">
+	 		<div id="msjReg"></div>
+	 		<div id="btnCerrar2" class="btnCerrar"></div>
+	 	</div>
+	 	<div id="btnCerrar1" class="btnCerrar"></div>
+	 </div>
+
+	 <script type="text/javascript">
+	 	if(!localStorage.mosBolFlot){
+	 		$(document).ready(function() {
+				setTimeout(function() {
+			        $(".contentBolFlot").fadeIn(1500);
+				},10000);
+
+				$("#btnCerrar1").click(function () {
+					setTimeout(function() {
+					$(".contentBolFlot").fadeOut(1500);
+				   	},500);
+			   	});
+
+			});
+	 		localStorage.setItem("mosBolFlot", "mostrarBol");
+	 	} else{
+	 		if(localStorage.mosBolFlot == "nomosBol"){
+				document.getElementById("bulletin").style.display = 'none';
+			} else {
+				if(localStorage.mosBolFlot == "mostrarBol"){
+					$(document).ready(function() {
+				 	   setTimeout(function() {
+			           	   $(".contentBolFlot").fadeIn(1500);
+					   },10000);
+				    	$("#btnCerrar1").click(function () {
+						setTimeout(function() {
+						$(".contentBolFlot").fadeOut(1500);
+					   	},200);
+			   		});
+					});
+					$("#nomostrar").click(function(){
+	 					localStorage.setItem("mosBolFlot", "nomosBol");
+	 					setTimeout(function() {
+						$(".contentBolFlot").fadeOut(1500);
+					   	},200);
+	 				});
+				}
+			}
+	 	}
+	 </script>
+
+
+	  <script type="text/javascript"> //script que envia los datos al template TS_DMDS
+	 	$(function () {
+	 	jQuery.fn.reset = function () {
+	 	$(this).each(function () {
+	 	this.reset();
+	 	});
+	 }
+	 	$("#subscribe3").click(function () {
+	 	var dataString = $('#Bloque').serialize();
+	            if (email == "") { }
+	            	else  {
+	                         var url = "/system/modules/com.tfsla.diario.telesur/templates/TS_DMDS.jsp"; // El script a dónde se realizará la petición.
+	                         $.ajax({
+	                            type: "POST",
+	                            url: url,
+				    data: dataString, // datos serializados
+				    async: false,
+				    dataType: "text",
+				    success: function (data){
+					 $("#RegistroBloque2").css("display", "block");
+					 $("#btnCerrar1").css("display", "none");
+					 	var n = data.search("111");
+					 	if(n==-1){
+					 		var y = data.search("0 relaciones nuevas");
+					 		if(y==-1){
+					 			$("#msjReg").html("Su suscripción fue realizada satisfactoriamente");
+					 			localStorage.setItem("mosBolFlot", "nomosBol");
+					 			$("#btnCerrar2").click(function () {
+					 				$("#RegistroBloque2").css("display", "none");
+					 				$("#bulletin").css("display", "none");
+					 				setTimeout(function() {
+									$(".contentBolFlot").fadeOut(1500);
+								   	},200);
+					 			});
+					 		}
+					 		else{
+					 			$("#msjReg").html("Esta dirección de correo ya se encuentra registrada");
+					 			$("#btnCerrar2").click(function () {
+					 				$("#RegistroBloque2").css("display", "none");
+					 				$("#msjReg").html(" ");
+					 				$("#btnCerrar1").css("display", "block");
+					 			});
+					 		}
+					 	}
+					 	else if (n>-1){
+					 		$("#msjReg").html("El correo que ha ingesado está vacío o es incorrecto");
+					 		$("#btnCerrar2").click(function () {
+					 			$("#RegistroBloque2").css("display", "none");
+					 			$("#msjReg").html(" ");
+					 			$("#btnCerrar1").css("display", "block");
+					 		});
+					 	}
+
+					 	$("#Bloque").reset();
+
+					 }
+					});
+					                        }
+					                        return false;
+
+					                    });
+					 	});
+
+	 </script>
+
+
+	 <div class="bulletin cont OK desktop" id="bulletin" style="display: none;">
+	 	<div class="titlebulletin borderb">
+	 		<div class="titlebulletin img"><img src="/export/sites/telesur/arte/logo-side.png_1193940013.png" width="65" height="14" title="teleSUR" alt="teleSUR" /></div><div class="titlebulletin txt">Boletines</div>
+	 		<div class="titlebulletin txt">Su suscripción fue realizada satisfactoriamente.</div>
+	 	</div>
+	 </div>
+
+
+
+
+		</div>
+	</div>
+
+
+
+	<div class="row clear">
+		<div class="col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+	</div>
+	   <div class="bnrs-sect" Style="margin-left:120px">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	   </div>
+</div><!--colfor-->
+<!--FIN COLUMNA DERECHA -->
+                            </div>
+                        </div>
+                        <!-- ifin widget interno Cxense -->
+
+
+                        <!-- inicio colmna izq col-six -->
+                        <div class="col-six">
+                            <div class="cont bordercountry">
+                                <div class="dest cont">
+
+
+                                    	<h3 class="op-kicker">
+                                        	<div class="subtitle">La medida aprobada por la justicia chilena favorece&nbsp;a transexuales adultos. Los menores entre 14 y 17 a&ntilde;os deber&aacute;n pasar por un proceso judicial.</div>
+                                        </h3>
+
+					<!-- /18910235/1x1.incontent -->
+					<div id='div-gpt-ad-1472165573407-0' style='height:1px; width:1px;'>
+					<script src='https://www.googletagservices.com/tag/js/gpt.js'>
+ 					 googletag.pubads().definePassback('/138871148/telesurtv.dw.1x1.incontent', [1, 1]).display();
+					</script>
+					</div>
+
+					<!-- /138871148/telesurtv.dw.1x1.incontent -->
+				<div id='div-gpt-ad-1523049131629-0' style='height:1px; width:1px;'>
+					<script>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1523049131629-0'); });
+					</script>
+				</div>
+
+
+                                    <div class="txt_newworld">
+
+
+
+
+
+
+
+
+                                                  <p>La Corte suprema de <strong>Chile</strong> aprob&oacute; este mi&eacute;rcoles el cambio de&nbsp;nombre<strong> </strong>y el registro de<strong> sexo legal </strong>de una persona <strong>trans</strong>, sin antes necesitar una intervenci&oacute;n quir&uacute;rgica.</p>
+
+
+
+
+
+
+
+                                                  <p>Si bien en el pa&iacute;s sudamericano ya se hab&iacute;an producido cambios de nombres de personas <strong>trans</strong>&nbsp;sin previa cirug&iacute;a, lo hist&oacute;rico del fallo en esta materia&nbsp;fue que por primera vez se consagr&oacute; el &quot;derecho&quot;&nbsp;de una persona <strong>trans </strong>a tener un <strong>sexo legal </strong>que&nbsp;corresponda con su nombre.</p>
+
+
+
+
+
+
+
+                                                  <div style="text-align:center"><div class="ck-twitter" id="twitter-40"><figure class="op-interactive"><blockquote class="twitter-tweet" data-lang="es"><p dir="ltr" lang="es"><a href="https://twitter.com/hashtag/CorteSuprema?src=hash&amp;ref_src=twsrc%5Etfw">#CorteSuprema</a> determina cambio de nombre y sexo registral de persona transg&eacute;nero <a href="https://t.co/R25vQmvUw1">https://t.co/R25vQmvUw1</a> <a href="https://t.co/8WoKbDqGe1">pic.twitter.com/8WoKbDqGe1</a></p>
+
+
+
+
+
+
+
+                                                  &mdash; Poder Judicial Chile (@PJudicialChile) <a href="https://twitter.com/PJudicialChile/status/1001858247421317121?ref_src=twsrc%5Etfw">30 de mayo de 2018</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></figure><p>&nbsp;</p>
+
+
+
+
+
+
+
+                                                  </div></div><p>&nbsp;</p>
+
+
+
+
+
+
+
+                                                  <p>&gt;&gt;&nbsp;<a href="http://bit.ly/2DKUM3F">Transexuales podr&iacute;an ingresar al Ej&eacute;rcito de EE.UU.</a></p>
+
+
+
+
+
+
+
+                                                  <p>La sentencia determin&oacute; que &quot;si la ley permite el cambio de nombre&nbsp;y a la vez&nbsp;prescribe que el nombre debe ajustarse al sexo, entonces se concluye que todo cambio de nombre debe respetar la realidad que le sirve de par&aacute;metro. Y si tal realidad se encuentra consignada equivocadamente, debe ser corregido el instrumento respectivo, junto a la modificaci&oacute;n del nombre&quot;.</p>
+
+
+
+
+
+
+
+                                                  <p>El ministro de Justicia de Chile, <strong>Hern&aacute;n Larra&iacute;n</strong>, record&oacute; que la propuesta es solo para los adultos, ya que para los menores entre 14 y 17 a&ntilde;os debe haber un proceso judicial.</p>
+
+
+
+
+
+
+
+                                                  <p>&quot;A quienes son&nbsp;menores de 13&nbsp;el Estado debe acompa&ntilde;arlos y ayudarlos hasta el momento de definiciones&quot;, aclar&oacute; Larra&iacute;n.</p>
+
+
+
+
+
+
+
+                                                  <p>&gt;&gt;&nbsp;<a href="http://bit.ly/2CXprJT">Transexuales en Brasil podr&aacute;n cambiar su nombre legalmente</a></p>
+
+
+
+
+
+
+
+                                                  <p>Organizaciones sociales y la comunida <strong>LGTBI </strong>recibi&oacute; la noticia con alegr&iacute;a. As&iacute; al menos lo expres&oacute; el vocero del&nbsp;Movimiento de Integraci&oacute;n y Liberaci&oacute;n Homosexual&nbsp;(Movilh), <strong>Rolando Jim&eacute;nez</strong>, quien afirm&oacute; que el hito &quot;habla de un&nbsp;clima cultural cada vez m&aacute;s favorable a derechos <strong>trans</strong>&quot;.</p>
+
+
+
+
+
+
+
+                                                  <div style="text-align:center"><div class="ck-twitter" id="twitter-27"><figure class="op-interactive"><blockquote class="twitter-tweet" data-lang="es"><p dir="ltr" lang="es">Derechos de personas trans hacen historia en la Corte Suprema y en el sistema de Educaci&oacute;n Superior. Pueden cambiar su sexo legal sin cirug&iacute;as y rendir la PSU con pleno respeto a su nombre social. <a href="https://t.co/9WxyYNcord">https://t.co/9WxyYNcord</a> As&iacute; avanzamos. As&iacute; gusta Chile. �� <a href="https://t.co/p2mOp2NAOM">pic.twitter.com/p2mOp2NAOM</a></p>&mdash; Movilh Chile (@Movilh) <a href="https://twitter.com/Movilh/status/1001901456897736705?ref_src=twsrc%5Etfw">30 de mayo de 2018</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></figure><p>&nbsp;</p></div></div><p>&nbsp;</p><p>El fallo de la justicia chilena&nbsp;se suma a las iniciativas de la&nbsp;Universidad de Chile&nbsp;y la&nbsp;Universidad Cat&oacute;lica, las dos principales casas de estudios profesionales del pa&iacute;s, luego de que permitieran a estudiantes <strong>trans </strong>a<strong>&nbsp;</strong>usar su&nbsp;nombre social&nbsp;en distintas instancias universitarias.</p>
+
+                                    </div>
+
+
+
+
+
+
+
+
+
+
+
+                                            <div class="tagBarNews">
+                                                <h4>Tags</h4>
+
+                                        <a href="/tags/Chile" alt="Chile" title="Chile">Chile</a>
+
+
+
+                                        <a href="/tags/transexuales" alt="transexuales" title="transexuales">transexuales</a>
+
+
+
+                                        <a href="/tags/LGTBI" alt="LGTBI" title="LGTBI">LGTBI</a>
+
+
+
+                                        <a href="/tags/cambio de nombre" alt="cambio de nombre" title="cambio de nombre">cambio de nombre</a>
+
+
+
+                                        <a href="/tags/corte suprema" alt="corte suprema" title="corte suprema">corte suprema</a>
+
+
+
+                                        <a href="/tags/trans" alt="trans" title="trans">trans</a>
+
+                                            </div>
+
+
+
+
+
+
+
+
+
+
+                                    <div class="capworldtop">
+                                        <div class="caplw">
+                                            <br>
+                                            <div class="capcredit">
+                                            <address>
+                                                <a class="her">
+
+                                                        Sputnik Nóvosti - La Tercera<br/>
+
+                                                </a>
+                                             </address>
+                                            </div>
+
+
+
+                                                    <div class="capaut">
+
+
+
+
+
+                                                                Por: <span class="itacaput"><a style="width: auto" class="her" alt="teleSUR - pgv - AP" title="teleSUR - pgv - AP">teleSUR - pgv - AP</a></span>
+
+                                                            <br/>
+
+                                                    </div>
+
+
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="separador margensep"></div>
+                            </div>
+
+                            <!-- Slider MOBILE
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="cont desktop">
+	<div class="relacINTmob">Lea Tambien</div>
+
+
+
+					<ul>
+
+
+
+						<li>
+							<article class="INTmob" itemtype="http://schema.org/Article">
+								<meta itemprop="url" content="/news/asesinato-activista-lgbti-matheus-passareli-brasil-20180507-0044.html"/>
+
+
+
+
+									<div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+
+
+
+
+
+
+
+											<a href="/news/asesinato-activista-lgbti-matheus-passareli-brasil-20180507-0044.html" title="El joven Matheus Passareli se encontraba desaparecido desde el pasado 29 de abril tras ser visto por última vez luego de salir de una fiesta." alt="El joven Matheus Passareli se encontraba desaparecido desde el pasado 29 de abril tras ser visto por última vez luego de salir de una fiesta.">
+												<meta itemprop="description" content='El joven Matheus Passareli se encontraba desaparecido desde el pasado 29 de abril tras ser visto por última vez luego de salir de una fiesta.'>
+												<img itemprop="contentURL" src="/__export/1525736208341/sites/telesur/img/multimedia/2018/05/07/brasil2.jpg_1998646312.jpg" data-original="/__export/1525736208341/sites/telesur/img/multimedia/2018/05/07/brasil2.jpg_1998646312.jpg" width='150' height='120' alt="El joven Matheus Passareli se encontraba desaparecido desde el pasado 29 de abril tras ser visto por última vez luego de salir de una fiesta." />
+											</a>
+
+
+
+									</div>
+
+
+								<h2 itemprop="name headline">
+									<a href="/news/asesinato-activista-lgbti-matheus-passareli-brasil-20180507-0044.html" title="Policía confirma asesinato de activista LGTBI en Río de Janeiro" alt="Policía confirma asesinato de activista LGTBI en Río de Janeiro">
+										Policía confirma asesinato de activista LGTBI en Río de Janeiro
+									</a>
+								</h2>
+
+							</article>
+						</li>
+
+
+
+
+
+						<li>
+							<article class="INTmob" itemtype="http://schema.org/Article">
+								<meta itemprop="url" content="/news/ni-una-menos-huelga-nacional-Italia--20180308-0003.html"/>
+
+
+
+
+									<div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+
+
+
+
+
+
+
+											<a href="/news/ni-una-menos-huelga-nacional-Italia--20180308-0003.html" title="La organización gremial "Ni una menos" informó que en 2016, 1.404.000 mujeres en Italia sufrieron acoso físico o chantaje sexual." alt="La organización gremial "Ni una menos" informó que en 2016, 1.404.000 mujeres en Italia sufrieron acoso físico o chantaje sexual.">
+												<meta itemprop="description" content='La organización gremial "Ni una menos" informó que en 2016, 1.404.000 mujeres en Italia sufrieron acoso físico o chantaje sexual.'>
+												<img itemprop="contentURL" src="/__export/1520463095171/sites/telesur/img/multimedia/2018/03/07/mujeres_efe.jpg_1998646312.jpg" data-original="/__export/1520463095171/sites/telesur/img/multimedia/2018/03/07/mujeres_efe.jpg_1998646312.jpg" width='150' height='120' alt="La organización gremial "Ni una menos" informó que en 2016, 1.404.000 mujeres en Italia sufrieron acoso físico o chantaje sexual." />
+											</a>
+
+
+
+									</div>
+
+
+								<h2 itemprop="name headline">
+									<a href="/news/ni-una-menos-huelga-nacional-Italia--20180308-0003.html" title=""Ni una menos" convoca huelga nacional de 24 horas en Italia" alt=""Ni una menos" convoca huelga nacional de 24 horas en Italia">
+										"Ni una menos" convoca huelga nacional de 24 horas en Italia
+									</a>
+								</h2>
+
+							</article>
+						</li>
+
+
+
+
+
+						<li>
+							<article class="INTmob" itemtype="http://schema.org/Article">
+								<meta itemprop="url" content="/news/brasil-transexuales-cambiar-nombre-sin-reasignacion-genero-20180301-0044.html"/>
+
+
+
+
+									<div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+
+
+
+
+
+
+
+											<a href="/news/brasil-transexuales-cambiar-nombre-sin-reasignacion-genero-20180301-0044.html" title="Los votantes consideran que la medida debería ser extendida a transgéneros, sin la necesidad de comprobación médica." alt="Los votantes consideran que la medida debería ser extendida a transgéneros, sin la necesidad de comprobación médica.">
+												<meta itemprop="description" content='Los votantes consideran que la medida debería ser extendida a transgéneros, sin la necesidad de comprobación médica.'>
+												<img itemprop="contentURL" src="/__export/1519953033191/sites/telesur/img/news/2018/03/01/636550902994224423.jpg_1998646312.jpg" data-original="/__export/1519953033191/sites/telesur/img/news/2018/03/01/636550902994224423.jpg_1998646312.jpg" width='150' height='120' alt="Los votantes consideran que la medida debería ser extendida a transgéneros, sin la necesidad de comprobación médica." />
+											</a>
+
+
+
+									</div>
+
+
+								<h2 itemprop="name headline">
+									<a href="/news/brasil-transexuales-cambiar-nombre-sin-reasignacion-genero-20180301-0044.html" title="Transexuales en Brasil podrán cambiar su nombre legalmente" alt="Transexuales en Brasil podrán cambiar su nombre legalmente">
+										Transexuales en Brasil podrán cambiar su nombre legalmente
+									</a>
+								</h2>
+
+							</article>
+						</li>
+
+
+
+
+
+						<li>
+							<article class="INTmob" itemtype="http://schema.org/Article">
+								<meta itemprop="url" content="/news/Comunidad-LGBTI-marcha-en-Brasil-por-sus-derechos-20171105-0021.html"/>
+
+
+
+
+									<div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+
+
+
+
+
+
+
+											<a href="/news/Comunidad-LGBTI-marcha-en-Brasil-por-sus-derechos-20171105-0021.html" title="La Parada tiene como lema ¿Qué tengo que ver con eso?, se realiza en rechazo de la violencia y discriminación." alt="La Parada tiene como lema ¿Qué tengo que ver con eso?, se realiza en rechazo de la violencia y discriminación.">
+												<meta itemprop="description" content='La Parada tiene como lema ¿Qué tengo que ver con eso?, se realiza en rechazo de la violencia y discriminación.'>
+												<img itemprop="contentURL" src="/__export/1509895999618/sites/telesur/img/multimedia/2017/11/05/derechos_lgbti_brasil_efe.jpg_1998646312.jpg" data-original="/__export/1509895999618/sites/telesur/img/multimedia/2017/11/05/derechos_lgbti_brasil_efe.jpg_1998646312.jpg" width='150' height='120' alt="La Parada tiene como lema ¿Qué tengo que ver con eso?, se realiza en rechazo de la violencia y discriminación." />
+											</a>
+
+
+
+									</div>
+
+
+								<h2 itemprop="name headline">
+									<a href="/news/Comunidad-LGBTI-marcha-en-Brasil-por-sus-derechos-20171105-0021.html" title="Comunidad LGBTI marcha en Brasil por sus derechos" alt="Comunidad LGBTI marcha en Brasil por sus derechos">
+										Comunidad LGBTI marcha en Brasil por sus derechos
+									</a>
+								</h2>
+
+							</article>
+						</li>
+
+
+
+
+				</ul>
+
+</div>   -->
+
+
+                <!--sliderlatest relacionadas-->
+                <div class="row clear desktop">
+		<div class="cont">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="contINT2">
+
+
+
+					<ul>
+
+
+
+
+	<div class="relacINT">Noticias Relacionadas</div>
+
+						<li>
+							<article class="INT2" itemscope itemtype="http://schema.org/Article">
+								<meta itemprop="url" content="/news/asesinato-activista-lgbti-matheus-passareli-brasil-20180507-0044.html"/>
+
+
+
+
+									<div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+
+
+
+
+
+
+						<figure>
+											<a href="/news/asesinato-activista-lgbti-matheus-passareli-brasil-20180507-0044.html" title="El joven Matheus Passareli se encontraba desaparecido desde el pasado 29 de abril tras ser visto por última vez luego de salir de una fiesta." alt="El joven Matheus Passareli se encontraba desaparecido desde el pasado 29 de abril tras ser visto por última vez luego de salir de una fiesta.">
+												<meta itemprop="description" content='El joven Matheus Passareli se encontraba desaparecido desde el pasado 29 de abril tras ser visto por última vez luego de salir de una fiesta.'>
+												<img itemprop="contentURL" src="/__export/1525736208341/sites/telesur/img/multimedia/2018/05/07/brasil2.jpg" data-original="/__export/1525736208341/sites/telesur/img/multimedia/2018/05/07/brasil2.jpg" width='180' height='120' alt="El joven Matheus Passareli se encontraba desaparecido desde el pasado 29 de abril tras ser visto por última vez luego de salir de una fiesta." />
+											</a>
+
+
+
+									</div>
+
+						<figcaption>
+								<h3 itemprop="name headline">
+									<a href="/news/asesinato-activista-lgbti-matheus-passareli-brasil-20180507-0044.html" title="Policía confirma asesinato de activista LGTBI en Río de Janeiro" alt="Policía confirma asesinato de activista LGTBI en Río de Janeiro">
+										Policía confirma asesinato de activista LGTBI en Río de Janeiro
+									</a>
+								</h3>
+						</figcaption>
+						</figure>
+
+							</article>
+						</li>
+
+
+
+
+
+
+						<li>
+							<article class="INT2" itemscope itemtype="http://schema.org/Article">
+								<meta itemprop="url" content="/news/ni-una-menos-huelga-nacional-Italia--20180308-0003.html"/>
+
+
+
+
+									<div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+
+
+
+
+
+
+						<figure>
+											<a href="/news/ni-una-menos-huelga-nacional-Italia--20180308-0003.html" title="La organización gremial "Ni una menos" informó que en 2016, 1.404.000 mujeres en Italia sufrieron acoso físico o chantaje sexual." alt="La organización gremial "Ni una menos" informó que en 2016, 1.404.000 mujeres en Italia sufrieron acoso físico o chantaje sexual.">
+												<meta itemprop="description" content='La organización gremial "Ni una menos" informó que en 2016, 1.404.000 mujeres en Italia sufrieron acoso físico o chantaje sexual.'>
+												<img itemprop="contentURL" src="/__export/1520463095171/sites/telesur/img/multimedia/2018/03/07/mujeres_efe.jpg" data-original="/__export/1520463095171/sites/telesur/img/multimedia/2018/03/07/mujeres_efe.jpg" width='180' height='120' alt="La organización gremial "Ni una menos" informó que en 2016, 1.404.000 mujeres en Italia sufrieron acoso físico o chantaje sexual." />
+											</a>
+
+
+
+									</div>
+
+						<figcaption>
+								<h3 itemprop="name headline">
+									<a href="/news/ni-una-menos-huelga-nacional-Italia--20180308-0003.html" title=""Ni una menos" convoca huelga nacional de 24 horas en Italia" alt=""Ni una menos" convoca huelga nacional de 24 horas en Italia">
+										"Ni una menos" convoca huelga nacional de 24 horas en Italia
+									</a>
+								</h3>
+						</figcaption>
+						</figure>
+
+							</article>
+						</li>
+
+
+
+
+
+
+						<li>
+							<article class="INT2" itemscope itemtype="http://schema.org/Article">
+								<meta itemprop="url" content="/news/brasil-transexuales-cambiar-nombre-sin-reasignacion-genero-20180301-0044.html"/>
+
+
+
+
+									<div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+
+
+
+
+
+
+						<figure>
+											<a href="/news/brasil-transexuales-cambiar-nombre-sin-reasignacion-genero-20180301-0044.html" title="Los votantes consideran que la medida debería ser extendida a transgéneros, sin la necesidad de comprobación médica." alt="Los votantes consideran que la medida debería ser extendida a transgéneros, sin la necesidad de comprobación médica.">
+												<meta itemprop="description" content='Los votantes consideran que la medida debería ser extendida a transgéneros, sin la necesidad de comprobación médica.'>
+												<img itemprop="contentURL" src="/__export/1519953033191/sites/telesur/img/news/2018/03/01/636550902994224423.jpg" data-original="/__export/1519953033191/sites/telesur/img/news/2018/03/01/636550902994224423.jpg" width='180' height='120' alt="Los votantes consideran que la medida debería ser extendida a transgéneros, sin la necesidad de comprobación médica." />
+											</a>
+
+
+
+									</div>
+
+						<figcaption>
+								<h3 itemprop="name headline">
+									<a href="/news/brasil-transexuales-cambiar-nombre-sin-reasignacion-genero-20180301-0044.html" title="Transexuales en Brasil podrán cambiar su nombre legalmente" alt="Transexuales en Brasil podrán cambiar su nombre legalmente">
+										Transexuales en Brasil podrán cambiar su nombre legalmente
+									</a>
+								</h3>
+						</figcaption>
+						</figure>
+
+							</article>
+						</li>
+
+
+
+
+
+
+						<li>
+							<article class="INT2" itemscope itemtype="http://schema.org/Article">
+								<meta itemprop="url" content="/news/Comunidad-LGBTI-marcha-en-Brasil-por-sus-derechos-20171105-0021.html"/>
+
+
+
+
+									<div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+
+
+
+
+
+
+						<figure>
+											<a href="/news/Comunidad-LGBTI-marcha-en-Brasil-por-sus-derechos-20171105-0021.html" title="La Parada tiene como lema ¿Qué tengo que ver con eso?, se realiza en rechazo de la violencia y discriminación." alt="La Parada tiene como lema ¿Qué tengo que ver con eso?, se realiza en rechazo de la violencia y discriminación.">
+												<meta itemprop="description" content='La Parada tiene como lema ¿Qué tengo que ver con eso?, se realiza en rechazo de la violencia y discriminación.'>
+												<img itemprop="contentURL" src="/__export/1509895999618/sites/telesur/img/multimedia/2017/11/05/derechos_lgbti_brasil_efe.jpg" data-original="/__export/1509895999618/sites/telesur/img/multimedia/2017/11/05/derechos_lgbti_brasil_efe.jpg" width='180' height='120' alt="La Parada tiene como lema ¿Qué tengo que ver con eso?, se realiza en rechazo de la violencia y discriminación." />
+											</a>
+
+
+
+									</div>
+
+						<figcaption>
+								<h3 itemprop="name headline">
+									<a href="/news/Comunidad-LGBTI-marcha-en-Brasil-por-sus-derechos-20171105-0021.html" title="Comunidad LGBTI marcha en Brasil por sus derechos" alt="Comunidad LGBTI marcha en Brasil por sus derechos">
+										Comunidad LGBTI marcha en Brasil por sus derechos
+									</a>
+								</h3>
+						</figcaption>
+						</figure>
+
+							</article>
+						</li>
+
+
+
+
+				</ul>
+
+
+
+</div>
+			</div>
+		</div>
+                <!--fin sliderlatest video-->
+
+
+                        </div>
+                        <!-- fin colmna izq col-six -->
+                    </div>
+                    <!-- Fin Destacado -->
+                </div>
+                <!-- Fin SCHEMAS -->
+
+                <!--sliderlatest relacionadas
+                <div class="row clear desktop">
+		<div class="cont">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="contINT">
+
+
+
+					<ul>
+
+
+
+
+	<div class="relacINT">Noticias Relacionadas</div>
+
+						<li>
+							<article class="INT" >
+
+
+
+									<div>
+
+
+
+
+
+
+
+											<a href="/news/asesinato-activista-lgbti-matheus-passareli-brasil-20180507-0044.html" title="El joven Matheus Passareli se encontraba desaparecido desde el pasado 29 de abril tras ser visto por última vez luego de salir de una fiesta." alt="El joven Matheus Passareli se encontraba desaparecido desde el pasado 29 de abril tras ser visto por última vez luego de salir de una fiesta.">
+												<img src="/__export/1525736208341/sites/telesur/img/multimedia/2018/05/07/brasil2.jpg_1909072827.jpg" data-original="/__export/1525736208341/sites/telesur/img/multimedia/2018/05/07/brasil2.jpg_1909072827.jpg" width='180' height='120' alt="El joven Matheus Passareli se encontraba desaparecido desde el pasado 29 de abril tras ser visto por última vez luego de salir de una fiesta." />
+											</a>
+
+
+
+									</div>
+
+
+								<h2>
+									<a href="/news/asesinato-activista-lgbti-matheus-passareli-brasil-20180507-0044.html" title="Policía confirma asesinato de activista LGTBI en Río de Janeiro" alt="Policía confirma asesinato de activista LGTBI en Río de Janeiro">
+										Policía confirma asesinato de activista LGTBI en Río de Janeiro
+									</a>
+								</h2>
+
+							</article>
+						</li>
+
+
+
+
+
+
+						<li>
+							<article class="INT" >
+
+
+
+									<div>
+
+
+
+
+
+
+
+											<a href="/news/ni-una-menos-huelga-nacional-Italia--20180308-0003.html" title="La organización gremial "Ni una menos" informó que en 2016, 1.404.000 mujeres en Italia sufrieron acoso físico o chantaje sexual." alt="La organización gremial "Ni una menos" informó que en 2016, 1.404.000 mujeres en Italia sufrieron acoso físico o chantaje sexual.">
+												<img src="/__export/1520463095171/sites/telesur/img/multimedia/2018/03/07/mujeres_efe.jpg_1909072827.jpg" data-original="/__export/1520463095171/sites/telesur/img/multimedia/2018/03/07/mujeres_efe.jpg_1909072827.jpg" width='180' height='120' alt="La organización gremial "Ni una menos" informó que en 2016, 1.404.000 mujeres en Italia sufrieron acoso físico o chantaje sexual." />
+											</a>
+
+
+
+									</div>
+
+
+								<h2>
+									<a href="/news/ni-una-menos-huelga-nacional-Italia--20180308-0003.html" title=""Ni una menos" convoca huelga nacional de 24 horas en Italia" alt=""Ni una menos" convoca huelga nacional de 24 horas en Italia">
+										"Ni una menos" convoca huelga nacional de 24 horas en Italia
+									</a>
+								</h2>
+
+							</article>
+						</li>
+
+
+
+
+
+
+						<li>
+							<article class="INT" >
+
+
+
+									<div>
+
+
+
+
+
+
+
+											<a href="/news/brasil-transexuales-cambiar-nombre-sin-reasignacion-genero-20180301-0044.html" title="Los votantes consideran que la medida debería ser extendida a transgéneros, sin la necesidad de comprobación médica." alt="Los votantes consideran que la medida debería ser extendida a transgéneros, sin la necesidad de comprobación médica.">
+												<img src="/__export/1519953033191/sites/telesur/img/news/2018/03/01/636550902994224423.jpg_1909072827.jpg" data-original="/__export/1519953033191/sites/telesur/img/news/2018/03/01/636550902994224423.jpg_1909072827.jpg" width='180' height='120' alt="Los votantes consideran que la medida debería ser extendida a transgéneros, sin la necesidad de comprobación médica." />
+											</a>
+
+
+
+									</div>
+
+
+								<h2>
+									<a href="/news/brasil-transexuales-cambiar-nombre-sin-reasignacion-genero-20180301-0044.html" title="Transexuales en Brasil podrán cambiar su nombre legalmente" alt="Transexuales en Brasil podrán cambiar su nombre legalmente">
+										Transexuales en Brasil podrán cambiar su nombre legalmente
+									</a>
+								</h2>
+
+							</article>
+						</li>
+
+
+
+
+
+
+						<li>
+							<article class="INT" >
+
+
+
+									<div>
+
+
+
+
+
+
+
+											<a href="/news/Comunidad-LGBTI-marcha-en-Brasil-por-sus-derechos-20171105-0021.html" title="La Parada tiene como lema ¿Qué tengo que ver con eso?, se realiza en rechazo de la violencia y discriminación." alt="La Parada tiene como lema ¿Qué tengo que ver con eso?, se realiza en rechazo de la violencia y discriminación.">
+												<img src="/__export/1509895999618/sites/telesur/img/multimedia/2017/11/05/derechos_lgbti_brasil_efe.jpg_1909072827.jpg" data-original="/__export/1509895999618/sites/telesur/img/multimedia/2017/11/05/derechos_lgbti_brasil_efe.jpg_1909072827.jpg" width='180' height='120' alt="La Parada tiene como lema ¿Qué tengo que ver con eso?, se realiza en rechazo de la violencia y discriminación." />
+											</a>
+
+
+
+									</div>
+
+
+								<h2>
+									<a href="/news/Comunidad-LGBTI-marcha-en-Brasil-por-sus-derechos-20171105-0021.html" title="Comunidad LGBTI marcha en Brasil por sus derechos" alt="Comunidad LGBTI marcha en Brasil por sus derechos">
+										Comunidad LGBTI marcha en Brasil por sus derechos
+									</a>
+								</h2>
+
+							</article>
+						</li>
+
+
+
+
+				</ul>
+
+
+
+</div>
+			</div>
+		</div>
+                <!--fin sliderlatest video-->
+
+                <div class="row clear">
+                    <div class="banners">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						<div id='div-gpt-ad-1465261644610-3'><script type='text/javascript'><!--//<![CDATA[googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465261644610-3'); });//]]>--></script></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+
+                <div class="row clear">
+                    <div class="banners">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						<!-- /18910235/Adhesion --><div id='div-gpt-ad-1493942656293-0'><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493942656293-0'); });//]]>--></script></div>
+
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+
+		<!-- PUBLICIDAD Revcontent -->
+
+		<!--FIN PUBLICIDAD Revcontent-->
+
+		<!-- Publicidad EMbiMedia -->
+		<div id="taboola-below-article-thumbnails"></div>
+		<script type="text/javascript">
+		  window._taboola = window._taboola || [];
+		  _taboola.push({
+		    mode: 'thumbnails-a',
+		    container: 'taboola-below-article-thumbnails',
+		    placement: 'Below Article Thumbnails',
+		    target_type: 'mix'
+		  });
+		</script>
+  		<!--Fin EmbiMedia-->
+
+
+                <!-- Comment -->
+
+                <a name="comsup"> </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<link rel="stylesheet" href="/system/modules/com.tfsla.diario.telesur/resources/css/navigataur.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>-->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1009084795820552',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/es_LA/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.5&appId=1009084795820552";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<script>
+    $(document).ready(function () {
+        $("#comentNativos").addClass("coment");
+        $("#btn-face").addClass("activeComent");
+
+        $("#btn-cf").click(function () {
+            // alert("btn-facebook");
+            $("#comentNativos").addClass("coment");
+            $("#btn-face").addClass("activeComent");
+            $(".fb_ltr").css({width: "940px"});
+            $("#comentFace").removeClass("coment");
+            $("#btn-nativo").removeClass("activeComent");
+        });
+        $("#btn-cn").click(function () {
+            // alert("btn-nativo");
+            $("#comentFace").addClass("coment");
+            $("#comentNativos").removeClass("coment");
+            $("#btn-nativo").addClass("activeComent");
+            $("#btn-face").removeClass("activeComent");
+        });
+    });
+</script>
+<div id="comment-interno-nota">
+	<div class="contner">
+	    <div class="clearfix">
+
+	            <div class="nav">
+	                <input type="checkbox" id="toggle" />
+	                <label for="toggle" class="toggle" onclick></label>
+	                <ul class="menu">
+
+	                    <li id="btn-face" class="">
+	                        <a id="btn-cf" href="#.">
+	                            <span class="icofb"> </span>
+	                            Comentarios con facebook   (<span class="fb-comments-count" data-href="http://www.telesurtv.net/news/chile-transexuales-trans-cambio-de-sexo-nombre-sin-cirugia-20180530-0047.html"></span>)</a>
+	                    </li>
+	                    <li id="btn-nativo" class="">
+	                        <a id="btn-cn" href="#.">
+	                            <span class="icots"> </span>
+	                             Comentarios con teleSUR (0)</a>
+	                    </li>
+	                </ul>
+	            </div><!-- End of Navigation -->
+	    </div><!-- End of Header -->
+	    <div class="comentArtic">
+	        <div id="comentFace">
+	            <div class="wrapper">
+	                </br>
+	                <div class="row clear">
+	                    <div class="fb-comments" data-href="http://www.telesurtv.net/news/chile-transexuales-trans-cambio-de-sexo-nombre-sin-cirugia-20180530-0047.html" data-width="940" data-numposts="10" data-colorscheme="light"></div>
+	                </div>
+
+	            </div>
+	        </div>
+	        <div id="comentNativos">
+
+
+	                    <!--comment-->
+	                    <div class="wrapper">
+	                        <div class="row clear">
+	                            <div class="col">
+	                                <div style="margin:30px 0"></div>
+	                                <div class="col" >
+	                                    <div class="cont" id="coment-nota">
+	                                        <div class="comsup">
+	                                            <div class="titcomment">
+	                                                <div class="titlecom" id="comentarios">Comentarios</div>
+	                                                <div class="gblogrs">
+	                                                    <div class="num">0</div>
+	                                                    <img src="/export/sites/telesur/arte/globe-red.png_1583087600.png" width="31" height="27" title="Comentarios" alt="Comentarios" />
+	                                                </div>
+	                                            </div>
+
+		                                   <div class="signin desktop">
+	                                                <p>Ingresa o Regístrate para poder comentar, usar el foro y más</p>
+	                                                <div class="btnConf"> <a href="#modal-user" id="log-in-telesur" alt="Ingresar" title="Ingresar">Ingresar</a> <a href="/usuarios/registracion.html" alt="Regístrate" title="Regístrate">Regístrate</a> </div>
+	                                                <div class="clear"></div>
+	                                            </div>
+
+
+
+	                                                <div class="row clear">
+	                                                    <div class="col">
+	                                                        <div style="margin:30px 0"></div>
+	                                                        <div class="col">
+	                                                            <div class="cont">
+	                                                                <div class="fraseComment">Nota sin comentarios.</div>
+	                                                            </div>
+	                                                        </div>
+	                                                    </div>
+	                                                </div>
+
+	                                        </div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                        </div>
+	                    </div>
+	                    <!--FIN comment-->
+
+
+
+
+	        </div>
+	    </div>
+	</div>
+</div><!-- End of Container -->
+
+
+                <!-- Banner 2 -->
+                <div class="row clear">
+                    <div class="cont ">
+                      <div class="col-mid3 colmar">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        </div>
+                        <div class=" col-mid3">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						<script type='text/javascript'><!--//<![CDATA[   var m3_u = (location.protocol=='https:'?'https://advert.telesurtv.net/publicidad/www/delivery/ajs.php':'http://advert.telesurtv.net/publicidad/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=139");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));   document.write ("&amp;loc=" + escape(window.location));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");//]]>--></script><noscript><a href='http://advert.telesurtv.net/publicidad/www/delivery/ck.php?n=a1130339&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://advert.telesurtv.net/publicidad/www/delivery/avw.php?zoneid=139&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a1130339' border='0' alt='' /></a></noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div><!--wrapper-->
+        	<!--Fin if iframe-->
+
+    </div><!--conteiner-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer id="footer">
+	<div class="wrap">
+		<div class="colFoot logoFoot">
+			<img src="/export/sites/telesur/arte/logo-footer.jpg_367245745.jpg" width="85" height="25" alt="Telesur" />
+			<a href="#" class="subirBtn" alt="Subir" title="Subir">
+		    			<img src="/export/sites/telesur/arte/redes/subir.png_1821107560.png" width="50" height="60" alt="Subir" />
+		    		</a>
+			<ul class="footMobile">
+				<li><a href="/pages/terminosdeuso.html">Terminos de uso</a></li>
+
+			</ul>
+		</div>
+
+		<div class="colFoot">
+			<h4>Sobre teleSUR</h4>
+			<a href="/pages/sobrenosotros.html">Acerca teleSUR</a>
+			<a href="/pages/contacto.html">Contactos</a>
+			<a href="/pages/equipo.html">Equipo</a>
+			<a href="/pages/empleos.html">Empleos</a>
+			<a href="/pages/terminosdeuso.html">Terminos de uso</a>
+			<a href="/pages/aplicaciones.html">Aplicaciones</a>
+			<a href="/pages/coberturasatelital.html">Cobertura satelital</a>
+			<a href="/pages/rss.html">RSS</a>
+			<a href="/pages/contratacionpublica.html">Contratación pública</a>
+		</div>
+
+		<div class="colFoot">
+			<h4>Canales</h4>
+			<a href="/SubSecciones/news/latinaamerica/index.html">Latinoamérica</a>
+			<a href="/SubSecciones/news/world/index.html">Vuelta al mundo</a>
+			<a href="/SubSecciones/news/sport/index.html">Deportes</a>
+			<a href="/SubSecciones/news/culture/index.html">Cultura</a>
+			<a href="/seccion/opinion/index.html">Opinión</a>
+			<a href="/seccion/programas/index.html">Programación</a>
+		</div>
+
+		<div class="colFoot">
+			<h4>Servicios</h4>
+			<a href="/pages/CatalogoServicios.html"> Catálogo de Servicios</a>
+			<a href="/seccion/multimedia/index.html">Multimedia</a>
+			<a href="/seccion/blog/index.html">Blog</a>
+			<a href="http://multimedia.telesurtv.net/web/telesur/#!es">Videos</a>
+			<a href="/seccion/programas/index.html">TV en vivo</a>
+		</div>
+		<div class="colFooti">
+
+			<h4><a href="/english/index.html">Inglés</a></h4>
+
+		</div>
+
+		<div class="colFootRedes">
+			<div class="wpRedesFoot">
+				<a href="http://facebook.com/teleSUR" target="_blank"><img src="/export/sites/telesur/arte/redes/footer/facebook.png_734166679.png" width="40" height="40" alt="facebook" /></a>
+				<a href="http://twitter.com/teleSURtv" target="_blank"><img src="/export/sites/telesur/arte/redes/footer/twitter.png_734166679.png" width="40" height="40" alt="twitter" /></a>
+				<a href="https://plus.google.com/118206615613074383260/posts" target="_blank"><img src="/export/sites/telesur/arte/redes/footer/gplus.png_734166679.png" width="40" height="40" alt="google plus" /></a>
+				<a href="http://instagram.com/telesurtv" target="_blank"><img src="/export/sites/telesur/arte/redes/footer/instagram.png_734166679.png" width="40" height="40" alt="instagram" /></a>
+				<a href="http://www.pinterest.com/telesurtv/" target="_blank"><img src="/export/sites/telesur/arte/redes/footer/pinterest.png_734166679.png" width="40" height="40" alt="pinteres" /></a>
+				<a href="https://www.youtube.com/user/telesurtv" target="_blank"><img src="/export/sites/telesur/arte/redes/footer/youtube.png_734166679.png" width="40" height="40" alt="youtube" /></a>
+			</div>
+			<div class="wpFootSuscrip">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 <span>Suscríbete a nuestro boletín de noticias</span>
+	 <form name="Footer" id="Footer" method="post" enctype="multipart/form-data" onsubmit="return ValidarFooter();">
+	 	<input id="email" class="inputbox" type="text" placeholder="Correo electrónico" name="email" size="30" maxlength="255" />
+	 	<input id="subscribe2" type="submit" value="Suscríbete" name="boton2" />
+	 </form>
+
+	 <div id="RegistroFooter" class="validarForm msjerrorFooter" style="display: none; clear:both;">
+
+	 <script type="text/javascript">
+	 	$(function () {
+	 	jQuery.fn.reset = function () {
+	 	$(this).each(function () {
+	 	this.reset();
+	 	});
+	 }
+	 	$("#subscribe2").click(function () {
+	 	var String = $('#Footer').serialize();
+	          if (email == "") { }
+	            	else  {
+	                           var url = "/system/modules/com.tfsla.diario.telesur/templates/TS_DMDS.jsp"; // El script a dónde se realizará la petición.
+	                           $.ajax({
+	                            type: "POST",
+	                            url: url,
+	                            data: String, // datos serializados
+	                            async: false,
+	                            success: function (data){
+				 	$("#RegistroFooter").css("display", "block");
+				 	var n = data.search("111");
+				 	if(n==-1){
+				 		var y = data.search("0 relaciones nuevas");
+				 		if(y==-1){
+				 			$("#RegistroFooter").html("Su correo ha sido registrado exitosamente");
+				 		}
+				 		else{
+				 			$("#RegistroFooter").html("Esta dirección de correo ya se encuentra registrada");
+				 		}
+				 	}
+				 	else if (n>-1){
+				 		$("#RegistroFooter").html("El correo que ha ingesado es incorrecto");
+				 	}
+
+				 	$("#Footer").reset();
+				 }
+				});
+				                        }
+				                        return false;
+				                    });
+				 	});
+
+	 </script>
+
+	 <script LANGUAGE="JavaScript">
+	 	function ValidarHeader(){
+	 		var RegEmail = /[\w-\.]{3,}@([\w-]{2,}\.)*([\w-]{2,}\.)[\w-]{2,4}/;
+	 		validar = true;
+	 		if(document.Principal.email.value.length == 0){
+	 			document.getElementById('diverrorHeader').style.display = "block";
+	 			document.Principal.email.focus();
+	 			return false;
+	 		}
+	 		if(document.Principal.email.value.match(RegEmail)){
+	 			$('.OKheader').fadeIn('fast');
+	 			$('.ocultarBulletinHeader').fadeOut('fast');
+	 			document.getElementById('diverrorHeader').style.display = "none";
+	 			return validar;
+	 		} else {
+	 			document.getElementById('diverrorHeader').style.display = "block";
+	 			document.Principal.email.focus();
+	 			return false;
+	 		}
+	 	}
+	 	function ValidarFooter(){
+	 		var RegEmail = /[\w-\.]{3,}@([\w-]{2,}\.)*([\w-]{2,}\.)[\w-]{2,4}/;
+	 		validar = true;
+	 		if(document.Footer.email.value.length == 0){
+	 			document.getElementById('diverrorFooter').style.display = "block";
+	 			document.Footer.email.focus();
+	 			return false;
+	 		}
+	 		if(document.Footer.email.value.match(RegEmail)){
+	 			$('.OKfooter').fadeIn('fast');
+	 			$('.ocultarBulletinFooter').fadeOut('fast');
+	 			document.getElementById('diverrorFooter').style.display = "none";
+	 			return validar;
+	 		} else {
+	 			document.getElementById('diverrorFooter').style.display = "block";
+	 			document.Principal.email.focus();
+	 			return false;
+	 		}
+	 	}
+	 	function ValidarBloque(){
+	 		var RegEmail = /[\w-\.]{3,}@([\w-]{2,}\.)*([\w-]{2,}\.)[\w-]{2,4}/;
+	 		validar = true;
+	 		if(document.Bloque.correo.value.length == 0){
+	 			document.getElementById('diverror').style.display = "block";
+	 			document.Bloque.correo.focus();
+	 			return false;
+	 		}
+	 		if(document.Bloque.correo.value.match(RegEmail)){
+	 			$('.OK').fadeIn('fast');
+	 			$('.ocultarBulletin').fadeOut('fast');
+	 			document.getElementById('diverror').style.display = "none";
+	 			return validar;
+	 		} else {
+	 			document.getElementById('diverror').style.display = "block";
+	 			document.Bloque.correo.focus();
+	 			return false;
+	 		}
+	 	}
+	 </script>
+
+
+			</div>
+		</div>
+	</div>
+
+	<div class="legal">
+		<small>La nueva Televisión del Sur C.A. (TVSUR) RIF: G-20004500-0</small>
+		<span>© 2014 Telesur</span>
+	</div>
+
+</footer>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-736060-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script src="/__export/1487033997347/system/modules/com.tfsla.diario.telesur/resources/js/jquery.flexslider.js"></script>
+<script src="/__export/1500899911505/system/modules/com.tfsla.diario.telesur/resources/js/function.js"></script>
+<script src="/__export/1487034294803/system/modules/com.tfsla.diario.telesur/resources/js/tabs.min.jquery.js"></script>
+<script src="/__export/1487034046214/system/modules/com.tfsla.diario.telesur/resources/js/jquery.lazyload.min.js"></script>
+
+
+<script type="text/javascript" src="/system/modules/com.tfsla.diario.newsTags/resources/js/DirectEditButtons.js"></script>
+<script type="text/javascript" src="/__export/1442944905756/system/modules/com.tfsla.diario.newsTags/resources/js/pollsFunctions.js"></script>
+<script type="text/javascript" src="/__export/1415206663000/system/modules/com.tfsla.diario.newsTags/resources/js/commentsFunctions.js"></script>
+<script type="text/javascript" src="/__export/1426602252000/system/modules/com.tfsla.diario.newsTags/resources/js/rankTagsFiller.js"></script>
+<script>
+	$(function() {
+	    $("img").lazyload({
+	        placeholder : "arte/grey.gif",
+	    	effect : "fadeIn"
+	    });
+	});
+</script>
+<!--AdsLive-->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+
+
+<!-- /18910235/1x1.incontent -->
+<div id='div-gpt-ad-1474583384073-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1474583384073-0'); });
+</script>
+</div>
+<!--AdsLive-->
+
+<!-- Publicidad EMbiMedia -->
+	<script type="text/javascript">
+	  window._taboola = window._taboola || [];
+	  _taboola.push({flush: true});
+	</script>
+<!-- Fin EmbiMedia -->
+
+
+<img src="/_req/sites/telesur/8/L2NvbnRlbmlkb3MvMjAxOC8wNS8zMC9ub3RpY2lhXzAwNDcuaHRtbA==" /></body>
+<script type="text/javascript" >
+var min=10;
+var max=22;
+function increaseFontSize() {
+   var p = document.getElementsByTagName('p','.dest .cont');
+   for(i=0;i<p.length;i++) {
+      if(p[i].style.fontSize) {
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 14;
+      }
+      if(s!=max) {
+         s += 1;
+      }
+      p[i].style.fontSize = s+"px"
+   }
+}
+function decreaseFontSize() {
+   var p = document.getElementsByTagName('p','.dest .cont');
+   for(i=0;i<p.length;i++) {
+      if(p[i].style.fontSize) {
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 12;
+      }
+      if(s!=min) {
+         s -= 1;
+      }
+      p[i].style.fontSize = s+"px"
+   }
+}
+</script>
+
+
+
+<script type="text/javascript">
+<!-- script menu -->
+    var menu = 0
+    $('#header .btnMobile').click(function () {
+        if (menu == 0) {
+            $('#nav').slideDown(750);
+            menu++
+        } else {
+            $('#nav').slideUp(750, function () {
+                $('#nav').removeAttr('style');
+            });
+            menu--
+        }
+    });
+</script>
+</html>
+
