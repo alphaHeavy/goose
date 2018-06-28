@@ -20,7 +20,7 @@ libraryDependencies ++=
     "org.jsoup" % "jsoup" % "1.7.3" ::
     "commons-io" % "commons-io" % "2.0.1" ::
     "org.apache.httpcomponents" % "httpclient" % "4.1.3" ::
-    "org.apache.commons" % "commons-lang3" % "3.3.1" ::
+    "org.apache.commons" % "commons-lang3" % "3.5" ::
     "com.fasterxml.jackson.core" % "jackson-core" % "2.6.6" ::
     "com.fasterxml.jackson.core" % "jackson-databind" % "2.6.6" ::
     "org.json4s" %% "json4s-native" % "3.5.0" ::
