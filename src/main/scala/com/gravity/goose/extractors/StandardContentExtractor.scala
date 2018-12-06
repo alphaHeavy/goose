@@ -109,7 +109,13 @@ class StandardContentExtractor extends BaseContentExtractor with Logging {
       i += 1
 
     }
-    TITLE_REPLACEMENTS.replaceAll(titlePieces(largeTextIndex)).trim
+    if(titlePieces.nonEmpty) {
+      TITLE_REPLACEMENTS.replaceAll(titlePieces(largeTextIndex)).trim
+    }
+    else
+    {
+      ""
+    }
   }
 
   private def getMetaContent(doc: Document, metaName: String): String = {
