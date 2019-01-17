@@ -35,9 +35,7 @@ object TestUtils {
 
   def getArticle(url: Uri, rawHTML: String = null)(implicit config: Configuration): Article = {
     val goose = new Goose(config)
-    val article = goose.extractArticle(rawHTML, url)
-    //    goose.shutdownNetwork()
-    article
+    goose.extractArticle(rawHTML, url)
   }
 
   val ADDITIONAL_DATA_CONFIG = new Configuration
@@ -47,16 +45,16 @@ object TestUtils {
                            expectedDescription: String = null,
                            expectedKeywords: String = null, expectedAuthor: String = null,
                            expectedPublishDate: Option[ZonedDateTime] = None): Unit = {
-    articleReport.append("URL:      ").append(TAB).append(article.finalUrl).append(NL)
+    //articleReport.append("URL:      ").append(TAB).append(article.finalUrl).append(NL)
     articleReport.append("TITLE:    ").append(TAB).append(article.title).append(NL)
-    articleReport.append("CONTENT:  ").append(TAB).append(article.cleanedArticleText.replace("\n", "    ")).append(NL)
+    articleReport.append("CONTENT:  ").append(TAB).append(article.articleText.replace("\n", "    ")).append(NL)
     articleReport.append("METAKW:   ").append(TAB).append(article.metaKeywords).append(NL)
     articleReport.append("METADESC: ").append(TAB).append(article.metaDescription).append(NL)
-    articleReport.append("DOMAIN:   ").append(TAB).append(article.domain).append(NL)
-    articleReport.append("LINKHASH: ").append(TAB).append(article.linkhash).append(NL)
-    articleReport.append("MOVIES:   ").append(TAB).append(article.movies).append(NL)
-    articleReport.append("TAGS:     ").append(TAB).append(article.tags).append(NL)
-    articleReport.append("PUBDATE:  ").append(TAB).append(article.publishDate).append(NL)
+    //articleReport.append("DOMAIN:   ").append(TAB).append(article.domain).append(NL)
+    //articleReport.append("LINKHASH: ").append(TAB).append(article.linkhash).append(NL)
+    //articleReport.append("MOVIES:   ").append(TAB).append(article.movies).append(NL)
+    //articleReport.append("TAGS:     ").append(TAB).append(article.tags).append(NL)
+    articleReport.append("PUBDATE:  ").append(TAB).append(article.publishTimestamp).append(NL)
 
     assertNotNull("Resulting article was NULL!", article)
 
@@ -66,19 +64,21 @@ object TestUtils {
       assertEquals("Expected title was not returned!", expectedTitle, title)
     }
     if (expectedStart != null) {
-      val articleText: String = article.cleanedArticleText
+      val articleText: String = article.articleText
       assertNotNull("Resulting article text was NULL!", articleText)
       assertTrue("Article text was not as long as expected beginning!", expectedStart.length <= articleText.length)
       val actual: String = articleText.substring(0, expectedStart.length)
       assertEquals("The beginning of the article text was not as expected!", expectedStart, actual)
     }
     if (expectedDescription != null) {
-      val description: String = article.metaDescription
+      assert(article.metaDescription.isDefined)
+      val description: String = article.metaDescription.get
       assertNotNull("Meta Description was NULL!", description)
       assertEquals("Meta Description was not as expected!", expectedDescription, description)
     }
     if (expectedKeywords != null) {
-      val keywords: String = article.metaDescription
+      assert(article.metaKeywords.isDefined)
+      val keywords: String = article.metaKeywords.get
       assertNotNull("Meta Keywords was NULL!", keywords)
       assertEquals("Meta Keywords was not as expected!", expectedKeywords, keywords)
     }
@@ -90,7 +90,7 @@ object TestUtils {
     }
 
     if(expectedPublishDate.isDefined) {
-      assertEquals(article.publishDate, expectedPublishDate)
+      assertEquals(article.publishTimestamp, expectedPublishDate)
     }
   }
 

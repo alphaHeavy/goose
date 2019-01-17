@@ -15,8 +15,8 @@ abstract class BaseContentExtractor extends ContentExtractor with Logging {
   protected val SPACE_SPLITTER: StringSplitter = new StringSplitter(" ")
   protected val NO_STRINGS = Set.empty[String]
   protected val A_REL_TAG_SELECTOR: String = "a[rel=tag], a[href*=/tag/]"
-  protected val TOP_NODE_TAGS = new TagsEvaluator(Set("p", "td", "pre"))
-  protected val TOP_NODE_SELECTORS = Seq("div[class=content-body]", "div[id=content-body-]")
+  protected val TOP_NODE_TAGS = new TagsEvaluator(Set("p", "td", "pre", "article"))
+  protected val TOP_NODE_SELECTORS = Seq("div[class=content-body]", "div[id=content-body-]", "span[class=article-prime]")
 
   def getLogger() = logger
 }

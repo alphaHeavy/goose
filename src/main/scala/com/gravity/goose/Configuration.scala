@@ -77,6 +77,8 @@ class Configuration {
 
   var additionalDataExtractor: AdditionalDataExtractor = new AdditionalDataExtractor
 
+  val tickerExtractor = TickerExtractor
+
   def getPublishDateExtractor: PublishDateExtractor = {
     publishDateExtractor
   }

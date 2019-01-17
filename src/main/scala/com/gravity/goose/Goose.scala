@@ -29,7 +29,7 @@ import org.jsoup.Jsoup
  */
 class Goose(config: Configuration = new Configuration) {
   def extractArticle(html: String, url: Uri): Article = {
-    val article = new Article()
+    val article = new ArticleInternal()
 
     val extractor = config.contentExtractor
     val docCleaner = new StandardDocumentCleaner
@@ -43,14 +43,29 @@ class Goose(config: Configuration = new Configuration) {
 
     article.title = extractor.getTitle(article)
     article.author = AuthorExtractor.extractAuthor(doc)
-    article.publishDate = config.publishDateExtractor.extract(doc, url)
+    val (publishTimestamp, updateTimestamp) = config.publishDateExtractor.extract(doc, url)
+    article.publishTimestamp = publishTimestamp
+    article.updatedTimestamp = updateTimestamp
     article.additionalData = config.getAdditionalDataExtractor.extract(doc)
     article.metaDescription = extractor.getMetaDescription(article)
     article.metaKeywords = extractor.getMetaKeywords(article)
     article.canonicalLink = CanonicalUrlExtractor.extractCanonicalUrl(doc)
     article.tags = extractor.extractTags(article)
     article.doc = docCleaner.clean(article)
-    article.cleanedArticleText = extractor.extractArticle(article)
-    article
+    article.cleanedArticleText = extractor.extractArticle(article).getOrElse("")
+    article.tickers = config.tickerExtractor.extractTickers(html, url.host.getOrElse(""), doc)
+
+    val metaDescription = article.metaDescription.isEmpty match {
+      case true => None
+      case false => Some(article.metaDescription)
+    }
+
+    val metaKeywords = article.metaKeywords.isEmpty match {
+      case true => None
+      case false => Some(article.metaKeywords)
+    }
+
+    Article(article.title, article.cleanedArticleText, metaDescription, metaKeywords, article.canonicalLink,
+      publishTimestamp, updateTimestamp, None, article.author, article.tickers)
   }
 }

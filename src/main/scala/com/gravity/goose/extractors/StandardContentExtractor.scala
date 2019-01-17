@@ -20,7 +20,7 @@ package com.gravity.goose.extractors
 import java.net.URL
 import java.util.ArrayList
 
-import com.gravity.goose.Article
+import com.gravity.goose.ArticleInternal
 import com.gravity.goose.outputformatters.StandardOutputFormatter
 import com.gravity.goose.text._
 import com.gravity.goose.utils.Logging
@@ -43,7 +43,7 @@ class StandardContentExtractor extends BaseContentExtractor with Logging {
 
   // PRIVATE PROPERTIES BELOW
 
-  def getTitle(article: Article): String = {
+  override def getTitle(article: ArticleInternal): String = {
     var title: String = string.empty
 
     val doc = article.doc
@@ -130,14 +130,14 @@ class StandardContentExtractor extends BaseContentExtractor with Logging {
   /**
     * if the article has meta description set in the source, use that
     */
-  def getMetaDescription(article: Article): String = {
+  def getMetaDescription(article: ArticleInternal): String = {
     getMetaContent(article.doc, "meta[name=description]")
   }
 
   /**
     * if the article has meta keywords set in the source, use that
     */
-  def getMetaKeywords(article: Article): String = {
+  def getMetaKeywords(article: ArticleInternal): String = {
     getMetaContent(article.doc, "meta[name=keywords]")
   }
 
@@ -145,7 +145,7 @@ class StandardContentExtractor extends BaseContentExtractor with Logging {
   /**
     * if the article has meta canonical link set in the url
     */
-  def getCanonicalLink(article: Article): String = {
+  def getCanonicalLink(article: ArticleInternal): String = {
     val meta = article.doc.select("link[rel=canonical]")
     if (meta.size() > 0) {
       val href = Option(meta.first().attr("href")).getOrElse("").trim
@@ -159,7 +159,7 @@ class StandardContentExtractor extends BaseContentExtractor with Logging {
     new URL(url).getHost
   }
 
-  def extractTags(article: Article): Set[String] = {
+  def extractTags(article: ArticleInternal): Set[String] = {
     val node = article.doc
     if (node.children.size == 0) return NO_STRINGS
     val elements: Elements = Selector.select(A_REL_TAG_SELECTOR, node)
@@ -182,11 +182,14 @@ class StandardContentExtractor extends BaseContentExtractor with Logging {
     * @return
     */
 
-  def calculateBestNodeBasedOnClustering(article: Article): Option[Element] = {
+  def calculateBestNodeBasedOnClustering(article: ArticleInternal): Option[Element] = {
     trace(logPrefix + "Starting to calculate TopNode")
     val doc = article.doc
     var topNode: Element = null
+    val additionalNodes : List[Element] = TOP_NODE_SELECTORS.flatMap(doc.select(_)).toList
     val nodesToCheck = Collector.collect(TOP_NODE_TAGS, doc)
+    additionalNodes.foreach(nodesToCheck.add(_))
+
     var startingBoost: Double = 1.0
     var cnt: Int = 0
     var i: Int = 0
@@ -630,17 +633,16 @@ class StandardContentExtractor extends BaseContentExtractor with Logging {
     sb.toString()
   }
 
-  override def extractArticle(article: Article): String = {
+  override def extractArticle(article: ArticleInternal): Option[String] = {
     calculateBestNodeBasedOnClustering(article) match {
       case Some(node: Element) => {
         article.topNode = node
         article.movies = extractVideos(article.topNode)
         article.topNode = postExtractionCleanup(article.topNode)
-        StandardOutputFormatter.getFormattedText(article.topNode)
+        Some(StandardOutputFormatter.getFormattedText(article.topNode))
       }
       case _ =>
-        trace("NO ARTICLE FOUND")
-        ""
+        None
     }
   }
 }

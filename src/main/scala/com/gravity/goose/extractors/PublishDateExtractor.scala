@@ -47,6 +47,7 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
       if (item.nodeName() == "time") {
         PublishDateExtractor.safeParseISO8601Date(item.attr("datetime"), url)
           .orElse(PublishDateExtractor.safeParseISO8601Date(item.html.trim, url))
+          .orElse(PublishDateExtractor.safeParseISO8601Date(item.attr("content"), url))
       }
       else if(item.nodeName() == "abbr")
       {
@@ -253,7 +254,7 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
     "meta[name=Last-Modified]",
     "script")
 
-  def extract(rootElement: Element, url: Uri): Option[ZonedDateTime] = {
+  def extract(rootElement: Element, url: Uri): (Option[ZonedDateTime], Option[ZonedDateTime]) = {
     url.host match {
       case Some(hostname) =>
         // A few different ways to get a date.
@@ -267,10 +268,10 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
             def bestModDateNoTimeZone = modSelectors.flatMap (extractCandidateNoTimeZone (rootElement, _, x, url) )
               .reduceOption (PublishDateExtractor.minDate)
 
-            bestPubDate.orElse (bestModDate).orElse (bestPubDateNoTimeZone).orElse (bestModDateNoTimeZone)
-          case None => bestPubDate.orElse (bestModDate)
+            (bestPubDate.orElse (bestPubDateNoTimeZone), bestModDate.orElse (bestModDateNoTimeZone))
+          case None => (bestPubDate,bestModDate)
         }
-      case None => None
+      case None => (None, None)
     }
   }
 }
@@ -299,7 +300,8 @@ object PublishDateExtractor extends Logging {
     "www.euronews.com" -> ZoneId.of("Etc/GMT-2"),
     "www.etftrends.com" -> ZoneId.of("UTC"),
     "www.usatoday.com" -> ZoneId.of("America/New_York"),
-    "www.houstonchronicle.com" -> ZoneId.of("UTC"))
+    "www.houstonchronicle.com" -> ZoneId.of("UTC"),
+    "www.theatlantic.com" -> ZoneId.of("America/New_York"))
 
 
   val logPrefix = "PublishDateExtractor: "

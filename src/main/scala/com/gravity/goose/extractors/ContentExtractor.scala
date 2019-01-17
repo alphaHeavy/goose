@@ -17,14 +17,14 @@
  */
 package com.gravity.goose.extractors
 
-import com.gravity.goose.Article
+import com.gravity.goose.ArticleInternal
 
 trait ContentExtractor {
-  def getTitle(article: Article): String
-  def getMetaDescription(article: Article): String
-  def getMetaKeywords(article: Article): String
-  def getCanonicalLink(article: Article): String
-  def extractTags(article: Article): Set[String]
-  def extractArticle(article: Article): String
+  def getTitle(article: ArticleInternal): String
+  def getMetaDescription(article: ArticleInternal): String
+  def getMetaKeywords(article: ArticleInternal): String
+  def getCanonicalLink(article: ArticleInternal): String
+  def extractTags(article: ArticleInternal): Set[String]
+  def extractArticle(article: ArticleInternal): Option[String]
 
 }

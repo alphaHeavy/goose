@@ -1,6 +1,6 @@
 package com.gravity.goose.extractors
 
-import com.gravity.goose.Article
+import com.gravity.goose.ArticleInternal
 import com.gravity.goose.text.string
 import com.gravity.goose.utils.Logging
 
@@ -12,7 +12,7 @@ import com.gravity.goose.utils.Logging
  */
 
 class VoicesContentExtractor extends StandardContentExtractor {
-  override def getTitle(article: Article): String = {
+  override def getTitle(article: ArticleInternal): String = {
     try {
       val titleElem = article.doc.getElementsByTag("title")
       if (titleElem == null || titleElem.isEmpty) return string.empty

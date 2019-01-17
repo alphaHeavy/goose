@@ -20,7 +20,6 @@ package com.gravity.goose.utils
 
 import com.gravity.goose.text.{StringReplacement, HashUtils}
 import java.net.{URI, MalformedURLException, URL}
-import org.apache.http.client.methods.HttpGet
 
 /**
  * Created by Jim Plush
@@ -92,10 +91,4 @@ object URLHelper extends Logging {
     }
   }
 
-  def tryToHttpGet(url: String): Option[HttpGet] = {
-    tryToURI(url) match {
-      case Some(uri) => Some(new HttpGet(uri))
-      case None => None
-    }
-  }
 }
