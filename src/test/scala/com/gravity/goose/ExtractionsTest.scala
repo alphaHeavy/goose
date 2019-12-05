@@ -760,6 +760,18 @@ class ExtractionsTest {
   }
 
   @Test
+  def thehill3(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("thehill3.txt")
+    val url = "https://thehill.com/blogs/blog-briefing-room/419398-ocasio-cortez-shreds-mike-huckabee-leave-the-false-statements-to"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Rep.-elect Alexandria Ocasio-CortezAlexandria Ocasio-CortezPelosi and Ocasio-Cortez:")
+    assert(article.publishTimestamp.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
   def thestreet(): Unit = {
     implicit val config = TestUtils.NO_IMAGE_CONFIG
     val html = getHtml("thestreet.txt")
@@ -832,6 +844,7 @@ class ExtractionsTest {
     val url = "http://thehill.com/blogs/ballot-box/house-races/170525-rep-steve-king-iowa-caucus-still-matters"
     val article = TestUtils.getArticle(Uri.parse(url), html)
     assert(article.articleText.isEmpty)
+    assert(article.publishTimestamp.isDefined)
   }
 
   @Test
@@ -1006,6 +1019,19 @@ class ExtractionsTest {
   }
 
   @Test
+  def foxnews3(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("foxnews3.html")
+    val url = "https://www.foxnews.com/media/joey-jones-krugman-nyt-republicans-pretend-patriots"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "After a New York Times")
+    assert(article.publishTimestamp.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
   def houstonchronicle1(): Unit = {
     implicit val config = TestUtils.NO_IMAGE_CONFIG
     val html = getHtml("houstonchronicle1.txt")
@@ -1064,10 +1090,11 @@ class ExtractionsTest {
     val url = "https://www.axios.com/newsletters/axios-am-f9d0575f-832e-4291-a597-8103d61e0ab5.html"
     val article = TestUtils.getArticle(Uri.parse(url), html)
     //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
-    //TestUtils.runArticleAssertions(article = article,
-    //  expectedStart = "Today is the 17th Memorial Day since 9/11. Since then")
-    //assert(article.publishDate.isDefined)
-    //assert(article.canonicalLink.isDefined)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Today is the 17th Memorial Day since 9/11. Since then")
+    //assert(article.publishTimestamp.isDefined)
+    //Axios does not  have a timestamp
+    assert(article.canonicalLink.isDefined)
   }
 
   @Test
@@ -1079,6 +1106,19 @@ class ExtractionsTest {
     //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
     TestUtils.runArticleAssertions(article = article,
       expectedStart = "iPhone 8 users are complaining that the earpiece for")
+    assert(article.publishTimestamp.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
+  def fortune6(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("fortune6.html")
+    val url = "https://fortune.com/2011/07/26/is-apple-undervalued-at-404/"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Now that the stock has finally broken through the $400 barrier, how high can it go?")
     assert(article.publishTimestamp.isDefined)
     assert(article.canonicalLink.isDefined)
   }
@@ -1109,20 +1149,22 @@ class ExtractionsTest {
     assert(article.canonicalLink.isDefined)
   }
 
-  /*@Test
+  @Test
   def fastcompany1(): Unit = {
     implicit val config = TestUtils.NO_IMAGE_CONFIG
-    val html = getHtml("fastcompany1.txt")
+    val html = getHtml("fastcompany1.html")
     val url = "https://news.fastcompany.com/a-second-federal-appeals-court-has-ruled-against-trumps-travel-ban-4040556"
     val article = TestUtils.getArticle(Uri.parse(url), html)
     //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
+    //This one selects the wrong piece of text because the body is super short
     TestUtils.runArticleAssertions(article = article,
-      expectedStart = "The IT meltdown that left thousands of passengers")
-    assert(article.publishDate.isDefined)
+      expectedStart = "I spent a good chunk of the past few days reviewi")
+    // There is no timestamp
+    //assert(article.publishTimestamp.isDefined)
     assert(article.canonicalLink.isDefined)
-  }*/
+  }
 
-  /*@Test
+  @Test
   def ktvu1(): Unit = {
     implicit val config = TestUtils.NO_IMAGE_CONFIG
     val html = getHtml("ktvu1.html")
@@ -1130,21 +1172,80 @@ class ExtractionsTest {
     val article = TestUtils.getArticle(Uri.parse(url), html)
     //val publishDate = Some(ZonedDateTime.of(LocalDateTime.parse("Jun 19, 2017 11:38 AM EDT"), ZoneId.of("UTC").normalized()))
     TestUtils.runArticleAssertions(article = article,
-      expectedStart = "The IT meltdown that left thousands of passengers")
-    assert(article.publishDate.isDefined)
+      expectedStart = "Man injured with bullet")
+    assert(article.publishTimestamp.isDefined)
     assert(article.canonicalLink.isDefined)
-  }*/
+  }
 
-  /*@Test
+  @Test
   def blogger1(): Unit ={
     // ld script
     implicit val config = TestUtils.NO_IMAGE_CONFIG
     val html = getHtml("blogger1.txt")
     val url: String = "http://fat-pitch.blogspot.com/2013/09/what-does-small-cap-outperformance-tell.html"
-    val article = TestUtils.getArticle(url, html)
+    val article = TestUtils.getArticle(Uri.parse(url), html)
     TestUtils.runArticleAssertions(article = article,
-      expectedStart = "For good reason, investors are looking at the performance of the Russell 2000 (RUT).",
-      expectedImage = null)
-    assertNotNull(article.publishDate)
-  }*/
+      expectedStart = "For good reason, investors are looking at the performance of the Russell 2000 (RUT).")
+    assert(article.publishTimestamp.isDefined)
+  }
+
+  @Test
+  def kentucky1(): Unit ={
+    // NO TIME ZONE
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("kentucky1.txt")
+    val url: String = "https://www.kentucky.com/latest-news/article44132223.html"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Charlotte-area credit unions have seen an increase in phone calls and new members in")
+    assert(article.publishTimestamp.isDefined)
+  }
+
+  @Test
+  def washingtonexaminer1(): Unit ={
+    // NO TIME ZONE
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("washingtonexaminer1.html")
+    val url: String = "https://www.washingtonexaminer.com/business/trump-teases-wall-street-with-hints-of-china-tariff-relief"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Trump teases Wall Street with hints of China-tariff relief by James Langford")
+    assert(article.publishTimestamp.isDefined)
+  }
+
+  @Test
+  def japantimes1(): Unit ={
+    // NO TIME ZONE
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("japantimes1.html")
+    val url: String = "https://www.japantimes.co.jp/news/2016/12/17/national/japan-south-korea-swap-intelligence-north-korean-threats-first-time/"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "National Japan and South Korea swap intelligence on North Korean")
+    assert(article.publishTimestamp.isDefined)
+  }
+
+  @Test
+  def wallstreetde1(): Unit ={
+    // NO TIME ZONE
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("wallstreetde1.html")
+    val url: String = "https://www.wallstreet-online.de/nachricht/11805119-immobilienmarkt-einzug-deutsche-grossbanken-new-yorker-hauptquartier"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "National Japan and South Korea swap intelligence on North Korean")
+    assert(article.publishTimestamp.isDefined)
+  }
+
+  @Test
+  def fool1(): Unit ={
+    // NO TIME ZONE
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("fool1.html")
+    val url: String = "https://www.fool.com/careers/2019/09/27/the-top-4-reasons-workers-seek-flexible-jobs.aspx\t"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "National Japan and South Korea swap intelligence on North Korean")
+    assert(article.publishTimestamp.isDefined)
+  }
 }

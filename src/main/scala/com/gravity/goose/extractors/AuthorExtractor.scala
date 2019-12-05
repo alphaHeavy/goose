@@ -10,7 +10,8 @@ import org.jsoup.select.Elements
 object AuthorExtractor extends Logging {
   final val authorSelectors = Seq(
     "meta[name=author]",
-    "a[rel=author]"
+    "a[rel=author]",
+    "meta[property=author]"
   )
 
   private def getFromMatch(m: Element): Option [String] = {

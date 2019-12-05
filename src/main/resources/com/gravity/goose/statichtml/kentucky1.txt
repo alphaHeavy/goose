@@ -1,0 +1,5413 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+    <meta charset="utf-8">
+
+
+
+
+
+
+
+
+    <script>
+    var gomez={
+    gs: new Date().getTime(),
+    acctId:"D3FD89",
+    grpId:"Escenic",
+    grpId1:"LEX",
+    grpId2:window.location.hostname,
+    grpId3:"unknown",
+    pgId:"story-detail",
+    wrate:1
+};
+</script>
+
+
+
+
+
+        <meta name="msapplication-TileColor" content="#FFFFFF"/>
+
+
+
+        <meta name="msapplication-TileImage" content="https://www.kentucky.com/wps/source/images/kentucky/windowsmetro-144.png"/>
+
+
+
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.kentucky.com/wps/source/images/kentucky/apple-touch-icon-144-precomposed.png"/>
+
+
+
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.kentucky.com/wps/source/images/kentucky/apple-touch-icon-114-precomposed.png"/>
+
+
+
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.kentucky.com/wps/source/images/kentucky/apple-touch-icon-72-precomposed.png"/>
+
+
+
+        <link rel="apple-touch-icon-precomposed" href="https://www.kentucky.com/wps/source/images/kentucky/apple-touch-icon-57-precomposed.png"/>
+
+
+
+        <link rel="shortcut icon" href="https://www.kentucky.com/wps/source/images/kentucky/favicon.png"/>
+
+
+
+        <meta name="robots" content="noindex"/>
+
+
+
+        <meta name="twitter:card" content="summary_large_image"/>
+
+
+
+        <meta name="twitter:site" content="heraldleader"/>
+
+
+
+        <meta name="twitter:title" content="Credit unions see rise with consumer fury at bank fees"/>
+
+
+
+        <meta property="og:site_name" content="kentucky"/>
+
+
+
+        <meta property="og:type" content="article"/>
+
+
+
+        <meta property="og:title" content="Credit unions see rise with consumer fury at bank fees"/>
+
+
+
+        <meta property="og:url" content="https://www.kentucky.com/latest-news/article44132223.html"/>
+
+
+
+        <meta property="og:image" content="https://www.kentucky.com/wps/source/images/kentucky/facebook.jpg"/>
+
+
+
+        <meta name="twitter:image" content="https://www.kentucky.com/wps/source/images/kentucky/facebook.jpg"/>
+
+
+
+        <meta property="fb:app_id" content="587420291299522"/>
+
+
+
+
+
+        <meta name="title" content="Credit unions see rise with consumer fury at bank fees | Lexington Herald Leader"/>
+
+
+
+        <meta name="allow-comments" content="true"/>
+
+
+
+        <meta name="description" content="Charlotte-area credit unions have seen an increase in phone calls and new members in the last two weeks as people upset about new fees at big banks look for new places to park their money."/>
+
+
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+
+
+        <meta name="googlebot" content="noodp, noarchive"/>
+
+
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+
+
+        <link rel="canonical" href=""/>
+
+
+
+        <meta name="original-source" content=""/>
+
+
+
+        <meta name="google-site-verification" content="BEKkJ_OR4k9KMYCT1lNm017hfknXZzIPm_qpgFVZeWw"/>
+
+
+
+
+
+
+
+<meta name="title" content="Credit unions see rise with consumer fury at bank fees | Lexington Herald Leader">
+<meta name="og:title" content="Credit unions see rise with consumer fury at bank fees | Lexington Herald Leader">
+
+
+
+
+
+    <meta property="article:content_tier" content=""/>
+
+
+<title>Credit unions see rise with consumer fury at bank fees | Lexington Herald Leader</title>
+
+<link rel="amphtml" href="https://amp.kentucky.com/latest-news/article44132223.html">
+
+<meta name="msapplication-TileImage" content="/wps/build/images/kentucky/windowsmetro-144.png"/>
+
+
+
+
+        <meta property="fb:pages" content="46341310154" />
+
+
+
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/wps/build/images/kentucky/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/wps/build/images/kentucky/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/wps/build/images/kentucky/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="/wps/build/images/kentucky/apple-touch-icon-57-precomposed.png">
+<link rel="shortcut icon" href="/wps/build/images/kentucky/favicon.png">
+
+
+
+
+<script type="text/javascript"
+            src="/wps/source/scripts/libs/require.js"></script>
+
+<script type="text/javascript">
+    var wpsConfig = {
+        baseUrl: '/wps/source/scripts/src',
+        urlArgs: 'misv=4713abf',
+        paths: {
+            'moment': '../libs/moment.min',
+            'identity': '../libs/identityModulev3.min'
+        },
+        waitSeconds: 0
+    };
+
+    var wpsRequire = requirejs.config(wpsConfig);
+
+</script>
+
+<script>
+    var mi = (function(mod) {
+        mod.lazyloaders = mod.lazyloaders || [];
+        return mod;
+    })(mi || {});
+
+    var rtkcategories = ["News"];
+</script>
+
+
+    <script>mi.inMarket=true</script>
+
+
+
+
+
+    <link href="/wps/build/css/main2018-117c1c1272.css" rel="stylesheet" type="text/css"/>
+
+
+
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script type="text/javascript" src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.9/es5-shim.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src=" /wps/source/scripts/libs/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/wps/build/js/mi-header-d46040fd60.js"></script>
+
+
+
+    <script type="text/javascript" src="/wps/source/scripts/libs/guid.js"></script>
+    <script>
+        wpsRequire(['identity'], function(IdentityModule) {
+            $(window).load(function() {
+                var identityCookieName = 'AccessToken';
+                var accessTokenCookie = mi.getCookie(identityCookieName);
+
+                if (!accessTokenCookie) {
+                    var identityModule = new IdentityModule();
+                    var identityPrefix = 'mcv4';
+
+                    $.getJSON('https://api.ipify.org?format=jsonp&callback=?')
+                    .done(function(json) {
+                        identityModule.GenerateIdentity(identityCookieName, identityPrefix, [json.ip]);
+                    })
+                    .fail(function() {
+                        identityModule.GenerateIdentity(identityCookieName, identityPrefix, [getGuid()]);
+                    });
+                }
+            });
+        });
+    </script>
+
+
+
+
+        <!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 -->
+
+
+
+
+
+
+<script type="text/javascript">
+mi.pageInfo.setConf({
+'marketInfo.viewsizes':[{"Extra-Small":[0,0]},{"Large":[1200,600]},{"Medium":[992,300]},{"Small":[768,300]}],
+'marketInfo.adsizes':{"outofpage":{},"wallpaper":{'1600x600':[1600,600],'None':[]},"floorboard":{'285x70':[285,70],'None':[]},"default":{'120x20':[120,20],'120x240':[120,240],'120x600':[120,600],'146x60':[146,60],'160x600':[160,600],'160x90':[160,90],'168x28':[168,28],'180x150':[180,150],'216x36':[216,36],'234x60':[234,60],'240x400':[240,400],'300x100':[300,100],'300x250':[300,250],'300x50':[300,50],'300x600':[300,600],'300x75':[300,75],'320x450':[320,450],'320x50':[320,50],'336x280':[336,280],'468x60':[468,60],'500x300':[500,300],'600x250':[600,250],'728x90':[728,90],'960x30':[960,30],'970x90':[970,90],'Billboard Flex':[[960,30],[970,90],[728,90],[970,250]],'Billboard Flex2':[[970,90],[970,250]],'Billboard Flex3':[[970,90],[970,250],[728,90]],'Flex Ad':[[300,250],[300,600]],'None':[],'Rising Star':[500,300],'Welcome Ad':[[300,250],[300,600],[550,480],[600,500]]} },'accuweather.apiKey':'2ce96fe9da724185a27db1e6a3ecf580',
+'accuweather.dev':'false',
+'accuweather.locationKey':'338365',
+'accuweather.locationKey1':'348428',
+'accuweather.locationKey2':'333365',
+'accuweather.locationKey3':'350126',
+'accuweather.locationString':'Lexington',
+'accuweather.locationString1':'Louisville',
+'accuweather.locationString2':'Mt Vernon',
+'accuweather.locationString3':'Cincinnati, OH',
+'accuweather.partnerCode':'MCCLATCHY',
+'cs.circ_phone':'1-800-999-8881',
+'cs.circ_url':'http://www.kentucky.com/myaccount',
+'facebook.app.id':'587420291299522',
+'financialContent.account':'kentucky',
+'findnsave.tracking':'findnsave',
+'headerDateDisplay':'false',
+'legacy.affiliateId':'1185',
+'legacy.siteName':'kentucky',
+'marketInfo.CarsAFF':'kentucky',
+'marketInfo.CarsSEO':'Search for used and new cars, trucks, SUVs and other vehicles on Kentucky.com. Lexington Herald-Leader also provides Bluegrass, and Lexington, KY with tools to help you buy your car such as comparison, how to negotiate with car dealers, auto loan calculators, financing tips and Blue Book values.',
+'marketInfo.JobsQSCTY':'Lexington',
+'marketInfo.JobsQSSTS':'KY,US',
+'marketInfo.JobsSEO':'Lexington Herald-Leader and Kentucky.com serves the people of Lexington, KY and Bluegrass with a job-search tool and career resource. You will find full and part-time local opportunities in a variety of career fields including banking, retail, medical, construction, restaurant and IT.',
+'marketInfo.JobsSiteID':'cb_lh003',
+'marketInfo.Jobslr':'cbcb_lh',
+'marketInfo.LiveConnectTag':'a-01e5',
+'marketInfo.addcities':'Georgetown, Frankfort, Somerset',
+'marketInfo.adretargeting.kill_list':'[&quot;simpli.fi&quot;]',
+'marketInfo.allow_ads':'true',
+'marketInfo.allow_nativo':'true',
+'marketInfo.careerbuilder.dmc_code':'lex',
+'marketInfo.careerbuilder.dmc_id':'1218',
+'marketInfo.careerbuilder.lr':'cbcb_tn',
+'marketInfo.careerbuilder.mxjobsrchcriteria_rawwords':'CustomField3:LEXINGTNTJ',
+'marketInfo.careerbuilder.s_freshness':'30',
+'marketInfo.clipped_taxonomy':'News',
+'marketInfo.code':'LEX',
+'marketInfo.county':'Fayette County',
+'marketInfo.domain':'kentucky',
+'marketInfo.followLinks':'true',
+'marketInfo.kill_dealsaver':'true',
+'marketInfo.location':'Lexington',
+'marketInfo.logoAltText':'Kentucky.com',
+'marketInfo.market_identifier':'LEX.site_kentucky',
+'marketInfo.name':'Lexington Herald Leader',
+'marketInfo.networkid':'7675',
+'marketInfo.phone':'859-231-3100',
+'marketInfo.product':'site',
+'marketInfo.region':'Central Kentucky',
+'marketInfo.shortURL':'breaking',
+'marketInfo.siteId':'79',
+'marketInfo.sourcelevel':'eceincoming',
+'marketInfo.state':'Kentucky',
+'marketInfo.state_abbreviation':'KY',
+'marketInfo.staticDirectory':'kentucky',
+'marketInfo.street_address':'100 Midland Avenue, Lexington, KY, 40508',
+'marketInfo.taxonomy':'News////',
+'marketInfo.webmaster_email':'interactive-ops@herald-leader.com',
+'marketInfo.zipcode':'40508',
+'nativo.story.placements':'840695,868911,844476',
+'nativo.video.placements':'869312,869311',
+'publication.domain':'Kentucky.com',
+'publication.mediadomain':'media.kentucky.com',
+'wufoo.formID':'',
+'marketInfo.pagelevel':'story',
+});
+</script>
+
+<script type="text/javascript">
+    var mistats = mistats || {};
+    mistats.pagelevel="Story";
+    mistats.cmsid="Story:44132223";
+    mistats.pagename="Story:44132223|Credit unions see rise with consumer fury at bank fees";
+    mistats.taxonomy="News||||";
+    mistats.channel="Latest News";
+    mistats.contentsource="McClatchy_Newspapers|Andrew Dunn - Charlotte Observer";
+    mistats.pubdate="2011/10/19";
+    mistats.moddate="2011/10/21 H17";
+    mistats.keywords="";
+</script>
+
+
+<script src="//media.kentucky.com/misites/ken/kentucky.js"></script>
+
+
+    <script type="text/javascript">
+        var imgLazyLoadThreshold = 500;
+    </script>
+
+
+
+    <script>
+        var dfpOnPageWrapEnabled = false;
+            dfpOnPageWrapEnabled = true;
+        </script>
+
+
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [],
+        googletag.cmd.push(function(){
+            googletag.pubads().disableInitialLoad();
+        });
+        var getPreBidVarValue = function() {
+            var constructedVar;
+            var urlPathReg = /([^\/]*)\/*$/;
+            var classifiedSearchReg = /homes|cars|jobs|search/;
+            var urlPath = window.location.pathname;
+            var lastUrlComponent = urlPath.match(urlPathReg)[1];
+            var marketIdentifier = mi.pageInfo.getConf('marketInfo.market_identifier');
+            var pageLevel = mi.pageInfo.getConf('marketInfo.pagelevel');
+            var sourceLevel = mi.pageInfo.getConf('marketInfo.sourcelevel');
+            var isArticle = new RegExp(/.html$/).test(urlPath);
+            if ( lastUrlComponent === 'video' ) {
+                pageLevel = 'videofront';
+            } else if ( lastUrlComponent === 'galleries' ) {
+                pageLevel = 'galleryfront';
+            } else if ( lastUrlComponent.match(classifiedSearchReg) ) {
+                pageLevel = pageLevel + '.' + sourceLevel;
+            } else if (urlPath.search("/weather/") !== -1  && !isArticle) {
+                pageLevel = 'sectfront.weather';
+            } else if (urlPath.search("/latest-news/") !== -1 && !isArticle) {
+                pageLevel = 'sectfront.latestnews';
+            } else if (urlPath.search("-columns-blogs/") !== -1 && !isArticle) {
+                pageLevel = 'blogfront';
+            } else if (urlPath.search("/topics/") !== -1  && !isArticle) {
+                pageLevel = 'sectfront';
+            }
+            if ( mi_Ads.env.outOfMarket.pageLevelOOM === true && mi_Ads.env.outOfMarket.serverOOMHeader === true ) {
+                pageLevel = pageLevel + '-oom';
+            }
+
+            constructedVar = marketIdentifier + '.' + pageLevel;
+
+            return constructedVar;
+        };
+        var preBidMarketPage = getPreBidVarValue();
+    </script>
+    <script src="//acdn.adnxs.com/prebid/c/7543_nc-ky-pa1/pb.js" async="true"></script>
+
+
+
+
+    <script type="text/javascript" src="//ad.crwdcntrl.net/5/c=7436/pe=y/callback=extractPid"></script>
+
+
+
+
+<script type="text/javascript">
+    var getSubscribedFlag = false;
+</script>
+
+
+
+
+
+    <script type="text/javascript">
+        getSubscribedFlag = checkUserSubscribed('MPPSessionId');
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "//www.kentucky.com/latest-news/article44132223.html"
+  },
+
+
+  "headline": "Credit unions see rise with consumer fury at bank fees",
+  "image": "http://www.kentucky.com/wps/source/images/kentucky/facebook.jpg",
+  "datePublished": "2011/10/19",
+  "dateModified": "2011/10/21 H17",
+  "url": "//www.kentucky.com/latest-news/article44132223.html",
+  "thumbnailUrl": "",
+  "articleSection": "Latest News",
+  "creator": ["McClatchy_Newspapers|Andrew Dunn - Charlotte Observer" ],
+  "keywords": ["newspaper", " news paper", " news" ],
+      "author": {
+        "@type": "Person",
+        "name": "Andrew Dunn - Charlotte Observer"
+      },
+    "publisher": {
+     "name": "Lexington Herald Leader",
+     "@type": "Organization",
+     "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.kentucky.com/wps/build/images/kentucky/amp-logo.png"
+     }
+  },
+
+  "isPartOf": {
+    "@type": ["CreativeWork", "Product"],
+    "name": "kentucky",
+    "productID": "kentucky.com:AllLEX-5009"
+  },
+
+  "description": "",
+  "isAccessibleForFree": "False",
+  "hasPart":
+    {
+      "@type": "WebPageElement",
+      "isAccessibleForFree": "False",
+      "cssSelector" : ".paywalled"
+    }
+}
+</script>
+
+
+
+<script>
+    var _prx = window._prx || [];
+    _prx.push(['cfg.SetNoAutoStart']);
+</script>
+<script src="https://s.ntv.io/serve/load.js" async></script>
+
+
+
+
+    <script src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5" async></script>
+
+
+
+
+
+<script type="text/javascript">
+    const newsletterSuccess = (form) => {
+        const $div = document.createElement('div');
+
+        $div.classList.add('success');
+        $div.innerHTML = "";
+        document.querySelector('.grecaptcha-badge').remove();
+
+        if(form.classList.contains('impact')){
+            const $email = document.querySelector('.form-control');
+            const $button = form.querySelector('.more-link-macro a');
+            $email.parentNode.insertBefore($div, $email);
+            form.querySelector('p').remove();
+            $button.classList.add('success', 'disabled');
+            $email.remove();
+            $button.addEventListener('click', (e)=> {
+                e.preventDefault();
+                return false;
+            });
+        } else {
+            form.innerHTML = '';
+            form.appendChild($div);
+        }
+    };
+    function callbackCaptcha(token){
+        const $newsletterHomepage = document.querySelector('#newsletter .newsletter-cta-macro');
+        const $newsletterSection = document.querySelector('#newsletter-signUpWidget');
+
+        if($newsletterHomepage) {
+            onSubmit($newsletterHomepage, token);
+        }
+        if($newsletterSection) {
+            onSubmit($newsletterSection, token);
+        }
+    }
+    function onSubmit(form, token){
+        const data = JSON.parse(form.getAttribute('data-json'));
+
+        data.captchaToken = token;
+        form.removeAttribute('data-json');
+        $.ajax({
+            method: "POST",
+            dataType: 'json',
+            url: "",
+            data: data
+        }).done(function (msg) {
+            newsletterSuccess(form);
+        }).fail(function (jqXHR, textStatus, errorThrown) {
+            newsletterSuccess(form);
+        });
+    }
+</script>
+<script src='https://www.google.com/recaptcha/api.js' async defer></script>
+
+
+
+ <meta name='parsely-metadata' content='{"article_id": "44132223"}'>
+
+
+
+    </head>
+
+
+
+
+
+
+
+
+
+    <body class="story wps-body-main  paywalled">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- WPS upper navbar for subpubs -->
+
+
+<!-- WPS new Masthead -->
+<header class="masthead short" role="banner">
+
+<div class="hidden">
+        <div class="ad-widget" id="mn-gpt-1" adtype="outofpage" pkg="None" data-ad-policy="onPageLoad" audience="all" vl=0 articleId="44132223"></div>
+    </div>
+<div class="masthead-top" role="menu">
+        <div class="left">
+            <div class="squeezable">
+                <button id="sectionsmenu" class="labeled-menu" aria-haspopup="true" role="menuitem" >
+                    <svg class="icon" width="18" height="18" aria-hidden="true" viewBox="0 0 1792 1792"><path d="M1664 1344v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45z"></path></svg>
+                    <span>SECTIONS</span>
+                </button>
+
+                <a href="http://digital.olivesoftware.com/Olive/ODN/LexingtonHeraldLeader/default.aspx" class="mh-hide-sm" role="menuitem">
+                    <svg class="icon ereader-button" aria-hidden="true" width="24" height="18" viewBox="0 2 2048 1792" style="margin-top: 2px;"><path d="M1024 512h-384v384h384v-384zm128 640v128h-640v-128h640zm0-768v640h-640v-640h640zm640 768v128h-512v-128h512zm0-256v128h-512v-128h512zm0-256v128h-512v-128h512zm0-256v128h-512v-128h512zm-1536 960v-960h-128v960q0 26 19 45t45 19 45-19 19-45zm1664 0v-1088h-1536v1088q0 33-11 64h1483q26 0 45-19t19-45zm128-1216v1216q0 80-56 136t-136 56h-1664q-80 0-136-56t-56-136v-1088h256v-128h1792z"></path></svg>
+                </a>
+
+                <a href="/weather" class="mh-hide-sm" role="menuitem">
+                    <svg class="icon weather-button" aria-hidden="true" width="25" height="18" viewBox="0 0 25 18"><path fill="#231F20" d="M12.9,16.6H3.6c-1.2,0-2.2-1-2.2-2.2c0-1.2,1-2.2,2.2-2.2l0.1,0c0.3,0,0.6-0.2,0.7-0.5c0.4-1.8,2-3,3.8-3 c1.2,0,2.3,0.6,3.1,1.5c-0.6,0.2-1.1,0.6-1.5,1.1c-0.1,0.1-0.2,0.3-0.2,0.5c0,0.2,0.1,0.4,0.2,0.5c0.1,0.1,0.3,0.2,0.5,0.2 c0.2,0,0.4-0.1,0.5-0.2c0.4-0.5,1-0.8,1.6-0.9c0.1,0,0.1,0,0.2,0c0.1,0,0.1,0,0.2,0c1.5,0,2.7,1.2,2.7,2.7 C15.6,15.4,14.4,16.6,12.9,16.6 M12.9,9.8c0,0-0.1,0-0.1,0c-1-1.6-2.7-2.6-4.6-2.6c-2.2,0-4.3,1.5-5,3.6C1.4,11,0,12.6,0,14.4 c0,2,1.6,3.6,3.6,3.6h9.3c2.2,0,4.1-1.8,4.1-4.1C17,11.6,15.1,9.8,12.9,9.8 M17,5c-1.5,0-2.8,0.6-3.8,1.8C13.1,6.9,13,7.1,13,7.3 c0,0.2,0.1,0.4,0.3,0.5c0.3,0.3,0.8,0.2,1-0.1C15,7,15.9,6.5,17,6.5c2,0,3.5,1.6,3.5,3.6c0,1-0.4,1.9-1,2.6 c-0.1,0.1-0.2,0.3-0.2,0.5c0,0.2,0.1,0.4,0.2,0.5c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2c1-1,1.5-2.3,1.5-3.6 C22,7.3,19.7,5,17,5 M15.5,3C15.8,3,16,2.7,16,2.4V0.7C16,0.3,15.8,0,15.5,0C15.2,0,15,0.3,15,0.7v1.7C15,2.7,15.2,3,15.5,3 M24.3,9 h-1.7C22.3,9,22,9.2,22,9.5c0,0.3,0.3,0.5,0.7,0.5h1.7c0.4,0,0.7-0.2,0.7-0.5C25,9.2,24.7,9,24.3,9 M19.8,5c0.2,0,0.4-0.1,0.6-0.2 l1.4-1.4C21.9,3.2,22,3,22,2.8s-0.1-0.4-0.2-0.6c-0.3-0.3-0.8-0.3-1.1,0l-1.4,1.4C19.1,3.8,19,4,19,4.2s0.1,0.4,0.2,0.6 C19.4,4.9,19.6,5,19.8,5 M20.6,12.7c-0.1-0.1-0.3-0.2-0.6-0.2h0c-0.2,0-0.4,0.1-0.5,0.2c-0.1,0.1-0.2,0.3-0.2,0.6 c0,0.2,0.1,0.4,0.2,0.6l1.4,1.4c0.1,0.1,0.3,0.2,0.6,0.2c0.2,0,0.4-0.1,0.6-0.2c0.3-0.3,0.3-0.8,0-1.1L20.6,12.7z M10.7,4.8 C10.8,4.9,11,5,11.2,5c0.2,0,0.4-0.1,0.6-0.2c0.3-0.3,0.3-0.8,0-1.1l-1.4-1.4C10.2,2.1,10,2,9.8,2h0C9.6,2,9.4,2.1,9.2,2.2 C8.9,2.5,8.9,3,9.2,3.3L10.7,4.8z"></path></svg>
+                </a>
+
+
+
+<form tabindex="-1" action="/search/" class="searchbox" id="site-search" role="search">
+
+    <input type="text" name="q" placeholder="Search" aria-label="Search Lexington Herald Leader" tabindex="0">
+    <button type="button" class="searchbox" tabindex="-1"><svg class="icon search-button" aria-hidden="true" width="18" height="18" viewBox="0 0 1792 1792"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"></path></svg></button>
+    <button type="submit" class="searchbox-go" aria-label="Search" tabindex="-1">
+        &rarr;
+    </button>
+</form>
+
+
+            </div>
+        </div>
+
+
+
+        <div class="middle-wrapper">
+
+                <a href="/" class="middle" aria-label="Lexington Herald Leader">
+
+                        <img src="/wps/build/images/kentucky/logo.svg" alt="Lexington Herald Leader Logo" class="logo  short">
+
+
+                        <h1 class="title-meta">Credit unions see rise with consumer fury at bank fees | Lexington Herald Leader</h1>
+
+                </a>
+
+        </div>
+
+        <div class="right paywall-links" role="menu">
+
+
+
+                <div class="account-popup" role="menuitem">
+                    <div class="header">
+                        <span class="user-name"></span>
+                        <span class="close desktop mh-only-lg"></span>
+                        <span class="close mh-hide-lg">&times;</span>
+                    </div>
+                    <div class="content"></div>
+                    <div class="footer"></div>
+                </div>
+
+                <button type="button" class="account-links mobile main" role="menu" aria-haspopup="true">
+                    <span class="initials"></span>
+                </button>
+
+
+
+    <script type="text/javascript">
+        var userName = checkUserSubscribed('MPPUser');
+        var signInOrAccountLink = '<a href="https://account.kentucky.com/static/signin" class="mpp-usericon main mh-only-lg signed-out"><span>Sign In</span></a>';
+        var subscribeLink = '<a href="https://account.kentucky.com/static/subscribe" class="impact mh-only-lg"><span>Subscribe</span></a>';
+        var label = "My Account";
+        var signOutLink = '';
+
+        if (getSubscribedFlag) {
+            if(userName) {
+              userName = JSON.parse(userName);
+            }
+            subscribeLink = '';
+            signOutLink = '<a href="https://account.kentucky.com/sign-out"><span>Sign Out</span></a>';
+
+            if (userName && userName.firstName && userName.lastName) {
+              label = userName.firstName + ' ' + userName.lastName;
+            } else if (userName && userName.firstName) {
+              label = userName.firstName;
+            }
+            signInOrAccountLink = '<a href="https://account.kentucky.com/my-account" class="mpp-usericon account-links main mh-only-lg"><span>' + label + '</span></a>';
+            var subscriptionLink = '<a href="https://account.kentucky.com/my-account#subscriptions-tab" class="mpp-usericon account-links"><span>Subscriptions</span></a>';
+        }
+        if (1 === 1) {
+
+            $(".right.paywall-links").prepend(signInOrAccountLink, " ", subscribeLink);
+            signInOrAccountLink = signInOrAccountLink.replace("main mh-only-lg", "");
+            var profileLink = signInOrAccountLink.replace(label, "Profile");
+            $(".account-popup .content").prepend(profileLink, subscriptionLink);
+            $(".account-popup .footer").prepend(signOutLink);
+
+            if (getSubscribedFlag) {
+
+                $(".account-popup .user-name").prepend(signInOrAccountLink);
+                var f = userName.firstName.split('').shift();
+                var l = userName.lastName.split('').shift();
+                $(".account-links.mobile .initials").html(f+l);
+            } else {
+                var userIcon = '<svg class="icon subscribe-icon-button" width="16" height="22" viewBox="0 0 1792 1792"><path d="M1536 1399q0 109-62.5 187t-150.5 78h-854q-88 0-150.5-78t-62.5-187q0-85 8.5-160.5t31.5-152 58.5-131 94-89 134.5-34.5q131 128 313 128t313-128q76 0 134.5 34.5t94 89 58.5 131 31.5 152 8.5 160.5zm-256-887q0 159-112.5 271.5t-271.5 112.5-271.5-112.5-112.5-271.5 112.5-271.5 271.5-112.5 271.5 112.5 112.5 271.5z"></path></svg>';
+                $(".account-links.mobile .initials").html(userIcon);
+                subscribeLink = subscribeLink.replace("impact mh-only-lg", "");
+                $(".account-popup .content").append(subscribeLink);
+            }
+        }
+    </script>
+
+
+        </div>
+    </div>
+    <nav class="top-navigation">
+
+
+
+</nav>
+</header>
+
+
+
+
+<nav class="main-nav hidden" id="mainNav" role="menu" aria-hidden="true" tabindex="-1" >
+<ul>
+
+    <li class="action-item" role="menuitem">
+        <button id="closenavigation" tabindex="0" >
+            <span class="glyphicon glyphicon-close"></span>
+            SECTIONS
+        </button>
+    </li>
+
+
+
+        <li class="nav-search" role="menuitem">
+            <button type="button" class="search-placeholder">
+                <span class="glyphicon glyphicon-search"></span>
+                <span>Search</span>
+            </button>
+
+<form tabindex="-1" action="/search/" class="searchbox" id="site-search" role="search">
+
+    <input type="text" name="q" placeholder="Search" aria-label="Search Lexington Herald Leader" tabindex="0">
+    <button type="button" class="searchbox" tabindex="-1"><svg class="icon search-button" aria-hidden="true" width="18" height="18" viewBox="0 0 1792 1792"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"></path></svg></button>
+    <button type="submit" class="searchbox-go" aria-label="Search" tabindex="-1">
+        &rarr;
+    </button>
+</form>
+
+        </li>
+
+
+
+    <li class="nav-item">
+        <a href="http://digital.olivesoftware.com/Olive/ODN/LexingtonHeraldLeader/default.aspx" class="eedition-link" role="menuitem" tabindex="0"><span class="transparent">E-edition</span></a>
+    </li>
+
+
+
+
+
+    <li class="nav-item nav-spacer" aria-hidden="true" tabindex="-1"></li>
+    <li class="nav-item" role="menu" tabindex="-1"
+        aria-haspopup="true" aria-controls="menu-1" >
+
+
+            <a href="/#navlink=subnav" tabindex="0" role="menuitem">Home</a>
+
+    </li>
+    <li class="nav-item expandable" role="menu" tabindex="0"
+        aria-haspopup="true" aria-controls="menu-2" >
+    <button tabindex="-1" id="menubtn-2">News</button>
+        <span class="glyphicon glyphicon-chevron-down icon" aria-hidden="true"></span>
+
+        <ul class="nav-subnav" id="menu-2" role="menu" aria-labelledby="menubtn-2">
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/#navlink=navbar" role="menuitem" tabindex="0">
+                            All News
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/business/#navlink=subnav" role="menuitem" tabindex="0">
+                            Business
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/local/community/#navlink=subnav" role="menuitem" tabindex="0">
+                            Communities
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/local/counties/#navlink=subnav" role="menuitem" tabindex="0">
+                            Counties
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/local/crime/#navlink=subnav" role="menuitem" tabindex="0">
+                            Crime
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/local/education/#navlink=subnav" role="menuitem" tabindex="0">
+                            Education
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/local/counties/fayette-county/#navlink=subnav" role="menuitem" tabindex="0">
+                            Lexington
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/local/crime/most-wanted/#navlink=subnav" role="menuitem" tabindex="0">
+                            Most Wanted
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/nation-world/#navlink=subnav" role="menuitem" tabindex="0">
+                            Nation/World
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/galleries/#navlink=subnav" role="menuitem" tabindex="0">
+                            News Photos
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/video/#navlink=subnav" role="menuitem" tabindex="0">
+                            News Videos
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/politics-government/#navlink=subnav" role="menuitem" tabindex="0">
+                            Politics
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/databases/#navlink=subnav" role="menuitem" tabindex="0">
+                            Searchable Databases
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/state/#navlink=subnav" role="menuitem" tabindex="0">
+                            State
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/local/watchdog/#navlink=subnav" role="menuitem" tabindex="0">
+                            Watchdog
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+                <span class="subcategory-title option-label" tabindex="-1">Columns</span>
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/local/news-columns-blogs/tom-eblen/#navlink=subnav" role="menuitem" tabindex="0">
+                            Tom Eblen
+                        </a>
+
+
+            </li>
+
+        </ul>
+    </li>
+    <li class="nav-item expandable" role="menu" tabindex="0"
+        aria-haspopup="true" aria-controls="menu-3" >
+    <button tabindex="-1" id="menubtn-3">Sports</button>
+        <span class="glyphicon glyphicon-chevron-down icon" aria-hidden="true"></span>
+
+        <ul class="nav-subnav" id="menu-3" role="menu" aria-labelledby="menubtn-3">
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/#navlink=navbar" role="menuitem" tabindex="0">
+                            All Sports
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/kentucky-sports/#navlink=subnav" role="menuitem" tabindex="0">
+                            UK Sports
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/#navlink=subnav" role="menuitem" tabindex="0">
+                            College Sports
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://ukrecruiting.bloginky.com/#navlink=subnav" role="menuitem" tabindex="0">
+                            Next Cats Recruiting
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/high-school/#navlink=subnav" role="menuitem" tabindex="0">
+                            High School
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/horses/#navlink=subnav" role="menuitem" tabindex="0">
+                            Horses
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/nascar-auto-racing/kentucky-speedway/#navlink=subnav" role="menuitem" tabindex="0">
+                            Kentucky Speedway
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/mlb/lexington-legends/#navlink=subnav" role="menuitem" tabindex="0">
+                            Lexington Legends
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/mlb/cincinnati-reds/#navlink=subnav" role="menuitem" tabindex="0">
+                            Reds
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/mlb/#navlink=subnav" role="menuitem" tabindex="0">
+                            MLB
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/nba/#navlink=subnav" role="menuitem" tabindex="0">
+                            NBA
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/nascar-auto-racing/#navlink=subnav" role="menuitem" tabindex="0">
+                            NASCAR
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/nfl/#navlink=subnav" role="menuitem" tabindex="0">
+                            NFL
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/galleries/#navlink=subnav" role="menuitem" tabindex="0">
+                            Sports Photos
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/video/#navlink=subnav" role="menuitem" tabindex="0">
+                            Sports Videos
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+                <span class="subcategory-title option-label" tabindex="-1">Columns</span>
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/spt-columns-blogs/john-clay/#navlink=subnav" role="menuitem" tabindex="0">
+                            John Clay&#39;s Columns
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/spt-columns-blogs/mark-story/#navlink=subnav" role="menuitem" tabindex="0">
+                            Mark Story
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://ukrecruiting.bloginky.com/#navlink=subnav" role="menuitem" tabindex="0">
+                            Next Cats Recruiting
+                        </a>
+
+
+            </li>
+
+        </ul>
+    </li>
+    <li class="nav-item expandable" role="menu" tabindex="0"
+        aria-haspopup="true" aria-controls="menu-4" >
+    <button tabindex="-1" id="menubtn-4">UK Sports</button>
+        <span class="glyphicon glyphicon-chevron-down icon" aria-hidden="true"></span>
+
+        <ul class="nav-subnav" id="menu-4" role="menu" aria-labelledby="menubtn-4">
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/kentucky-sports/#navlink=navbar" role="menuitem" tabindex="0">
+                            All UK Sports
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://ukrecruiting.bloginky.com/#navlink=subnav" role="menuitem" tabindex="0">
+                            Next Cats Recruiting
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/kentucky-sports/uk-baseball/#navlink=subnav" role="menuitem" tabindex="0">
+                            Baseball
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/kentucky-sports/uk-basketball-men/#navlink=subnav" role="menuitem" tabindex="0">
+                            Basketball - Men
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/kentucky-sports/uk-basketball-women/#navlink=subnav" role="menuitem" tabindex="0">
+                            Basketball - Women
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/kentucky-sports/uk-recruiting/#navlink=subnav" role="menuitem" tabindex="0">
+                            Recruiting
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/kentucky-sports/ex-cats/#navlink=subnav" role="menuitem" tabindex="0">
+                            Ex-Cats
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/kentucky-sports/uk-football/#navlink=subnav" role="menuitem" tabindex="0">
+                            Football
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/kentucky-sports/galleries/#navlink=subnav" role="menuitem" tabindex="0">
+                            UK Photos
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/kentucky-sports/video/#navlink=subnav" role="menuitem" tabindex="0">
+                            UK Videos
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/kentucky-sports/other-uk-sports/#navlink=subnav" role="menuitem" tabindex="0">
+                            More UK Sports
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+                <span class="subcategory-title option-label" tabindex="-1">Columns</span>
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/spt-columns-blogs/sidelines-with-john-clay#navlink=subnav" role="menuitem" tabindex="0">
+                            John Clay&#39;s Blog
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/spt-columns-blogs/mark-story/#navlink=subnav" role="menuitem" tabindex="0">
+                            Mark Story
+                        </a>
+
+
+            </li>
+
+        </ul>
+    </li>
+    <li class="nav-item expandable" role="menu" tabindex="0"
+        aria-haspopup="true" aria-controls="menu-5" >
+    <button tabindex="-1" id="menubtn-5">Politics</button>
+        <span class="glyphicon glyphicon-chevron-down icon" aria-hidden="true"></span>
+
+        <ul class="nav-subnav" id="menu-5" role="menu" aria-labelledby="menubtn-5">
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/politics-government/#navlink=subnav" role="menuitem" tabindex="0">
+                            Politics
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/politics-government/election/#navlink=subnav" role="menuitem" tabindex="0">
+                            Elections
+                        </a>
+
+
+            </li>
+
+        </ul>
+    </li>
+    <li class="nav-item expandable" role="menu" tabindex="0"
+        aria-haspopup="true" aria-controls="menu-6" >
+    <button tabindex="-1" id="menubtn-6">Entertainment</button>
+        <span class="glyphicon glyphicon-chevron-down icon" aria-hidden="true"></span>
+
+        <ul class="nav-subnav" id="menu-6" role="menu" aria-labelledby="menubtn-6">
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/entertainment/#navlink=navbar" role="menuitem" tabindex="0">
+                            All Entertainment
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/entertainment/books/#navlink=subnav" role="menuitem" tabindex="0">
+                            Books
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/entertainment/celebrities/#navlink=subnav" role="menuitem" tabindex="0">
+                            Celebrities
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/entertainment/comics/#navlink=subnav" role="menuitem" tabindex="0">
+                            Comics
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://games.kentucky.com/#navlink=subnav" role="menuitem" tabindex="0">
+                            Puzzles &amp; Games
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://calendar.kentucky.com/#navlink=subnav" role="menuitem" tabindex="0">
+                            Events Calendar
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/entertainment/horoscopes/#navlink=subnav" role="menuitem" tabindex="0">
+                            Horoscopes
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/entertainment/movies-news-reviews/#navlink=subnav" role="menuitem" tabindex="0">
+                            Movies
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/entertainment/music-news-reviews/#navlink=subnav" role="menuitem" tabindex="0">
+                            Music
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/entertainment/restaurants/#navlink=subnav" role="menuitem" tabindex="0">
+                            Restaurants
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/entertainment/performing-arts/#navlink=subnav" role="menuitem" tabindex="0">
+                            Stage &amp; Dance
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/entertainment/tv/#navlink=subnav" role="menuitem" tabindex="0">
+                            TV
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/entertainment/visual-arts/#navlink=subnav" role="menuitem" tabindex="0">
+                            Visual Arts
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/entertainment/galleries/#navlink=subnav" role="menuitem" tabindex="0">
+                            Entertainment Photos
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/entertainment/video/#navlink=subnav" role="menuitem" tabindex="0">
+                            Entertainment Videos
+                        </a>
+
+
+            </li>
+
+        </ul>
+    </li>
+    <li class="nav-item expandable" role="menu" tabindex="0"
+        aria-haspopup="true" aria-controls="menu-7" >
+    <button tabindex="-1" id="menubtn-7">Blogs</button>
+        <span class="glyphicon glyphicon-chevron-down icon" aria-hidden="true"></span>
+
+        <ul class="nav-subnav" id="menu-7" role="menu" aria-labelledby="menubtn-7">
+            <li class="subnav-item" role="none">
+
+
+                <span class="subcategory-title option-label" tabindex="-1">News Blogs</span>
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://weather.bloginky.com/#navlink=subnav" role="menuitem" tabindex="0">
+                            Kentucky Weather
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://www.kyphotoarchive.com/#navlink=subnav" role="menuitem" tabindex="0">
+                            Photo Archive
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+                <span class="subcategory-title option-label" tabindex="-1">Sports Blogs</span>
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/spt-columns-blogs/sidelines-with-john-clay#navlink=subnav" role="menuitem" tabindex="0">
+                            John Clay&#39;s Blog
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/high-school/josh-moore-blog/#navlink=subnav" role="menuitem" tabindex="0">
+                            High School
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/kentucky-sports/uk-football/jen-smith-blog/#navlink=subnav" role="menuitem" tabindex="0">
+                            UK Football
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/kentucky-sports/uk-basketball-men/jerry-tipton-blog/#navlink=subnav" role="menuitem" tabindex="0">
+                            UK Men&#39;s Basketball
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/sports/college/kentucky-sports/uk-basketball-women/jen-smith-on-basketball#navlink=subnav" role="menuitem" tabindex="0">
+                            UK Women&#39;s Basketball
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://lexingtonlegends.bloginky.com/#navlink=subnav" role="menuitem" tabindex="0">
+                            Lexington Legends
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+                <span class="subcategory-title option-label" tabindex="-1">Entertainment Blogs</span>
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://musicalbox.bloginky.com/" role="menuitem" tabindex="0">
+                            Walter Tunis on Music
+                        </a>
+
+
+            </li>
+
+        </ul>
+    </li>
+    <li class="nav-item expandable" role="menu" tabindex="0"
+        aria-haspopup="true" aria-controls="menu-8" >
+    <button tabindex="-1" id="menubtn-8">Opinion</button>
+        <span class="glyphicon glyphicon-chevron-down icon" aria-hidden="true"></span>
+
+        <ul class="nav-subnav" id="menu-8" role="menu" aria-labelledby="menubtn-8">
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/opinion/#navlink=navbar" role="menuitem" tabindex="0">
+                            All Opinion
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/opinion/editorials/#navlink=subnav" role="menuitem" tabindex="0">
+                            Editorials
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/opinion/editorial-cartoons/joel-pett/#navlink=subnav" role="menuitem" tabindex="0">
+                            Joel Pett
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/opinion/letters-to-the-editor/#navlink=subnav" role="menuitem" tabindex="0">
+                            Letters to the Editor
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/opinion/national-opinions/#navlink=subnav" role="menuitem" tabindex="0">
+                            National Columnists
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/opinion/op-ed/#navlink=subnav" role="menuitem" tabindex="0">
+                            Op-Ed
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/opinion/letters-to-the-editor/submit-letter/#navlink=subnav" role="menuitem" tabindex="0">
+                            Submit a Letter
+                        </a>
+
+
+            </li>
+
+        </ul>
+    </li>
+    <li class="nav-item expandable" role="menu" tabindex="0"
+        aria-haspopup="true" aria-controls="menu-9" >
+    <button tabindex="-1" id="menubtn-9">Living</button>
+        <span class="glyphicon glyphicon-chevron-down icon" aria-hidden="true"></span>
+
+        <ul class="nav-subnav" id="menu-9" role="menu" aria-labelledby="menubtn-9">
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/living/#navlink=navbar" role="menuitem" tabindex="0">
+                            All Living
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/living/announcements-celebrations/#navlink=subnav" role="menuitem" tabindex="0">
+                            Celebrations
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/living/family/#navlink=subnav" role="menuitem" tabindex="0">
+                            Family
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/living/fashion/#navlink=subnav" role="menuitem" tabindex="0">
+                            Fashion
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/living/food-drink/#navlink=subnav" role="menuitem" tabindex="0">
+                            Food &amp; Drink
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/living/liv-columns-blogs/fru-gal/#navlink=subnav" role="menuitem" tabindex="0">
+                            Fru-Gal: Deb Morris
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/living/health-and-medicine/#navlink=subnav" role="menuitem" tabindex="0">
+                            Health &amp; Medicine
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/living/home-garden/#navlink=subnav" role="menuitem" tabindex="0">
+                            Home &amp; Garden
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/living/religion/paul-prather/#navlink=subnav" role="menuitem" tabindex="0">
+                            Paul Prather
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/living/religion/#navlink=subnav" role="menuitem" tabindex="0">
+                            Religion
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/living/travel/#navlink=subnav" role="menuitem" tabindex="0">
+                            Travel
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="https://www.kentucky.com/readerschoice" role="menuitem" tabindex="0">
+                            Readers&#39; Choice
+                        </a>
+
+
+            </li>
+
+        </ul>
+    </li>
+    <li class="nav-item expandable" role="menu" tabindex="0"
+        aria-haspopup="true" aria-controls="menu-10" >
+    <button tabindex="-1" id="menubtn-10">Obituaries</button>
+        <span class="glyphicon glyphicon-chevron-down icon" aria-hidden="true"></span>
+
+        <ul class="nav-subnav" id="menu-10" role="menu" aria-labelledby="menubtn-10">
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://www.legacy.com/obituaries/kentucky/#navlink=subnav" role="menuitem" tabindex="0">
+                            Kentucky Obituaries
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/news/local/obituaries/#navlink=subnav" role="menuitem" tabindex="0">
+                            Obituaries in the News
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://www.legacy.com/obituaries/kentucky/obituary-place-an-obituary.aspx/#navlink=subnav" role="menuitem" tabindex="0">
+                            Submit an Obituary
+                        </a>
+
+
+            </li>
+
+        </ul>
+    </li>
+    <li class="nav-item expandable" role="menu" tabindex="0"
+        aria-haspopup="true" aria-controls="menu-11" >
+    <button tabindex="-1" id="menubtn-11">Customer Service</button>
+        <span class="glyphicon glyphicon-chevron-down icon" aria-hidden="true"></span>
+
+        <ul class="nav-subnav" id="menu-11" role="menu" aria-labelledby="menubtn-11">
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/customer-service/#navlink=subnav" role="menuitem" tabindex="0">
+                            Customer Service
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/customer-service/contact-us/#navlink=subnav" role="menuitem" tabindex="0">
+                            Contact Us
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/customer-service/about-us/#navlink=subnav" role="menuitem" tabindex="0">
+                            About Us
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/customer-service/e-edition/#navlink=subnav" role="menuitem" tabindex="0">
+                            E-edition
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://www.mcclatchyreprints.com/#navlink=subnav" role="menuitem" tabindex="0">
+                            Page Reprints
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://herald-leader.mycapture.com/mycapture/#navlink=subnav" role="menuitem" tabindex="0">
+                            Photo Reprints
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/rss/#navlink=subnav" role="menuitem" tabindex="0">
+                            RSS Feeds
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://digital.olivesoftware.com/Olive/ODN/LexingtonHeraldLeaderSpecialSections/default.aspx#navlink=subnav" role="menuitem" tabindex="0">
+                            Special Sections
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+                <span class="subcategory-title option-label" tabindex="-1">Site Information</span>
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://lexingtonherald.adperfect.com/#navlink=navbar" role="menuitem" tabindex="0">
+                            Advertise With Us
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="https://kentucky.newsbank.com/#navlink=subnav" role="menuitem" tabindex="0">
+                            Archives
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+                <span class="subcategory-title option-label" tabindex="-1">Mobile</span>
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/mobile/#navlink=subnav" role="menuitem" tabindex="0">
+                            Mobile Apps &amp; eReaders
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://x.email.kentucky.com/ats/url.aspx?cr=663&amp;wu=9#navlink=subnav" role="menuitem" tabindex="0">
+                            Newsletters
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+                <span class="subcategory-title option-label" tabindex="-1">Social</span>
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="https://www.facebook.com/kentuckycom#navlink=subnav" role="menuitem" tabindex="0">
+                            Facebook
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="https://twitter.com/heraldleader#navlink=subnav" role="menuitem" tabindex="0">
+                            Twitter
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://instagram.com/kentuckycom/#navlink=subnav" role="menuitem" tabindex="0">
+                            Instagram
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="https://www.youtube.com/user/HeraldLeaderVideos#navlink=subnav" role="menuitem" tabindex="0">
+                            YouTube
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://google.com/+kentuckycom#navlink=subnav" role="menuitem" tabindex="0">
+                            Google+
+                        </a>
+
+
+            </li>
+
+        </ul>
+    </li>
+    <li class="nav-item expandable" role="menu" tabindex="0"
+        aria-haspopup="true" aria-controls="menu-12" >
+    <button tabindex="-1" id="menubtn-12">Local Deals</button>
+        <span class="glyphicon glyphicon-chevron-down icon" aria-hidden="true"></span>
+
+        <ul class="nav-subnav" id="menu-12" role="menu" aria-labelledby="menubtn-12">
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/advertise/circulars/#navlink=subnav" role="menuitem" tabindex="0">
+                            Today&#39;s Circulars
+                        </a>
+
+
+            </li>
+
+        </ul>
+    </li>
+    <li class="nav-item expandable" role="menu" tabindex="0"
+        aria-haspopup="true" aria-controls="menu-13" >
+    <button tabindex="-1" id="menubtn-13">Classifieds</button>
+        <span class="glyphicon glyphicon-chevron-down icon" aria-hidden="true"></span>
+
+        <ul class="nav-subnav" id="menu-13" role="menu" aria-labelledby="menubtn-13">
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/classifieds/#navlink=navbar" role="menuitem" tabindex="0">
+                            Classifieds
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="https://jobs.kentucky.com#navlink=navbar" role="menuitem" tabindex="0">
+                            Jobs
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/cars/#navlink=navbar" role="menuitem" tabindex="0">
+                            Cars
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/homes/#navlink=navbar" role="menuitem" tabindex="0">
+                            Homes
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="/homes/home-seller#navlink=subnav" role="menuitem" tabindex="0">
+                            Homeseller
+                        </a>
+
+
+            </li>
+            <li class="subnav-item" role="none">
+
+
+
+                        <a href="http://www.legalnotice.org/pl/lexingtonherald/landing1.aspx#navlink=navbar" role="menuitem" tabindex="0">
+                            Legal Notices
+                        </a>
+
+
+            </li>
+
+        </ul>
+    </li>
+    <li class="nav-item" role="menu" tabindex="-1"
+        aria-haspopup="true" aria-controls="menu-14" >
+
+
+            <a href="http://lexingtonherald.adperfect.com/#navlink=navbar" tabindex="0" role="menuitem">Place an Ad</a>
+
+    </li>
+    <li class="nav-item" role="menu" tabindex="-1"
+        aria-haspopup="true" aria-controls="menu-15" >
+
+
+            <a href="/mobile/#navlink=subnav" tabindex="0" role="menuitem">Mobile &amp; Apps</a>
+
+    </li>
+</ul>
+</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="container ">
+        <div id="leaderboard-ad" class="ad border-bottom">
+            <!-- mobile-leaderboard class is integrated with sticky-leaderboard.js -->
+            <div class="visible-xs mobile-leaderboard">
+                <div class="ad-widget" id="mn-gpt-2" adtype="default" pkg="b" data-ad-policy="onPageLoad" audience="all" vl=0 atf="y" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="320x50" articleId="44132223"></div>
+            </div>
+            <div class="hidden-xs">
+                <div class="ad-widget" id="mn-gpt-3" adtype="default" pkg="d" data-ad-policy="onPageLoad" audience="all" vl=0 atf="y" defaultsize="Large" Large="Billboard Flex3" Medium="Billboard Flex3" Small="728x90" Extra-Small="None" articleId="44132223"></div>
+            </div>
+        </div>
+    </div>
+
+
+<div class="story-template paper">
+
+
+
+    <section class="container story" role="main">
+        <div class="row main-story-organism">
+            <div class="col-sm-12 col-md-6 col-ml-8">
+
+                    <div class="lead-story-title">
+
+
+
+
+
+
+
+
+<div class="kicker-macro">
+  <h2 class="secondary-kicker">
+
+      <a href="//www.kentucky.com/latest-news/" class=""  title="Latest News">
+        Latest News
+      </a>
+
+  </h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="title-link-timestamp-macro ">
+  <article>
+    <h3>
+
+        Credit unions see rise with consumer fury at bank fees
+
+    </h3>
+
+
+
+  </article>
+
+
+</div>
+
+                    </div>
+
+                <section id="article-details-share">
+
+
+
+
+
+
+
+
+
+
+
+<div class="article-organism container">
+       <div class="row article-content">
+            <div class="col-sm-12 col-ml-6 col-lg-8 authCont">
+
+
+
+
+
+
+
+
+
+
+
+    <div class="article-author">
+
+            <p>
+                Andrew Dunn - Charlotte Observer
+
+            </p>
+
+    </div>
+
+
+
+
+            </div>
+
+                <div class="col-sm-12 col-ml-6 col-lg-4">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="social-network-macro">
+        <ul class="share-list">
+            <li class="share-icon">
+
+                    <a title="Share on Twitter" href="https://twitter.com/share?text=Credit+unions+see+rise+with+consumer+fury+at+bank+fees&amp;url=https://www.kentucky.com/latest-news/article44132223.html" onclick="mi.articleShareTools.popupFunction(this.href, 10270);return false;">
+                        <span class="glyphicon glyphicon-twitter"></span>
+                    </a>
+
+            </li>
+            <li class="share-icon">
+
+
+                        <a class="facebook-share" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.kentucky.com/latest-news/article44132223.html" onclick="mi.articleShareTools.popupFunction(this.href, 10287);return false;">
+                            <span class="glyphicon glyphicon-facebook"></span>
+                        </a>
+
+
+            </li>
+            <li class="share-icon">
+
+                    <a title="Share by Email" href="mailto:?subject=Credit%20unions%20see%20rise%20with%20consumer%20fury%20at%20bank%20fees&body=https://www.kentucky.com/latest-news/article44132223.html" onclick="nextbee.credit_share_articles(10119);">
+                        <span class="glyphicon glyphicon-envelope"></span>
+                    </a>
+
+            </li>
+            <li class="share-icon extra-share-options-icon event-author-section" role="button">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="extra-share-macro-container extra-share-author-section">
+    <div class="extra-share-macro extra-share-macro-author-section">
+        <div class="hover-row"></div>
+        <div class="speech-bubble">
+            <ul class="extra-share-options-list extra-share-options-container">
+                <li class="extra-share-option">
+
+                        <a id="linkedInId" title="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.kentucky.com/latest-news/article44132223.html&title=Credit unions see rise with consumer fury at bank fees">
+                            <span class="glyphicon glyphicon-linkedin"></span>
+                        </a>
+
+                </li>
+                <li class="extra-share-option">
+
+                        <a id="pinterestId" title="Share on Pinterest" href="https://www.pinterest.com/pin/create/button/?url=https://www.kentucky.com/latest-news/article44132223.html&description=Credit unions see rise with consumer fury at bank fees&media=https://www.kentucky.com/wps/source/images/kentucky/facebook.jpg">
+                            <span class="glyphicon glyphicon-pinterest"></span>
+                        </a>
+
+                </li>
+                <li class="extra-share-option">
+                    <a title="Share on Reddit" href="https://www.reddit.com/submit?url=https://www.kentucky.com/latest-news/article44132223.html">
+                        <span class="glyphicon glyphicon-reddit"></span>
+                    </a>
+                </li>
+                <li class="extra-share-option">
+                    <a title="Print" href="javascript:window.print();">
+                        <span class="glyphicon glyphicon-print"></span>
+                    </a>
+                </li>
+            </ul>
+
+            <div class="extra-share-options-container order-reprint-container">
+                <a title="Reprints" href="https://www.mcclatchyreprints.com"> ORDER REPRINT
+                    <span>&rarr;</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+                <a title="more">
+                    <span class="glyphicon glyphicon-share"></span>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+                </div>
+
+            <div class="col-sm-12 col-md-12 col-lg-12 item-timestamp">
+
+
+  <div class="article-details">
+        <div class="article-dates">
+            <div class="article-dates-published">
+                <p id="publish_date">October 19, 2011 12:45 PM<span></span></p>
+            </div>
+            <div class="article-dates-modified">
+                <p id="update_date"></p>
+            </div>
+        </div>
+    </div>
+
+
+
+            </div>
+        </div>
+</div>
+                    </section>
+
+
+
+
+                <div class="dateline-storybody">
+
+                    <div id="story-target" class="clearfix" >
+                        <div id="content-body-" class="content-body">
+
+
+
+
+
+                                    <p>Charlotte-area credit unions have seen an increase in phone calls and new members in the last two weeks as people upset about new fees at big banks look for new places to park their money.</p>
+
+
+
+
+                                    <p>Several credit unions have launched advertising campaigns promoting their fee-free offerings, hoping to capitalize on the wave of consumer discontent since Bank of America announced its $5 monthly debit card fee late last month.</p>
+
+
+
+
+                                    <p>"It's been wonderful," said Nicol Morris, chief operating officer of the Charlotte Metro Federal Credit Union, which has about 33,000 members.</p>
+
+
+
+
+                                    <p>She said the credit union saw a 350 percent increase in online account creation, along with a 90 percent increase in calls.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id="story-cta-widget" class="hidden">
+
+    <div class="subs-inline-macro">
+        <div class="container subs-inline-content">
+            <div class="row justify-content-start">
+                <div class="col-12">
+                    <h3>Digital Access For Only $0.99</h3>
+                </div>
+                <div class="col-12 subs-inline-cols">
+                    <p>For the most comprehensive local coverage, subscribe today.</p>
+                </div>
+                <div class="col-12 subs-inline-subscribe">
+                    <div class="subscribe-button">
+                        <a href="https://account.kentucky.com/subscribe/create?param=fHpHCUE=&amp;offer=NmEfaxcUb3lSCUJAfRI6cjsgfHUjD0U9AQ5DG15QPgoUG0hQeHNDAUtHb29STx0HLisVS1BIbw81YUtLfA4%2FGw8%3D&amp;cid=CTA_.99-1mo_standardv2">SUBSCRIBE NOW</a>
+                    </div>
+                    <div class="subscribe-hashtag">
+                        <p>#ReadLocal</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+
+
+<script type="application/javascript">
+    'use strict';
+
+    var mi = mi || {};
+
+    mi.calltoActionCtrl = (function () {
+        var subscriptionInlineCta = document.querySelector('#story-cta-widget');
+        var $newsletterForm = document.querySelector('#newsletter-signUpWidget');
+        var isInlineCtaEnabled = true;
+        var isNewsletterEnabled = false;
+
+        if (isNewsletterEnabled === true) {
+            var $email = $newsletterForm.querySelector('#s_email_address');
+            var $submitBtn = $newsletterForm.querySelector('.more-link-macro a');
+            // Object that contains key values stored in data-attributes
+            var config = {
+                newsletterPreferenceListNames: JSON.parse(getDataAttribute($newsletterForm, 'newsletterPreferenceListNames')),
+                siteName: getDataAttribute($newsletterForm, 'newsletterSiteName'),
+                newsletterUrl: getDataAttribute($newsletterForm, 'newsletterUrl'),
+                newsletterSuccess: getDataAttribute($newsletterForm, 'newsletterSuccess'),
+            };
+
+            var newsletterData = {
+                siteName: config.siteName
+            };
+        }
+
+        function isEmailValid(email) {
+            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email);
+        }
+
+        function getDataAttribute(el, attr) {
+            var dataAttr = 'data-' + attr;
+            if (el.hasAttribute(dataAttr)) {
+                var val = el.getAttribute(dataAttr);
+                el.removeAttribute(dataAttr);
+
+                return val;
+            }
+        }
+
+        function getRandomArbitrary(min, max) {
+            return Math.floor(Math.random() * (max - min + 1)) + min;
+        }
+
+        function removeNode(node) {
+            if (node) {
+                node.parentNode.removeChild(node);
+            }
+        }
+
+        function insertAfterNode(el, node) {
+            if (node) {
+                node.parentNode.insertBefore(el, node.nextSibling);
+            }
+        }
+
+        function insertHeadings(pos) {
+            var $heading = document.createElement('h3');
+            $heading.classList.add('heading');
+            $heading.innerHTML = config.newsletterPreferenceListNames[pos].title;
+            var $divHeading = document.getElementById('newletter-inline-title');
+            $divHeading.appendChild($heading);
+            $newsletterForm.insertBefore($divHeading, $newsletterForm.firstChild);
+
+            var $subtitle = document.createElement('p');
+            $subtitle.classList.add('subtitle');
+            $subtitle.innerHTML = config.newsletterPreferenceListNames[pos].headline;
+            insertAfterNode($subtitle, $heading);
+        }
+
+        function displayRandomNewsletter(num) {
+            var pos = num - 1;
+            if(subscriptionInlineCta) {
+                removeNode(subscriptionInlineCta);
+            }
+            $newsletterForm.classList.remove('hidden');
+            newsletterData.preferenceListName = config.newsletterPreferenceListNames[pos].name;
+            $newsletterForm.querySelector('#newsletterType').value = config.newsletterPreferenceListNames[pos].name;
+            insertHeadings(pos);
+        }
+
+        function removeRandomCTA() {
+            if (isNewsletterEnabled === true) {
+                var maxLength = config.newsletterPreferenceListNames.length;
+
+                var num = getRandomArbitrary(0, maxLength);
+
+                if (subscriptionInlineCta && num === 0) {
+                    removeNode($newsletterForm);
+                    notifyWidgetSelected(subscriptionInlineCta);
+                    subscriptionInlineCta.classList.remove('hidden');
+                } else if(!subscriptionInlineCta && num === 0) {
+                    displayRandomNewsletter(num + 1);
+                    notifyWidgetSelected($newsletterForm);
+                } else {
+                    displayRandomNewsletter(num);
+                    notifyWidgetSelected($newsletterForm);
+                }
+            }
+            else if (isInlineCtaEnabled) {
+                notifyWidgetSelected(subscriptionInlineCta);
+                subscriptionInlineCta.classList.remove('hidden');
+            }
+        }
+
+        function notifyWidgetSelected(widget) {
+            var newEvent = new CustomEvent('cta_widget', {detail: widget});
+            window.dispatchEvent(newEvent);
+        }
+
+        function enableSubmitBtn() {
+            $submitBtn.classList.remove('disabled');
+        }
+
+        function disableSubmitBtn() {
+            $submitBtn.classList.add('disabled');
+        }
+
+        function showErrorMsg(node, msg) {
+            var div = document.createElement('div');
+            div.classList.add('errorText');
+            div.innerHTML = msg;
+            insertAfterNode(div, node);
+        }
+
+        function validateNewsletter() {
+            var errorMsg = $newsletterForm.querySelector('.errorText');
+            if (errorMsg) {
+                errorMsg.remove();
+            }
+            if ($email.classList.contains('error')) {
+                $email.classList.remove('error');
+            }
+            if (!isEmailValid($email.value)) {
+                showErrorMsg($email, "Please insert a valid email address!");
+                $email.classList.add('error');
+                disableSubmitBtn();
+            } else {
+                enableSubmitBtn();
+            }
+        };
+
+        function submitNewsletter(e) {
+            e.preventDefault();
+
+            validateNewsletter();
+
+            if ($submitBtn.classList.contains('disabled')) {
+                return false;
+            }
+            grecaptcha.execute();
+            newsletterData.emailAddress = $email.value;
+            $newsletterForm.setAttribute('data-json', JSON.stringify(newsletterData));
+        };
+
+        function eventHandlers() {
+            $email.addEventListener('change', function (e) {
+                validateNewsletter();
+            });
+
+            $newsletterForm.addEventListener('submit', function (e) {
+                submitNewsletter(e);
+            });
+
+            $submitBtn.addEventListener('click', function (e) {
+                submitNewsletter(e);
+            });
+        }
+
+        function init(isNewsletterEnabled, isInlineCtaEnabled) {
+            if (isNewsletterEnabled || isInlineCtaEnabled) {
+                /* eslint-disable no-undef */
+                var isLoggedIn = getSubscribedFlag;
+                /* eslint-enable no-undef */
+
+                if (isLoggedIn) {
+                    var num = getRandomArbitrary(0, config.newsletterPreferenceListNames.length - 1);
+                    displayRandomNewsletter(num);
+                } else {
+                    removeRandomCTA();
+                }
+                if (isNewsletterEnabled) {
+                    eventHandlers();
+                }
+            }
+        }
+
+        return {
+            init: init
+        }
+    }());
+
+    /* function enableSubmitBtn(token){
+         mi.calltoActionCtrl.sendResponse(token);
+     }*/
+    jQuery(document).ready(function () {
+        mi.calltoActionCtrl.init(false, true)
+    });
+</script>
+
+
+
+
+
+
+
+
+                                    <p>"They are extremely fed up with the continued talk about fees, whether it's in regard to checking or the debit card fee," she said.</p>
+
+
+
+
+
+    <div class="ad visible-xs">
+        <div class="ad-widget" id="mn-gpt-4" adtype="default" pkg="c" data-ad-policy="onPageLoad" audience="all" vl=0 atf="n" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="300x250" articleId="44132223"></div>
+    </div>
+
+
+
+
+                                    <p>  <em>Read the complete story </em></p>
+
+
+
+
+
+
+                        </div>
+
+                        <div class="hidden">
+                            <div class="ad-widget" id="mn-gpt-5" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="all" vl=0 atf="n" defaultsize="Large" Large="336x280" Medium="336x280" Small="336x280" Extra-Small="336x280" articleId="44132223"></div>
+                        </div>
+
+
+
+                                <!-- Nothing is configured -->
+
+
+
+
+
+    <div class="ad visible-xs">
+        <div class="ad-widget" id="mn-gpt-6" adtype="default" pkg="e" data-ad-policy="onPageLoad" audience="all" vl=0 atf="n" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="300x250" articleId="44132223"></div>
+    </div>
+
+
+
+
+
+
+    <div class="ad visible-xs">
+        <div class="ad-widget" id="mn-gpt-7" adtype="default" pkg="f" data-ad-policy="onPageLoad" audience="all" vl=0 atf="n" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="300x250" articleId="44132223"></div>
+    </div>
+
+
+
+
+                        <div class="col-md-12 related-content-container">
+
+
+
+
+
+                        </div>
+
+                        <div class="col-md-12 related-content-container ">
+
+
+
+
+
+
+                        </div>
+
+
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script type='text/template' id='zerg-template'>
+        <div id="vendor-stories-content">
+            <h2 class='heading vendor-storiescontent-heading'>Suggested for you</h2>
+        </div>
+        <div class="vendor-storiescontent-main-container" id="zergnet-widget-53301"></div>
+     </script><div id='zerg-target'></div><script> lazyLoadingModule("zerg-template", "zerg-target", "zerg",500,
+        undefined, undefined, "53301", undefined , undefined ); </script>
+
+
+
+
+
+
+
+                    <div id="commenting-container" class="commenting-container element-spacing-large">
+                        <h2 class="heading link">
+    <a class="comments-toggle" href="javascript:void(0);">
+        <span class="glyphicon glyphicon-comment-o"></span>&nbsp; Comments &nbsp;<span class="glyphicon glyphicon-chevron-down rotate"></span>
+    </a>
+</h2>
+
+<!--Needs to be on the DOM on page load for IE. Needs to be visible to set the correct height of the comment component. I'm hiding it on document ready. Appending it later did not work-->
+<div id="fb-comments" class="fb-comments in" data-href="https://www.kentucky.com/latest-news/article44132223.html" data-width="100%" data-numposts="10"></div>
+
+<script>
+    jQuery(document).ready(function () {
+        mi.commentingFaceboook.init();
+    });
+</script>
+
+                    </div>
+
+
+                <div id="nativoArticlePage"></div>
+            </div>
+
+            <div class="col-sm-12 col-md-6 col-ml-4">
+
+
+
+<div class="narrow-rail">
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-8" adtype="default" pkg="b" data-ad-policy="onPageLoad" audience="all" vl=0 atf="y" defaultsize="Large" Large="Flex Ad" Medium="Flex Ad" Small="300x250" Extra-Small="None" articleId="44132223"></div>
+    </div>
+    <div class="element-spacing-medium video-right-rail-organism">
+        <div id="video-widget" class="headline-list">
+
+
+
+
+
+
+<div class="kicker-macro">
+  <h2 class="primary-kicker">
+
+      <span class=" impact ">
+        Videos
+      </span>
+
+  </h2>
+</div>
+
+
+
+            <div class="teaser">
+                <div id="container-" class="container-">
+
+
+
+
+
+
+<div class="wf-wps-side-bar mi-video-sidebar-widget">
+    <div class="vjs-sidebar-player-wrap">
+
+
+
+
+<div id="video-detail-225228060-1548786366737" class="media-wrap ">
+    <div id="playerWrap-225228060-1548786366737" class="video-media vjs-wrapper">
+        <video id="player-225228060-1548786366737"
+               class="video-js vjs-16-9 mi-videojs brightcoveEnabled"
+               data-url="https://www.kentucky.com/latest-news/article225228060.html"
+               data-title="Take a look inside the new Epping’s on Eastside"
+               data-video-id="5995894837001"
+               data-account="5615998026001"
+               data-key="BCpkADawqM0t4aWUwOHWSCwx3mgmeRyLa66dBNb1WQQSVL4VoBk7TLqUVm-_2_XIJhjy8rw3EPc7KWWbmGrCe1IJcQZdJB-sshOfgKxpuWUEPqhgyq9Bs914AR5wr4xzGafgwPHIJAYafmQM"
+               data-publication="kentucky"
+               data-ad-tag="https://pubads.g.doubleclick.net/gampad/ads?ad_type=video&amp;client=ca-video-pub-3446305859157241&amp;description_url=https%3A%2F%2Fwww.kentucky.com%2Flatest-news%2Farticle225228060.html&amp;env=vp&amp;gdfp_req=1&amp;unviewed_position_start=1&amp;output=vast&amp;iu=%2F7675%2FLEX.site_kentucky%2FNews&amp;sz=400x300&amp;url=[referrer_url]&amp;correlator=[timestamp]&amp;adsafe=high&amp;videoad_start_delay=0&amp;hl=en&amp;max_ad_duration=30000&amp;sdmax=120000&amp;vid_t=Take%20a%20look%20inside%20the%20new%20Epping%E2%80%99s%20on%20Eastside&amp;vpa=0&amp;vpmute=0&amp;adtest=false&amp;ciu_szs=300x250&amp;cmsid=2475972&amp;vid=5995894837001&amp;cust_params=sect%3DLatest%20News"
+               data-asset-type="video"
+               data-video-auto-play="false"
+               data-video-type="sidebar"
+               crossOrigin="anonymous"
+               data-sport-article='false'
+               data-is-new-video-design='false'>
+               </video>
+        <div class="vjs-share-wrapper">
+    <div class="vjs-share">
+        <button class="vjs-share-trigger">
+            <span class="vjs-share-text">SHARE</span>
+            <span class="vjs-share-icon glyphicon glyphicon-share"></span>
+        </button>
+    </div>
+    <div class="vjs-overlay">
+        <div class="vjs-overlay__sharing video-share-icons">
+            <a href="" target="blank" class="vjs-overlay-sharing_item facebook-share glyphicon glyphicon-facebook"></a>
+            <a href="" target="blank" class="vjs-overlay-sharing_item twitter-share glyphicon glyphicon-twitter"></a>
+            <a href="mailto:?&subject=&body=" target="blank" class="vjs-overlay-sharing_item email-share glyphicon glyphicon-envelope"></a>
+            <a href="#" class="vjs-overlay-sharing_item glyphicon glyphicon-code vjs-overlay-sharing__embed"></a>
+            <form class="vjs-sharing__link">
+                <textarea class="overlay-embed-share" cols="30"></textarea>
+                <div class="vjs-input__wrapper">
+                    <input type="text" class="mi-share-link" readonly value="">
+                </div>
+                <button type="button">COPY LINK</button>
+            </form>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+
+        <h4 class="title video-title"><a href="//www.kentucky.com/latest-news/article225228060.html">Take a look inside the new Epping’s on Eastside</a></h4>
+    </div>
+    <div class="vjs-sidebar-player-wrap">
+
+
+
+
+<div id="video-detail-225203410-1548786366737" class="media-wrap ">
+    <div id="playerWrap-225203410-1548786366737" class="video-media vjs-wrapper">
+        <video id="player-225203410-1548786366737"
+               class="video-js vjs-16-9 mi-videojs brightcoveEnabled"
+               data-url="https://www.kentucky.com/latest-news/article225203410.html"
+               data-title="‘The pain of a thousand knives.’ Rand Paul testifies about injuries after attack"
+               data-video-id="5995573628001"
+               data-account="5615998026001"
+               data-key="BCpkADawqM0t4aWUwOHWSCwx3mgmeRyLa66dBNb1WQQSVL4VoBk7TLqUVm-_2_XIJhjy8rw3EPc7KWWbmGrCe1IJcQZdJB-sshOfgKxpuWUEPqhgyq9Bs914AR5wr4xzGafgwPHIJAYafmQM"
+               data-publication="kentucky"
+               data-ad-tag="https://pubads.g.doubleclick.net/gampad/ads?ad_type=video&amp;client=ca-video-pub-3446305859157241&amp;description_url=https%3A%2F%2Fwww.kentucky.com%2Flatest-news%2Farticle225203410.html&amp;env=vp&amp;gdfp_req=1&amp;unviewed_position_start=1&amp;output=vast&amp;iu=%2F7675%2FLEX.site_kentucky%2FNews&amp;sz=400x300&amp;url=[referrer_url]&amp;correlator=[timestamp]&amp;adsafe=high&amp;videoad_start_delay=0&amp;hl=en&amp;max_ad_duration=30000&amp;sdmax=120000&amp;vid_t=%E2%80%98The%20pain%20of%20a%20thousand%20knives.%E2%80%99%20Rand%20Paul%20testifies%20about%20injuries%20after%20attack&amp;vpa=0&amp;vpmute=0&amp;adtest=false&amp;ciu_szs=300x250&amp;cmsid=2475972&amp;vid=5995573628001&amp;cust_params=sect%3DLatest%20News"
+               data-asset-type="video"
+               data-video-auto-play="false"
+               data-video-type="sidebar"
+               crossOrigin="anonymous"
+               data-sport-article='false'
+               data-is-new-video-design='false'>
+               </video>
+        <div class="vjs-share-wrapper">
+    <div class="vjs-share">
+        <button class="vjs-share-trigger">
+            <span class="vjs-share-text">SHARE</span>
+            <span class="vjs-share-icon glyphicon glyphicon-share"></span>
+        </button>
+    </div>
+    <div class="vjs-overlay">
+        <div class="vjs-overlay__sharing video-share-icons">
+            <a href="" target="blank" class="vjs-overlay-sharing_item facebook-share glyphicon glyphicon-facebook"></a>
+            <a href="" target="blank" class="vjs-overlay-sharing_item twitter-share glyphicon glyphicon-twitter"></a>
+            <a href="mailto:?&subject=&body=" target="blank" class="vjs-overlay-sharing_item email-share glyphicon glyphicon-envelope"></a>
+            <a href="#" class="vjs-overlay-sharing_item glyphicon glyphicon-code vjs-overlay-sharing__embed"></a>
+            <form class="vjs-sharing__link">
+                <textarea class="overlay-embed-share" cols="30"></textarea>
+                <div class="vjs-input__wrapper">
+                    <input type="text" class="mi-share-link" readonly value="">
+                </div>
+                <button type="button">COPY LINK</button>
+            </form>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+
+        <h4 class="title video-title"><a href="//www.kentucky.com/latest-news/article225203410.html">‘The pain of a thousand knives.’ Rand Paul testifies about injuries after attack</a></h4>
+    </div>
+</div>
+
+
+                </div>
+                <div class="clearfix footer element_spacing_large">
+
+
+
+
+
+
+
+	<h4 class="more-link-macro ">
+	    <a href="/video">
+			View More Video
+		</a>
+	</h4>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+        <div id="trending-stories">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="story-list-card-macro no-img">
+        <div id="story-list-trendingstories" class="list-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="kicker-macro">
+  <h2 class="primary-kicker">
+
+      <span class=" impact ">
+        Trending Stories
+      </span>
+
+  </h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title-link-timestamp-macro ">
+  <article>
+    <h4>
+
+        <a href="//www.kentucky.com/news/politics-government/article225167965.html#storylink=trendingstories">
+          He broke Rand Paul’s ribs. Now a jury will decide how much he should pay.
+        </a>
+
+    </h4>
+
+
+
+    <time datetime=1548683616>
+      January 28, 2019 08:53 AM
+    </time>
+
+  </article>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title-link-timestamp-macro ">
+  <article>
+    <h4>
+
+        <a href="//www.kentucky.com/news/local/watchdog/article225085295.html#storylink=trendingstories">
+          ‘It’s inappropriate.’ Staff of Grimes searched voting records of workers and rivals.
+        </a>
+
+    </h4>
+
+
+
+    <time datetime=1548694800>
+      January 28, 2019 12:00 PM
+    </time>
+
+  </article>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title-link-timestamp-macro ">
+  <article>
+    <h4>
+
+        <a href="//www.kentucky.com/sports/high-school/prep-basketball/article225171725.html#storylink=trendingstories">
+          Vote for the Kentucky.com Girls’ Basketball Player of the Week (Jan. 20-26, 2019)
+        </a>
+
+    </h4>
+
+
+
+    <time datetime=1548656659>
+      January 28, 2019 01:24 AM
+    </time>
+
+  </article>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title-link-timestamp-macro ">
+  <article>
+    <h4>
+
+        <a href="//www.kentucky.com/sports/high-school/prep-basketball/article225170605.html#storylink=trendingstories">
+          Vote for the Kentucky.com Boys’ Basketball Player of the Week (Jan. 20-26, 2019)
+        </a>
+
+    </h4>
+
+
+
+    <time datetime=1548656680>
+      January 28, 2019 01:24 AM
+    </time>
+
+  </article>
+
+
+  <div id="latest-news-nativo-slot" class="nativo-placeholder">
+    <div></div>
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title-link-timestamp-macro ">
+  <article>
+    <h4>
+
+        <a href="//www.kentucky.com/entertainment/restaurants/article224019830.html#storylink=trendingstories">
+          New restaurant opens on Walton and National with bakery, bar, multiple dining options
+        </a>
+
+    </h4>
+
+
+
+    <time datetime=1548695069>
+      January 28, 2019 12:04 PM
+    </time>
+
+  </article>
+
+
+</div>
+
+
+
+
+
+
+        </div>
+
+
+    </div>
+
+        </div>
+
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-9" adtype="default" pkg="c" data-ad-policy="onPageLoad" audience="all" vl=0 atf="n" defaultsize="Large" Large="300x250" Medium="300x250" Small="300x250" Extra-Small="None" articleId="44132223"></div>
+    </div>
+
+
+
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-10" adtype="default" pkg="e" data-ad-policy="onPageLoad" audience="all" vl=0 atf="n" defaultsize="Large" Large="Flex Ad" Medium="Flex Ad" Small="300x250" Extra-Small="None" articleId="44132223"></div>
+    </div>
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-11" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="nonsub" vl=0 atf="n" defaultsize="Large" Large="300x250" Medium="300x250" Small="300x250" Extra-Small="None" oom="y"  articleId="44132223"></div>
+    </div>
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-12" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="nonsub" vl=0 atf="n" defaultsize="Large" Large="300x250" Medium="300x250" Small="300x250" Extra-Small="None" oom="y"  articleId="44132223"></div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </section>
+</div>
+
+<section class="container">
+    <div class="row">
+        <div class="col-md-12">
+
+
+
+
+                <div class="organism-container paper">
+
+                    <section class="read-next-organism">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="kicker-macro">
+  <h2 class="primary-kicker">
+
+      <span class=" impact ">
+        Read Next
+      </span>
+
+  </h2>
+</div>
+
+
+
+
+
+        <a href="//www.kentucky.com/news/local/crime/most-wanted/article225235480.html#storylink=readnext" class="image-link-macro" title="Lexington’s Most Wanted: January 29, 2019">
+
+            <img src="//www.kentucky.com/latest-news/2wegbn/picture225235695/alternates/LANDSCAPE_1140/youngricquan3382546.jpg" alt="Lexington’s Most Wanted: January 29, 2019">
+
+
+
+        </a>
+
+
+  <div class="container article-info">
+    <div class="row">
+      <div class="col-12 col-lg-8 offset-lg-2">
+
+
+
+
+
+
+
+
+<div class="kicker-macro">
+  <h2 class="secondary-kicker">
+
+      <a href="//www.kentucky.com/news/local/crime/most-wanted/" class=""  title="Most Wanted">
+        Most Wanted
+      </a>
+
+  </h2>
+</div>
+
+
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-lg-8 offset-lg-2 title">
+
+
+
+
+
+
+<div class="title-link-timestamp-macro ">
+  <article>
+    <h3>
+
+        <a href="//www.kentucky.com/news/local/crime/most-wanted/article225235480.html#storylink=readnext">
+          Lexington’s Most Wanted: January 29, 2019
+        </a>
+
+    </h3>
+
+
+
+  </article>
+
+
+</div>
+
+      </div>
+    </div>
+
+
+      <div class="row">
+        <div class="col-12 col-lg-8 offset-lg-2">
+          <section id="article-details-share">
+
+
+
+
+
+
+
+
+
+
+
+<div class="article-organism container">
+       <div class="row article-content">
+            <div class="col-sm-12 col-ml-6 col-lg-8 authCont">
+
+
+
+
+
+
+
+
+
+
+
+    <div class="article-author">
+
+            <p>
+                <p><span class="ng_byline_name">By </span></p>
+
+            </p>
+
+    </div>
+
+
+
+
+            </div>
+
+                <div class="col-sm-12 col-ml-6 col-lg-4">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="social-network-macro">
+        <ul class="share-list">
+            <li class="share-icon">
+
+                    <a title="Share on Twitter" href="https://twitter.com/share?text=Lexington%E2%80%99s+Most+Wanted%3A+January+29%2C+2019&amp;url=https://www.kentucky.com/news/local/crime/most-wanted/article225235480.html" onclick="mi.articleShareTools.popupFunction(this.href, 10270);return false;">
+                        <span class="glyphicon glyphicon-twitter"></span>
+                    </a>
+
+            </li>
+            <li class="share-icon">
+
+
+                        <a class="facebook-share" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.kentucky.com/news/local/crime/most-wanted/article225235480.html" onclick="mi.articleShareTools.popupFunction(this.href, 10287);return false;">
+                            <span class="glyphicon glyphicon-facebook"></span>
+                        </a>
+
+
+            </li>
+            <li class="share-icon">
+
+                    <a title="Share by Email" href="mailto:?subject=Lexington%E2%80%99s%20Most%20Wanted%3A%20January%2029%2C%202019&body=https://www.kentucky.com/news/local/crime/most-wanted/article225235480.html" onclick="nextbee.credit_share_articles(10119);">
+                        <span class="glyphicon glyphicon-envelope"></span>
+                    </a>
+
+            </li>
+            <li class="share-icon extra-share-options-icon event-read-next-section" role="button">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="extra-share-macro-container extra-share-read-next-section">
+    <div class="extra-share-macro extra-share-macro-read-next-section">
+        <div class="hover-row"></div>
+        <div class="speech-bubble">
+            <ul class="extra-share-options-list extra-share-options-container">
+                <li class="extra-share-option">
+
+                        <a id="linkedInId" title="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.kentucky.com/news/local/crime/most-wanted/article225235480.html&title=Lexington’s Most Wanted: January 29, 2019">
+                            <span class="glyphicon glyphicon-linkedin"></span>
+                        </a>
+
+                </li>
+                <li class="extra-share-option">
+
+                        <a id="pinterestId" title="Share on Pinterest" href="https://www.pinterest.com/pin/create/button/?url=https://www.kentucky.com/news/local/crime/most-wanted/article225235480.html&description=Lexington’s Most Wanted: January 29, 2019&media=https://www.kentucky.com/wps/build/images/undefined/facebook.jpg">
+                            <span class="glyphicon glyphicon-pinterest"></span>
+                        </a>
+
+                </li>
+                <li class="extra-share-option">
+                    <a title="Share on Reddit" href="https://www.reddit.com/submit?url=https://www.kentucky.com/news/local/crime/most-wanted/article225235480.html">
+                        <span class="glyphicon glyphicon-reddit"></span>
+                    </a>
+                </li>
+                <li class="extra-share-option">
+                    <a title="Print" href="javascript:window.print();">
+                        <span class="glyphicon glyphicon-print"></span>
+                    </a>
+                </li>
+            </ul>
+
+            <div class="extra-share-options-container order-reprint-container">
+                <a title="Reprints" href="https://www.mcclatchyreprints.com"> ORDER REPRINT
+                    <span>&rarr;</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+                <a title="more">
+                    <span class="glyphicon glyphicon-share"></span>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+                </div>
+
+            <div class="col-sm-12 col-md-12 col-lg-12 item-timestamp">
+
+
+  <div class="article-details">
+        <div class="article-dates">
+            <div class="article-dates-published">
+                <p id="publish_date">January 29, 2019 01:20 PM<span></span></p>
+            </div>
+            <div class="article-dates-modified">
+                <p id="update_date"></p>
+            </div>
+        </div>
+    </div>
+
+
+
+            </div>
+        </div>
+</div>
+          </section>
+        </div>
+      </div>
+
+    <div class="row">
+      <div class="col-12 col-lg-8 offset-lg-2">
+
+          <p>Lexington’s Most Wanted is a service of the Office of the Fayette County Sheriff and the Lexington Herald-Leader. (Like the sheriff’s office on Facebook.) Each week, a new photo lineup features mug shots of fugitives and information about them and warrants issued for their arrests.</p>
+
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-lg-8 offset-lg-2">
+
+
+
+
+
+
+
+	<h4 class="more-link-macro ">
+	    <a href="//www.kentucky.com/news/local/crime/most-wanted/article225235480.html">
+			KEEP READING
+		</a>
+	</h4>
+
+
+      </div>
+    </div>
+  </div>
+</section>
+                </div>
+
+        </div>
+        <div class="col-md-12">
+
+                <div class="organism-container" id="subscription-cta-container">
+
+    <div class="subscription-cta-macro" id="subscription-cta-module">
+        <div class="container subscription-cta-content">
+            <div class="row">
+                <div class="col-sm-12 col-md-8 col-lg-8 subscription-cta-title">
+                    <h3>Digital Access For Only $0.99</h3>
+                    <p>#ReadLocal</p>
+                </div>
+                <div class="col-sm-12 col-md-4 col-lg-4 subscription-cta-description">
+                    <p>For the most comprehensive local coverage, subscribe today.</p>
+                    <a href="https://account.kentucky.com/subscribe/create?param=fHpHCUE=&amp;offer=NmEfaxcUb3lSCUJAfRI6cjsgfHUjD0U9AQ5DG15QPgoUG0hQeHNDAUtHb29STx0HLisVS1BIbw81YUtLfA4%2FGw8%3D&amp;cid=CTA_.99-1mo_standardv2">SUBSCRIBE NOW</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+                </div>
+
+        </div>
+        <div class="col-md-12">
+            <div class="organism-container container pack-wrap">
+
+
+
+
+
+
+
+
+
+
+                <h2>MORE LATEST NEWS</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row pack-organism">
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div id="secondary-story-2" class="col-xs-12 col-md-6 col-lg-4 secondary-story-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="story-list-card-macro ">
+        <div id="story-list-here’swhyfayettecountycanceledschoolwednesday" class="list-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <a href="//www.kentucky.com/news/local/education/article225230740.html#storylink=moresection" class="image-link-macro" title="Here’s why Fayette County canceled school Wednesday">
+
+            <img src="//www.kentucky.com/latest-news/sl7l2v/picture225063800/alternates/LANDSCAPE_480/school.jpg" alt="Here’s why Fayette County canceled school Wednesday">
+
+
+
+        </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="kicker-macro">
+  <h2 class="secondary-kicker">
+
+      <a href="//www.kentucky.com/news/local/education/" class=""  title="Education">
+        Education
+      </a>
+
+  </h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title-link-timestamp-macro ">
+  <article>
+    <h4>
+
+        <a href="//www.kentucky.com/news/local/education/article225230740.html#storylink=moresection">
+          Here’s why Fayette County canceled school Wednesday
+        </a>
+
+    </h4>
+
+
+
+    <time datetime=1548781238>
+      January 29, 2019 12:00 PM
+    </time>
+
+  </article>
+
+
+</div>
+
+
+
+
+
+
+        </div>
+
+
+    </div>
+
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div id="secondary-story-3" class="col-xs-12 col-md-6 col-lg-4 secondary-story-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="story-list-card-macro ">
+        <div id="story-list-backlogof40,000requestsforbackgroundcheckscauseslawmakertoconsiderchange" class="list-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <a href="//www.kentucky.com/news/local/education/article225075215.html#storylink=moresection" class="image-link-macro" title="Backlog of 40,000 requests for background checks causes lawmaker to consider change">
+
+            <img src="//www.kentucky.com/latest-news/f0904m/picture215825640/alternates/LANDSCAPE_480/DPP_156CentralRegistryCheck_Page_1.jpg" alt="Backlog of 40,000 requests for background checks causes lawmaker to consider change">
+
+
+
+        </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="kicker-macro">
+  <h2 class="secondary-kicker">
+
+      <a href="//www.kentucky.com/news/local/education/" class=""  title="Education">
+        Education
+      </a>
+
+  </h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title-link-timestamp-macro ">
+  <article>
+    <h4>
+
+        <a href="//www.kentucky.com/news/local/education/article225075215.html#storylink=moresection">
+          Backlog of 40,000 requests for background checks causes lawmaker to consider change
+        </a>
+
+    </h4>
+
+
+
+    <time datetime=1548784949>
+      January 29, 2019 01:02 PM
+    </time>
+
+  </article>
+
+
+</div>
+
+
+
+
+
+
+        </div>
+
+
+    </div>
+
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div id="secondary-story-4" class="col-xs-12 col-md-6 col-lg-4 secondary-story-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="story-list-card-macro ">
+        <div id="story-list-deadlinetorunforkentuckygovernororotherstateofficeis4p.m.here’sthelatest." class="list-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <a href="//www.kentucky.com/latest-news/article225225510.html#storylink=moresection" class="image-link-macro" title="Deadline to run for Kentucky governor or other state office is 4 p.m. Here’s the latest.">
+
+            <img src="//www.kentucky.com/latest-news/rocrrc/picture225102435/alternates/LANDSCAPE_480/190125_BevinAlvarado_MM_010%20(3)" alt="Deadline to run for Kentucky governor or other state office is 4 p.m. Here’s the latest.">
+
+
+
+        </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="kicker-macro">
+  <h2 class="secondary-kicker">
+
+      <a href="//www.kentucky.com/latest-news/" class=""  title="Latest News">
+        Latest News
+      </a>
+
+  </h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title-link-timestamp-macro ">
+  <article>
+    <h4>
+
+        <a href="//www.kentucky.com/latest-news/article225225510.html#storylink=moresection">
+          Deadline to run for Kentucky governor or other state office is 4 p.m. Here’s the latest.
+        </a>
+
+    </h4>
+
+
+
+    <time datetime=1548781643>
+      January 29, 2019 12:07 PM
+    </time>
+
+  </article>
+
+
+</div>
+
+
+
+
+
+
+        </div>
+
+
+    </div>
+
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div id="secondary-story-5" class="col-xs-12 col-md-6 col-lg-4 secondary-story-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="story-list-card-macro ">
+        <div id="story-list-apnewsbreak:infamy,zealforcarnageinspiredvegasshooter" class="list-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <a href="//www.kentucky.com/latest-news/article225232580.html#storylink=moresection" class="image-link-macro" title="APNewsBreak: Infamy, zeal for carnage inspired Vegas shooter">
+
+            <img src="//www.mcclatchy-wires.com/incoming/eqwyuw/picture225233145/alternates/LANDSCAPE_480/Las_Vegas_Shooting_FBI_Report_14263.jpg" alt="APNewsBreak: Infamy, zeal for carnage inspired Vegas shooter">
+
+
+
+        </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="kicker-macro">
+  <h2 class="secondary-kicker">
+
+      <a href="//www.kentucky.com/latest-news/" class=""  title="Latest News">
+        Latest News
+      </a>
+
+  </h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title-link-timestamp-macro ">
+  <article>
+    <h4>
+
+        <a href="//www.kentucky.com/latest-news/article225232580.html#storylink=moresection">
+          APNewsBreak: Infamy, zeal for carnage inspired Vegas shooter
+        </a>
+
+    </h4>
+
+
+
+    <time datetime=1548782665>
+      January 29, 2019 12:24 PM
+    </time>
+
+  </article>
+
+
+</div>
+
+
+
+
+
+
+        </div>
+
+
+    </div>
+
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div id="secondary-story-6" class="col-xs-12 col-md-6 col-lg-4 secondary-story-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="story-list-card-macro ">
+        <div id="story-list-radiologisttestifiesonsen.paul’sconditionafterattack" class="list-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <a href="//www.kentucky.com/latest-news/article225231395.html#storylink=moresection" class="image-link-macro" title="Radiologist testifies on Sen. Paul’s condition after attack">
+
+            <img src="//www.mcclatchy-wires.com/incoming/uena0n/picture225213515/alternates/LANDSCAPE_480/Rand_Paul-Assaulted_97641.jpg" alt="Radiologist testifies on Sen. Paul’s condition after attack">
+
+
+
+        </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="kicker-macro">
+  <h2 class="secondary-kicker">
+
+      <a href="//www.kentucky.com/latest-news/" class=""  title="Latest News">
+        Latest News
+      </a>
+
+  </h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title-link-timestamp-macro ">
+  <article>
+    <h4>
+
+        <a href="//www.kentucky.com/latest-news/article225231395.html#storylink=moresection">
+          Radiologist testifies on Sen. Paul’s condition after attack
+        </a>
+
+    </h4>
+
+
+
+    <time datetime=1548780386>
+      January 29, 2019 11:46 AM
+    </time>
+
+  </article>
+
+
+</div>
+
+
+
+
+
+
+        </div>
+
+
+    </div>
+
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div id="secondary-story-7" class="col-xs-12 col-md-6 col-lg-4 secondary-story-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="story-list-card-macro no-img">
+        <div id="story-list-electriccooperativeratesincreasein12kentuckycounties" class="list-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="kicker-macro">
+  <h2 class="secondary-kicker">
+
+      <a href="//www.kentucky.com/latest-news/" class=""  title="Latest News">
+        Latest News
+      </a>
+
+  </h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title-link-timestamp-macro ">
+  <article>
+    <h4>
+
+        <a href="//www.kentucky.com/latest-news/article225221315.html#storylink=moresection">
+          Electric cooperative rates increase in 12 Kentucky counties
+        </a>
+
+    </h4>
+
+
+
+    <time datetime=1548753766>
+      January 29, 2019 04:22 AM
+    </time>
+
+  </article>
+
+
+</div>
+
+
+
+
+
+
+        </div>
+
+
+    </div>
+
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+            </div>
+        </div>
+
+    </div>
+</section>
+
+</section>
+
+<div class="container">
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-13" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="all" vl=0 atf="n" defaultsize="Large" Large="728x90" Medium="728x90" Small="728x90" Extra-Small="none" articleId="44132223"></div>
+    </div>
+</div>
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        UD.updateDate.getDiffDate("1319234291", "MMMM DD, YYYY hh:mm A", "America/New_York", "en", "-05:00");
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+<div id="footer2018" class="wps-footer2018">
+    <div class="content-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-10 col-md-6 connect-panel">
+                    <div class="connect-pub">
+                        <h6>Take Us With You</h6>
+                        <p>Real-time updates and all local stories you want right in the palm of your hand.</p>
+                        <div class="container">
+
+                                <div class="row more-link">
+                                    <div class="app-icon">
+
+                                            <img src="/wps/build/images/kentucky/apple-touch-icon-57-precomposed.png" alt="Icon for mobile apps" />
+
+                                    </div>
+
+
+
+
+
+	<h4 class="more-link-macro ">
+	    <a href="https://itunes.apple.com/us/app/herald-leader-news/id389701575?mt=8">
+			Lexington Herald Leader App
+		</a>
+	</h4>
+
+                                </div>
+
+
+                                <div class="row more-link">
+                                    <h4 class="icon-wrap">
+                                        <span class="pub-icon glyphicon glyphicon-envelope"></span>
+                                    </h4>
+
+
+
+
+
+
+	<h4 class="more-link-macro ">
+	    <a href="http://x.email.kentucky.com/ats/url.aspx?cr=663&amp;wu=9">
+			View Newsletters
+		</a>
+	</h4>
+
+                                </div>
+
+                        </div>
+                        <div class="social-footer2018">
+
+
+                                    <div class="icon-wrap">
+                                        <span><a href="https://www.facebook.com/kentuckycom" class="glyphicon  social-icon glyphicon-facebook-square"></a></span>
+                                    </div>
+
+
+
+                                    <div class="icon-wrap">
+                                        <span><a href="https://twitter.com/heraldleader" class="glyphicon  social-icon glyphicon-twitter"></a></span>
+                                    </div>
+
+
+
+                                    <div class="icon-wrap">
+                                        <span><a href="http://www.youtube.com/user/HeraldLeaderVideos" class="glyphicon  social-icon glyphicon-youtube"></a></span>
+                                    </div>
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+                    <div class="col-sm-10 col-md-6 col-lg-2 panels">
+                        <div id="accordion2018" class="info-footer2018">
+                            <div class="panel-footer2018">
+                                <div class="">
+                                    <h6>Subscriptions</h6>
+                                </div>
+                                <div class="list-links-container">
+                                    <ul class="list-links-footer2018">
+
+
+                                                <li class="list-links-items"><a href="https://account.kentucky.com/static/subscribe/#navlink=mi_footer">Start a Subscription</a></li>
+
+
+
+                                                <li class="list-links-items"><a href="https://mcciservices.newscyclecloud.com/cmo_mcc-c-cmdb-cst-01/subscriber/web/signin.html?siteId=LEX">Customer Service</a></li>
+
+
+
+                                                <li class="list-links-items"><a href="http://digital.olivesoftware.com/Olive/ODN/LexingtonHeraldLeader/default.aspx#navlink=mi_footer">eEdition</a></li>
+
+
+
+                                                <li class="list-links-items"><a href="https://mcciservices.newscyclecloud.com/cmo_mcc-c-cmdb-cst-01/subscriber/web/signin.html?siteId=LEX">Vacation Hold</a></li>
+
+
+
+                                                <li class="list-links-items"><a href="https://mcciservices.newscyclecloud.com/cmo_mcc-c-cmdb-cst-01/subscriber/web/signin.html?siteId=LEX">Pay Your Bill</a></li>
+
+
+
+                                                <li class="list-links-items"><a href="/rewards#navlink=mi_footer">Rewards</a></li>
+
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-10 col-md-6 col-lg-2 panels">
+                        <div id="accordion2018" class="info-footer2018">
+                            <div class="panel-footer2018">
+                                <div class="">
+                                    <h6>Learn More</h6>
+                                </div>
+                                <div class="list-links-container">
+                                    <ul class="list-links-footer2018">
+
+
+                                                <li class="list-links-items"><a href="https://www.kentucky.com/customer-service/about-us/#navlink=mi_footer">About Us</a></li>
+
+
+
+                                                <li class="list-links-items"><a href="https://www.kentucky.com/customer-service/contact-us/#navlink=mi_footer">Contact Us</a></li>
+
+
+
+                                                <li class="list-links-items"><a href="http://x.email.kentucky.com/ats/url.aspx?cr=663&amp;wu=9#navlink=mi_footer">Newsletters</a></li>
+
+
+
+                                                <li class="list-links-items"><a href="http://nieconnects.com/#navlink=mi_footer">News in Education</a></li>
+
+
+
+                                                <li class="list-links-items"><a href="https://kentucky.newsbank.com/#navlink=mi_footer">Archives</a></li>
+
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-10 col-md-6 col-lg-2 panels">
+                        <div id="accordion2018" class="info-footer2018">
+                            <div class="panel-footer2018">
+                                <div class="">
+                                    <h6>Advertising</h6>
+                                </div>
+                                <div class="list-links-container">
+                                    <ul class="list-links-footer2018">
+
+
+                                                <li class="list-links-items"><a href="/advertise/article44413377.html#navlink=mi_footer">Contact Us</a></li>
+
+
+
+                                                <li class="list-links-items"><a href="http://lexingtonherald.adperfect.com/#navlink=mi_footer">Place a Classified Ad</a></li>
+
+
+
+                                                <li class="list-links-items"><a href="http://lexington.dealsaver.com/#navlink=mi_footer">Local Deals</a></li>
+
+
+
+                                                <li class="list-links-items"><a href="/advertise/article44412411.html#navlink=mi_footer">Digital Solutions</a></li>
+
+
+
+                                                <li class="list-links-items"><a href="/advertise/#navlink=mi_footer">Media Kit</a></li>
+
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="legal-footer2018">
+        <div class="footer-menu">
+
+                <div class="legal-panels">
+                    <div class="legal-links-footer2018">
+
+                            <a class="legal-links-item" href="/customer-service/copyright/#navlink=mi_footer">Copyright</a>
+
+                    </div>
+                </div>
+
+                <div class="legal-panels">
+                    <div class="legal-links-footer2018">
+
+                            <a class="legal-links-item" href="/customer-service/privacy-policy/#navlink=mi_footer">Privacy Policy</a>
+
+                    </div>
+                </div>
+
+                <div class="legal-panels">
+                    <div class="legal-links-footer2018">
+
+                            <a class="legal-links-item" href="/customer-service/terms-of-service/#navlink=mi_footer">Terms of Service</a>
+
+                    </div>
+                </div>
+
+        </div>
+    </div>
+</div>
+
+
+    <script type="text/javascript">
+    jQuery(document).ready(function () {
+        mi.footer.init();
+    });
+    </script>
+
+
+
+
+
+            <div id="wallpaperWrapper" style="display:none;">
+                <div class="ad-widget" id="mn-gpt-14" adtype="wallpaper" pkg="None" data-ad-policy="onPageLoad" audience="all" vl=0 atf="y" defaultsize="Large" Large="1600x600" Medium="None" Small="None" Extra-Small="None" articleId="44132223"><script type='text/javascript'>initWallpaperAd(['#mn-gpt-14'], 'section[role="main"]'); createWallpaperAd();</script></div>
+            </div>
+
+
+
+
+
+
+
+                <div id="floorboard" class="hidden-xs">
+                    <div id="floorboard_outer">
+                        <div id="floorTagWrapper" style="display:none;">
+                            <div class="ad-widget" id="mn-gpt-15" adtype="floorboard" pkg="a" data-ad-policy="onPageLoad" audience="all" vl=0 atf="n" defaultsize="Large" Large="285x70" Medium="285x70" Small="285x70" Extra-Small="None" articleId="44132223"></div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+        <script type="text/javascript">
+            var optimeraEnabled = false;
+
+            optimeraEnabled = true;
+            var oDv = [];
+            var oVa = {};
+            mi_OptimeraTools.init('11');
+            //Do not edit
+            (function() {
+                var optimeraHost = window.location.host;
+                var optimeraPathName = window.location.pathname;
+                var optimeraScript = document.createElement('script');
+                optimeraScript.async = true;
+                optimeraScript.type = 'text/javascript';
+                rand = Math.random();
+                optimeraScript.src="https://s3.amazonaws.com/elasticbeanstalk-us-east-1-397719490216/json/client/"+oDv[0]+"/"+optimeraHost+optimeraPathName+".js?t="+rand;
+                var node = document.getElementsByTagName('script')[0];
+                node.parentNode.insertBefore(optimeraScript, node);
+                var optimeraOpsScript = document.createElement('script');
+                optimeraOpsScript.async = true;
+                optimeraOpsScript.type = 'text/javascript';
+                optimeraOpsScript.src='https://s3.amazonaws.com/elasticbeanstalk-us-east-1-397719490216/external_json/oPS.js';
+                document.head.appendChild(optimeraOpsScript);
+                var s = +new Date();
+                while (+new Date() < s + 200) {/*Default 200ms Timeout*/};
+            })();
+            mi_Ads.env.create();
+
+            mi_Ads.env.init();
+        </script>
+
+    <div id="mistatstag" style="display:none;">
+
+            <script src="//media.kentucky.com/mistats/products/escenic_s_code.js"></script>
+            <script src="//media.kentucky.com/mistats/products/escenic.js"></script>
+            <script src="//media.kentucky.com/mistats/finalizestats.js"></script>
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    //<![CDATA[
+    var clientDT = new Date().getTime();
+    document.write('<img style="display:none;" src="https://ece-logger.nandomedia.com/analysis-logger/Logger?rt=1&ctxId=7107&contextPath=7105-7107&pubId=47&cat=&meta=read-story&objId=44132223&type=article&title=Credit+unions+see+rise+with+consumer+fury+at+bank+fees&url=%2F%2Fwww.kentucky.com%2Flatest-news%2Farticle44132223.html&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+    //]]>
+</script>
+
+<noscript>
+    <div>
+        <img src="https://ece-logger.nandomedia.com/analysis-logger/Logger?rt=1&ctxId=7107&contextPath=7105-7107&pubId=47&cat=&meta=read-story&objId=44132223&type=article&title=Credit+unions+see+rise+with+consumer+fury+at+bank+fees&url=%2F%2Fwww.kentucky.com%2Flatest-news%2Farticle44132223.html" alt="one pixel graphics" width="1" height="1"/>
+    </div>
+</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="overlay overlay-data">
+    <div id="overlayParent">
+        <div class="overlayHeading">
+            <h3 class="title"></h3>
+
+            <hr />
+        </div>
+
+
+    </div>
+
+    <div id="backToStory">
+        <a class="backLink" href="//www.kentucky.com/latest-news/article44132223.html">
+            <span class="back-label overlay-close">Back to Story</span>
+            <span class="glyphicon glyphicon-arrow-right"></span>
+        </a>
+    </div>
+</div>
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        UD.updateDate.getDiffDate("1319234291", "MMMM DD, YYYY hh:mm A", "America/New_York", "en", "-05:00");
+    });
+</script>
+
+
+
+
+
+
+<script type="text/javascript">
+    var WFClientTypeDef = {
+        "extraSmall": "(max-width: 767px)",
+        "medium": "(min-width: 992px) and (max-width: 1199px)",
+        "large": "(min-width: 1200px)",
+        "small": "(min-width: 768px) and (max-width: 991px)"
+    };
+    var imageSizes = [80, 160, 200, 320, 400, 480, 560, 640, 720, 768, 960, 1080, 1140];
+</script>
+<script type="text/javascript" src="/wps/build/js/mi-footer-11de53375a.js"></script>
+
+<script src="//imasdk.googleapis.com/js/sdkloader/ima3.js" type="text/javascript"></script>
+
+    <script src="https://ovp.iris.tv/libs/adaptive/v2/iris.adaptive.js" type="text/javascript"></script>
+
+        <script type="text/javascript" src="/wps/build/webpack/brightcoveVideo.bundle-b3fd73e80711a66bdcf9.js"></script>
+
+
+
+
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 968074018;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/968074018/?value=0&guid=ON&script=0"/>
+        </div>
+    </noscript>
+
+
+
+
+    <script type="text/javascript">
+        mi.pageInfo.setConf("chartbeat.uid", 62447);
+    </script>
+
+<script src="/wps/source/scripts/libs/md5.min.js"></script>
+<script type="text/javascript">
+    var nextbee = {
+        user_cookie: undefined,
+        user_email: undefined,
+        nextbee_host: "app.nextbee.com",
+        nextbee_campaign: "3754",
+        nextbee_client: "1703",
+        API_AUTHORIZATION_KEY: 'DECGCFCFHEACGCDBIBGZ158469415068700193Y!n-868654787',
+        ENCRYPTION_KEY: '0.9240762',
+
+        credit_read_story: function() {
+            this.post_to_nextbee("10321");
+        },
+
+        credit_watch_video: function() {
+            this.post_to_nextbee("10402");
+        },
+
+        credit_share_articles: function(id, url) {
+            this.post_to_nextbee(id, url);
+        },
+
+        initialize: function() {
+            this.user_cookie = checkUserSubscribed('MPPUser');
+            if (this.user_cookie) {
+                var cookie_json = JSON.parse(this.user_cookie);
+                if (cookie_json) {
+                    this.user_email = cookie_json.NextBeeEmail;
+                }
+            }
+
+                this.credit_read_story();
+
+        },
+
+        required_values_present: function (widget_id) {
+            return this.user_cookie && this.user_email &&
+                   this.nextbee_host && this.nextbee_client && this.nextbee_campaign &&
+                   widget_id;
+        },
+
+        post_to_nextbee: function (widget_id, href) {
+            if (this.required_values_present(widget_id)) {
+                var nextbee_url = ['https://' + this.nextbee_host, 'nextbeeapis',
+                    this.nextbee_client, this.nextbee_campaign, 'Event'].join('/') +
+                    '?email=' + encodeURIComponent(this.user_email) +
+                    '&widget_config_id=' + widget_id;
+                var timestamp_key = Math.floor(Date.now()).toString();
+                var api_call_signature = md5(this.API_AUTHORIZATION_KEY +
+                    this.ENCRYPTION_KEY + timestamp_key);
+
+                console.log("NextBee URL: " + nextbee_url +
+                    "\nAuth. Key: " + this.API_AUTHORIZATION_KEY +
+                    "\nEnc. Key:  " + this.ENCRYPTION_KEY +
+                    "\nTimestamp: " + timestamp_key +
+                    "\nSignature: " + api_call_signature);
+
+                $.ajax( { url: nextbee_url, type: 'post', headers: {
+                    'ts-key': timestamp_key,
+                    'api-call-signature': api_call_signature,
+                    'cache-control': 'no-cache',
+                    'content-type': 'application/json',
+                    },
+                    complete: function(data) {
+                        if(href)
+                        {
+                            window.location.href = href;
+                        }
+                        console.log("NextBee API response: " + data.responseText);
+                    }
+                } );
+            }
+        }
+    };
+
+    $(function(){
+        nextbee.initialize();
+    });
+</script>
+
+
+
+<!-- Start Lotame Tag -->
+    <script src="//tags.crwdcntrl.net/c/7446/cc.js?ns=_cc7446" id="LOTCC_7446"></script>
+    <script>_cc7446.bcp();</script>
+<!-- End Lotame Tag -->
+
+
+
+
+        <script type="text/javascript" src="/wps/build/webpack/footer.bundle-2fb53afadbe70abbbeb4.js"></script>
+
+
+
+
+        <script type="text/javascript" src="/wps/build/webpack/videoStory.bundle-39745645d367a4b8d977.js"></script>
+
+
+    </body>
+</html>

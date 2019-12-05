@@ -95,4 +95,12 @@ class DateParserTests {
     val result = LocalDateTime.parse(string, dateFormat)
     assert(result != null)
   }
+
+  @Test
+  def ktvu1(): Unit = {
+    val string = "Jun 03 2017 12:56PM PDT"
+    val date22 = DateTimeFormatter.ofPattern("MMM dd yyyy h:mma z")
+    val result = ZonedDateTime.parse(string, date22)
+    assert(result != null)
+  }
 }
