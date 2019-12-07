@@ -1227,7 +1227,6 @@ class ExtractionsTest {
 
   @Test
   def wallstreetde1(): Unit ={
-    // NO TIME ZONE
     implicit val config = TestUtils.NO_IMAGE_CONFIG
     val html = getHtml("wallstreetde1.html")
     val url: String = "https://www.wallstreet-online.de/nachricht/11805119-immobilienmarkt-einzug-deutsche-grossbanken-new-yorker-hauptquartier"

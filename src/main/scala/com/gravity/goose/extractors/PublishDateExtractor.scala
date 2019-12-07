@@ -38,7 +38,6 @@ import org.jsoup.nodes.Element
  */
 
 class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
-
   def extractCandidate(rootElement: Element, selector: String, url: Uri): Seq[ZonedDateTime] = {
     import scala.collection.JavaConversions._
 
@@ -85,7 +84,7 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
           val dt = Some(matches.group(1))
 
           dt match {
-            case Some(x) => safeParseNoTimeZone(x, url, ZoneId.of("GMT"))
+            case Some(x) => PublishDateExtractor.safeParseNoTimeZone(x, url, ZoneId.of("GMT"))
             case _ => None
           }
         }
@@ -121,22 +120,22 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
       import scala.collection.JavaConverters._
       rootElement.select(selector).asScala.flatMap(item => {
         if (item.nodeName() == "time") {
-          safeParseNoTimeZone(item.attr("datetime"), url, zoneId)
+          PublishDateExtractor.safeParseNoTimeZone(item.attr("datetime"), url, zoneId)
         }
         else if(item.nodeName() == "abbr")
         {
-          safeParseNoTimeZone(item.attr("title"), url, zoneId)
+          PublishDateExtractor.safeParseNoTimeZone(item.attr("title"), url, zoneId)
         }
         else if(item.nodeName() == "script")
         {
           val json = parse(item.html,false)
 
           val dateCreated = json \\ "dateCreated" match {
-            case JString(x) => Some(safeParseNoTimeZone(x, url, zoneId))
+            case JString(x) => Some(PublishDateExtractor.safeParseNoTimeZone(x, url, zoneId))
             case _ => None
           }
           val datePublished = json \\ "datePublished" match {
-            case JString(x) => Some(safeParseNoTimeZone(x, url, zoneId))
+            case JString(x) => Some(PublishDateExtractor.safeParseNoTimeZone(x, url, zoneId))
             case _ => None
           }
 
@@ -152,74 +151,22 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
         }
         else if(item.nodeName() == "span")
           {
-            safeParseNoTimeZone(item.html, url, zoneId)
+            PublishDateExtractor.safeParseNoTimeZone(item.html, url, zoneId)
           }
         else if (item.nodeName() == "p") {
-          safeParseNoTimeZone(item.text(), url, zoneId)
+          PublishDateExtractor.safeParseNoTimeZone(item.text(), url, zoneId)
+        }
+        else if(item.hasAttr("content")) {
+          PublishDateExtractor.safeParseNoTimeZone(item.attr("content"), url, zoneId)
         }
         else {
-          if(item.hasAttr("content")) {
-            safeParseNoTimeZone(item.attr("content"), url, zoneId)
-          }
-          else
-            {
-              safeParseNoTimeZone(item.text().trim, url, zoneId)
-            }
+            PublishDateExtractor.safeParseNoTimeZone(item.text().trim, url, zoneId)
         }})
     }
     catch {
       case e: Exception =>
         println(e + " " + url.toString)
         Nil
-    }
-  }
-
-  //Parse
-  def safeParseNoTimeZone(txt: String, url: Uri, zoneId: ZoneId): Option[ZonedDateTime] = {
-    try {
-
-      val txt2 = txt.replace("am", "AM").replace("pm", "PM").trim
-
-      val date1 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss")
-      val date2 = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")
-      val date3 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm")
-      val date4 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSS")
-      val date5 = DateTimeFormatter.ofPattern("E',' dd M YYYY HH:mm:ss")
-      val date6 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy HH:mm a")
-      val date7 = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm")
-      val date8 = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm")
-      val date9 = DateTimeFormatter.ofPattern("MM/dd/yyyy',' hh:mma")
-      val date10 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy hh:mm a")
-      val date11 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy 'at' hh:mm a")
-      val date12 = DateTimeFormatter.ofPattern("MMMM d',' yyyy 'at' hh:mm a")
-      val date13 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.nnnnnnn")
-
-      val parser = new DateTimeFormatterBuilder()
-        .appendOptional(date13)
-        .appendOptional(date1)
-        .appendOptional(date2)
-        .appendOptional(date3)
-        .appendOptional(date4)
-        .appendOptional(date5)
-        .appendOptional(date6)
-        .appendOptional(date7)
-        .appendOptional(date8)
-        .appendOptional(date9)
-        .appendOptional(date10)
-        .appendOptional(date11)
-        .appendOptional(date12)
-
-        .toFormatter
-
-      val result = LocalDateTime.parse(txt2, parser)
-
-      Some(ZonedDateTime.of(result, zoneId).withZoneSameInstant(ZoneId.of("UTC").normalized()))
-    }
-    catch {
-      case ex: Throwable =>
-        println(ex)
-        info(s"safeParseNoTimeZone `$txt` could not be parsed to date as it did not meet the ISO 8601 spec" + " " + url.toString)
-        None
     }
   }
 
@@ -338,6 +285,116 @@ object PublishDateExtractor extends Logging {
       .withZoneSameInstant(ZoneOffset.UTC))
   }
 
+  def tryParseZoned(fmts: List[DateTimeFormatter], str: String): ZonedDateTime = {
+    def _go(fmt: DateTimeFormatter, x: String): Option[ZonedDateTime] = {
+      try {
+        val r = ZonedDateTime.parse(x, fmt)
+        Some(r)
+      }
+      catch {
+        case ex:Exception => None
+      }
+    }
+    fmts.flatMap(x => _go(x, str)).head
+  }
+
+  def tryParseLocal(fmts: List[DateTimeFormatter], str: String): LocalDateTime = {
+    def _go(fmt: DateTimeFormatter, x: String): Option[LocalDateTime] = {
+      try {
+        val r = LocalDateTime.parse(x, fmt)
+        Some(r)
+      }
+      catch {
+        case ex:Exception => {
+          println(ex)
+          None
+        }
+      }
+    }
+    fmts.flatMap(x => _go(x, str)).head
+  }
+
+  val localPatterns = List(
+    DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSS"),
+    DateTimeFormatter.ofPattern("E',' dd M YYYY HH:mm:ss"),
+    DateTimeFormatter.ofPattern("MMM dd',' yyyy HH:mm a"),
+    DateTimeFormatter.ofPattern("MMMM dd',' yyyy hh:mm a"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm"),
+    DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm"),
+    DateTimeFormatter.ofPattern("MM/dd/yyyy',' hh:mma"),
+    DateTimeFormatter.ofPattern("MMM dd',' yyyy 'at' hh:mm a"),
+    DateTimeFormatter.ofPattern("MMMM d',' yyyy 'at' hh:mm a"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.n")
+  )
+
+  def safeParseNoTimeZone(txt: String, url: Uri, zoneId: ZoneId): Option[ZonedDateTime] = {
+    try {
+
+      val txt2 = fixampm(txt).trim
+
+      val result = tryParseLocal(localPatterns, txt2)
+
+      Some(ZonedDateTime.of(result, zoneId).withZoneSameInstant(ZoneId.of("UTC").normalized()))
+    }
+    catch {
+      case ex: Throwable =>
+        println(ex)
+        info(s"safeParseNoTimeZone `$txt` could not be parsed to date as it did not meet the ISO 8601 spec" + " " + url.toString)
+        None
+    }
+  }
+
+  def fixampm(str: String): String = {
+    str
+      .replace(" a. m. ", " AM ")
+      .replace(" p. m. ", " PM ")
+      .replace(" a.m. ", " AM ")
+      .replace(" p.m. ", " PM ")
+      .replace("am", "AM")
+      .replace("pm", "PM")
+  }
+
+  def fixtz(str: String): String = {
+    if(str.endsWith("-500"))
+      str.replace("-500", "-0500")
+    else if(str.endsWith("-14400"))
+      str.replace("-14400","")
+    else if(str.endsWith("+0000 (UTC)"))
+      str.replace("+0000 (UTC)", "")
+    else {
+      str
+    }
+  }
+
+  val zonedPatterns = List(
+    DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ssZ"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss Z"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mmZ"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSSZ"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss:Z"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mmz"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss z"),
+    DateTimeFormatter.ofPattern("yyyy-MM-ddzHH:mm:ssZ"),
+    DateTimeFormatter.ofPattern("E',' dd M YYYY HH:mm:ss Z"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ssVV"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSSVV"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ssX"),
+    DateTimeFormatter.ofPattern("E',' dd MMM yyyy HH:mm:ss z"),
+    DateTimeFormatter.ofPattern("MMM d',' yyyy',' h:mm a z"),
+    DateTimeFormatter.ofPattern("MMMM d',' yyyy h:mm a z"),
+    DateTimeFormatter.ofPattern("E',' dd MMM yyyy HH:mm:ss X"),
+    DateTimeFormatter.ofPattern("MMMM dd',' yyyy',' hh:mm:ss a z"),
+    DateTimeFormatter.ofPattern("HH:mm z',' MMM dd',' yyyy"),
+    DateTimeFormatter.ofPattern("yyyy-MM-ddzHH:mm:ss"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd H:mm:ss Z"),
+    DateTimeFormatter.ofPattern("E MMM dd yyyy HH:mm:ss z"),
+    DateTimeFormatter.ofPattern("MMM dd yyyy h:mma z"),
+    DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.nnnnnnX"),
+    DateTimeFormatter.ofPattern("MMM d',' yyyy h:mm a z")
+  )
   /**
     * Helper function to parse ISO 8601 date/time strings safely.
     */
@@ -345,63 +402,12 @@ object PublishDateExtractor extends Logging {
     if (txt == null || txt.isEmpty)
       return None
 
-    var txt2 = txt.replace(" am ", " AM ").replace(" pm ", " PM ")
-    if(txt.endsWith("-500"))
-      txt2 = txt.replace("-500", "-0500")
-    if(txt2.endsWith("-14400"))
-      txt2 = txt2.replace("-14400","")
-    if(txt2.endsWith("+0000 (UTC)"))
-      txt2 = txt2.replace("+0000 (UTC)", "")
+    var txt2 = fixampm(txt)
+    txt2 = fixtz(txt2)
 
     try {
-      val date1 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ssZ")
-      val date2 = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss Z")
-      val date3 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mmZ")
-      val date4 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSSZ")
-      val date5 = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss:Z")
-      val date6 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mmz")
-      val date7 = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss z")
-      val date8 = DateTimeFormatter.ofPattern("yyyy-MM-ddzHH:mm:ssZ")
-      val date9 = DateTimeFormatter.ofPattern("E',' dd M YYYY HH:mm:ss Z")
-      val date10 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ssVV")
-      val date11 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSSVV")
-      val date12 = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ssX")
-      val date13 = DateTimeFormatter.ofPattern("E',' dd MMM yyyy HH:mm:ss z")
-      val date14 = DateTimeFormatter.ofPattern("MMM d',' yyyy',' h:mm a z")
-      val date15 = DateTimeFormatter.ofPattern("MMMM d',' yyyy h:mm a z")
-      val date16 = DateTimeFormatter.ofPattern("E',' dd MMM yyyy HH:mm:ss X")
-      val date17 = DateTimeFormatter.ofPattern("MMMM dd',' yyyy',' hh:mm:ss a z")
-      val date18 = DateTimeFormatter.ofPattern("HH:mm z',' MMM dd',' yyyy")
-      val date19 = DateTimeFormatter.ofPattern("yyyy-MM-ddzHH:mm:ss")
-      val date20 = DateTimeFormatter.ofPattern("yyyy-MM-dd H:mm:ss Z")
-      val date21 = DateTimeFormatter.ofPattern("E MMM dd yyyy HH:mm:ss z")
-      val date22 = DateTimeFormatter.ofPattern("MMM dd yyyy h:mma z")
-      val parser = new DateTimeFormatterBuilder()
-        .appendOptional(date1)
-        .appendOptional(date2)
-        .appendOptional(date3)
-        .appendOptional(date4)
-        .appendOptional(date5)
-        .appendOptional(date6)
-        .appendOptional(date7)
-        .appendOptional(date8)
-        .appendOptional(date9)
-        .appendOptional(date10)
-        .appendOptional(date11)
-        .appendOptional(date12)
-        .appendOptional(date13)
-        .appendOptional(date14)
-        .appendOptional(date15)
-        .appendOptional(date16)
-        .appendOptional(date17)
-        .appendOptional(date18)
-        .appendOptional(date19)
-        .appendOptional(date20)
-        .appendOptional(date21)
-        .appendOptional(date22)
-        .toFormatter
-
-      val x = ZonedDateTime.from(parser.parse(txt2)).withZoneSameInstant(ZoneId.of("UTC").normalized())
+      val result = tryParseZoned(zonedPatterns, txt2)
+      val x = result.withZoneSameInstant(ZoneId.of("UTC").normalized())
       Some(x)
     } catch {
       case ex: Exception =>
