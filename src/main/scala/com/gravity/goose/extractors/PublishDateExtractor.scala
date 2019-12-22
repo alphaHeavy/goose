@@ -110,7 +110,6 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
       }}
     catch {
       case e: Exception =>
-        println(e)
         Nil
     }})
   }
@@ -165,7 +164,6 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
     }
     catch {
       case e: Exception =>
-        println(e + " " + url.toString)
         Nil
     }
   }

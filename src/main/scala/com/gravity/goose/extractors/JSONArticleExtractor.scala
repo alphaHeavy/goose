@@ -17,11 +17,9 @@ class JSONArticleExtractor extends StandardContentExtractor {
       val textChoices = json \\ "content"
       val textChoice = textChoices.asInstanceOf[JObject].obj.last._2.asInstanceOf[JString].s
       Some(StandardOutputFormatter.getFormattedText(Jsoup.parse(textChoice)))
-      //Some(textChoice)
     }
     catch {
       case ex: Exception =>
-        println(ex)
         None
     }
   }
