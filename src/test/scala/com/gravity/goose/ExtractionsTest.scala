@@ -1137,6 +1137,18 @@ class ExtractionsTest {
   }
 
   @Test
+  def forbes2(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("forbes2.html")
+    val url = "http://www.forbes.com/sites/ericjackson/2015/06/25/the-most-important-executive-in-silicon-valley-that-no-one-is-talking-about/?utm_campaign=yahootix&partner=yahootix"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "For those of you who have already set your")
+    assert(article.publishTimestamp.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
   def reuters3(): Unit = {
     implicit val config = TestUtils.NO_IMAGE_CONFIG
     val html = getHtml("reuters3.html")

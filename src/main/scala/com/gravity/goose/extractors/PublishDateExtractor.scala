@@ -223,8 +223,11 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
             def bestModDateNoTimeZone = modSelectors.flatMap (extractCandidateNoTimeZone (rootElement, _, x, url) )
               .reduceOption (PublishDateExtractor.minDate)
 
-            (bestPubDate.orElse (bestPubDateNoTimeZone), bestModDate.orElse (bestModDateNoTimeZone))
-          case None => (bestPubDate,bestModDate)
+            val pub = bestPubDate.orElse (bestPubDateNoTimeZone)
+            val upd = bestModDate.orElse (bestModDateNoTimeZone)
+
+            (pub.orElse(upd), upd)
+          case None => (bestPubDate.orElse(bestModDate),bestModDate)
         }
       case None => (None, None)
     }
