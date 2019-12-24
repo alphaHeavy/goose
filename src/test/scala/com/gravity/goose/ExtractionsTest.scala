@@ -370,6 +370,17 @@ class ExtractionsTest {
   }
 
   @Test
+  def cnbc2() {
+    val url = "http://www.cnbc.com/id/44613978"
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("cnbc2.html")
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Some traders found Wednesday's Fed statement to be a bit gloomier than expected.")
+    assert(article.publishTimestamp.isDefined)
+  }
+
+  @Test
   def stocksdaily() {
     val url = "http://www.stocksdaily.net/lam-research-corporation-nasdaqlrcx-held-6827-934-in-short-term-investmentscash/136092/"
     implicit val config = TestUtils.NO_IMAGE_CONFIG
@@ -581,6 +592,17 @@ class ExtractionsTest {
     val article = TestUtils.getArticle(Uri.parse(url), html)
     TestUtils.runArticleAssertions(article = article,
       expectedStart = "By RobertSchroeder Fiscal policy reporter Getty Images Former Director of National")
+    assert(article.publishTimestamp.isDefined)
+  }
+
+  @Test
+  def marketwatch2(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("marketwatch2.html")
+    val url = "https://www.marketwatch.com/story/colgate-palmolives-stock-falls-after-earnings-missed-expectations-but-sales-were-slightly-above-2019-01-2"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "By TomiKilgore Reporter and editor Shares of Colgate-Palmolive Co")
     assert(article.publishTimestamp.isDefined)
   }
 
@@ -1006,6 +1028,18 @@ class ExtractionsTest {
   }
 
   @Test
+  def businessinsider5(): Unit = {
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("businessinsider5.html")
+    val url = "https://www.businessinsider.com/aaron-sorkin-the-social-network-sequel-on-facebook-should-happen-2019-1?utm_source=feedburner&amp%3Butm_medium=referral&utm_medium=feed&utm_campaign=Feed%3A+businessinsider+%28Business+Insider%29\t"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Writer Aaron Sorkin thinks there should be a sequel")
+    assert(article.publishTimestamp.isDefined)
+    assert(article.canonicalLink.isDefined)
+  }
+
+  @Test
   def foxnews2(): Unit = {
     implicit val config = TestUtils.NO_IMAGE_CONFIG
     val html = getHtml("foxnews2.txt")
@@ -1214,6 +1248,18 @@ class ExtractionsTest {
   }
 
   @Test
+  def kentucky2(): Unit ={
+    // NO TIME ZONE
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("kentucky2.html")
+    val url: String = "https://www.kentucky.com/latest-news/article44132223.html"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Charlotte-area credit unions have seen an increase in phone calls and new members in")
+    assert(article.publishTimestamp.isDefined)
+  }
+
+  @Test
   def washingtonexaminer1(): Unit ={
     // NO TIME ZONE
     implicit val config = TestUtils.NO_IMAGE_CONFIG
@@ -1257,6 +1303,18 @@ class ExtractionsTest {
     val article = TestUtils.getArticle(Uri.parse(url), html)
     TestUtils.runArticleAssertions(article = article,
       expectedStart = "National Japan and South Korea swap intelligence on North Korean")
+    assert(article.publishTimestamp.isDefined)
+  }
+
+  @Test
+  def mclatchydc1(): Unit ={
+    // NO TIME ZONE
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("mclatchydc1.html")
+    val url: String = "https://www.mcclatchydc.com/news/politics-government/congress/article224968920.html"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "Secretary of State Mike Pompeo came close to shutting the door Wednesday on a possible U.S.")
     assert(article.publishTimestamp.isDefined)
   }
 }

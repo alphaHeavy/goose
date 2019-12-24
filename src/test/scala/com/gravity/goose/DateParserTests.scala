@@ -113,4 +113,11 @@ class DateParserTests {
     val result = PublishDateExtractor.safeParseNoTimeZone(string, Uri.parse("https://www.google.com"), ZoneId.of("America/New_York"))
     assert(result.isDefined)
   }
+
+  @Test
+  def businessinsider(): Unit = {
+    val string = "2019-01-19EST16:09:00-1800"
+    val result = PublishDateExtractor.safeParseISO8601Date(string, Uri.parse("https://www.google.com"))
+    assert(result.isDefined)
+  }
 }

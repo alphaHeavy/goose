@@ -99,6 +99,10 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
         val text = item.text().replace("\u00a0", "").trim
         PublishDateExtractor.safeParseISO8601Date(text, url)
       }
+      else if(item.hasAttr("data-timestamp"))
+      {
+        PublishDateExtractor.safeParseISO8601Date(item.attr("data-timestamp"), url)
+      }
       else {
         if(item.hasAttr("content")) {
           PublishDateExtractor.safeParseISO8601Date(item.attr("content"), url)
@@ -169,6 +173,7 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
   }
 
   final val pubSelectors = Seq(
+    "div[class=byline-timestamp]",
     "meta[property~=article:published_time]",
     "meta[name=date]",
     "meta[name=parsely-pub-date]",
@@ -190,6 +195,7 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
     "p[class=publish-time]",
     "p[class=updated]",
     "p[id=publish_date]",
+    "p[class=published-date]",
     "span[class=timestamp]",
     "span[class=date-area-date]",
     "meta[name=sailthru.date]",
@@ -261,7 +267,8 @@ object PublishDateExtractor extends Logging {
     "www.houstonchronicle.com" -> ZoneId.of("UTC"),
     "www.theatlantic.com" -> ZoneId.of("America/New_York"),
     "www.kentucky.com" -> ZoneId.of("America/New_York"),
-    "www.washingtonexaminer.com" -> ZoneId.of("UTC"))
+    "www.washingtonexaminer.com" -> ZoneId.of("UTC"),
+    "www.mcclatchydc.com" -> ZoneId.of("America/New_York"))
 
 
   val logPrefix = "PublishDateExtractor: "
