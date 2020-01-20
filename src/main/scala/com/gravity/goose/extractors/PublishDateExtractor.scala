@@ -232,8 +232,8 @@ class PublishDateExtractor(hostnameTZ: Map[String, ZoneId]) {
             val pub = bestPubDate.orElse (bestPubDateNoTimeZone)
             val upd = bestModDate.orElse (bestModDateNoTimeZone)
 
-            (pub.orElse(upd), upd)
-          case None => (bestPubDate.orElse(bestModDate),bestModDate)
+            (pub, upd)
+          case None => (bestPubDate, bestModDate)
         }
       case None => (None, None)
     }

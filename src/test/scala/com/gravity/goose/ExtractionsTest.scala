@@ -140,31 +140,6 @@ class ExtractionsTest {
     val description = "A top regional Federal Reserve official sharply criticized Friday the Fed's ongoing policy of keeping interest rates near zero -- and at record lows -- as a \"dangerous gamble.\""
     val article = TestUtils.getArticle(url = Uri.parse(url), rawHTML = html)
     TestUtils.runArticleAssertions(article = article, expectedTitle = title, expectedStart = content, expectedDescription = description)
-
-    /*val expectedTags = "Federal Open Market Committee" ::
-        "Federal Reserve" ::
-        "Federal Reserve Bank Of Kansas City" ::
-        "Financial Crisis" ::
-        "Financial Reform" ::
-        "Financial Regulation" ::
-        "Financial Regulatory Reform" ::
-        "Fomc" ::
-        "Great Recession" ::
-        "Interest Rates" ::
-        "Kansas City Fed" ::
-        "Monetary Policy" ::
-        "The Financial Fix" ::
-        "Thomas Hoenig" ::
-        "Too Big To Fail" ::
-        "Wall Street Reform" ::
-        "Business News" ::
-        Nil
-    assertNotNull("Tags should not be NULL!", article.tags)
-    assertTrue("Tags should not be empty!", article.tags.size > 0)
-
-    for (actualTag <- article.tags) {
-      assertTrue("Each Tag should be contained in the expected set!", expectedTags.contains(actualTag))
-    }*/
   }
 
 
@@ -208,21 +183,6 @@ class ExtractionsTest {
     // example of a custom PublishDateExtractor
     implicit val config = new Configuration();
     config.enableImageFetching = false
-    /*config.setPublishDateExtractor(new PublishDateExtractor() {
-      @Override
-      def extract(rootElement: Element): Option[ZonedDateTime] = {
-        // look for this guy: <meta name="DisplayDate" content="2010-08-18" />
-        val elements = Selector.select("meta[name=DisplayDate]", rootElement);
-        if (elements.size() == 0) return null;
-        val metaDisplayDate = elements.get(0);
-        if (metaDisplayDate.hasAttr("content")) {
-          val dateStr = metaDisplayDate.attr("content");
-
-          return Some(new ZonedDateTime(fmt.parse(dateStr)))
-        }
-        null;
-      }
-    });*/
 
     val article = TestUtils.getArticle(Uri.parse(url), rawHTML = html)
 
@@ -376,7 +336,7 @@ class ExtractionsTest {
     val html = getHtml("cnbc2.html")
     val article = TestUtils.getArticle(Uri.parse(url), html)
     TestUtils.runArticleAssertions(article = article,
-      expectedStart = "Some traders found Wednesday's Fed statement to be a bit gloomier than expected.")
+      expectedStart = "105658336 [The stream is slated to start at 10:15 am ET. Please refresh the page if you do not see a player above at that time.]")
     assert(article.publishTimestamp.isDefined)
   }
 
@@ -1178,7 +1138,8 @@ class ExtractionsTest {
     val article = TestUtils.getArticle(Uri.parse(url), html)
     TestUtils.runArticleAssertions(article = article,
       expectedStart = "For those of you who have already set your")
-    assert(article.publishTimestamp.isDefined)
+    assert(article.updatedTimestamp.isDefined)
+    assert(article.publishTimestamp.isEmpty)
     assert(article.canonicalLink.isDefined)
   }
 
@@ -1255,7 +1216,7 @@ class ExtractionsTest {
     val url: String = "https://www.kentucky.com/latest-news/article44132223.html"
     val article = TestUtils.getArticle(Uri.parse(url), html)
     TestUtils.runArticleAssertions(article = article,
-      expectedStart = "Charlotte-area credit unions have seen an increase in phone calls and new members in")
+      expectedStart = "NBA 2K11 is a great game. In fact, it just might be the best sports game I have ever played.")
     assert(article.publishTimestamp.isDefined)
   }
 
@@ -1290,8 +1251,10 @@ class ExtractionsTest {
     val url: String = "https://www.wallstreet-online.de/nachricht/11805119-immobilienmarkt-einzug-deutsche-grossbanken-new-yorker-hauptquartier"
     val article = TestUtils.getArticle(Uri.parse(url), html)
     TestUtils.runArticleAssertions(article = article,
-      expectedStart = "National Japan and South Korea swap intelligence on North Korean")
-    assert(article.publishTimestamp.isDefined)
+      expectedStart = "Noch vor zwei Jahren sagte Ralf Weingartner,")
+
+    //There is no timestamp
+    //assert(article.publishTimestamp.isDefined)
   }
 
   @Test
@@ -1302,7 +1265,7 @@ class ExtractionsTest {
     val url: String = "https://www.fool.com/careers/2019/09/27/the-top-4-reasons-workers-seek-flexible-jobs.aspx\t"
     val article = TestUtils.getArticle(Uri.parse(url), html)
     TestUtils.runArticleAssertions(article = article,
-      expectedStart = "National Japan and South Korea swap intelligence on North Korean")
+      expectedStart = "Having a flexible work arrangement comes with a world of benefits.")
     assert(article.publishTimestamp.isDefined)
   }
 
@@ -1316,5 +1279,18 @@ class ExtractionsTest {
     TestUtils.runArticleAssertions(article = article,
       expectedStart = "Secretary of State Mike Pompeo came close to shutting the door Wednesday on a possible U.S.")
     assert(article.publishTimestamp.isDefined)
+  }
+
+  @Test
+  def greenwichtime1(): Unit ={
+    // NO TIME ZONE
+    implicit val config = TestUtils.NO_IMAGE_CONFIG
+    val html = getHtml("greenwichtime1.html")
+    val url: String = "https://www.greenwichtime.com/business/article/Blyth-will-leave-Greenwich-by-September-6323421.php"
+    val article = TestUtils.getArticle(Uri.parse(url), html)
+    TestUtils.runArticleAssertions(article = article,
+      expectedStart = "https://www.greenwichtime.com/business/article/Blyth-will-leave-Greenwich-by-September-6323421.php Blyth will leave")
+    assert(article.publishTimestamp.isDefined)
+    assert(article.updatedTimestamp.isDefined)
   }
 }
